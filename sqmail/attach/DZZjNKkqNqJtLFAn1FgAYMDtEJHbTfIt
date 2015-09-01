@@ -1,0 +1,91 @@
+Return-Path: <prosati@makivik.org>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv3.soleica.ca (localhost [127.0.0.1])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 930483D7D5F
+	for <aarngak@tamaani.ca>; Fri,  7 Oct 2011 16:21:08 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv3.soleica.ca ([127.0.0.1])
+	by ispv3.soleica.ca (ispv3.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id y3dyfThjJQTp for <aarngak@tamaani.ca>;
+	Fri,  7 Oct 2011 16:21:08 -0400 (EDT)
+Received: from tcn00qubc00208.isn.rtss.qc.ca (relais3.ssss.gouv.qc.ca [142.83.199.7])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 6AC1F3D7D57
+	for <aarngak@tamaani.ca>; Fri,  7 Oct 2011 16:21:08 -0400 (EDT)
+Received: from tc00bar136875.ssss.gouv.qc.ca ([10.249.80.30])
+          by tcn00qubc00208.isn.rtss.qc.ca (Lotus Domino Release 8.5.2FP3)
+          with ESMTP id 2011100716210719-121084 ;
+          Fri, 7 Oct 2011 16:21:07 -0400 
+X-ASG-Debug-ID: 1318018860-45dd0b000002-FBqy4Z
+Received: from tcn00qubc00551.isn.rtss.qc.ca ([10.250.32.27]) by tc00bar136875.ssss.gouv.qc.ca with ESMTP id CsjFvFnY5AkgYvzX for <aarngak@tamaani.ca>; Fri, 07 Oct 2011 16:21:00 -0400 (EDT)
+X-Barracuda-Envelope-From: prosati@makivik.org
+Received: from tcn00barin00051.ssss.gouv.qc.ca ([10.120.138.26])
+          by TCN00QUBC00117.isqc.reg00.rtss.qc.ca (Lotus Domino Release 6.5.6FP3 HF341)
+          with ESMTP id 2011100716205502-519207 ;
+          Fri, 7 Oct 2011 16:20:55 -0400 
+Received: from makivik.org (mail.makivik.org [67.69.43.196]) by tcn00barin00051.ssss.gouv.qc.ca with ESMTP id IPBQ4FmLpPIXDeNR (version=TLSv1 cipher=AES256-SHA bits=256 verify=NO) for <alasie.arngak@ssss.gouv.qc.ca>; Fri, 07 Oct 2011 15:08:47 -0400 (EDT)
+X-Barracuda-Apparent-Source-IP: 67.69.43.196
+Received: from mail2.makivik.org ([192.168.58.10])
+	by mail.makivik.org  with ESMTP id p97KKg44017860-p97KKg45017860;
+	Fri, 7 Oct 2011 16:20:42 -0400
+Message-id: <fc.0073fb5c008b7bb00073fb5c008b728b.8b7ca1@makivik.org>
+X-FC-Thread-ID: 0073fb5c-008b728b
+Date: Fri, 07 Oct 2011 16:20:43 -0400
+Subject: Re: Letter sent to KSB & NRBHSS
+X-Mailer: FirstClass 11.0 (build 11.003)
+X-ASG-Orig-Subj: Re: Letter sent to KSB & NRBHSS
+X-FC-SERVER-TZ: 15729388
+To: IParizeau@krg.ca,
+        "=?UTF-8?B?SmVhbi1GcmFuw6dvaXM=?= Arteau" <jfarteau@makivik.org>
+Cc: martinnem@kativik.qc.ca, Alasie.arngak@ssss.gouv.qc.ca,
+        alacie.nalukturuk@kativik.qc.ca
+From: "Patricia Rosati" <prosati@makivik.org>
+References: <fc.0073fb5c008b728b0073fb5c008b728b.8b7299@makivik.org>
+ <C419E6C8-0B44-49A6-8620-F65865606AB5@krg.ca>
+In-Reply-To: <C419E6C8-0B44-49A6-8620-F65865606AB5@krg.ca>
+MIME-Version: 1.0
+X-Virus-Scanned: by bsmtpd at ssss.gouv.qc.ca
+X-MIMETrack: Itemize by SMTP Server on TCN00QUBC00117/Serveurs/SSSS(Release 6.5.6FP3
+ HF341|October 05, 2010) at 2011-10-07 16:20:55,
+	Serialize by Router on TCN00QUBC00551/Serveurs/SSSS(Release 6.5.6FP3 HF341|October
+ 05, 2010) at 2011-10-07 16:21:00,
+	Serialize complete at 2011-10-07 16:21:00,
+	Itemize by SMTP Server on TCN00QUBC00208/Serveurs/SSSS(Release 8.5.2FP3|July
+ 10, 2011) at 2011-10-07 16:21:07,
+	Serialize by Router on TCN00QUBC00208/Serveurs/SSSS(Release 8.5.2FP3|July
+ 10, 2011) at 2011-10-07 16:21:08,
+	Serialize complete at 2011-10-07 16:21:08
+X-TNEFEvaluated: 1
+X-Barracuda-Connect: UNKNOWN[10.250.32.27]
+X-Barracuda-Start-Time: 1318018860
+X-Barracuda-URL: http://10.249.80.41:8000/cgi-mod/mark.cgi
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=7.0 tests=
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.76701
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello Isabelle and JF,
+
+The letter was sent to Alacie and Alasie without the Quebec Nunavik
+attachment.   They would need this for the meeting on Tuesday at 4:00 pm.=
+=20
+Just in case I am not in on Tuesday (I have a scheduled appointment
+mid-morning that might go later) can you send it directly to them (cc:
+above).
+
+Thank you,u
+
+Patricia Rosati
+Makivik Corporation
+1111, Boul. Dr. Frederik-Philips=20
+3e =E9tage
+St. Laurent, QC H4M 2X6
+(514) 745-8880, ext. 201
+prosati@makivik.org
+
+
+

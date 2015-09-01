@@ -1,0 +1,417 @@
+Return-Path: <sbeaubien@avataq.qc.ca>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv4.soleica.ca (localhost [127.0.0.1])
+	by ispv4.soleica.ca (Postfix) with ESMTP id 673DC73A92;
+	Mon, 25 Nov 2013 13:59:56 -0500 (EST)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv4.soleica.ca ([127.0.0.1])
+	by ispv4.soleica.ca (ispv4.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id RZygXALFk2UA; Mon, 25 Nov 2013 13:59:56 -0500 (EST)
+Received: from relais.videotron.ca (relais.videotron.ca [24.201.245.36])
+	by ispv4.soleica.ca (Postfix) with ESMTP id 2042973A30;
+	Mon, 25 Nov 2013 13:59:56 -0500 (EST)
+MIME-version: 1.0
+Content-type: multipart/mixed; boundary="Boundary_(ID_xEuH13JgAGCnVLlFwdf1+Q)"
+Received: from HP29647102076 ([24.37.28.234]) by VL-VM-MR002.ip.videotron.ca
+ (Oracle Communications Messaging Exchange Server 7u4-22.01 64bit (built Apr 21
+ 2011)) with ESMTP id <0MWU00H9X23QIYH0@VL-VM-MR002.ip.videotron.ca>; Mon,
+ 25 Nov 2013 13:59:54 -0500 (EST)
+From: Suzanne Beaubien <sbeaubien@avataq.qc.ca>
+To: Adamie Kalingo <adamie.kalingo@hotmail.com>, Adams Johnny <jadams@krg.ca>,
+ Adel Yassa <ayassa@krg.ca>, Alacie Arngak <aarngak@tamaani.ca>,
+ Alacie Nalukturuk <silarqi@msn.com>,
+ Alain Cuerrier <alain_cuerrier@ville.montreal.qc.ca>,
+ Andrew Papigatuk <apapigatuk@avataq.qc.ca>,
+ Angello Mannetta <amannetta@makivik.org>,
+ anita gordon <anita_gordon@makivik.org>, Annette Lacroix <Alacroix@krg.ca>,
+ Annie Johannes <ajohannes@krg.ca>, Anthony Ittoshat <a_ittoshat@makivik.org>,
+ Avataq Receptionist <avataq@avataq.qc.ca>,
+ Karim Ben Driss <bendrissk@avataq.qc.ca>,
+ Betsy Annahatak <betsy_annahatak@kativik.qc.ca>,
+ Brigitte Begin <Brigitte.Begin@ainc-inac.gc.ca>,
+ Brigitte Begin <brigitte.begin@ainc-inac.gc.ca>,
+ Bruno Pilozzi <bpfp@sympatico.ca>,
+ "Carol Rowan (Carol Rowan)" <carolrowan@videotron.ca>,
+ Caroline St-Louis <c_stlouis@makivik.org>, Cely Casia <c_casia@makivik.org>,
+ Chantal St-Pierre <chantal_st-pierre@pch.gc.ca>,
+ Charles Dorais <c_dorais@makivik.org>, Charlie Argnak <c.arngak@avataq.qc.ca>,
+ Christelle Cuilleret <christelle@postavataq.com>, christophe@waharte.com,
+ Elsa Cencig <elsacencig@avataq.qc.ca>,
+ Claude Grenier <cgrenier@taqramiut.qc.ca>,
+ Christelle Cuilleret <christelle@avataq.qc.ca>,
+ Daniel Epoo <d_epoo@makivik.org>, Daniel Gendron <severian@avataq.qc.ca>,
+ Dupuis Jean <jdupuis@airinuit.com>, Nunga Echalook <nechalook@avataq.qc.ca>,
+ Eileen Klinkig <e_klinkig@makivik.org>, Eliasi Nowkawalk <enowkawalk@krg.ca>,
+ Elisapie Annahatak <elizabeth.annahatak@ssss.gouv.qc.ca>,
+ Elisapie Isaac <elisapie@videotron.ca>,
+ Flowers Joey <joseph.flowers@mail.mcgill.ca>,
+ Francois Dorval <fdorval@krg.ca>,
+ "Francois Dorval (Business Fax)"@videotron.ca,
+ Gaetan Gosselin <gaetan.gosselin@calq.gouv.qc.ca>,
+ Gordon Michael <mgordon@makivik.org>, Pigeon.Helene@rcgt.com,
+ Hendrie Steven <hendrie@itk.ca>, Lea Hiram <leahiram@avataq.qc.ca>,
+ Ina Gordon <igordon@krg.ca>, Isabelle Parizeau <IParizeau@krg.ca>,
+ janice grey <janice17grey@hotmail.com>,
+ =?iso-8859-1?Q?Jean-Fran=E7ois_Arteau?= <jfarteau@makivik.org>,
+ Jeannie Nayoumealuk <n_jeannie@hotmail.com>,
+ "Jeannie Nungak (jnungak@makitautikcrc.ca)" <jnungak@makitautik.crc.ca>,
+ Jeannie Nungak <jnungak@makitautikcrc.ca>, Jim Bell <editor@nunatsiaq.com>,
+ Joanne Buda Ferland <joanneb@ca.inter.net>, Joe Lance <jlance@krg.ca>,
+ Johanne Dion <j.dion@transherb.com>, Johnny Uitangak <yaani@avataq.qc.ca>,
+ Jonathan Epoo <jepoo@makivik.org>,
+ =?iso-8859-1?Q?Jos=E9e_Vilandr=E9?= <j.vilandre@sympatico.ca>,
+ Joseph Marc Laforest <marc.laforest@mreg.gouv.qc.ca>,
+ =?iso-8859-1?Q?Julie_Labont=E9?= <julie.labonte@calq.gouv.qc.ca>,
+ Karim Bendriss <bendrissk@postavataq.com>,
+ Katarina Soukup <katarina@avataq.qc.ca>,
+ Katarina Soukup <katarina@catbirdproductions.ca>,
+ Keleutak Harriet <harriet_keleutak@kativik.qc.ca>,
+ Ken Desjardins <ken.desjardins@sdc-dsc.gc.ca>,
+ Lisa Koperkualuk <Qiluqqi_2000@yahoo.com>,
+ Susan Lofthouse <susanlofthouse@avataq.qc.ca>,
+ Lolly Annahatak <lolly_annahatak@ssss.gouv.qc.ca>,
+ Louis Gagnon <louisgagnon@avataq.qc.ca>, Louis Mercier <lmercier@krg.ca>,
+ "Louise Leblanc Profeit
+ (louise.profeit-leblanc@canadacouncil.ca>)"@videotron.ca,
+ Luc Bourassa <luc.bourassa@fcnq.ca>,
+ "Luc Bourassa (Business Fax)"@videotron.ca, Luc Harvey <lharvey@krg.ca>,
+ Lydia Etok <lydiaetok@yahoo.com>, Lydia Watt <Lwatt@krg.ca>,
+ "Maggie Emudluk (Emudluk Maggie)" <memudluk@krg.ca>,
+ Margaret Gauvin <mgauvin@krg.ca>,
+ Marie-Helene Cousineau <mhcousineau@isuma.ca>, mjulien@xstratanickel.ca,
+ Martha Gordon <marthag@tamaani.ca>, Martine Gascon <m.gascon@avataq.qc.ca>,
+ marvinharder@avataq.qc.ca, Mastroinanni Bruna <brunam@kativik.qc.ca>,
+ maureen Prucha <maureen.prucha@cibc.com>,
+ May Jeannie <jeannie.may@ssss.gouv.qc.ca>, McKenzie Gerald <gmckenzie@aei.ca>,
+ McKenzie Gerald <mckenzieperce@yahoo.ca>, Mesher Bob <bmesher@makivik.org>,
+ Michael Barrett <mbarrett@krg.ca>, Micheal Cameron <mcameron@makivik.org>,
+ Michel Noel <michel_noel_auteur@yahoo.ca>,
+ Michel Patry <michel.patry@avataq.qc.ca>,
+ Minnie Amidllak <language@avataq.qc.ca>,
+ Minnie Amidllak <inuktranslator@videotron.ca>,
+ MInnie Grey <mgrey@makivik.org>, markcorbett48@hotmail.com,
+ Monik Duhaime <monik.duhaime@mcc.gouv.qc.ca>,
+ Moses Novalinga <mnovalinga@avataq.qc.ca>,
+ Nancy Palliser <nancyp@avataq.qc.ca>, Nancy Savard <edifice1425@bellnet.ca>,
+ "Neil Greig (Neil Greig)" <n_greig@makivik.org>,
+ Palliser Martha <martha@avataq.qc.ca>,
+ =?iso-8859-1?Q?=C9lodie_Parriaux?= <elodieparriaux@avataq.qc.ca>,
+ Patrice Beaumelle <patrice_beaumelle@kativik.qc.ca>,
+ Patricia Nadeau <patricia.nadeau@calq.gouv.qc.ca>,
+ Peter Horsman <phorsman@airinuitcom.videotron.ca>,
+ Pierre Boisdenghien <pierre.boisdenghien@fcnq.ca>,
+ Pierre Dery <pdc09@hotmail.com>, pdc09@hotmail.com,
+ Pierre Desrosiers <servicearch@avataq.qc.ca>,
+ Pierrette Gourde <gourdep@ainc-inac.gc.ca>,
+ Pita Aatami <p_aatami@makivik.org>, Rhoda Kokiapik <akuuku@avataq.qc.ca>,
+ Richard Desrosiers <rdesrosiers@krg.ca>,
+ Richard Desrosiers <adesrosiers@krg.ca>,
+ Robert DeChancenotte <rchancenotte@saco-ceso.com>,
+ =?iso-8859-1?Q?Robert_Fr=E9chette?= <robertfrechette@avataq.qc.ca>,
+ Robert Lanari <rlanari@sympatico.ca>,
+ Robyn Bryant <robyn.bryant@sympatico.ca>,
+ Robyn Bryant <robynbryant@netscape.net>, Salimah Gillani <sgillani@krg.ca>,
+ Sammy Kudluk <sammyjkudluk@hotmail.com>, Sandy Gordon <sagordon@krg.ca>,
+ Sarah Aloupa <aloupas@avataq.qc.ca>, Serge Demers <demerss@ainc-inac.gc.ca>,
+ Solange Loiselle <s.loiselle@globetrotter.net>,
+ Steve Grasser <sgrasser@krg.ca>,
+ =?iso-8859-1?Q?Sylvie_Cot=E9_Chew?= <tumivut@avataq.qc.ca>,
+ Tommy Palliser <tpalliser@krg.ca>,
+ Trepanier Nathalie <ntrepanier@avataq.qc.ca>,
+ Tukkiapik Jobie <jtukkiapik@krg.ca>,
+ =?iso-8859-1?Q?Val=E9ry_B=E9lair?= <valery.b@avataq.qc.ca>,
+ Tommy Weetaluktuk <tommyw@avataq.qc.ca>,
+ Yvan Pouliot <ypouliot@biogenie-env.com>, Yvon Roy <yvon.roy@desjardins.com>,
+ Zebedee Nungak <jaipiti@tamaani.ca>
+Subject: S.Beaubien
+Date: Mon, 25 Nov 2013 13:59:53 -0500
+Message-id: <003801ceea10$870e4a00$952ade00$@qc.ca>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-index: Ac7qEIYD95QCC+8gQ9ePxfbARKH58A==
+Content-language: fr-ca
+
+This is a multi-part message in MIME format.
+
+--Boundary_(ID_xEuH13JgAGCnVLlFwdf1+Q)
+Content-type: multipart/alternative;
+ boundary="Boundary_(ID_dOV+Ebgt6ZeR7cTIrzYEQA)"
+
+
+--Boundary_(ID_dOV+Ebgt6ZeR7cTIrzYEQA)
+Content-type: text/plain; CHARSET=US-ASCII
+Content-transfer-encoding: 7BIT
+
+ 
+
+ 
+
+Suzanne Beaubien
+
+ 
+
+
+--Boundary_(ID_dOV+Ebgt6ZeR7cTIrzYEQA)
+Content-type: text/html; CHARSET=US-ASCII
+Content-transfer-encoding: 7BIT
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=iso-8859-1"><meta name=Generator content="Microsoft Word 12 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=EN-US link=blue vlink=purple><div class=WordSection1><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><b><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Suzanne Beaubien</span></b><b><span lang=EN-CA style='font-size:12.0pt;font-family:"Times New Roman","serif"'><o:p></o:p></span></b></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+
+--Boundary_(ID_dOV+Ebgt6ZeR7cTIrzYEQA)--
+
+--Boundary_(ID_xEuH13JgAGCnVLlFwdf1+Q)
+Content-type:
+ application/vnd.openxmlformats-officedocument.wordprocessingml.document;
+ name=S.Beaubien.docx
+Content-transfer-encoding: base64
+Content-disposition: attachment; filename=S.Beaubien.docx
+
+UEsDBBQABgAIAAAAIQDd/JU3ZgEAACAFAAATAAgCW0NvbnRlbnRfVHlwZXNdLnhtbCCiBAIooAAC
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC0
+VMtuwjAQvFfqP0S+Vomhh6qqCBz6OLZIpR9g7A1Y9Uv28vr7bgJEVQtBKuUSKVnvzOzsxIPR2pps
+CTFp70rWL3osAye90m5Wso/JS37PsoTCKWG8g5JtILHR8PpqMNkESBl1u1SyOWJ44DzJOViRCh/A
+UaXy0Qqk1zjjQchPMQN+2+vdcekdgsMcaww2HDxBJRYGs+c1fd4qiWASyx63B2uukokQjJYCSSlf
+OvWDJd8xFNTZnElzHdINyWD8IENdOU6w63sja6JWkI1FxFdhSQZf+ai48nJhaYaiG+aATl9VWkLb
+X6OF6CWkRJ5bU7QVK7Tb6z+qI+HGQPp/FVvcLnrSOY4+JE57OZsf6s0rUDlZESCihnZ1x0cHRLLs
+EsPvkLvGb1KAlHfgzbN/tgcNzEnKin6JiZgaOJvvV/Ja6JMiVjB9v5j738C7hLT5kz7+wYz9dVF3
+H0gdb+634RcAAAD//wMAUEsDBBQABgAIAAAAIQAekRq38wAAAE4CAAALAAgCX3JlbHMvLnJlbHMg
+ogQCKKAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAjJLbSgNBDIbvBd9hyH032woi0tneSKF3IusDhJnsAXcOzKTavr2jILpQ217m9OfLT9ab
+g5vUO6c8Bq9hWdWg2JtgR99reG23iwdQWchbmoJnDUfOsGlub9YvPJGUoTyMMaui4rOGQSQ+ImYz
+sKNchci+VLqQHEkJU4+RzBv1jKu6vsf0VwOamabaWQ1pZ+9AtcdYNl/WDl03Gn4KZu/Yy4kVyAdh
+b9kuYipsScZyjWop9SwabDDPJZ2RYqwKNuBpotX1RP9fi46FLAmhCYnP83x1nANaXg902aJ5x687
+HyFZLBZ9e/tDg7MvaD4BAAD//wMAUEsDBBQABgAIAAAAIQBd/nY+NgEAAJUEAAAcAAgBd29yZC9f
+cmVscy9kb2N1bWVudC54bWwucmVscyCiBAEooAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+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
+BgAAAAALAAsAwQIAAMUrAAAAAA==
+
+--Boundary_(ID_xEuH13JgAGCnVLlFwdf1+Q)--
+
+

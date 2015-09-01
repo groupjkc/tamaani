@@ -1,0 +1,56 @@
+Return-Path: <KMHB-Finances@omhkativikmhb.qc.ca>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv4.soleica.ca (localhost [127.0.0.1])
+	by ispv4.soleica.ca (Postfix) with ESMTP id 0C98376FC8
+	for <aarngak@tamaani.ca>; Wed, 11 Sep 2013 23:00:17 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv4.soleica.ca ([127.0.0.1])
+	by ispv4.soleica.ca (ispv4.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id 6pNSe1Ocr4Ec for <aarngak@tamaani.ca>;
+	Wed, 11 Sep 2013 23:00:12 -0400 (EDT)
+Received: from omhkativikmhb.qc.ca (66-215-165-66.rev.knet.ca [66.165.215.66])
+	by ispv4.soleica.ca (Postfix) with ESMTP id E511676FC6
+	for <aarngak@tamaani.ca>; Wed, 11 Sep 2013 23:00:10 -0400 (EDT)
+Received: from NANUK.omhkativikmhb.qc.ca (192.9.200.254) by
+ Exchange.omhkativikmhb.qc.ca (192.9.200.252) with Microsoft SMTP Server id
+ 8.3.298.1; Wed, 11 Sep 2013 23:00:07 -0400
+Date: Wed, 11 Sep 2013 23:00:06 -0400
+From: <KMHB-Finances@omhkativikmhb.qc.ca>
+Subject: Avis de paiement  - Payment Notification
+To: aarngak@tamaani.ca
+X-PHP-Originating-Script: 0:hopem_notification.php
+Reply-To: KMHB-Finances@omhkativikmhb.qc.ca
+MIME-Version: 1.0
+Content-Type: text/plain
+Message-ID: <176a9212-5406-4f32-a105-16455545210e@Exchange.omhkativikmhb.qc.ca>
+
+
+Bonjour,
+Le 11 Sep 2013 un versement de 80.00 CAD a été effectué.
+
+Détails du versement :
+----------------------
+Numéro de facture '20130821' (Housing Committee Meeting Held)
+ en date du 21 Aug 2013 pour un montant de 80.00 CAD.
+
+Merci et bonne journée,
+
+OMHK - Finances
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+
+Good day,
+On Sep 11, 2013 a payment of 80.00 CAD has been processed.
+
+Payment details:
+----------------
+Invoice Number '20130821' (Housing Committee Meeting Held)
+ by date of Aug 21, 2013 over 80.00 CAD.
+
+Best regards,
+
+KMHB Finance
+
+

@@ -1,0 +1,157 @@
+Return-Path: <belanse@globetrotter.net>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from localhost (localhost [127.0.0.1])
+	by ispv2.soleica.ca (Postfix) with ESMTP id 16509137A1E
+	for <aarngak@tamaani.ca>; Thu, 21 May 2009 00:17:36 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv2.soleica.ca ([127.0.0.1])
+	by localhost (ispv2.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id eQ1yfyGybJpy for <aarngak@tamaani.ca>;
+	Thu, 21 May 2009 00:17:30 -0400 (EDT)
+Received: from tcn00qubc00208.isn.rtss.qc.ca (relais1.ssss.gouv.qc.ca [199.243.239.61])
+	by ispv2.soleica.ca (Postfix) with ESMTP id B3A621374DD
+	for <aarngak@tamaani.ca>; Thu, 21 May 2009 00:16:40 -0400 (EDT)
+Received: from tc00bar67842.ssss.gouv.qc.ca ([10.249.80.24])
+          by tcn00qubc00208.isn.rtss.qc.ca (Lotus Domino Release 8.5)
+          with ESMTP id 2009052100163912-637243 ;
+          Thu, 21 May 2009 00:16:39 -0400 
+Received: from tc00tecpro00009.ssss.gouv.qc.ca (unknown [10.250.32.59])
+	by tc00bar67842.ssss.gouv.qc.ca (Spam Firewall) with ESMTP id 1A69978C8D1
+	for <aarngak@tamaani.ca>; Thu, 21 May 2009 00:27:04 -0400 (EDT)
+Received: from tc00tecpro00009.ssss.gouv.qc.ca ([10.250.32.59]) by tc00bar67842.ssss.gouv.qc.ca with ESMTP id oDCzAARcBr2wHTn8 for <aarngak@tamaani.ca>; Thu, 21 May 2009 00:27:04 -0400 (EDT)
+Received: from tcn00barin00048.ssss.gouv.qc.ca ([10.120.138.27])
+          by TCN00QUBC00117.isqc.reg00.rtss.qc.ca (Lotus Domino Release 6.5.6FP2 HF179)
+          with ESMTP id 2009052100153172-131219 ;
+          Thu, 21 May 2009 00:15:31 -0400 
+Received: from smtp3.globetrotter.net (localhost [127.0.0.1])
+	by tcn00barin00048.ssss.gouv.qc.ca (Spam Firewall) with ESMTP
+	id 759BE1E931; Thu, 21 May 2009 00:03:58 -0400 (EDT)
+Received: from smtp3.globetrotter.net (smtp3.globetrotter.net [142.169.1.81]) by tcn00barin00048.ssss.gouv.qc.ca with ESMTP id FaNC6zHNQcx7aTyH; Thu, 21 May 2009 00:03:58 -0400 (EDT)
+Received-SPF: pass (tcn00barin00048.ssss.gouv.qc.ca: domain of belanse@globetrotter.net designates 142.169.1.81 as permitted sender) receiver=tcn00barin00048.ssss.gouv.qc.ca; client_ip=142.169.1.81; envelope-from=belanse@globetrotter.net;
+Received: from (unknown [192.168.249.8]) by avas19.globetrotter.net with smtp
+	 id 49c3_27b8_023ebb34_45be_11de_995e_001143def78b;
+	Thu, 21 May 2009 00:15:26 -0400
+Received: from LENOVO35B1BDC0
+ (c75.152.12-90.clta.globetrotter.net [75.152.12.90]) by smtp3.globetrotter.net
+ (Sun Java(tm) System Messaging Server 6.3-8.01 (built Dec 16 2008; 64bit))
+ with SMTP id <0KJZ00IHZ7TWOED0@"TELUS Quebec">; Thu,
+ 21 May 2009 00:15:34 -0400 (EDT)
+Received: from (unknown [75.152.12.90]) by avas19.globetrotter.net with smtp	id
+ 49af_5192_017123b8_45be_11de_995e_001143def78b; Thu, 21 May 2009 00:15:24 -0400
+Date: Thu, 21 May 2009 00:15:25 -0400
+From: Pierre Michaud <belanse@globetrotter.net>
+Subject: Follow-up
+To: Alasie Arngak <alasie.arngak@ssss.gouv.qc.ca>,
+ Elisapi Uitangak <elisapi.uitangak@kativik.qc.ca>,
+ Josepi Padlayat <lilshedevil69@hotmail.com>
+Cc: =?iso-8859-1?Q?G=E9rald_Garneau?= <gerald.garneau.csi@ssss.gouv.qc.ca>,
+ Mary Angiyou <mary.angiyou@ssss.gouv.qc.ca>
+Message-id: <BD390386CDA94AFD9CF28761C02F81C4@LENOVO35B1BDC0>
+MIME-version: 1.0
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-Priority: 3 (Normal)
+X-MSMail-priority: Normal
+X-MIMETrack: Itemize by SMTP Server on TCN00QUBC00117/Serveurs/SSSS(Release 6.5.6FP2
+ HF179|May 14, 2008) at 2009-05-21 00:15:31,
+	Serialize by Router on TC00TECPRO00009/Serveurs/SSSS(Release 6.5.6FP2 HF124|February
+ 27, 2008) at 2009-05-21 00:16:29,
+	Serialize complete at 2009-05-21 00:16:29,
+	Itemize by SMTP Server on TCN00QUBC00208/Serveurs/SSSS(Release 8.5|December
+ 05, 2008) at 2009-05-21 00:16:39,
+	Serialize by Router on TCN00QUBC00208/Serveurs/SSSS(Release 8.5|December 05, 2008) at
+ 2009-05-21 00:17:29,
+	Serialize complete at 2009-05-21 00:17:29
+X-TNEFEvaluated: 1
+Content-type: multipart/alternative;
+ boundary="Boundary_(ID_YBm23HsljOyEO/vFvOh/8Q)"
+
+This is a multi-part message in MIME format.
+
+--Boundary_(ID_YBm23HsljOyEO/vFvOh/8Q)
+Content-transfer-encoding: quoted-printable
+Content-type: text/plain; charset=iso-8859-1
+
+Hi ,all of you.
+
+I talk to Christiane Rouleau about the  two requests, and firt, she =
+accept to be at the meeting of the board of directors in  june at =
+Kuujurapik. The best would be that the meeting that concern the =
+engagement of the new general director happen the 9 in the morning so =
+that she could come back in Montreal in the afternoon. For the second =
+point, she will make a phone to the candidate to give the information =
+about the process..Mary and Gerald will also receive this message, Is it =
+possible to confirm to Christiane her fly and hotel reservation.
+Rouleau, Christiane       rouleauconsult@videotron.ca
+  Res. : 450-668-5471
+  Cell. : 514-298-2283
+
+Can somebody give the information to Jussipie.
+
+Thank you!
+
+Best regards !
+
+Pierre.
+
+Pierre Michaud
+191 rue Radisson, Gasp=E9, (Qu=E9)
+G4X 1K9   belanse@globetrotter.net
+418-368-1223
+418-361-5276 cell=
+
+--Boundary_(ID_YBm23HsljOyEO/vFvOh/8Q)
+Content-transfer-encoding: quoted-printable
+Content-type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">
+<META content=3D"MSHTML 6.00.6000.16825" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial>Hi ,all of you.</FONT></DIV>
+<DIV><FONT face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial>I talk to Christiane Rouleau =
+about&nbsp;the&nbsp;&nbsp;two=20
+requests, and firt, she accept to be at the meeting of the board of =
+directors in=20
+&nbsp;june at Kuujurapik. The best would be that the meeting that =
+concern the=20
+engagement of the new general director happen the 9 in the morning so =
+that she=20
+could come back in Montreal in the afternoon. For the second point, she =
+will=20
+make a phone to the candidate to give the information about the =
+process..Mary=20
+and Gerald will also receive this message, Is it possible to confirm to=20
+Christiane her fly and hotel reservation.</FONT></DIV>
+<DIV><FONT face=3DArial>Rouleau, =
+Christiane&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</FONT><FONT face=3DArial><A=20
+href=3D"mailto:rouleauconsult@videotron.ca">rouleauconsult@videotron.ca</=
+A><BR>&nbsp;&nbsp;Res.=20
+: 450-668-5471<BR>&nbsp;&nbsp;Cell. : 514-298-2283</FONT></DIV>
+<DIV><FONT face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial>Can somebody give the information to=20
+Jussipie.</FONT></DIV>
+<DIV><FONT face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial>Thank you!</FONT></DIV>
+<DIV><FONT face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial>Best regards !</FONT></DIV>
+<DIV><FONT face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial>Pierre.</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT face=3DArial>Pierre Michaud<BR>191 rue Radisson, Gasp=E9, =
+(Qu=E9)<BR>G4X=20
+1K9&nbsp;&nbsp; <A=20
+href=3D"mailto:belanse@globetrotter.net">belanse@globetrotter.net</A><BR>=
+418-368-1223<BR>418-361-5276=20
+cell</FONT></DIV></BODY></HTML>
+
+--Boundary_(ID_YBm23HsljOyEO/vFvOh/8Q)--
+
+

@@ -1,0 +1,497 @@
+Return-Path: <Ebill@bell.ca>
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on tamaani.ca
+X-Spam-Level: 
+X-Spam-Status: No, score=0.0 required=7.0 tests=HTML_IMAGE_RATIO_06,
+	HTML_MESSAGE,LOTS_OF_MONEY,T_REMOTE_IMAGE,UNPARSEABLE_RELAY autolearn=ham
+	version=3.3.1
+X-Original-To: arqivik.lhc@tamaani.ca
+Delivered-To: arqivik.lhc@tamaani.ca
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from mail1.bemta14.messagelabs.com (mail1.bemta14.messagelabs.com [193.109.254.107])
+	by tamaani.ca (Postfix) with ESMTPS id 3B0F068F73
+	for <arqivik.lhc@tamaani.ca>; Sat,  2 Aug 2014 08:49:48 -0400 (EDT)
+Received: from [194.106.220.51:37576] by server-3.bemta-14.messagelabs.com id 98/E9-23707-B6EDCD35; Sat, 02 Aug 2014 12:49:47 +0000
+X-Env-Sender: Ebill@bell.ca
+X-Msg-Ref: server-9.tower-92.messagelabs.com!1406983774!18408531!24
+X-Originating-IP: [206.47.0.173]
+X-StarScan-Received: 
+X-StarScan-Version: 6.11.3; banners=-,-,-
+X-VirusChecked: Checked
+Received: (qmail 21311 invoked from network); 2 Aug 2014 12:49:46 -0000
+Received: from tls.exchange.bell.ca (HELO TLS.Exchange.Bell.ca) (206.47.0.173)
+  by server-9.tower-92.messagelabs.com with RC4-SHA encrypted SMTP; 2 Aug 2014 12:49:46 -0000
+Received: from hub03-wyn.bell.corp.bce.ca (142.182.199.49) by
+ dm1c8f.exchange1.bell.ca (198.235.102.112) with Microsoft SMTP Server id
+ 8.3.298.1; Sat, 2 Aug 2014 08:49:34 -0400
+Received: from DCOBW6-021 (142.117.252.131) by hub03-wyn.bell.corp.bce.ca
+ (142.182.199.215) with Microsoft SMTP Server id 8.3.298.1; Sat, 2 Aug 2014
+ 08:49:37 -0400
+Date: Sat, 2 Aug 2014 08:49:37 -0400
+From: Bell <ebill@bell.ca>
+Reply-To: ebill@bell.ca
+To: <arqivik.lhc@tamaani.ca>
+Message-ID: <2117504141.608991406983777742.JavaMail.ccewrk3@DCOBW6-021>
+Subject: =?ISO-8859-1?Q?Votre_facture_=E9lectronique_est_pr=EAte?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_60905_386041568.1406983777741"
+X-NotifID: 1532
+X-CustomerID: 71360900
+
+------=_Part_60905_386041568.1406983777741
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+=EF=BB=BF
+Votre facture =C3=A9lectronique est pr=C3=AAte
+______________________________________________________________________
+
+Sommaire
+Montant due:        Date d'=C3=A9ch=C3=A9ance:
+$31.02         2014 08 18          Payer la facture [https://mybell.bell.ca=
+/Login?refreshlink=3Dhttps://mybell.bell.ca/sso/ssoauth.aspx?ReturnUrl=3D/P=
+unchInOut/punchin?DirectAccess=3DPayBill#EXT=3DONE_Email_BTN_EbillLogin_708=
+2013_ec_PayNow_FR]
+______________________________________________________________________
+
+Bonjour PETER ANGNATUK,
+
+Nous vous invitons =E0 prendre le temps de consulter votre facture =E9lectr=
+onique ainsi que tout changement important concernant votre service.=20
+
+
+_____________________________________________________________________
+
+Consulter la facture
+https://mybell.bell.ca/Login?refreshlink=3Dhttps://mybell.bell.ca/sso/ssoau=
+th.aspx?ReturnUrl=3D/PunchInOut/punchin?DirectAccess=3DOneBillViewBill#EXT=
+=3DONE_Email_BTN_EbillLogin_7082013_ec_ViewBill_FR
+V=E9rifier le solde du compte
+https://mybell.bell.ca/Login?refreshlink=3Dhttps://mybell.bell.ca/sso/ssoau=
+th.aspx?ReturnUrl=3D/PunchInOut/punchin?DirectAccess=3DOneBillViewBill&lang=
+uage=3Dfr&EXT=3DEBN_SS_Q12009_EBillNotify_TXT_ON_FR_balance_Regular1_FR
+
+Annuler la facture papier
+https://mybell.bell.ca/Login?refreshlink=3Dhttps://mybell.bell.ca/sso/ssoau=
+th.aspx?ReturnUrl=3D/PunchInOut/punchin?DirectAccess=3DOneBillBillingProfil=
+e&language=3Dfr&EXT=3DEBN_SS_Q12009_EBillNotify_TXT_ON_FR_gopaperless_Regul=
+ar1_FR
+
+R=E9initialiser le profil bell.ca
+https://www.bell.ca/mybell/PrsMyAccts_PwdReset.page?EXT=3DEBN_SS_Q12009_EBi=
+llNotify_TXT_ON_FR_resetpsw
+
+Mettre =E0 jour le profil de facturation
+https://mybell.bell.ca/Login?refreshLink=3Dhttps://mybell.bell.ca/Punchin.a=
+spx?DirectAccess=3DONEBILLBILLINGPROFILE#EXT=3DONE_Email_TXT_EBillNotify_80=
+22013_ks_Updateprofile_FR
+=20
+_____________________________________________________________________
+
+Soutien
+http://support.bell.ca/Billing-and-Accounts#EXT=3DEBN_SS_20071001_FAQ_TXT_O=
+N_EN
+
+Avis Juridique
+http://www.bell.ca/support/PrsCSrvGnl_LegalAndTerms.page?region=3DON&langua=
+ge=3Den&myurl=3DCSQ&EXT=3DEBN_SS_20071001_legal_TXT_ON_EN
+
+Confidentialit=C3=A9
+http://support.bell.ca/Home_phone/How_to_move_my_Bell_services?myurl=3DCSQ&=
+EXT=3DEBN_SS_20071001_Moving_TXT_ON_EN
+
+D=C3=A9m=C3=A9nagement
+http://support.bell.ca/Home_phone/How_to_move_my_Bell_services?myurl=3DCSQ&=
+EXT=3DEBN_SS_20071001_Moving_TXT_ON_EN
+
+bell.ca
+http://www.bell.ca/home?region=3DON&language=3Den&EXT=3DEBN_SS_20071001_hp_=
+TXT_ON_EN
+
+
+Secr=C3=A9tariat corporatif de Bell Canada et BCE Inc.
+1, Carrefour Alexander-Graham-Bell, Aile A-7, Verdun, Qu=C3=A9bec, H3E 3B3
+=C2=A9 Bell Canada, 2013. Tous droits r=C3=A9serv=C3=A9s.
+------=_Part_60905_386041568.1406983777741
+Content-Type: text/html; charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!-- MEC_blank_fr -->
+<span style=3D"font-family: Arial,Verdana,Helvetica,sans-serif; font-size: =
+0px; color:#555555;">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+=09<head>
+=09=09<title>Votre facture &eacute;lectronique est pr&ecirc;te</title>
+=09=09<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso=
+-8859-1">
+=09=09<style>
+=09=09=09a:link, a:visited, a:hover, a:active {
+=09=09=09=09=09color: #0066a4;
+=09=09=09=09}
+=09=09</style>=09=09
+=09</head>
+=09
+=09<body style=3D"background-color: #ffffff;">
+=09=09<table style=3D"align:center;" width=3D"472" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" align=3D"center">
+=09=09=09<tr>
+=09=09=09=09<td>
+=09=09=09=09=09<!-- Omniture tag -->
+=09=09=09=09=09<img src=3D"http://data0.bell.ca/b/ss/bellcapm/1/EMAIL?pageN=
+ame=3Dnb:c:pm:EBN:$&v1=3D$&events=3Devent1:$" alt=3D"" height=3D"1" width=
+=3D"1">
+=09=09=09=09=09
+=09=09=09=09=09<!-- HEADER START -->
+=09=09=09=09=09<table width=3D"470" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0">
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td width=3D"60" style=3D"text-align: left;">
+=09=09=09=09=09=09=09=09<img src=3D"http://www.bell.ca/web/common/all_langu=
+ages/all_regions/images/cce/MEC_bell_logo.gif" height=3D"29" width=3D"51" a=
+lt=3D"" style=3D"position:baseline;">
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09<td width=3D"410" style=3D"color: #333333; font-size:2=
+0px; font-family: Arial,Verdana,Helvetica,sans-serif; vertical-align:bottom=
+; text-align: right;">
+=09=09=09=09=09=09=09=09Votre facture &eacute;lectronique est pr&ecirc;te
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09</table>
+=09=09=09=09=09<!-- HEADER END -->
+=09=09=09=09</td>
+=09=09=09</tr>=09=09=09=09
+=09=09=09<tr>
+=09=09=09=09<td style=3D"padding-top:10px;">
+=09=09=09=09=09
+=09=09=09=09=09  <!-- ACCOUNT SUMMARY START -->
+=09=09=09=09 =20
+=09=09=09=09  <table width=3D"470" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+=09=09=09=09=09  <tr>
+=09=09=09=09=09    <td colspan=3D"4"><img src=3D"http://www.bell.ca/web/com=
+mon/all_languages/all_regions/images/cce/MEC_AccountSummaryBoxTopBorder.gif=
+" height=3D"7" width=3D"470" alt=3D"" style=3D"border: 0; padding: 0; margi=
+n: 0; vertical-align: bottom; display: block;"></td>
+=09=09=09=09      </tr>
+=09=09=09=09=09  <tr>
+=09=09=09=09=09    <td colspan=3D"4" style=3D"padding-top:10px; padding-lef=
+t:20px; padding-bottom:25px; background-color:#f2f2f2; font-family: Arial,V=
+erdana,Helvetica,sans-serif; font-size: 18px; color:#555555; border-left:1p=
+x solid #cccccc; border-right:1px solid #cccccc; vertical-align:bottom; tex=
+t-align: left;"> Sommaire </td>
+=09=09=09=09      </tr>
+=09=09=09=09=09  <tr>
+=09=09=09=09=09    <td width=3D"24%" height=3D"35" style=3D"background-colo=
+r:#f2f2f2; font-family: Arial,Verdana,Helvetica,sans-serif; font-size: 14px=
+; color:#000000; border-left:1px solid #cccccc; vertical-align:top; text-al=
+ign: left; padding-left:20px;">Compte:</td>
+=09=09=09=09=09    <td width=3D"23%" style=3D"background-color:#f2f2f2; fon=
+t-family: Arial,Verdana,Helvetica,sans-serif; font-size: 14px; color:#99999=
+9; border-right:1px solid #CCCCCC; vertical-align:top; text-align: left;">1=
+50211864</td>
+=09=09=09=09=09    <td width=3D"31%" rowspan=3D"2" style=3D"background-colo=
+r:#f2f2f2; font-family: Arial,Verdana,Helvetica,sans-serif; font-size: 14px=
+; color:#999999; vertical-align:top; text-align: left;"><p><span style=3D"b=
+ackground-color:#f2f2f2; font-family: Arial,Verdana,Helvetica,sans-serif; f=
+ont-size: 14px; color:#000000; vertical-align:top; text-align: left;">&nbsp=
+;&nbsp;&nbsp;Montant d=FB: </span></p>
+=09=09=09=09=09      <p>&nbsp;&nbsp;<a href=3D"https://mybell.bell.ca/Login=
+?refreshlink=3Dhttps://mybell.bell.ca/sso/ssoauth.aspx?ReturnUrl=3D/PunchIn=
+Out/punchin?DirectAccess=3DPayBill#EXT=3DONE_Email_BTN_EbillLogin_7082013_e=
+c_PayNow_FR"><img src=3D"http://www.bell.ca/web/common/fr/all_regions/image=
+s/buttons/paybill_fr_btn.jpg"></a></p></td>
+=09=09=09=09=09    <td width=3D"22%" rowspan=3D"2" style=3D"background-colo=
+r:#f2f2f2; font-family: Arial,Verdana,Helvetica,sans-serif; font-size: 14px=
+; color:#999999; border-right:1px solid #cccccc; vertical-align:top; text-a=
+lign: center;"><span style=3D"background-color:#f2f2f2; font-family: Arial,=
+Verdana,Helvetica,sans-serif; font-size: 24px; color: #0066a4; vertical-ali=
+gn:middle; text-align: center;"><span style=3D"font-size:18px;"><sup>$</sup=
+></span>31.02</span></td>
+=09=09=09=09      </tr>
+=09=09=09=09=09  <tr>
+=09=09=09=09=09    <td style=3D"background-color:#f2f2f2; font-family: Aria=
+l,Verdana,Helvetica,sans-serif; font-size: 14px; color:#000000; border-left=
+:1px solid #cccccc; vertical-align:top; text-align: left; padding-left:20px=
+; display:block;">Date d'=E9ch=E9ance:</td>
+=09=09=09=09=09    <td style=3D"background-color:#f2f2f2; font-family: Aria=
+l,Verdana,Helvetica,sans-serif; font-size: 14px; color:#999999;  vertical-a=
+lign:top; border-right:1px solid #CCCCCC; text-align: top;"><span style=3D"=
+background-color:#f2f2f2; font-family: Arial,Verdana,Helvetica,sans-serif; =
+font-size: 14px; color: #999;  vertical-align:top; text-align: left; border=
+-right:0px solid #CCCCCC;"><span style=3D"background-color:#f2f2f2; font-fa=
+mily: Arial,Verdana,Helvetica,sans-serif; font-size: 14px; color:#999999;  =
+vertical-align:bottom; border-right:0px solid #CCCCCC; text-align: center;"=
+>2014 08 18</span></span></td>
+=09=09=09=09      </tr>
+=09=09=09=09=09  <tr>
+=09=09=09=09=09    <td colspan=3D"2" style=3D"background-color:#f2f2f2; bor=
+der-left:1px solid #cccccc;">&nbsp;</td>
+=09=09=09=09=09    <td colspan=3D"2" style=3D"background-color:#f2f2f2; bor=
+der-right:1px solid #cccccc;">&nbsp;</td>
+=09=09=09=09      </tr>
+=09=09=09=09=09  <tr>
+=09=09=09=09=09    <td colspan=3D"4"><img src=3D"http://www.bell.ca/web/com=
+mon/all_languages/all_regions/images/cce/MEC_AccountSummaryBoxBottomBorder.=
+gif" alt=3D"" height=3D"7" width=3D"470" style=3D"border: 0; padding: 0; ma=
+rgin: 0; vertical-align: top; display: block;"></td>
+=09=09=09=09      </tr>
+=09=09=09=09  </table>
+=09=09=09=09=09<!-- ACCOUNT SUMMARY END -->=09=09=09=09=09
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09<tr>
+=09=09=09=09<td style=3D"padding-top:20px;">
+=09=09=09=09=09<table width=3D"470" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0">
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td width=3D"470">
+=09=09=09=09=09=09=09=09<img src=3D"http://www.bell.ca/web/common/all_langu=
+ages/all_regions/images/cce/MEC_BodyOutlineTopBorder.gif" alt=3D"" height=
+=3D"7" width=3D"470" style=3D"border: 0; padding: 0; margin: 0; vertical-al=
+ign: bottom; display: block;">
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td width=3D"470" style=3D"padding-top:13px; padding-b=
+ottom:20px; padding-left:20px; padding-right:20px; border-left:1px solid #c=
+ccccc; border-right:1px solid #cccccc; text-align: left;">
+=09=09=09=09=09=09=09=09<!-- AREA7: SALUTATION BEGIN -->
+=09=09=09=09=09=09=09=09<!-- MEC_area7_default_fr -->
+<span style=3D"display:block; color: #999999; font-size: 14px; font-family:=
+ Arial, Verdana, Helvetica, Sans-Serif">Bonjour PETER ANGNATUK,</span></td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td width=3D"470" style=3D"padding-left:20px; padding-=
+right:20px; border-left:1px solid #cccccc; border-right:1px solid #cccccc; =
+vertical-align:bottom; text-align: left;">
+=09=09=09=09=09=09=09=09<!-- AREA1: MAIN BEGIN -->
+=09=09=09=09=09=09=09=09<!-- MEC_area1_ViewBills_fr -->
+<span style=3D"display:block; color:#666666; font-size:14px; font-family: A=
+rial,Verdana,Helvetica,sans-serif; font-weight:bold; ">Votre facture &eacut=
+e;lectronique est pr&ecirc;te &agrave; &ecirc;tre consult&eacute;e sur MonB=
+ell.<br />
+    <br />
+</span> <span style=3D"display:block; color:#999999; font-size: 14px; font-=
+family: Arial,Verdana,Helvetica,sans-serif;">Nous vous invitons &agrave; pr=
+endre le temps de consulter votre facture &eacute;lectronique ainsi que tou=
+t changement important concernant votre service.=20
+</span><br />
+<br />
+=09=09=09=09=09=09=09=09<!-- AREA1: MAIN END -->
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td width=3D"470" style=3D"padding-bottom:20px; paddin=
+g-left:20px; padding-right:20px; border-left:1px solid #cccccc; border-righ=
+t:1px solid #cccccc; vertical-align:bottom; text-align: left;">
+=09=09=09=09=09=09=09=09<!-- AREA8: SECONDARY BEGIN -->
+=09=09=09=09=09=09=09=09<!-- MEC_blank_fr -->
+<span style=3D"font-family: Arial,Verdana,Helvetica,sans-serif; font-size: =
+0px; color:#555555;">
+=09=09=09=09=09=09=09=09<!-- AREA8: SECONDARY END -->
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td width=3D"470" style=3D"padding-bottom:20px; paddin=
+g-left:20px; padding-right:20px; border-left:1px solid #cccccc; border-righ=
+t:1px solid #cccccc; vertical-align:bottom; text-align: left;">
+=09=09=09=09=09=09=09=09<!-- AREA5: REGULATORY BEGIN -->
+=09=09=09=09=09=09=09=09<!-- MEC_blank_fr -->
+<span style=3D"font-family: Arial,Verdana,Helvetica,sans-serif; font-size: =
+0px; color:#555555;">
+=09=09=09=09=09=09=09=09<!-- AREA5: REGULATORY END -->
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td width=3D"470" style=3D"padding-bottom:13px; paddin=
+g-left:20px; padding-right:20px; border-left:1px solid #cccccc; border-righ=
+t:1px solid #cccccc; vertical-align:bottom; text-align: left;">
+=09=09=09=09=09=09=09=09<!-- AREA2: LOGIN BEGIN -->
+=09=09=09=09=09=09=09=09<!-- MEC_area2_default_en -->
+<a href=3D"https://mybell.bell.ca/Login?refreshlink=3Dhttps://mybell.bell.c=
+a/sso/ssoauth.aspx?ReturnUrl=3D/PunchInOut/punchin?DirectAccess=3DOneBillVi=
+ewBill#EXT=3DONE_Email_BTN_EbillLogin_7082013_ec_ViewBill_FR"><img src=3D"h=
+ttp://www.bell.ca/web/common/fr/all_regions/images/buttons/viewbill_btn_FR.=
+jpg" border=3D"0" alt=3D"" height=3D"52" width=3D"228"></a>
+=09=09=09=09=09=09=09=09<!-- AREA2: LOGIN END -->
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td width=3D"470">
+=09=09=09=09=09=09=09=09<img src=3D"http://www.bell.ca/web/common/all_langu=
+ages/all_regions/images/cce/MEC_BodyOutlineBottomBorder.gif" alt=3D"" heigh=
+t=3D"7" width=3D"470" style=3D"border: 0; padding: 0; margin: 0; vertical-a=
+lign: top; display: block">
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>=09=09=09=09
+=09=09=09=09=09</table>
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09<tr>
+=09=09=09=09<td style=3D"padding-top:20px;">
+=09=09=09=09=09<!-- AREA4: SELF-SERVE BEGIN -->
+=09=09=09=09=09<!-- MEC_SELFSERVE_PreAuthPym_EbillPaper_NoBal_fr  -->
+<table width=3D"470" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+=09<tr>
+=09=09<td>
+=09=09=09<img src=3D"http://www.bell.ca/web/common/all_languages/all_region=
+s/images/cce/MEC_BodyOutlineTopBorder.gif" alt=3D"" height=3D"7" width=3D"4=
+70" style=3D"border: 0; padding: 0; margin: 0; vertical-align: bottom; disp=
+lay: block;">
+=09=09</td>
+=09</tr>
+=09<tr>
+=09=09<td style=3D"padding-top:10px; padding-bottom:0px; padding-left:20px;=
+ padding-right:20px; border-left:1px solid #cccccc; border-right:1px solid =
+#cccccc; vertical-align:bottom; text-align: center;">
+
+=09=09=09<table width=3D"428" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0">
+=09=09=09=09<tr>
+=09=09=09=09=09<td colspan=3D"2" width=3D"428" style=3D"padding-bottom:20px=
+; font-family: Arial,Verdana,Helvetica,sans-serif; color:#666666; font-size=
+:16px; text-align: left;">
+=09=09=09=09=09=09<span style=3D"font-weight:bold;">Pour gagner du temps, g=
+&eacute;rez vos factures en ligne :</span>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09=09<tr>
+=09=09=09=09=09<td width=3D"214" style=3D"color:#0066a4; vertical-align: to=
+p;" align=3D"left">
+=09=09=09=09=09=09<ul>
+=09=09=09=09=09=09=09<li style=3D"color:#0066a4;margin-bottom:20px;margin-l=
+eft: 0px;"><a style=3D"font-family: arial,helvetica,sans-serif;font-size: 1=
+4px;text-decoration: none;color: #0066a4;" href=3D"https://mybell.bell.ca/L=
+ogin?refreshlink=3Dhttps://mybell.bell.ca/sso/ssoauth.aspx?ReturnUrl=3D/Pun=
+chInOut/punchin?https://mybell.bell.ca/Login?refreshlink=3Dhttps://mybell.b=
+ell.ca/sso/ssoauth.aspx?ReturnUrl=3D/PunchInOut/punchin?DirectAccess=3DOneB=
+illViewBill&amp;language=3Dfr&amp;EXT=3DEBN_SS_Q12009_EBillNotify_TXT_ON_FR=
+_balance_Regular1_FR">V&eacute;rifier le solde du compte</a> </li>
+=09=09=09=09=09=09=09<li style=3D"color:#0066a4;margin-left: 0px;"><a style=
+=3D"font-family: arial,helvetica,sans-serif;font-size: 14px;text-decoration=
+: none;color: #0066a4;" href=3D" https://mybell.bell.ca/Login?refreshlink=
+=3Dhttps://mybell.bell.ca/sso/ssoauth.aspx?ReturnUrl=3D/PunchInOut/punchin?=
+DirectAccess=3DOneBillBillingProfile&language=3Dfr&EXT=3DEBN_SS_Q12009_EBil=
+lNotify_TXT_ON_FR_gopaperless_Regular1_FR">Annuler la facture papier</a></l=
+i>
+=09=09=09=09=09=09</ul>
+=09=09=09=09=09</td>
+=09=09=09=09=09<td width=3D"214" style=3D"color:#0066a4; vertical-align: to=
+p;" align=3D"left">
+=09=09=09=09=09=09<ul>
+=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09<li style=3D"color:#0066a4;margin-left: 0px;margin-bot=
+tom:20px;"><a style=3D"font-family: arial,helvetica,sans-serif;font-size: 1=
+4px;text-decoration: none;color: #0066a4;" href=3D"https://mybell.bell.ca/L=
+ogin?refreshLink=3Dhttps://mybell.bell.ca/Punchin.aspx?DirectAccess=3DONEBI=
+LLBILLINGPROFILE#EXT=3DONE_Email_TXT_EBillNotify_8022013_ks_Updateprofile_F=
+R">Mettre &agrave; jour le profil de facturation</a></li>
+                            <li style=3D"color:#0066a4;margin-bottom:20px;m=
+argin-left: 0px;"><a style=3D"font-family: arial,helvetica,sans-serif;font-=
+size: 14px;text-decoration: none;color: #0066a4;" href=3D"https://mybell.be=
+ll.ca/ForgotPassword/RecoverPassword?EXT=3DEBN_SS_Q12009_EBillNotify_TXT_ON=
+_FR_resetpsw" target=3D"_blank">R&eacute;initialiser le mot de passe</a></l=
+i>
+=09=09=09=09=09=09</ul>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</table>
+
+=09=09</td>
+=09</tr>
+=09<tr>
+=09=09<td>
+=09=09=09<img src=3D"http://www.bell.ca/web/common/all_languages/all_region=
+s/images/cce/MEC_BodyOutlineBottomBorder.gif" alt=3D"" height=3D"7" width=
+=3D"470" style=3D"border: 0; padding: 0; margin: 0; vertical-align: top;dis=
+play: block">
+=09=09</td>
+=09</tr>
+</table>
+=09=09=09=09=09<!-- AREA4: SELF-SERVE END -->
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09<tr>
+=09=09=09=09<td style=3D"padding-top:20px;">
+=09=09=09=09=09<!-- AREA3: OFFER BEGIN -->
+=09=09=09=09=09<!-- MEC_area3_default_fr -->
+<a href=3D"https://mybell.bell.ca/Login?refreshLink=3Dhttps://mybell.bell.c=
+a/Punchin.aspx?DirectAccess=3DPROGRAMMINGCHANGE#EXT=3DONE_Email_BAN_SelfSer=
+ve2014_07012014_ec_TVProgramming_FR">
+=09<img src=3D"http://www.bell.ca/Styles/web/resources/images/content/banne=
+r_SelfServe_TV-programming_ebill_fr.jpg" border=3D"0" alt=3D"" height=3D"20=
+0" width=3D"470">
+</a>
+=09=09=09=09=09<!-- AREA3: OFFER END -->
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09
+=09=09=09<!-- FOOTER START -->
+=09=09=09<tr>
+=09=09=09=09<td style=3D"padding-top:20px;">
+=09=09=09=09=09<table width=3D"470" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" align=3D"center">
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td style=3D"border-right:2px solid #cccccc; vertical-=
+align:middle; text-align: center;">
+=09=09=09=09=09=09=09=09<a href=3D"http://soutien.bell.ca/Facturation-et-co=
+mptes#EXT=3DEBN_SS_20071001_FAQ_TXT_ON_FR" style=3D"font-family: Arial,Verd=
+ana,Helvetica,sans-serif; color:#0066a4; font-size:12px; text-decoration: n=
+one;">Soutien</a>
+=09=09=09=09=09=09=09</td>=20
+=09=09=09=09=09=09=09<td style=3D"border-right:2px solid #cccccc; vertical-=
+align:middle; text-align: center;">
+=09=09=09=09=09=09=09=09<a href=3D"http://www.bell.ca/Avis_juridiques#EXT=
+=3DEBN_SS_20071001_legal_TXT_ON_FR" style=3D"font-family: Arial,Verdana,Hel=
+vetica,sans-serif; color:#0066a4; font-size:12px; font-size: 12px;text-deco=
+ration: none;">Avis juridique</a>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09<td style=3D"border-right:2px solid #cccccc; vertical-=
+align:middle; text-align: center;">
+=09=09=09=09=09=09=09=09<a href=3D"http://soutien.bell.ca/Facturation-et-co=
+mptes/Securite_et_confidentialite/Bell_et_votre_vie_privee?myurl=3DCSQ&EXT=
+=3DEBN_SS_20071001_security_TXT_ON_FR&alt=3Dtrue" style=3D"font-family: Ari=
+al,Verdana,Helvetica,sans-serif; color:#0066a4; font-size:12px; text-decora=
+tion: none;">Confidentialit&eacute;</a>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09<td style=3D"border-right:2px solid #cccccc; vertical-=
+align:middle; text-align: center;">
+=09=09=09=09=09=09=09=09<a href=3D"http://soutien.bell.ca/Telephonie/Commen=
+t_transferer_mes_services_Bell#EXT=3DEBN_SS_20071001_Moving_TXT_ON_FR" styl=
+e=3D"font-family: Arial,Verdana,Helvetica,sans-serif; color:#0066a4; font-s=
+ize:12px; text-decoration: none; ">D&eacute;m&eacute;nagement</a>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09<td style=3D"vertical-align:middle; text-align: center=
+;">
+=09=09=09=09=09=09=09=09<a href=3D"http://www.bell.ca/Accueil#EXT=3DEBN_SS_=
+20071001_hp_TXT_ON_FR" style=3D"font-family: Arial,Verdana,Helvetica,sans-s=
+erif; color:#0066a4; font-size:12px; text-decoration: none;">bell.ca</a>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td colspan=3D"5" style=3D"padding-top:15px; font-fami=
+ly: Arial,Verdana,Helvetica,sans-serif; color:#999999; font-size:12px; vert=
+ical-align:middle; text-align: center;">Bureau du secr&eacute;taire de Bell=
+ Canada,<br>
+=09=09=09=09=09=09=09  Bell T&eacute;l&eacute; Satellite (Bell ExpressVu), =
+Bell Mobilit&eacute;, Bell M&eacute;dia et Bell Aliant.&nbsp;<br>
+=09=09=09=09=09=09=09  1, carrefour Alexander-Graham-Bell, Aile A-7,<br>
+=09=09=09=09=09=09=09  Verdun, Qu&eacute;bec, H3E 3B3<br>
+=09=09=09=09=09=09=09  <br>
+=09=09=09=09=09=09    &copy; Bell Canada, 2014. Tous droits r&eacute;serv&e=
+acute;s.</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09</table>
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09<!-- FOOTER END -->
+=09=09</table>=09
+=09<img src=3D"https://servicemobilite.bell.ca/images/track.png?nId=3D1532&=
+cId=3D71360900" height=3D"1" width=3D"1" /></body>
+</html>=09
+------=_Part_60905_386041568.1406983777741--
+
+

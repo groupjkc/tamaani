@@ -1,0 +1,1340 @@
+Return-Path: <BudgetConfirmations@budgetgroup.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on tamaani.ca
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.2 required=7.0 tests=BAYES_00,HTML_MESSAGE,
+	MIME_HTML_ONLY,MIME_QP_LONG_LINE,T_REMOTE_IMAGE,UNPARSEABLE_RELAY
+	autolearn=no version=3.3.1
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from mail1.bemta8.messagelabs.com (mail1.bemta8.messagelabs.com [216.82.243.207])
+	by tamaani.ca (Postfix) with ESMTP id BEE30648C7
+	for <aarngak@tamaani.ca>; Sat,  6 Sep 2014 10:58:32 -0400 (EDT)
+Received: from [216.82.241.196:18313] by server-15.bemta-8.messagelabs.com id 31/5A-03375-8112B045; Sat, 06 Sep 2014 14:58:32 +0000
+X-Env-Sender: BudgetConfirmations@budgetgroup.com
+X-Msg-Ref: server-16.tower-46.messagelabs.com!1410015510!36496740!1
+X-Originating-IP: [170.225.12.169]
+X-StarScan-Received: 
+X-StarScan-Version: 6.11.3; banners=budgetgroup.com,-,-
+X-VirusChecked: Checked
+Received: (qmail 22307 invoked from network); 6 Sep 2014 14:58:31 -0000
+Received: from bdpsinfmail31.avisbudget.com (HELO bdpsinfmail31.avisbudget.com) (170.225.12.169)
+  by server-16.tower-46.messagelabs.com with SMTP; 6 Sep 2014 14:58:31 -0000
+Received: from cabcrap013 ([170.225.13.4])
+	by bdpsinfmail31.avisbudget.com (AIX6.1/8.14.4/8.14.3) with ESMTP id s86F0Qkl131348
+	for <aarngak@tamaani.ca>; Sat, 6 Sep 2014 11:00:27 -0400
+Date: Sat, 6 Sep 2014 11:00:26 -0400
+From: BudgetConfirmations@budgetgroup.com
+To: aarngak@tamaani.ca
+Message-ID: <130007226.37177.1410015510225.JavaMail.BudgetConfirmations@budgetgroup.com>
+Subject: Budget Reservation Confirmation - Sat, Sep 06, 2014 1:30 PM
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_Part_37176_1038135781.1410015510169"
+
+------=_Part_37176_1038135781.1410015510169
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html>=20
+<head>
+<title>Welcome to Budget.com</title> =20
+<script language=3D"JavaScript" src=3D"http://www.budget.com/budgetWeb/htm=
+l/js/en/common/expandBox.js"></script>
+<script language=3D"JavaScript" src=3D"http://www.budget.com/budgetWeb/htm=
+l/js/en/common/changeBox.js"></script>
+<script language=3D"JavaScript" type=3D"text/JavaScript">   =20
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+<style>
+
+div .helpCMS font {
+border:0 none;
+color:#666666 !important;
+font-family:Arial,Helvetica,sans-serif !important;
+font-size:11px !important;
+margin:0;
+padding:0;
+}
+
+.11PxWht
+=09{font-family:Arial,Helvetica,sans-serif;
+=09font-size:11px;
+=09color:#FFFFFF}
+.bookingtext
+=09{font-family:Arial,Helvetica,sans-serif;
+=09font-size:11px;
+=09color:#44476A}
+.bookingtext a:link
+=09{font-family:Arial,Helvetica,sans-serif;
+=09font-size:11px;
+=09color:#44476A;
+=09text-decoration:underline}
+.bookingtext a:hover
+=09{font-family:Arial,Helvetica,sans-serif;
+=09font-size:11px;
+=09color:#000000;
+=09text-decoration:underline}
+.bookingtextbigger
+=09{font-family:Arial,Helvetica,sans-serif;
+=09font-size:12px;
+=09color:#44476A;
+=09line-height:20px}
+.bookingtextblack
+=09{font-family:Arial,Helvetica,sans-serif;
+=09font-size:11px;
+=09color:#000000;
+=09font-weight:bold;
+=09line-height:17px}
+.bookingtextblack2
+=09{font-family:Arial,Helvetica,sans-serif;
+=09font-size:11px;
+=09color:#000000;
+=09font-weight:normal}
+.bookingtextblack3
+=09{font-family:Arial,Helvetica,sans-serif;
+=09font-size:11px;
+=09color:#333333}
+.bookingtextblackhuge
+=09{font-family:Arial,Helvetica,sans-serif;
+=09font-size:18px;
+=09color:#000000;
+=09font-weight:bold;
+=09line-height:20px}
+.bookingtextSmall
+=09{font-family:Arial,Helvetica,sans-serif;
+=09font-size:10px;
+=09color:#44476A}
+.car_desc
+=09{font-family:Arial,Helvetica,sans-serif;
+=09font-size:14px;
+=09color:#003366;
+=09font-weight:bold}
+.car_descsmall
+=09{font-family:Arial,Helvetica,sans-serif;
+=09font-size:11px;
+=09color:#333366;
+=09font-weight:bold}
+.paddingLeft
+=09{margin-left:6px}
+.widgettextSmall
+=09{font-family:Arial,Verdana,Helvetica,sans-serif;
+=09color:#000000;
+=09font-size:10px}
+.topT
+=09{border-right-width:1px;
+=09border-bottom-width:1px;
+=09border-left-width:1px;
+=09border-right-style:solid;
+=09border-bottom-style:solid;
+=09border-left-style:solid;
+=09border-right-color:#22266E;
+=09border-bottom-color:#22266E;
+=09border-left-color:#20246D}
+.tenPixBlu
+=09{font-family:Arial,Helvetica,sans-serif;
+=09font-size:10px;
+=09color:#003366}
+.tenPixBlu a
+=09{color:#003366}
+.elevnPxBlu
+=09{font-family:Arial,Helvetica,sans-serif;
+=09font-size:11px;
+=09color:#003366}
+.elevnPxBlu a
+=09{color:#003366}
+.frtnPxBluBld
+=09{font-family:Arial,Helvetica,sans-serif;
+=09font-size:14px;
+=09font-weight:bold;
+=09color:#003366}
+.twlvPxOrng
+=09{font-family:Arial,Helvetica,sans-serif;
+=09font-size:12px;
+=09color:#FF7300}
+.thrtnPxOrng
+=09{font-family:Arial,Helvetica,sans-serif;
+=09font-size:13px;
+=09color:#FF7300}
+.frtnPxOrng
+=09{font-family:Arial,Helvetica,sans-serif;
+=09font-size:14px;
+=09color:#FF7300}
+.thrtnPxBlk
+=09{font-family:Arial,Helvetica,sans-serif;
+=09font-size:13px;
+=09color:#FF7300}
+
+.sub_item {
+font-weight:normal;
+padding:1px 0;
+}
+=20
+</style>
+</head>
+
+<body>
+<table width=3D"603" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgco=
+lor=3D"#ffffff">
+  <tr>
+    <td><img src=3D"http://www.budget.com/budgetWeb/images/common/email/hd=
+r.gif" width=3D"603" height=3D"51"></td>
+  </tr>
+</table>
+
+<table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" clas=
+s=3D"topT">
+<tr>
+=09=09=09=09=09=09=09=09=09=09=09  <td colspan=3D"2">
+=09=09=09=09=09=09=09=09=09=09=09  <table width=3D"100%" height=3D"24" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"2">
+=09=09=09=09=09=09=09=09=09=09=09=09  <tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td><span class=3D"bookingtext"><im=
+g src=3D"http://www.budget.com/budgetWeb/images/common/confirmation/addIco=
+n.gif" align=3D"absmiddle"> <a href=3D"http://www.budget.com/budgetWeb/res=
+ervation/initializer.ex?action=3Dreset">make
+=09=09=09=09=09=09=09=09=09=09=09=09=09  another reservation</a></span></t=
+d>
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td><span class=3D"bookingtext"><im=
+g src=3D"http://www.budget.com/budgetWeb/images/common/confirmation/editIc=
+on.gif" align=3D"absmiddle"> <a href=3D"http://www.budget.com/budgetWeb/re=
+servation/bridge.ex?LAST_NAME=3DAARGNAK&CONFIRM_NUM=3D48117990FR4&transTyp=
+e=3Dmodify&fromForm=3Dmail">change=20reservation</a></span></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td><span class=3D"bookingtext"><im=
+g src=3D"http://www.budget.com/budgetWeb/images/common/confirmation/cancel=
+Icon.gif" align=3D"absmiddle"> <a href=3D"http://www.budget.com/budgetWeb/=
+reservation/bridge.ex?LAST_NAME=3DAARGNAK&CONFIRM_NUM=3D48117990FR4&transT=
+ype=3Dview&fromForm=3Dmail">cancel
+=09=09=09=09=09=09=09=09=09=09=09=09=09  reservation</a></span></td>
+=09=09=09=09=09=09=09=09=09=09=09=09  </tr>
+=09=09=09=09=09=09=09=09=09=09=09=09  <tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td><span class=3D"bookingtext"><im=
+g src=3D"http://www.budget.com/budgetWeb/images/common/confirmation/calend=
+arIcon.gif" align=3D"absmiddle"> <a href=3D"http://www.budget.com/budgetWe=
+b/jsp/common/reservation/AddToOutlook.jsp?wtfConfNum=3D48117990FR4&firstNa=
+me=3DALASIE&lastName=3DAARGNAK&puLoc=3D975 ROMEO VACHON BLVD N/LV3 - MONTR=
+EAL TRUDEAU INTL AIRPORT DORVAL&puCode=3DYUL&puDateForMail=3D20140906T1930=
+00Z&puOperatingHours=3DMon-Fri 6:00 AM - 1:00 AM  ; Sat 7:00 AM - 1:00 AM =
+; Sun 7:00 AM - 1:00 AM&puFormattedDate=3DSat, Sep 6, 2014 01:30 PM 01:30 =
+PM&doLoc=3D975 ROMEO VACHON BLVD N/LV3 MONTREAL TRUDEAU INTL AIRPORT DORVA=
+L&doCode=3DYUL&doDateForMail=3D20140908T190000Z&doOperatingHours=3DMon-Fri=
+ 6:00 AM - 1:00 AM ; Sat 7:00 AM - 1:00 AM ; Sun 7:00 AM - 1:00 AM&doForma=
+ttedDate=3DMon, Sep 8, 2014 01:00 PM 01:00 PM&vMakeModel=3DCHEVROLET IMPAL=
+A LTD 4DR/5P">add to outlook</a></span></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td><span class=3D"bookingtext"><im=
+g src=3D"http://www.budget.com/budgetWeb/images/common/confirmation/compas=
+sIcon.gif" align=3D"absmiddle">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://www.budget.com/bu=
+dgetWeb/locationsearch/driving.ex?pul=3DYUL&action=3DresConfirm">driving d=
+irections</a></span></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td><span class=3D"bookingtext">=
+<img src=3D"http://www.budget.com/budgetWeb/images/common/confirmation/tcI=
+con.gif" align=3D"absmiddle"> <a href=3D"#terms">rental terms  &amp; condi=
+tions</a></span></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09  </tr>
+=09=09=09=09=09=09=09=09=09=09=09=09  <tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td colspan=3D"3" height=3D"5" vali=
+gn=3D"bottom"><img src=3D"http://www.budget.com/budgetWeb/images/common/em=
+ail/divider.gif" width=3D"100%" height=3D"2"></td>
+=09=09=09=09=09=09=09=09=09=09=09=09 </tr>
+=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr> =20
+  <tr>
+    <td><table width=3D"100%"  border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+      <tr>
+        <td colspan=3D"2">
+=09=09<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0">
+=09=09  <tr>
+=09=09    <td valign=3D"top">
+=09=09=09<table width=3D"100%" height=3D"24" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"5" bgcolor=3D"#FFFFFF">
+=09=09=09=09<tr valign=3D"top">
+=09=09=09=09=09<td align=3D"left">
+=09=09=09=09=09=09<table width=3D"100%"  border=3D"0" cellspacing=3D"3" ce=
+llpadding=3D"0">
+=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09<td>
+=09=09=09=09=09=09=09=09=09<font color=3D"#FF7300" size=3D"2" face=3D"Aria=
+l, Helvetica, sans-serif"><span class=3D"frtnPxOrng"><strong>YOUR RENTAL I=
+S RESERVED.</strong></span></font>
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09<td class=3D"bookingtextbigger"><font color=3D"#44=
+476A" size=3D"2" face=3D"Arial, Helvetica, sans-serif"> <strong> Confirmat=
+ion number  <font color=3D"#003366" size=3D"3" face=3D"Arial, Helvetica, s=
+ans-serif"><span class=3D"car_desc">48117990FR4</span></font></strong></fo=
+nt>
+=09=09=09=09=09=09=09=09<br>
+=09=09=09=09=09=09=09=09<span class=3D"bookingtext"><img=20src=3D"http://w=
+ww.budget.com/budgetWeb/images/common/confirmation/tcIcon.gif" align=3D"ab=
+smiddle"> <a href=3D"#terms">Rental terms &amp; conditions apply</a></span=
+>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09</tr>=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09<tr>
+                                                               =20
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09<td>
+=09=09=09=09=09=09   <font color=3D"#44476A" size=3D"2" face=3D"Arial, Hel=
+vetica, sans-serif"><span class=3D"bookingtextbigger"><strong>
+=09=09=09=09=09=09  =20
+=09=09=09   =09=09   =20
+   =09=09=09   =09=09    Total confirmed rate 161.28 CAD
+=09=09=09=09
+=09=09=09=09=09=09   </strong></span></font>
+=09=09=09=09=09=09   =09=09</td>
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09  <td><font color=3D"#44476A" size=3D"2" face=3D"Aria=
+l, Helvetica, sans-serif"><span class=3D"bookingtextblack2"><strong>Thanks=
+ for renting at budget.com. Have a pleasant trip!</strong></span></font></=
+td>
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09<td>
+=09=09=09=09=09=09=09
+=09=09=09=09=09=09   =09=09</td>
+=09=09=09=09=09=09=09</tr>
+
+=09=09=09=09=09=09=09
+
+=09=09=09=09=09=09=09
+
+=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09
+=09=09=09=09=09=09</table>
+=09=09=09=09=09</td>
+=09=09=09=09=09<td align=3D"right">
+=09=09=09=09=09=09<table width=3D"246" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"2" bgcolor=3D"#666699">
+=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09  <td>
+=09=09=09=09=09=09=09=09  <table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" bgcolor=3D"#FFFFFF">
+=09=09=09=09=09=09=09=09=09  <tr>
+=09=09=09=09=09=09=09=09=09=09<td width=3D"246">
+=09=09=09=09=09<img src=3D"http://www.budget.com/budgetWeb/images/common/d=
+fp/logos.gif" width=3D"246" height=3D"34" />
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09  </tr>
+=09=09=09=09=09=09=09=09=09  <tr>
+=09=09=09=09=09=09=09=09=09=09<td height=3D"32" align=3D"center">
+=09=09=09=09=09=09=09=09=09=09<font color=3D"#003366" size=3D"1" face=3D"A=
+rial, Helvetica, sans-serif">
+=09=09=09=09=09=09=09=09=09=09=09<span class=3D"elevnPxBlu">
+=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09budget.com online ID:<br />
+=09=09=09=09=09=09=09=09=09=09=09</span>
+=09=09=09=09=09=09=09=09=09=09</font>
+=09=09=09=09=09=09=09=09=09=09<strong><font color=3D"#FF6600" size=3D"2" f=
+ace=3D"Arial, Helvetica, sans-serif">
+=09=09=09=09=09=09=09=09=09=09=09<span class=3D"twlvPxOrng">
+=09=09=09=09=09=09=09=09=09=09=09=09aarngak@tamaani.ca
+=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09</span>
+=09=09=09=09=09=09=09=09=09=09</font></strong>
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09  </tr>
+=09=09=09=09=09=09=09=09=09  <tr>
+=09=09=09=09=09=09=09=09=09=09<td height=3D"56" align=3D"center"><em><font=
+ color=3D"#003366" size=3D"2" face=3D"Arial, Helvetica, sans-serif"><span =
+class=3D"elevnPxBlu">Use this ID on <a href=3D"http://www.budget.com" targ=
+et=3D"_blank">BUDGET.COM</a> for a future rental.</span></font><br />
+=09=09=09=09=09=09=09=09=09=09  <strong><font color=3D"#003366" size=3D"2"=
+ face=3D"Arial, Helvetica, sans-serif"><span class=3D"elevnPxBlu"><span cl=
+ass=3D"elevnPxBluBld"><span class=3D"tenPxBluBld">You'll get* <em>Rent Mor=
+e, Save More Rates</em><br /> which include a 10-20% discount!</span></spa=
+n> </span></font></strong><font color=3D"#003366" size=3D"-2" face=3D"Aria=
+l, Helvetica, sans-serif"><span class=3D"tenPixBlu"><br />
+=09=09=09=09=09=09=09=09=09=09  *after completing your first <span class=3D=
+"tenPixBlu"><a href=3D"http://www.budget.com/budgetWeb/home/home.ex?action=
+=3Ddfpoverview" target=3D"_blank">eligible rental</a>.</span></font><em></=
+td>
+=09=09=09=09=09=09=09=09=09  </tr>
+=09=09=09=09=09=09=09=09=09=20
+=09=09=09=09=09=09=09=09=09  <tr>
+=09=09=09=09=09=09=09=09=09=09<td><img src=3D"http://www.budget.com/budget=
+Web/images/common/dfp/scissors.gif" width=3D"246" height=3D"22" /></td>
+=09=09=09=09=09=09=09=09=09  </tr>
+=09=09=09=09=09=09=09=09  </table>
+=09=09=09=09=09=09=09  </td>
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<table width=3D"250" border=3D"0" cellspacing=3D"1" cell=
+padding=3D"0">
+=09=09=09=09=09=09=09<tr bgcolor=3D"#FFFFFF">
+=09=09=09=09=09=09=09  <td width=3D"250"><font color=3D"#003366" size=3D"-=
+2" face=3D"Arial, Helvetica, sans-serif"><span class=3D"tenPixBlu"><a href=
+=3D"http://www.budget.com/budgetWeb/home/home.ex?action=3Ddfpoverview" tar=
+get=3D"_blank"><em>Rent More, Save More</em> terms and conditions</a>.</sp=
+an></font></td>
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</table>
+
+
+=09=09   </td>
+=09      </tr>
+=09=09<tr>
+=09=09    <td style=3D"padding-left:5px;padding-right:5px;"><img src=3D"ht=
+tp://www.budget.com/budgetWeb/images/common/divider.gif" width=3D"100%" he=
+ight=3D"2"></td>
+=09=09</tr>
+=09=09<tr>
+=09=09    <td>
+=09=09=09<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"5">
+=09=09        <tr>
+=09=09          <td valign=3D"top" style=3D"padding-left:5px;">
+=09=09=09=09<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+=09=09              <tr>
+=09=09                <td valign=3D"top">
+=09=09=09=09=09<table width=3D"100%"  border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"1">
+=09=09                    <tr>
+=09=09                      <td width=3D"55%" valign=3D"top">
+=09=09=09=09=09=09<table width=3D"100%"  border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"1">
+=09=09                  =20       <tr>
+=09=09                            <td width=3D"100%" class=3D"bookingtextB=
+igger"><strong>pick-up</strong> </td>
+=09=09                          </tr>
+=09=09                          <tr>
+=09=09                            <td><font color=3D"#000000" size=3D"1" f=
+ace=3D"Arial, Helvetica, sans-serif"><span class=3D"bookingtextblack"><str=
+ong> Sat, Sep 06, 2014 01:30 PM</strong><br>
+                              =09=09 <!-- Pickup location details start --=
+>
+                        =09=09=09MONTREAL TRUDEAU INTL AIRPORT - YUL<br>97=
+5 ROMEO VACHON BLVD N/LV3<br>DORVAL, PQ H4Y 1H1 CA</span></font></td>
+
+                          =09=09  </tr>
+=09=09=09                      <!-- start hours processing -->
+=09=09=09=09=09      <tr>
+=09                  =09=09    =09=09<td><span class=3D"bookingtextblack2"=
+><strong>hours </strong><strong>Sun </strong>7:00 AM - 1:00 AM; <strong>Mo=
+n - Fri </strong>6:00 AM - 1:00 AM; <strong>Sat </strong>7:00 AM - 1:00 AM=
+</span></td>
+                          =09=09=09  </tr>
+=09=09                            <!-- end hours processing -->
+=09=09=09=09=09    <!-- set fastbreak -->
+=09=09=09=09=09    <tr>
+=09                  =09=09    =09=09<td>
+=09=09=09=09=09=09=09<font color=3D"#000000" size=3D"1" face=3D"Arial, Hel=
+vetica, sans-serif"><span class=3D"bookingtextblack2"><strong>phone </stro=
+ng>514-636-0052<br><br>
+                  =09         =09=09=09</td>
+                          =09=09=09  </tr>
+=09=09=09=09=09=09 =20
+=09=09=09=09=09=09
+=09=09=09=09=09    <!-- end fastbreak -->
+            =09=09               </table>
+=09=09=09</td>
+=09=09
+=09=09<td align=3D"left" class=3D"bookingtextbig" valign=3D"top">     =09 =
+          =20
+=09=09
+=09=09=09=09<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"1">
+=09=09=09=09  <tr>
+=09=09=09=09    <td valign=3D"top" >
+=09=09=09=09=09=09<table width=3D"100%" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0">
+=09=09=09=09=09<tr>
+=09=09=09=09=09  <td valign=3D"top"><table width=3D"100%"  border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"1">
+=09=09=09=09=09      <tr>
+=09=09=09=09=09=09<td width=3D"44%" valign=3D"top">
+=09=09=09=09=09=09=09=09<table width=3D"100%"  border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"1">
+=09=09=09=09=09=09    <tr>
+=09=09=09=09=09=09      <td width=3D"100%" class=3D"bookingtextBigger"><st=
+rong>return</strong> </td>
+=09=09=09=09=09=09    </tr>
+=09=09=09=09=09=09    <tr>
+=09=09=09=09=09=09      <td><font color=3D"#000000" size=3D"1" face=3D"Ari=
+al, Helvetica, sans-serif"><span class=3D"bookingtextblack"> <strong> Mon,=
+ Sep 08, 2014 01:00 PM</strong> <br>
+=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09  <!-- DropOff location details start -->
+=09=09=09=09=09=09=09  MONTREAL TRUDEAU INTL AIRPORT - YUL<br>975 ROMEO VA=
+CHON BLVD N/LV3<br>DORVAL, PQ H4Y 1H1 CA</span></font></td>
+=09=09=09=09=09=09    </tr>
+=09=09=09=09=09=09   =20
+=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09    <tr>
+=09=09=09=09=09=09      <td width=3D"100%"><!-- start hours processing -->=
+
+=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09     =20
+=09=09=09=09=09=09=09      <!-- end hours processing -->
+=09=09=09=09=09=09=09</table></td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09                             =09=09=20
+=09=09=09=09=09=09=09=20
+=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09      <!-- set fastbreak -->
+=09=09=09=09=09     =20
+=09=09=09=09=09=09
+
+=09=09=09=09=09      <!-- end fastbreak -->
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</table>=09=09=09=09=09
+=09     =09         </td>      =09           =20
+
+=09=09
+=09=09
+      =09             </td>
+      =09      =20
+=09=09
+=09=09
+            =09     </tr>
+                =09 </table>
+=09=09    </td>
+              </tr>
+          </table>
+=09</td>
+    </tr>
+  </table>
+       =20
+        <!-- End Pickup location details -->
+  <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"5">
+=09
+  <!-- End Drop off location details -->
+ =20
+
+  =09    <tr>
+   =09=09 <td colspan=3D"2"><img src=3D"http://www.budget.com/budgetWeb/im=
+ages/common/divider.gif" width=3D"100%" height=3D"2"></td>
+  =09   </tr>
+         <tr>
+           <td colspan=3D"2">
+           <table width=3D"100%" border=3D"0" cellspacing=3D"5" cellpaddin=
+g=3D"1">
+             <tr>
+                <td valign=3D"top" width=3D"84"><span class=3D"bookingtext=
+black3"><strong>car</strong></span><br>
+              <span class=3D"bookingtextblack3">full-size 2- or 4-door<BR/=
+>automatic<BR/>air conditioned<br>
+=09      car class
+              E
+=09=09</span> <br>
+<span class=3D"bookingtextblack3">
+=09=09 smoke-free vehicle<br></span>
+          =09    </td>
+=09          <td width=3D"219" align=3D"center" valign=3D"top"> <strong cl=
+ass=3D"bookingtextBigger">CHEVROLET IMPALA LTD 4DR/5P=09</strong><br>
+
+=09   <font color=3D"#000000" size=3D"1" face=3D"Arial, Helvetica, sans-se=
+rif" ><span class=3D"bookingtextSmall"><em>or similar</em></span><br><br>
+=09  =20
+
+            <img src=3D"http://www.budget.com/budgetWeb/images/common/flee=
+t/2006/chevrolet_impala_2011_rate.gif" border=3D"0"> </td>
+
+           =20
+
+=09=09=09=09
+
+
+                <td width=3D"237" valign=3D"top"><strong class=3D"bookingt=
+extBigger">options</strong><br>
+=09=09
+=09=09
+=09=09
+=09=09
+=09=09
+=09=09
+=09=09<span class=3D"bookingtextBigger"><strong>equipment & services</stro=
+ng><br>
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09
+
+=09=09=09
+=09=09=09none<br>
+
+
+
+
+
+ <br>
+
+=09=09=09<br/><br/><strong>protections</strong><br>=20
+=09=09=09Loss Damage Waiver<br>
+
+=09=09=09    <strong>driver preferences</strong><br>smoke-free vehicle<br>=
+
+=09=09=09              =09
+                <!-- display none, if no insurance selected -->
+                </span></td>
+        =09 </tr>
+=09     =20
+             </table>
+        =20
+=09   <tr>
+=09    <td colspan=3D"2"><img src=3D"http://www.budget.com/budgetWeb/image=
+s/common/divider.gif" width=3D"100%" height=3D"2"></td>
+=09  </tr>
+=09  <tr valign=3D"top">
+=09    <td width=3D"50%">
+=09=09<table width=3D"274" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" bgcolor=3D"#FFFFFF">
+      =09  <tr>
+=09          <td align=3D"right" valign=3D"top" class=3D"bookingtext">
+=09=09=09<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"5">
+=09=09=09=09=09=09  <tr>
+=09=09=09=09=09=09    <td colspan=3D2 class=3D"bookingtextblack3">
+=09=09=09=09=09=09    <strong class=3D"bookingtextBigger">offer code(s)</s=
+trong><br/>
+
+=20
+<br/>
+
+
+
+
+=09
+=09=09
+=09=09=09=09   =20
+=09=09=09=09
+=09=09=09=09
+=09
+=09
+=09
+=09=09    =09=09=09=09
+=09<br>
+
+=09=20
+=09
+=09<strong>coupon</strong> none <br/>
+=09=09=09
+=09=09=09=09
+=09=09=09</td>
+=09=09      </tr>
+=09=09      <tr>
+=09=09=09=09<td colspan=3D"2"><img src=3D"http://www.budget.com/budgetWeb/=
+images/common/divider.gif" width=3D"100%" height=3D"2"></td>
+=09=09=09  </tr>
+=09=09      <tr>
+=09=09=09<td colspan=3D2 valign=3D"top">
+=09=09=09=09<p><strong><b><font size=3D1 color=3D"#44476a" face=3DArial><s=
+pan
+        style=3D'font-size:9.0pt;font-family:Arial;color:#44476A'>personal=
+ information</span></font></b></strong><br>
+=09=09=09=09
+=09=09=09=09<span class=3Dbookingtextblack31><font size=3D1 color=3D"#3333=
+33" face=3DArial><span
+        style=3D'font-size:8.5pt'>
+=09=09=09=09  Alasie  A*
+=09=09=09=09  </span></font></span><font size=3D1 color=3D"#333333" face=3D=
+Arial><span style=3D'font-size:8.5pt;font-family:
+        Arial;color:#333333'><br>
+=09<span class=3Dbookingtextblack31><font color=3D"#333333" face=3DArial>
+=09=09=09=09  aarngak@tamaani.ca</font></span><br>
+=09=09=09=09 =20
+=09=09=09=09  =20
+                                  =20
+=09=09=09=09RapidRez Number none <a href=3D"http://www.budget.com/budgetWe=
+b/html/en/freqrenters/personal/index.html" class=3D"10PxPurp"> <img src=3D=
+"http://www.budget.com/budgetWeb/images/common/optimost/home/02/question.g=
+if" width=3D"12" height=3D"11" border=3D"0" align=3D"absmiddle"> </a>
+=09=09=09=09
+=09=09=09=09<br>Residency FR
+=09=09=09=09<br>Age 25 or over
+                      =20
+=09=09=09=09 <br>
+=09=09=09=09 <br>
+=09=09=09=09 <br>
+=09=09=09=09=20
+=09=09=09=09<br>
+<span class=3Dbookingtextblack31><font color=3D"#333333" face=3DArial>
+=09=09=09=09 =20
+=09=09=09=09  *Although only your initial appears here, your entire name i=
+s in our reservation system.<br><br>
+=09=09=09=09  =20
+=09=09=09=09
+
+</font></span></span></font></p>
+=09=09=09</td>
+=09=09      </tr>
+         =09      </table>=09
+=09=09    </td>
+          =09 </tr>
+    =09     </table>
+=09  </td>
+        <td width=3D"50%" align=3D"right" bgcolor=3D"#FFFFFF">
+
+
+=09=09<table width=3D"224" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+">
+ =09=09<tr>
+=09=09<td width=3D"7"><img src=3D"http://www.budget.com/budgetWeb/images/c=
+ommon/email/side_nav_left_01.gif" width=3D"7" height=3D"25"></td>
+=09=09 <td align=3D"right" bgcolor=3D"#1F236C">
+=09=09<font color=3D"#FFFFFF" size=3D"2" face=3D"Arial, Helvetica, sans-se=
+rif"><span><strong>my confirmed rate </strong></span></font>
+=09=09</td>
+=09=09=20
+=09=09<td width=3D"7"><img src=3D"http://www.budget.com/budgetWeb/images/c=
+ommon/email/side_nav_right_01.gif" width=3D"7" height=3D"25"></td>
+ =09=09</tr>
+=09=09</table>
+=09=09<table width=3D"224" border=3D"0" cellpadding=3D"1" cellspacing=3D"0=
+" bgcolor=3D"#F1F2FB">
+ =09=09<tr>
+=09=09<td width=3D"150" align=3D"right" valign=3D"top"><font color=3D"#444=
+76A" size=3D"1" face=3D"Arial, Helvetica, sans-serif"><span class=3D"booki=
+ngtext"><strong>car<br>
+      </strong></span></font></td>
+   =09=09<td align=3D"right" valign=3D"bottom"><font color=3D"#44476A" siz=
+e=3D"1" face=3D"Arial, Helvetica, sans-serif"><strong><span class=3D"booki=
+ngtext">  50.00 </span></strong></font></td>
+ =09=09</tr>
+=09=09
+=09=09
+=09=09=09=09
+=09=09<tr>
+=09=09    <td width=3D"150" align=3D"right"><font color=3D"#44476A" size=3D=
+"1" face=3D"Arial, Helvetica, sans-serif"><span class=3D"11PxPurp">options=
+</span> </font></td>
+=09=09    <td align=3D"right"><font color=3D"#44476A" size=3D"1" face=3D"A=
+rial, Helvetica, sans-serif"><span class=3D"11PxPurp">
+=09=09=09
+=09=09=09=0957.90</span></font></td>
+=09=09</tr>
+=09=09
+
+=09  <tr>
+=09=09
+=09=09=09<td align=3D"right">
+=09=09=09=09=09<font color=3D"#44476A" size=3D"1" face=3D"Arial, Helvetica=
+, sans-serif">
+=09=09=09=09=09=09<span class=3D"11PxPurp">
+=09=09
+=09=09  <tr>
+=09=09    <td colspan=3D"2">
+=09=09      <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0"  class=3D"bookingtext" id=3D"optionsBox" style=3D"display:visible=
+";>
+=09=09=09 =20
+=09=09=09  =20
+=09=09=09=20
+=09=09=09=20
+=09=09=09 =20
+=09=09=09 =09=09=09 =20
+=09=09=09=20
+=09=09=09 =09=09=09 =20
+=09=09=09=20
+=09=09=09 =09=09=09 =20
+=09=09=09=20
+=09=09=09 =09=09=09 =20
+=09=09=09=20
+=09=09=09=20
+=09=09=09=20
+=09=09=09 =09=09=09
+=09=09=09=20
+=09=09
+=09
+=09=09=09  <tr>
+=09=09=09    <td width=3D"150" align=3D"right">protections</td>
+=09=09=09    <td align=3D"right">
+=09=09=09=09    57.90</td>
+=09=09=09  </tr>
+=09=09=09 =20
+=09=09=09 =20
+=09=09=09  <tr>
+=09=09=09=09<td align=3D"right">
+=09=09=09=09=09<font color=3D"#44476A" size=3D"1" face=3D"Arial, Helvetica=
+, sans-serif">
+=09=09=09=09=09=09<span class=3D"11PxPurp">Loss Damage Waiver</span>
+=09=09=09=09=09</font>
+=09=09=09=09</td>
+=09=09=09     <td align=3D"right">
+=09=09=09=09<font color=3D"#44476A" size=3D"1" face=3D"Arial, Helvetica, s=
+ans-serif">
+=09=09=09=09=09<span class=3D"11PxPurp">57.90 </span>
+=09=09=09=09</font>
+=09=09=09     </td>
+=09=09=09 </tr>
+
+
+
+
+
+
+
+=09=09<tr>
+=09=09    <td align=3D"right"><font color=3D"#44476A" size=3D"1" face=3D"A=
+rial, Helvetica, sans-serif"><span class=3D"bookingtext"></span></font><fo=
+nt color=3D"#44476A" size=3D"1" face=3D"Arial, Helvetica, sans-serif"><spa=
+n class=3D"bookingtext"><strong>fees &amp; taxes</strong></span></font></t=
+d>
+=09=09    <td align=3D"right">
+<font color=3D"#44476A" size=3D"1" face=3D"Arial, Helvetica, sans-serif"><=
+strong><span class=3D"11PxPurp">53.38</span></strong></font>
+
+
+=09=09    </td>
+=09=09</tr>
+=09=09<tr>
+<td align=3D"right"><font color=3D"#44476A" size=3D"1" face=3D"Arial, Helv=
+etica, sans-serif"><span class=3D"11PxPurp"><strong>fees</strong></span></=
+font></td>
+<td align=3D"right"><font color=3D"#44476A" size=3D"1" face=3D"Arial, Helv=
+etica, sans-serif"><strong><span class=3D"11PxPurp">32.38</span></strong><=
+/font></td>
+</tr>
+=09  <tr>
+=09    <td colspan=3D"2">
+=09      <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0"  class=3D"bookingtext" id=3D"taxesAndFeesBox" style=3D"display:visible=
+";>
+=09      =20
+=09=09
+
+=09=09<tr>
+=09=09=09=09<td width=3D"150" align=3D"right"><font color=3D"#44476A" size=
+=3D"1" face=3D"Arial, Helvetica, sans-serif"><span class=3D"11PxPurp">conc=
+ession recovery </span></font></td>
+=09=09=09=09<td align=3D"right"><font color=3D"#44476A" size=3D"1" face=3D=
+"Arial, Helvetica, sans-serif"><span class=3D"11PxPurp">19.54 </span></fon=
+t></td>
+=09=09=09</tr>
+
+=09=09
+
+=09=09<tr>
+=09=09=09=09<td width=3D"150" align=3D"right">car tax</td>
+=09=09=09=09<td align=3D"right">3.70 </td>
+=09=09=09</tr>
+=09=09
+
+=09=09
+
+=09=09
+=09=09
+
+=09=09
+
+
+              =20
+=09=09
+=09=09
+=09=09<tr>
+=09=09=09=09<td width=3D"150" align=3D"right"><font color=3D"#44476A" size=
+=3D"1" face=3D"Arial, Helvetica, sans-serif"><span class=3D"11PxPurp">fees=
+</span></font></td>
+=09=09=09=09<td align=3D"right">.70 </td>
+=09=09=09</tr>
+
+
+      =20
+
+
+=09<tr><td align=3D"right"><font color=3D"#44476A" size=3D"1" face=3D"Aria=
+l, Helvetica, sans-serif"><span class=3D"11PxPurp">ENERGY RECOVERY FEE
+   .98/day
+   =20
+      =20
+   </span> </font></td><td align=3D"right"><font color=3D"#44476A" size=3D=
+"1" face=3D"Arial, Helvetica, sans-serif"><span class=3D"11PxPurp">1.96  <=
+/span></font></td></tr>
+
+=09<tr><td align=3D"right"><font color=3D"#44476A" size=3D"1" face=3D"Aria=
+l, Helvetica, sans-serif"><span class=3D"11PxPurp">TIRE MANAGEMENT FEE
+   3.24/day
+   =20
+      =20
+   </span> </font></td><td align=3D"right"><font color=3D"#44476A" size=3D=
+"1" face=3D"Arial, Helvetica, sans-serif"><span class=3D"11PxPurp">6.48  <=
+/span></font></td></tr>
+
+
+=09
+
+=09
+
+=09
+=09
+
+=09
+
+=09
+
+=09
+
+
+
+=09
+
+=09
+=09
+
+=09
+
+=09
+
+=09
+
+=09
+
+=09
+
+=09=09=09
+=09=09<tr>
+=09=09=09=09<td width=3D"150" align=3D"right"><font color=3D"#44476A" size=
+=3D"1" face=3D"Arial, Helvetica, sans-serif"><span class=3D"11PxPurp"><str=
+ong>taxes</strong></span> </font></td>
+=09=09=09=09<td align=3D"right"><font color=3D"#44476A" size=3D"1" face=3D=
+"Arial, Helvetica, sans-serif"><strong><span class=3D"11PxPurp">21.00</spa=
+n></strong></font></td>
+=09=09=09</tr>
+=09=09
+=09=09
+=09=09  </table>
+=09=09</td>
+            =09</tr>
+            =09
+     =09
+=09=09=09</table>
+=09=09    </td>
+=09=09  </tr>
+=09=09=20
+=09=09=20
+=09=09=20
+=09=09=20
+=09=09
+
+=09=09 <tr>
+                <td height=3D"7" colspan=3D"2" align=3D"right" class=3D"11=
+PxWht"></td>
+              </tr>
+=09=09</table>
+=20
+            <table width=3D"224"  border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0">
+              <tr bgcolor=3D"#1B1F69">
+                <td height=3D"1" bgcolor=3D"#999999"><img src=3D"http://ww=
+w.budget.com/budgetWeb/images/common/spacer.gif" width=3D"169" height=3D"1=
+"></td>
+              </tr>
+            </table>
+            <table width=3D"224" border=3D"0" cellpadding=3D"4" cellspacin=
+g=3D"0" bgcolor=3D"#F1F2FB" class=3D"bookingtext">
+              <tr>
+                <td height=3D"7" align=3D"right" class=3D"bookingtextWhite=
+" colspan=3D"2"></td>
+              </tr>
+=09      <tr>
+                <td align=3D"right" valign=3D"bottom" class=3D"bookingtext=
+black">
+=09=09
+=09=09   =20
+
+=09=09    <span class=3D"bookingtextblack">rental total CAD</span>
+                                   =20
+                =09161.28
+=09=09=09
+=09=09</td>=09=09=09
+              </tr>
+
+=09     =20
+              <tr>
+                <td height=3D"7" align=3D"left" colspan=3D"2"></td>
+              </tr>
+              <tr>
+                <td align=3D"left" class=3D"sub_item" colspan=3D"2"><p>
+                              =09<b>EL&nbsp;rate terms</b><br/>
+=09
+                =09
+=09=09<img src=3D"http://www.budget.com/budgetWeb/images/common/summary/su=
+mm_bullet.gif" width=3D"6" height=3D"6">&nbsp;2 days 0 hour rental
+
+=09=09
+=09=09
+=09=09
+=09=09
+=09=09
+
+=09=09    <img src=3D"http://www.budget.com/budgetWeb/images/common/summar=
+y/summ_bullet.gif" width=3D"6" height=3D"6">&nbsp;    <span style=3D"color=
+:ff6600">unlimited free
+=09=09   =20
+
+=09=09   kilometers</span>
+=09=09   =20
+=20
+
+=09=09  =20
+=09=09
+=09=09<img src=3D"http://www.budget.com/budgetWeb/images/common/summary/su=
+mm_bullet.gif" width=3D"6" height=3D"6">&nbsp; Friday night stay required
+
+      <img src=3D"http://www.budget.com/budgetWeb/images/common/summary/su=
+mm_bullet.gif" width=3D"6" height=3D"6">&nbsp; return rental by Monday
+
+     =20
+
+     =20
+    =20
+     <br />
+      <br />These rate terms apply for this specific rental. If your renta=
+l parameters (pick up dates, times, etc.) change, the change must follow t=
+hese terms or your rate will also change.
+
+             =09 </p></td>
+=09=09
+              </tr>
+=09=09</table>
+
+
+
+
+
+=09</td>
+ =09</tr>
+
+=09<tr>
+=09=09<td colspan=3D"2">
+<img src=3D"http://www.budget.com/budgetWeb/images/common/divider.gif" wid=
+th=3D"100%" height=3D"2">
+=09=09</td>
+=09</tr>
+
+
+=09=09 <tr>
+=09=09 =09<td colspan=3D"2">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"4">
+  <tr>
+    <td colspan=3D"3" valign=3D"top"><table border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0">
+        <tr>
+          <td class=3D"bookingtextblack3"><table  border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0">
+              <tr>
+                <td class=3D"helpCMS"><p><br>
+                        <strong><span class=3D"bookingtext"><font size=3D"=
+3">Terms and Conditions</font></span></strong><a name=3D"terms"></a>
+=09=09=09<div class=3D"helpCMS">
+=09=09=09 <p><font size=3D"2"><strong>This isn&#39;t simply "fine print" o=
+ur lawyers ask us to include.</strong> This information will also prepare =
+you to bring <em>everything</em> you&#39;ll need to pick up your rental. (=
+We know it seems like a lot to read, but reviewing it now can save you a l=
+ot of time later!) Please review before pick up ... because we <em>really<=
+/em> want you to be happy with your Budget experience. See you soon!</font=
+></p>
+=09=09=09 </div> <br/>
+=09=09=09=09
+=09=09=09=09=09<div class=3D"helpCMS">
+=09=09=09 =09=09<!-- Start Terms and Conditions -->
+=09=09=09=09=09=09=09       =09  =09 <p>=09     =09         <a href=3D'#Op=
+tional Coverages' style=3D"text-decoration: underline"> Optional Coverages=
+ </a>=09=09 <br/>             =09         <a href=3D'#Age Requirements' st=
+yle=3D"text-decoration: underline"> Age Requirements </a>=09=09 <br/>     =
+        =09         <a href=3D'#Credit Card Policies' style=3D"text-decora=
+tion: underline"> Credit Card Policies </a>=09=09 <br/>             =09   =
+      <a href=3D'#Debit Card Policies' style=3D"text-decoration: underline=
+"> Debit Card Policies </a>=09=09 <br/>             =09         <a href=3D=
+'#Drivers License Requirements' style=3D"text-decoration: underline"> Driv=
+er's License Requirements </a>=09=09 <br/>             =09         <a href=
+=3D'#Additional Driver Policy' style=3D"text-decoration: underline"> Addit=
+ional Driver Policy </a>=09=09 <br/>             =09         <a href=3D'#F=
+uel Policy' style=3D"text-decoration: underline"> Fuel Policy </a>=09=09 <=
+br/>             =09         <a href=3D'#Location Exceptions' style=3D"tex=
+t-decoration: underline"> Location Exceptions </a>=09=09 <br/>            =
+ =09         <a href=3D'#Travel Into Other Countries' style=3D"text-decora=
+tion: underline"> Travel Into Other Countries </a>=09=09 <br/>            =
+=09      </p>           <div class=3D"helpCMS">=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=
+=09<a name=3D"Optional Coverages" id=3D"Optional Coverages"></a><b>Optiona=
+l Coverages</b> =09=09=09=09=09=09=09=09=09=09<p><font size=3D"2">Acceptan=
+ce of the<strong> Loss Damage Waiver (LDW)</strong> reduces the renters an=
+d authorized additional drivers financial responsibility to $300.00 CAD or=
+ $500.00 CAD, dependent upon the vehicle group rented, if the car is damag=
+ed or stolen while under rental contract. . Using the vehicle in violation=
+ of any of the use restrictions listed on the rental agreement could void =
+<strong>LDW</strong> and leave the renter fully responsible for any damage=
+ to the vehicle.<br />
+At the time of rental, the customer must initial whether he/she accepts or=
+ declines the <strong>LDW</strong> and/or other optional services. <strong=
+>LDW</strong> and other optional services must be signed for at the rental=
+ counter.</font> <font size=3D"2"><br />
+If <strong>LDW</strong> is not accepted, customer's may be responsible for=
+ up to the full fair market value of the car if it is damaged, vandalized =
+or stolen during the rental. Customer's may also be responsible for reimbu=
+rsing Budget for the revenue lost by not being able to use the car while i=
+t is being repaired or not recovered due to theft (loss of use).</font></p=
+>
+<p><font size=3D"2"> </font></p>
+<p><font size=3D"2"><strong>Partial Loss Damage Waiver (PDW)</strong> is a=
+vailable at certain rental locations to relieve the renter of the first $1=
+,000 CAD of the loss of, or damage to, the Budget car.<br />
+All inquiries regarding <strong>PDW</strong> availability and cost should =
+be referred to the rental location.</font></p>
+<p><font size=3D"2"> </font></p>
+<p><font size=3D"2"><strong>Canceling LDW/PDW</strong><br />
+Once LDW/PDW has been purchased, it must remain on the contract. The custo=
+mer has the option to return the car & close the rental agreement; however=
+, this could change the rate for the rental agreement and a different, pos=
+sibly higher, rate could apply for a new rental.</font></p>
+<p><font size=3D"2"> </font></p>
+<p align=3D"left"><font size=3D"2"><strong>Loss of Use</strong><br />
+The customer may also be responsible for reimbursing Budget for the revenu=
+e lost by not being able to use the car while it is being repaired or not =
+recovered due to theft (referred to as Loss of Use).</font></p>
+<p><font size=3D"2"> </font></p>
+<p><font size=3D"2">All Budget cars are not to be driven on unpaved roads =
+(like gravel, dirt, etc.)</font></p>
+<p><font size=3D"2"> </font></p>
+<p align=3D"left"><font size=3D"2"><strong>Global insurance coverages are =
+always subject to change. Please verify at time of rental.</strong></font>=
+</p>=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</div><div class=3D=
+"termsDiv" align=3D"right"><a href=3D"#termsTop"><img src=3D"/budgetWeb/im=
+ages/global/en/common/backto_top.gif" width=3D"16" height=3D"10" border=3D=
+"0"></a><b>Top</b></div> <div class=3D"helpCMS">=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09<a name=3D"Age Requ=
+irements" id=3D"Age Requirements"></a><b>Age Requirements</b> =09=09=09=09=
+=09=09=09=09=09=09<p><font size=3D"2">At this location the minimum age is =
+21 for all car groups, <strong>except </strong>for the following: minimum =
+age is 25 for car groups H (Luxury), L (Premium SUV), P (Full Size Van), V=
+ (Mini Van), X (Special) and Z (Full Size SUV). An Under Age fee will appl=
+y to drivers between the ages of 21 and 24. The Under Age fee is $20.00 CA=
+D per day.</font></p>=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</div><div class=3D"termsDiv" align=3D"right"><a href=3D"#termsTop"><img s=
+rc=3D"/budgetWeb/images/global/en/common/backto_top.gif" width=3D"16" heig=
+ht=3D"10" border=3D"0"></a><b>Top</b></div> <div class=3D"helpCMS">=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=
+=09=09=09=09=09=09=09<a name=3D"Credit Card Policies" id=3D"Credit Card Po=
+licies"></a><b>Credit Card Policies</b> =09=09=09=09=09=09=09=09=09=09<p a=
+lign=3D"left"><font size=3D"2">Budget accepts most major credit cards as c=
+redit identification at the time of rental. Accepted credit card list: Bud=
+get Charge Card, Budget International, American Express, Carte Blanche, Di=
+ner's Club, Diner's Club Int'l, Discover, GE Capital, JCB, MasterCard, Opt=
+ima, Peterson, Howell and Heather (PHH) and Visa. Some locations may not a=
+ccept each of the referenced cards.</font></p>=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</div><div class=3D"termsDiv" align=3D"right"><a h=
+ref=3D"#termsTop"><img src=3D"/budgetWeb/images/global/en/common/backto_to=
+p.gif" width=3D"16" height=3D"10" border=3D"0"></a><b>Top</b></div> <div c=
+lass=3D"helpCMS">=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09<a name=3D"Debit Card Pol=
+icies" id=3D"Debit Card Policies"></a><b>Debit Card Policies</b> =09=09=09=
+=09=09=09=09=09=09=09<p><font size=3D"2">Debit cards are not accepted at t=
+ime of rental at this location.=A0 A debit card can be used to pay for the=
+ rental at the time of car return.</font></p>=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</div><div class=3D=
+"termsDiv" align=3D"right"><a href=3D"#termsTop"><img src=3D"/budgetWeb/im=
+ages/global/en/common/backto_top.gif" width=3D"16" height=3D"10" border=3D=
+"0"></a><b>Top</b></div> <div class=3D"helpCMS">=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=
+=09<a name=3D"Driver's License Requirements" id=3D"Drivers License Require=
+ments"></a><b>Driver's License Requirements</b> =09=09=09=09=09=09=09=09=09=
+=09<p align=3D"left"><font size=3D"2">At the time of rental, the driver mu=
+st present a valid drivers license in the drivers name.</font></p>
+<p align=3D"left"><font size=3D"2"><strong>NOTE:</strong> Customers presen=
+ting a drivers license in a non-roman alphabet must also present an Intern=
+ational Driving Permit (IDP) in addition to their valid drivers license.</=
+font></p>=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</div><div class=3D"termsDiv" align=3D"right"><a href=
+=3D"#termsTop"><img src=3D"/budgetWeb/images/global/en/common/backto_top.g=
+if" width=3D"16" height=3D"10" border=3D"0"></a><b>Top</b></div> <div clas=
+s=3D"helpCMS">=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=
+=09=09=09=09=09=09=09<a name=3D"Additional Driver Policy" id=3D"Additional=
+ Driver Policy"></a><b>Additional Driver Policy</b> =09=09=09=09=09=09=09=09=
+=09=09<p><font size=3D"2">Additional drivers must meet the same requiremen=
+ts as the primary driver.</font></p>=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</div><div class=3D"termsDiv" align=3D"right"><a href=3D"#t=
+ermsTop"><img src=3D"/budgetWeb/images/global/en/common/backto_top.gif" wi=
+dth=3D"16" height=3D"10" border=3D"0"></a><b>Top</b></div> <div class=3D"h=
+elpCMS">=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09 =09=09=09=09=09=09=
+=09=09=09=09=09<a name=3D"Fuel Policy" id=3D"Fuel Policy"></a><b>Fuel Poli=
+cy</b> =09=09=09=09=09=09=09=09=09=09<p align=3D"left"><font size=3D"2">Th=
+e car must be returned with a full tank of gas or there will be a charge f=
+or refueling.</font></p>
+<p align=3D"left"><font size=3D"2">Most locations offer a prepaid gas opti=
+on which you can accept at the rental location.</font></p>
+<p align=3D"left"><font color=3D"#ff0000" size=3D"2"><strong>If the car is=
+ driven less than 125 kilometers there may be an additional refueling fee,=
+ unless a gas receipt is presented at time of return. The customer can che=
+ck at the time of rental for complete details. </strong></font></p>=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</div><div class=3D"termsDiv"=
+ align=3D"right"><a href=3D"#termsTop"><img src=3D"/budgetWeb/images/globa=
+l/en/common/backto_top.gif" width=3D"16" height=3D"10" border=3D"0"></a><b=
+>Top</b></div> <div class=3D"helpCMS">=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09 =09=09=09=09=09=09=09=09=09=09=09<a name=3D"Location Exceptio=
+ns" id=3D"Location Exceptions"></a><b>Location Exceptions</b> =09=09=09=09=
+=09=09=09=09=09=09<p><font size=3D"2">International renters must have a va=
+lid driver's license and a major credit card.</font></p>=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</div><div class=3D"termsDiv" align=3D=
+"right"><a href=3D"#termsTop"><img src=3D"/budgetWeb/images/global/en/comm=
+on/backto_top.gif" width=3D"16" height=3D"10" border=3D"0"></a><b>Top</b><=
+/div> <div class=3D"helpCMS">=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09 =09=09=09=09=09=09=09=09=09=09=09<a name=3D"Travel Into Other Countrie=
+s" id=3D"Travel Into Other Countries"></a><b>Travel Into Other Countries</=
+b> =09=09=09=09=09=09=09=09=09=09<p class=3D"style1" align=3D"left"><font =
+size=3D"2">Vehicles at this location can be driven throughout the Canadian=
+ Provinces with no restrictions. Based on availability; One-way rentals <s=
+trong>may</strong> be allowed to a some Canadian cities. </font><font size=
+=3D"2">Vehicles at this location can be driven throughout the continental =
+US with no restrictions. Based on availability; One-way rentals <strong>ma=
+y</strong> be allowed to a some US cities.</font></p>
+<p class=3D"style1" align=3D"left"><font color=3D"#000000"><font size=3D"2=
+">Vehicles at this location are not allowed to travel into Alaska. One-way=
+ rentals are also not permitted.</font></font></p>
+<p class=3D"style1" align=3D"left"><font color=3D"#000000"><font size=3D"2=
+">Vehicles at this location are not allowed to travel into Mexico. One-way=
+ rentals are also not permitted.</font></font></p>=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</div><div class=3D"termsDiv" align=3D"right=
+"><a href=3D"#termsTop"><img src=3D"/budgetWeb/images/global/en/common/bac=
+kto_top.gif" width=3D"16" height=3D"10" border=3D"0"></a><b>Top</b></div>=20=
+
+=09=09=09=09=09<!-- End Terms and Conditions -->
+=09=09=09=09=09</div>
+
+=09=09=09=09</td>
+              </tr>
+             <tr>
+                <td>
+=09=09     =09<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+=09=09=09=09=09=20
+=09=09=09=09</table>
+=09=09  </td>
+              </tr>
+              <tr>
+                <td class=3D"widgettextSmall"></td>
+              </tr>
+=09=09=09 =20
+=09=09=09 =20
+=09=09=09 =20
+          </table></td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+</td>
+</tr>
+<tr>
+  <td colspan=3D"2"><img src=3D"http://www.budget.com/budgetWeb/images/com=
+mon/divider.gif" width=3D"100%" height=3D"2"></td>
+</tr>
+<tr>
+  <td colspan=3D"2"><table width=3D"100%"  border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"3">
+=09<tr>
+=09  <td><font color=3D"#000000" size=3D"1" face=3D"Arial, Helvetica, sans=
+-serif"><span class=3D"bookingtextblack3">
+=09=09  </span></font><p class=3D"paddingLeft"><font color=3D"#000000" siz=
+e=3D"1" face=3D"Arial, Helvetica, sans-serif"><span class=3D"bookingtextbl=
+ack3">Budget Rent A Car System, Inc. 6 Sylvan Way Parsippany, NJ 07054
+=09=09  <br>
+See <a href=3D"http://www.budget.com/budgetWeb/html/en/customer/privacy/in=
+dex.html" target=3D"_blank" style=3D"color:#3272AA">privacy notice </a>and=
+ <a href=3D"http://www.budget.com/budgetWeb/html/en/customer/termsofuse.ht=
+ml" target=3D"_blank" style=3D"color:#3272AA">terms of use</a> for more de=
+tails.<a href=3D"http://www.budget.com/budgetWeb/feedback/feedbackrouter.e=
+x?feedbackhome=3Ddisplay-contactus" target=3D"_blank" style=3D"color:#3272=
+AA"> Contact Us</a></i></c:if>
+=09=09  <br>
+=09=09Rate is for the entire rental period. Rate in U.S. dollars unless ot=
+herwise indicated.<br>
+=09=09=09  Ensure our e-mails always get to your inbox. Add <a href=3D"mai=
+lto:BudgetConfirmations@budgetgroup.com">budgetconfirmations@budgetgroup.c=
+om</a> to your address book.</span></font></p>
+=09=09</td>
+=09</tr>
+  </table></td>
+</tr>
+</table>
+<br clear=3D"both">
+ ---<BR>
+</body>
+</html>
+
+
+
+
+------=_Part_37176_1038135781.1410015510169--
+
+

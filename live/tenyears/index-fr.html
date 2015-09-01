@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tamaani Timeline</title>
+
+    <!-- Bootstrap -->
+    <link href="stylesheets/style.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Domine:400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Istok+Web:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+
+  </head>
+  <body>
+
+    <script language="Javascript">
+      if(screen.width>1280){
+        document.write("<div id='logo' style='width:30%;'><a href='http://tamaani.ca/?lang=fr'><img src='images/logo-temp.png'   width='100%'  border='0'></a></div>"); 
+      }
+      else{
+        document.write("<div id='logo' style='width:40%;'><a href='http://tamaani.ca/?lang=fr'><img src='images/logo-temp.png'   width='100%'  border='0'></a></div>");
+      }
+      
+     
+  </script>
+    
+
+<!--TOP NAVIGATION-->
+<!---NON-MOBILE MENU-->  
+<div id="top_nav_wrapper"> 
+    <div id="top_nav">
+          <div id="top_nav_menu">
+            <ul class="navigation">
+            <li>
+            <a title="À propos de nous" class="clicked" href="http://tamaani.ca/?lang=fr#about_us_page" id="about_us">À propos de nous</a>
+            <!-- <ul id='sub_about'>
+            <li style='padding-left:20px;' ><a  title='10 years anniversary'  href='#tenyears_page' class='clicked' id='tenyears'   >10 years anniversary</a></li>
+            </ul> -->
+            </li>
+            <li><a title="Services" id="services">Services</a>
+            <ul id="sub_services">
+            <li style="padding-left:20px;"><a title="Résidentiel" href="http://tamaani.ca/?lang=fr#residential_page" class="clicked" id="residential_top">Résidentiel</a></li>
+            <li><span>|</span></li>
+            <li><a title="Affaires" href="http://tamaani.ca/?lang=fr#corporate_page" class="clicked" id="corporate_top">Affaires</a></li>
+            <li><span>|</span></li>
+            <li><a title="Vidéoconférence" href="http://tamaani.ca/?lang=fr#video_conferencing_page" class="clicked" id="video_conferencing_top">Vidéoconférence</a></li>
+            </ul>
+            </li>       
+
+            <li><a title="Ressources" class="clicked" id="resources">Ressources</a>
+            <ul id="sub_resources">
+            <li style="padding-left:20px;  "><a title="Liens" href="http://tamaani.ca/?lang=fr#links_page" class="clicked" id="links_top">Liens</a></li>
+            <li><span>|</span></li>
+            <li><a title="Documents" href="http://tamaani.ca/?lang=fr#documents_page" class="clicked" id="documents_top">Documents</a></li>
+            <li><span>|</span></li>
+            <li><a title="Soutien" href="http://tamaani.ca/?lang=fr#support_page" class="clicked" id="support_top">Soutien</a></li>
+            <li><span>|</span></li>
+            <li><a title="Forms" href="http://tamaani.ca/?lang=fr#forms_page" class="clicked" id="forms_top">Forms</a></li>
+            </ul>
+            </li> 
+
+            <li><a title="Faq" class="clicked" href="http://tamaani.ca/?lang=fr#faq_page" id="faq">Faq</a></li>
+            <li><a title="Pour nous joindre" class="clicked" href="http://tamaani.ca/?lang=fr#contact_page" id="contact">Pour nous joindre</a></li>
+            <li><a title="mail box" class="clicked mail-icon" id="mail-box" href="http://tamaani.ca/?lang=fr">&nbsp;</a></li>
+            </ul>
+
+
+          </div>               
+    </div> 
+</div><!---NON-MOBILE-WRAPPER-->
+
+<!--MOBILE MENU-->
+<header class="mobile">
+          <a href="/" id="logo"><img alt="" src="images/logo-mobile.png"></a>
+          <div id="menu-bar">
+            <a href="#" id="menu-button"><span>Menu</span></a>
+          </div>
+          <div id="drop-down-menu">
+                <nav><ul class="navigation">
+    <li>
+        <a href="/about-us">About Us</a>
+    </li>
+    <li>
+        <a href="#">Services</a>
+        <ul>
+            <li>
+                <a href="/services/residential">Residential</a>
+            </li>
+            <li>
+                <a href="/services/corporate">Corporate</a>
+            </li>
+            <li>
+                <a href="/services/video-conferencing">Video Conferencing</a>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <a href="#">Resources</a>
+        <ul>
+            <li>
+                <a href="/resources/links">Links</a>
+            </li>
+            <li>
+                <a href="/resources/documents">Documents</a>
+            </li>
+            <li>
+                <a href="/resources/support">Support</a>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <a href="/faq">Faq</a>
+    </li>
+    <li>
+        <a href="/contact-us">Contact</a>
+    </li>
+</ul></nav>
+              </div>
+        </header>
+
+
+
+
+
+
+
+
+
+
+<!--END OF TOP NAVIGATION-->
+
+<div id="language_wrapper"> 
+        <div id="language">
+             <a id="en" href="index-en.html" class="active" title="English">EN</a> | 
+             <a id="in" href="index-in.html" class="active" title="ᐃᓄᒃᑎᑐᑦ">ᐃᓄᑦᑎᑐᑦ</a> | 
+             <a id="fr" class="desactive" title="Français">FR</a>
+        </div>    
+    </div>
+
+
+<div id="carousel-tamaani" class="carousel slide" data-ride="carousel" data-interval="0">
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active slideIntro">
+        
+        <div class="yearly-accomplishments">
+        <h4 class="top-right-text col-lg-12">
+            Tamaani<br/><span>10 années calendrier 2004-2014</span>
+          </h4>       
+          <h2>2004-2014</h2>          
+          <p class="intro-text">« L’Administration Régionale Kativik (ARK) a lancé il y a dix ans Tamaani Internet, le premier fournisseur de services Internet régional au Nunavik. Grâce à cette initiative, l’Internet est devenu un outil de communication indispensable dans les foyers, les entreprises, les écoles et les organismes de la région. L’Internet est maintenant omniprésent et joue un rôle important dans de nombreux aspects de la vie communautaire tels que les soins de santé, l’éducation à distance, l’administration de la justice ainsi que la connectivité des résidents et la promotion de l’inuktitut et de l’identité des Inuits. »</p>
+        
+        </div>
+
+      <img src="images/slidePics/fre/intro_10yrs.jpg">
+
+      <div class="clearfix"></div>
+
+    </div>
+
+
+
+
+
+    <div class="item slideOne">
+        
+        <div class="yearly-accomplishments">
+        <h4 class="top-right-text col-lg-12">
+            Tamaani<br/><span>10 années calendrier 2004-2014</span>
+          </h4>       
+          <h2>2004</h2>          
+            <div class="col-lg-12 memorable-events event-title">Événements mémorables</div> 
+            <div class="col-lg-4 date">6 décembre 2004</div>
+            <div class="col-lg-8">
+              <p>Lancement officiel des services à l’intention des abonnés résidentiels.</p>
+            </div>
+
+            <div class="col-lg-4 date">1er août 2001</div>
+            <div class="col-lg-8">
+              <ul>
+                <li>Knet devient le nouveau fournisseur.</li>
+                <li>Première page Web et premier logo.</li>
+                <li>Embauche et formation des premiers agents locaux.</li>
+                <li>Déploiement du réseau de distribution Nexpedience en six semaines pour les 14 villages.</li>
+              </ul>    
+            </div>              
+
+            <div class="col-lg-12 capacity-increase event-title">Augmentation de la capacité</div> 
+            <div class="col-lg-4 capacity-increase date">1 octobre 2004</div>
+            <div class="col-lg-8">
+              <p>La capacité à large bande du Nunavik passe à 11 Mbs (9 en aval, 2 en amont).</p>
+            </div>
+
+
+            <div class="col-lg-4 date">Août 2004</div>
+            <div class="col-lg-8"><p>Arrivée de JF Dumoulin à l’ARK. </p></div>
+
+          
+
+        </div>
+
+      <img src="images/slidePics/fre/2004_10yrs.jpg">
+
+      <div class="clearfix"></div>
+    </div>
+
+
+
+
+
+    <div class="item slideTwo">
+        
+        <div class="yearly-accomplishments">
+        <h4 class="top-right-text col-lg-12">
+            Tamaani<br/><span>10 années calendrier 2004-2014</span>
+          </h4>       
+          <h2>2005</h2>          
+            <div class="col-lg-12 partnerships-agreements event-title">Ententes et programmes de partenariat</div> 
+
+            <div class="col-lg-4 partnerships-agreements date">2005</div>
+            <div class="col-lg-8">
+              <p>Début des négociations dans le cadre de l’Initiative nationale de satellite – Ronde 2.</p>
+              <p>Le premier client pour les services de vidéoconférence est le ministère de la Justice. De tels services ont officiellement commencé à être offerts en 2009.</p>
+            </div>
+
+            <div class="col-lg-12 memorable-events event-title">Événements mémorables</div> 
+
+            <div class="col-lg-4 date">1er janvier 2005</div>
+            <div class="col-lg-8">
+              <p>Création et première rencontre du partenariat Northern Indigenous Community Satellite Network (passerelle à Sioux Lookout http://smart.knet.ca/satellite/).</p>
+            </div>
+        </div>
+
+
+      <img src="images/slidePics/fre/2005_10yrs.jpg">
+
+      <div class="clearfix"></div>
+      
+    </div><!--item-->
+
+
+
+
+   <div class="item slideThree">
+        
+        <div class="yearly-accomplishments">
+        <h4 class="top-right-text col-lg-12">
+            Tamaani<br/><span>10 années calendrier 2004-2014</span>
+          </h4>       
+          <h2>2006</h2>          
+            <div class="col-lg-12 technology-upgrades event-title">Mises à niveau technologiques</div> 
+            <div class="col-lg-4 date">2006</div>
+            <div class="col-lg-8">
+              <p>Changement de la liaison terrestre de WiFi à Wimax à Kuujjuaq et dans les villages de la côte de l’Ungava.</p>
+<p>Une deuxième station de base est installée à Kuujjuaq en raison de la saturation.</p>
+            </div>
+
+          
+        </div>
+
+      <img src="images/slidePics/fre/2006_10yrs.jpg">
+
+      <div class="clearfix"></div>
+      
+    </div><!--item-->
+
+
+
+
+
+
+       <div class="item slideFour">
+        
+         <div class="yearly-accomplishments">
+         <h4 class="top-right-text col-lg-12">
+            Tamaani<br/><span>10 années calendrier 2004-2014</span>
+          </h4>       
+          <h2>2007</h2>          
+            <div class="col-lg-12 memorable-events event-title">Événements mémorables</div> 
+            <div class="col-lg-4 date">1er janvier 2007</div>
+            <div class="col-lg-8">
+              <p>Le partenariat Northern Indigenous Community Satellite Network achète 12 MHz à un tarif commercial (la part du Nunavik est de 4 MHz). </p>
+              <p>Augmentation de la capacité à 11 Mbs en aval et à 3 Mbs en amont.</p>
+            </div>
+
+            <div class="col-lg-12 technology-upgrades event-title">Mises à niveau technologiques</div> 
+
+            <div class="col-lg-4 date">1er août 2007</div>
+            <div class="col-lg-8">
+              <p>
+                Annonce par Industrie Canada d’une contribution dans le cadre de l’Initiative nationale de satellite – Ronde 2 lors de la conférence Katimajiit.              
+              </p>
+            
+            </div>
+
+        </div>
+
+      <img src="images/slidePics/fre/2007_10yrs.jpg">
+
+      <div class="clearfix"></div>
+      
+    </div><!--item-->
+
+
+
+
+
+
+       <div class="item slideFive">
+        
+        <div class="yearly-accomplishments">
+        <h4 class="top-right-text col-lg-12">
+            Tamaani<br/><span>10 années calendrier 2004-2014</span>
+          </h4>       
+          <h2>2008</h2>          
+            <div class="col-lg-12 technology-upgrades event-title">Mises à niveau technologiques</div> 
+            <div class="col-lg-4 date">2008</div>
+            <div class="col-lg-8">
+              <p>La technologie satellitaire passe de DVB-S1 / TDMA à une seule voie porteuse complète DVB-S2.</p>
+            </div>
+
+            <div class="col-lg-12 partnerships-agreements event-title">Ententes et programmes de partenariat</div> 
+            <div class="col-lg-4 partnerships-agreements date">15 octobre 2008</div>
+            <div class="col-lg-8">
+              <p>Signature à Kuujjuaq de l’entente de partenariat Northern Indigenous Community Satellite Network.</p>
+            </div>
+
+            <div class="col-lg-4 date">1er août 2008</div>
+            <div class="col-lg-8 event-content">
+              <p>Signature de l’entente de contribution dans le cadre de l’Initiative nationale de satellite – Ronde 2.</p>
+            </div>
+
+
+            <div class="col-lg-12 capacity-increase event-title">Augmentation de la capacité</div> 
+            <div class="col-lg-4 capacity-increase date">1er septembre 2008</div>
+            <div class="col-lg-8 capacity-increase">
+              <p>L’Initiative nationale de satellite – Ronde 2 permet d’avoir accès à tout un transpondeur (36 MHz).</p>
+            </div>
+
+        </div>
+
+      <img src="images/slidePics/fre/2008_10yrs.jpg">
+
+      <div class="clearfix"></div>
+      
+    </div><!--item-->
+
+
+
+
+
+
+       <div class="item slideSix">
+        
+        <div class="yearly-accomplishments">
+        <h4 class="top-right-text col-lg-12">
+            Tamaani<br/><span>10 années calendrier 2004-2014</span>
+          </h4>       
+          <h2>2009</h2>          
+            <div class="col-lg-12 major-contract event-title">Contrats d’envergure</div> 
+
+            <div class="col-lg-4 major-contract date">1er décembre 2009</div>
+            <div class="col-lg-8">
+              <p>Le Centre de services partagés du Québec annonce que l’ARK (Tamaani Internet) devient son fournisseur de services.</p> 
+            </div>
+
+
+            <div class="col-lg-12 capacity-increase event-title">Augmentation de la capacité</div> 
+
+            <div class="col-lg-4 capacity-increase date">1er décembre 2009</div>
+            <div class="col-lg-8 capacity-increase">
+              <p>L’Initiative nationale de satellite – Ronde 2 est terminée; augmentation de la capacité à 11 Mbs en aval et à 3 Mbs en amont.</p> 
+            </div>
+
+
+            <div class="col-lg-12 partnerships-agreements event-title">Ententes et programmes de partenariat</div> 
+            <div class="col-lg-4 partnerships-agreements date">1er septembre 2009</div>
+            <div class="col-lg-8">
+              <p>Annonce du programme Large bande Canada : Un milieu rural branché</p> 
+            </div>
+
+
+            <div class="col-lg-12 technology-upgrades event-title">Mises à niveau technologiques</div> 
+            <div class="col-lg-4 date">&nbsp;</div>
+            <div class="col-lg-8">
+              <p>Poursuite de la mise à jour de la technologie satellitaire en configuration en étoile triple à une seule voie porteuse.</p> 
+            </div>
+
+        </div>
+
+      <img src="images/slidePics/fre/2009_10yrs.jpg">
+
+      <div class="clearfix"></div>
+      
+    </div><!--item-->
+
+
+
+
+
+
+       <div class="item slideSeven">
+        
+        <div class="yearly-accomplishments">
+        <h4 class="top-right-text col-lg-12">
+            Tamaani<br/><span>10 années calendrier 2004-2014</span>
+          </h4>       
+          <h2>2010</h2>          
+            <div class="col-lg-12 major-contract event-title">Contrats d’envergure</div> 
+
+            <div class="col-lg-4 major-contract date">22 octobre 2010</div>
+            <div class="col-lg-8">
+              <p>Le Centre de services partagés du Québec signe une entente avec l’ARK.</p>   
+            </div>
+
+            <div class="col-lg-12 memorable-events event-title">Événements mémorables</div> 
+            <div class="col-lg-4 date">21 octobre 2010</div>
+            <div class="col-lg-8">
+              <p>La migration du Centre de services partagés du Québec est achevée à Kuujjuaq et à Puvirnituq.</p>
+              
+            </div>
+
+        </div>
+
+      <img src="images/slidePics/fre/2010_10yrs.jpg">
+
+      <div class="clearfix"></div>
+      
+    </div><!--item-->
+
+
+
+
+
+
+       <div class="item slideEight">
+        
+                
+        <div class="yearly-accomplishments">
+        <h4 class="top-right-text col-lg-12">
+            Tamaani<br/><span>10 années calendrier 2004-2014</span>
+          </h4>       
+          <h2>2011</h2>          
+            <div class="col-lg-12 technology-upgrades event-title">Mises à niveau technologiques</div> 
+            <div class="col-lg-4 date">2 décembre 2011</div>
+            <div class="col-lg-8">
+              <p>Accélérateur satellitaire et équipement de qualité de service en fonction.</p>
+
+            </div>
+
+            <div class="col-lg-4 date">11 décembre 2011</div>
+            <div class="col-lg-8 event-content">
+              <p>Mise à niveau des liaisons aller à 16 APSK.</p>
+            </div>
+
+            <div class="col-lg-12 infrastructure-upgrades event-title">Mises à niveau des infrastructures.</div> 
+            <div class="col-lg-4 infrastructure-upgrades date">2 décembre 2011</div>
+            <div class="col-lg-8">
+              <p>Deux transpondeurs satellitaires additionnels.</p>
+
+            </div>
+
+
+            <div class="col-lg-4 date">8 novembre 2011</div>
+            <div class="col-lg-8 event-content">
+              <p class="event-content">Dix nouvelles tours ont été construites en 26 jours au Nunavik.</p>
+            </div>
+
+            <div class="col-lg-12 partnerships-agreements event-title">Ententes et programmes de partenariat</div> 
+            <div class="col-lg-4 partnerships-agreements date">31 mars 2011</div>
+            <div class="col-lg-8">
+              <p>Signature de l’entente dans le cadre du programme Large bande Canada : Un milieu rural branché.</p>
+            </div>
+
+
+            <div class="col-lg-12 major-contract event-title">Contrats d’envergure</div> 
+            <div class="col-lg-4 major-contract date">10 mars 2011</div>
+            <div class="col-lg-8">
+              <p>Dernière migration du Centre de services partagés du Québec vers Tamaani achevée.</p>
+            </div>
+        </div>
+
+      <img src="images/slidePics/fre/2011_10yrs.jpg">
+
+      <div class="clearfix"></div>
+      
+    </div><!--item-->
+
+
+
+
+
+       <div class="item slideNine">
+        
+        <div class="yearly-accomplishments">
+        <h4 class="top-right-text col-lg-12">
+            Tamaani<br/><span>10 années calendrier 2004-2014</span>
+          </h4>       
+          <h2>2012</h2>          
+            <div class="col-lg-12 technology-upgrades event-title">Mises à niveau technologiques</div> 
+            <div class="col-lg-4 date">1er janvier 2012</div>
+            <div class="col-lg-8">
+              <p>Mise à niveau des stations terrestres (redondance de l’équipement).</p> 
+            </div>
+
+
+            <div class="col-lg-4 date">5 novembre 2012</div>
+              <div class="col-lg-8 event-content">
+                <p>Nouvelle tour et nouvel abri à Kuujjuarapik.</p>
+              </div>
+
+            <div class="col-lg-12 capacity-increase event-title">Augmentation de la capacité</div> 
+            <div class="col-lg-4 capacity-increase date">13 mars 2012</div>
+            <div class="col-lg-8 capacity-increase">
+              <p>Large bande Canada : Un milieu rural branché – derniers villages à obtenir les services améliorés.</p>
+            </div>
+
+
+            <div class="col-lg-4 date">23 février 2012</div>
+            <div class="col-lg-8 event-content">
+              <p class="event-content">Large bande Canada : Un milieu rural branché - premiers villages à obtenir les services améliorés.</p>
+            </div>
+            <div class="clearfix"></div>
+            <br/>
+
+            <div class="col-lg-6">
+
+              <h3 class="large-title logo-news"><br/>Ancien logo</h3>
+              <img src="images/old-logo.png" class="history-logo" />
+
+            </div>
+
+            <div class="col-lg-6">
+
+              <h3 class="large-title logo-news">Nouveau logo et nouvelle page Web.</h3>
+              <img src="images/2012-newlogo.png" class="history-logo" />
+
+            </div>
+        </div>
+
+      <img src="images/slidePics/fre/2012_10yrs.jpg">
+
+      <div class="clearfix"></div>
+      
+    </div><!--item-->
+
+
+
+
+
+   <div class="item slideTen">
+        
+        <div class="yearly-accomplishments">
+        <h4 class="top-right-text col-lg-12">
+            Tamaani<br/><span>10 années calendrier 2004-2014</span>
+          </h4>       
+          <h2>2013</h2>          
+            <div class="col-lg-12 infrastructure-upgrades event-title">Mises à niveau des infrastructures.</div> 
+            <div class="col-lg-4 infrastructure-upgrades date">10 août 2013</div>
+            <div class="col-lg-8">
+              <p>Le nouvel abri pour la génératrice à Puvirnituq est maintenant utilisé.</p>  
+            </div>
+
+            <div class="col-lg-12 studies-research event-title">Études et recherches</div> 
+            <div class="col-lg-4 studies-research date">Septembre 2013</div>
+            <div class="col-lg-8">
+              <p>Publication de l’étude de préfaisabilité.</p>
+            </div>
+
+            <div class="col-lg-12 memorable-events event-title">Événements mémorables</div> 
+            <div class="col-lg-4 date">Septembre 2013</div>
+            <div class="col-lg-8">
+              <p>La première ministre du Québec annonce une étude afin d’analyser les options de réseau haut débit présentées par l’ARK.</p>
+            </div>
+
+        </div>
+
+      <img src="images/slidePics/fre/2013_10yrs.jpg">
+
+      <div class="clearfix"></div>
+      
+    </div><!--item-->
+
+
+
+
+
+     <div class="item slideEleven">
+      
+       <div class="yearly-accomplishments">
+       <h4 class="top-right-text col-lg-12">
+            Tamaani<br/><span>10 années calendrier 2004-2014</span>
+          </h4>    
+          <h2>2014</h2>
+          <h3 class="large-title">Tamaani a maintenant 10 ans</h3>   
+       
+            <div class="col-lg-12 memorable-events event-title">Événements mémorables</div> 
+            <div class="clearfix"></div>
+
+            <div class="col-lg-4 date">17 novembre 2014</div>
+            <div class="col-lg-8">
+              <p>Tamaani déménage dans le bâtiment de la corporation foncière à Kuujjuaq.</p>
+            </div>
+
+            <div class="col-lg-12 studies-research event-title">Études et recherches</div> 
+            <div class="clearfix"></div>
+            <div class="col-lg-4 studies-research date">Novembre 2014</div>
+            <div class="col-lg-8">
+              <p>Résultats préliminaires de l’étude socioéconomique.</p>
+
+            </div>
+
+            <div class="col-lg-4 studies-research date">Août 2014</div>
+            <div class="col-lg-8">
+              <p class="event-content">Le service de courriel est revampé.</p>
+            </div>
+
+
+            <div class="col-lg-4 studies-research date">Juin 2014</div>
+            <div class="col-lg-8">
+              <p class="event-content">Un groupe de travail régional-provincial formule des recommandations concernant la construction d’un réseau par fibres optiques au Nunavik.</p>
+            </div>
+
+            <div class="col-lg-12 capacity-increase event-title">Augmentation de la capacité</div> 
+
+            <div class="clearfix"></div>
+
+            <div class="col-lg-4 capacity-increase date">25 juillet 2014</div>
+            <div class="col-lg-8">
+              <p>Augmentation de la bande passante de retour par satellite pour Inukjuak, Puvirnituq et Kuujjuaq.</p>
+            </div>
+
+            <div class="col-lg-4 capacity-increase date">20 mai 2014</div>
+            <div class="col-lg-8">
+              <p>Capacité accrue (transpondeur entier) pour Kuujjuaq.</p>
+            </div>  
+
+        </div>
+
+      <img src="images/slidePics/fre/2014_10yrs.jpg">
+
+      <div class="clearfix"></div>
+        
+      </div><!--item-->
+
+  </div><!--carousel-inner-->
+
+
+  <!-- Indicators -->
+
+  <div class="footer-slider">
+    
+    <div class="track hidden-xs hidden-sm">
+      <div class="slider"></div>
+    </div>
+
+    <ol class="carousel-indicators hidden-xs hidden-sm">
+      <li data-target="#carousel-tamaani" data-slide-to="0" class="active welcome-link">
+        <a class="btn--year-0 btn--year js-btn-example" href="javascript:;">INTRO</a>
+      </li>
+      <li data-target="#carousel-tamaani" data-slide-to="1">
+        <a class="btn--year-1 btn--year js-btn-example" href="javascript:;">2004</a>
+      </li>
+      <li data-target="#carousel-tamaani" data-slide-to="2">
+        <a class="btn--year-2 btn--year js-btn-example" href="javascript:;">2005</a>
+      </li>
+
+      <li data-target="#carousel-tamaani" data-slide-to="3">
+        <a class="btn--year-3 btn--year js-btn-example" href="javascript:;">2006</a>
+      </li>
+
+      <li data-target="#carousel-tamaani" data-slide-to="4">
+        <a class="btn--year-4 btn--year js-btn-example" href="javascript:;">2007</a>
+      </li>
+
+      <li data-target="#carousel-tamaani" data-slide-to="5">
+        <a class="btn--year-5 btn--year js-btn-example" href="javascript:;">2008</a>
+      </li>
+
+      <li data-target="#carousel-tamaani" data-slide-to="6">
+        <a class="btn--year-6 btn--year js-btn-example" href="javascript:;">2009</a>
+      </li>
+
+      <li data-target="#carousel-tamaani" data-slide-to="7">
+        <a class="btn--year-7 btn--year js-btn-example" href="javascript:;">2010</a>
+      </li>
+
+      <li data-target="#carousel-tamaani" data-slide-to="8">
+        <a class="btn--year-8 btn--year js-btn-example" href="javascript:;">2011</a>
+      </li>
+
+      <li data-target="#carousel-tamaani" data-slide-to="9">
+        <a class="btn--year-9 btn--year js-btn-example" href="javascript:;">2012</a>
+      </li>
+
+      <li data-target="#carousel-tamaani" data-slide-to="10">
+        <a class="btn--year-10 btn--year js-btn-example" href="javascript:;">2013</a>
+      </li>
+
+
+
+      <li data-target="#carousel-tamaani" data-slide-to="11">
+        <a class="btn--year-11 btn--year js-btn-example" href="javascript:;">2014</a>
+      </li>
+    </ol>
+
+
+
+<!-- Controls -->
+<div class="hidden-lg hidden-md mobile-nav">
+  <div class="container">
+    <div class="row">
+      <div class="pull-left col-xs-3 col-sm-3 carousel-mobile-btn">
+        <a href="#carousel-tamaani" role="button" data-slide="prev">
+          Prev
+        </a>
+      </div>
+        <div class="col-xs-6 col-sm-6 mobile-nav-title">10 YEAR TIMELINE</span></div>
+
+      <div class="pull-right col-xs-3 col-sm-3 carousel-mobile-btn">
+        <a href="#carousel-tamaani" role="button" data-slide="next">
+          Next 
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+    
+
+  </div><!--footer-slider-->
+ 
+</div><!--carousel-tamaani-->
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.mobile.custom.min.js"></script>  
+
+
+
+    <script>
+      $(function() {
+
+          $(window).on('load resize', function () {
+              $('.carousel-indicators li.active .js-btn-example').click();
+          });
+
+          $('.js-btn-example').on('click', function (e) {
+              e.preventDefault();
+
+              var $sliderElement = $('.slider'),
+                  sliderPosition = $(this).position().left + ( $(this).width() / 2 );
+
+              $sliderElement.css({ 'width': sliderPosition });
+          });
+      });
+
+
+      $( "#menu-button" ).click(function() {
+        
+        var shouldAddClass = !$("#drop-down-menu").is(":visible");
+
+        // console.log(shouldAddClass);
+        
+        $(this).toggleClass( "up", shouldAddClass);
+
+        $( "#drop-down-menu" ).slideToggle( "3000" );
+
+      });
+
+
+
+$("#carousel-tamaani").carousel({
+  swipe: 50 // percent-per-second, default is 50. Pass false to disable swipe 
+});
+
+    </script>
+
+
+
+  </body>
+</html>

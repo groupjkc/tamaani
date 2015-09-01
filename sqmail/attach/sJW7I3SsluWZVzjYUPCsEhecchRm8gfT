@@ -1,0 +1,174 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=iso-8859-1"><meta name=Generator content="Microsoft Word 12 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Palatino Linotype";
+	panose-1:2 4 5 2 5 5 5 3 3 4;}
+@font-face
+	{font-family:"Wingdings 3";
+	panose-1:5 4 1 2 1 8 7 7 7 7;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{mso-style-priority:99;
+	mso-style-link:"Texte brut Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Arial","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-style-link:"Paragraphe de liste Car";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-link:"Paragraphe de liste Car";
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-link:"Paragraphe de liste Car";
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-link:"Paragraphe de liste Car";
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Arial","sans-serif";
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+span.TextebrutCar
+	{mso-style-name:"Texte brut Car";
+	mso-style-priority:99;
+	mso-style-link:"Texte brut";
+	font-family:"Arial","sans-serif";}
+span.ParagraphedelisteCar
+	{mso-style-name:"Paragraphe de liste Car";
+	mso-style-priority:34;
+	mso-style-link:"Paragraphe de liste";
+	font-family:"Arial","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:589393490;
+	mso-list-type:hybrid;
+	mso-list-template-ids:867588080 -1924868090 202113027 202113029 202113025 202113027 202113029 202113025 202113027 202113029;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0EA;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:11.0pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:"Wingdings 3";
+	color:#4BACC6;}
+@list l0:level2
+	{mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=FR-CA link=blue vlink=purple><div class=WordSection1><p class=MsoNormal><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Good afternoon, <o:p></o:p></span></p><p class=MsoNormal><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'>I hope you are doing well. As you already know, since the last year, Raglan Mine is part of the Glencore group, one of the world&#8217;s largest global diversified natural resource companies. In order to explain Raglan Mine&#8217;s operations and context to other Glencore&#8217;s sites, our Vice President, Mr. Kristan Straub, is visiting<u> Kangiqsujuaq, on June 19, 2014,</u> accompanied with some Managers of Glencore, who come from all around the world. Our objective is to show and share the Inuit culture &#8211; which we admire &#8211; with our team.<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Raglan Mine is pleased to invite you to participate to the activities organized during our stay in Kangiqsujuaq (please find the planning below). <o:p></o:p></span></p><p class=MsoNormal><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Someone from my team, Céliane Dorval, will call you in the coming days to give you more details about this event and answer your questions. In the meantime, you can also confirm your participation by contacting her by email at </span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><a href="mailto:celiane.dorval@glencore-ca.com"><span lang=EN-CA>celiane.dorval@glencore-ca.com</span></a></span><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'> or phone at 819&nbsp;277-6876. <o:p></o:p></span></p><p class=MsoNormal><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span lang=EN-CA><o:p>&nbsp;</o:p></span></p><table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=505 style='width:303.05pt;margin-left:5.4pt;border-collapse:collapse;border:none'><tr><td width=505 colspan=3 valign=top style='width:303.05pt;border:solid windowtext 1.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal style='text-align:justify'><span lang=EN-CA style='font-size:10.0pt'>Thursday, June 19, 2014 </span><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p></td></tr><tr><td width=99 valign=top style='width:59.3pt;border:solid windowtext 1.0pt;border-top:none;background:#BFBFBF;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal style='text-align:justify'><span lang=EN-CA style='font-size:10.0pt'>When</span><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p></td><td width=241 valign=top style='width:144.55pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;background:#BFBFBF;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal style='text-align:justify'><span lang=EN-CA style='font-size:10.0pt'>What</span><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p></td><td width=165 valign=top style='width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;background:#BFBFBF;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal style='text-align:justify'><span lang=EN-CA style='font-size:10.0pt'>Where</span><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p></td></tr><tr><td width=99 valign=top style='width:59.3pt;border:solid windowtext 1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span lang=EN-CA style='font-size:10.0pt'>3 p.m.</span><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p></td><td width=241 valign=top style='width:144.55pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoPlainText><span lang=EN-CA>Performance Activity <o:p></o:p></span></p><p class=MsoListParagraphCxSpFirst align=left style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:10.75pt;margin-bottom:.0001pt;text-align:left;text-indent:-10.9pt;line-height:normal;mso-list:l0 level1 lfo1'><![if !supportLists]><span lang=EN-CA style='font-family:"Wingdings 3";color:#4BACC6'><span style='mso-list:Ignore'>ê<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span lang=EN-CA style='font-size:10.0pt'>Brazilian Drummers<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle align=left style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:10.75pt;margin-bottom:.0001pt;text-align:left;text-indent:-10.9pt;line-height:normal;mso-list:l0 level1 lfo1'><![if !supportLists]><span lang=EN-CA style='font-family:"Wingdings 3";color:#4BACC6'><span style='mso-list:Ignore'>ê<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span lang=EN-CA style='font-size:10.0pt'>Throat Singers<o:p></o:p></span></p><p class=MsoListParagraphCxSpLast align=left style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:10.75pt;margin-bottom:.0001pt;text-align:left;text-indent:-10.9pt;line-height:normal;mso-list:l0 level1 lfo1'><![if !supportLists]><span lang=EN-CA style='font-family:"Wingdings 3";color:#4BACC6'><span style='mso-list:Ignore'>ê<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span lang=EN-CA style='font-size:10.0pt'>Inuit games demo <o:p></o:p></span></p><p class=MsoNormal><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p></td><td width=165 valign=top style='width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span lang=EN-CA style='font-size:10.0pt'>Arsaniq School&#8217;s gymnasium</span><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p><p class=MsoNormal><span lang=EN-CA style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=99 valign=top style='width:59.3pt;border:solid windowtext 1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span lang=EN-CA style='font-size:10.0pt'>4 p.m.</span><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p></td><td width=241 valign=top style='width:144.55pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoPlainText><span lang=EN-CA>Visit of the Pingualuit National Park&#8217;s Interpretation Centre <o:p></o:p></span></p></td><td width=165 valign=top style='width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span lang=EN-CA style='font-size:10.0pt'>Interpretation Centre</span><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p></td></tr><tr><td width=99 valign=top style='width:59.3pt;border:solid windowtext 1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:10.0pt'>5 p.m. </span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p></td><td width=241 valign=top style='width:144.55pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoPlainText><span lang=EN-CA>Country food cooking explanations &amp; dinner <o:p></o:p></span></p><p class=MsoNormal><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p></td><td width=165 valign=top style='width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:10.0pt'>To be determined </span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p></td></tr><tr><td width=99 valign=top style='width:59.3pt;border:solid windowtext 1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:10.0pt'>7 p.m. </span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p></td><td width=241 valign=top style='width:144.55pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoPlainText><span lang=EN-CA>Departure from the village to the airport<o:p></o:p></span></p></td><td width=165 valign=top style='width:99.2pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span lang=EN-CA style='font-size:10.0pt'>---</span><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></span></p></td></tr></table><p class=MsoNormal><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Merci,<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Amélie<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 style='margin-left:-5.4pt;border-collapse:collapse'><tr><td width=366 valign=top style='width:219.5pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal style='text-autospace:none'><span style='font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>Amélie Rouleau&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style='font-size:12.0pt;font-family:"Palatino Linotype","serif";color:black'><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>Surintendante en gestion des risques et affaires publiques</span><i><span lang=FR style='font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><o:p></o:p></span></i></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>Mine Raglan<o:p></o:p></span></p><p class=MsoNormal style='line-height:115%'><span style='font-size:10.0pt;line-height:115%;font-family:"Arial","sans-serif";color:black'>1950, Maurice-Gauvin, bureau 300<o:p></o:p></span></p><p class=MsoNormal style='line-height:115%'><span style='font-size:10.0pt;line-height:115%;font-family:"Arial","sans-serif";color:black'>Laval, Québec&nbsp; H7S 1Z5&nbsp; Canada<o:p></o:p></span></p><p class=MsoNormal style='text-autospace:none'><i><span style='font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><o:p>&nbsp;</o:p></span></i></p><p class=MsoNormal style='text-autospace:none'><i><span style='font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>Cell. </span></i><span style='font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>+1 </span><span lang=FR style='font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>514 701 2215<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-CA style='font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='line-height:115%;text-autospace:none'><i><span style='font-size:10.0pt;line-height:115%;font-family:"Arial","sans-serif";color:black'>Courriel:</span></i><span style='font-size:10.0pt;line-height:115%;font-family:"Arial","sans-serif";color:black'> <a href="mailto:amelie.rouleau@glencore-ca.com"><span style='line-height:115%;color:blue'>amelie.rouleau@glencore-ca.com</span></a> <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><a href="http://www.mineraglan.ca/"><span style='color:blue'>www.mineraglan.ca</span></a></span><span style='font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><o:p></o:p></span></p></td><td width=366 valign=top style='width:219.5pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>Amélie Rouleau&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>Superintendent, Risk Management and Public Affairs</span><span style='font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>Raglan Mine<o:p></o:p></span></p><p class=MsoNormal style='margin-left:-5.4pt;line-height:115%'><span style='font-size:10.0pt;line-height:115%;font-family:"Arial","sans-serif";color:black'>1950, Maurice-Gauvin, Suite 300<o:p></o:p></span></p><p class=MsoNormal style='margin-left:-5.4pt;line-height:115%'><span style='font-size:10.0pt;line-height:115%;font-family:"Arial","sans-serif";color:black'>Laval, Québec&nbsp; H7S 1Z5&nbsp; Canada<o:p></o:p></span></p><p class=MsoNormal style='text-autospace:none'><span style='font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><br><i>Mobile </i>+1 </span><span lang=FR style='font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>514 701 2215<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='line-height:115%;text-autospace:none'><i><span style='font-size:10.0pt;line-height:115%;font-family:"Arial","sans-serif";color:black'>Email:</span></i><span style='font-size:10.0pt;line-height:115%;font-family:"Arial","sans-serif";color:black'> <a href="mailto:amelie.rouleau@glencore-ca.com"><span style='line-height:115%;color:blue'>amelie.rouleau@glencore-ca.com</span></a> <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><a href="http://www.mineraglan.ca/"><span style='color:blue'>www.mineraglan.ca</span></a></span><span style='font-size:10.0pt;font-family:"Arial","sans-serif";color:black'><o:p></o:p></span></p></td></tr></table><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div>
+<p><span style="font-family:'Arial';font-size:8pt;">________________________________</span></p>
+<p><span style="font-family:'Arial';font-size:8pt;"></span></p>
+<p><span style="font-family:'Arial';font-size:8pt;">&nbsp;</span></p>
+<p><span style="font-family:'Arial';font-size:7pt; color:#818181;">LEGAL DISCLAIMER. The contents of this electronic communication and any attached documents are strictly confidential and they may not be used or disclosed by someone who is not a named recipient.</span></p>
+<p><span style="font-family:'Arial';font-size:7pt; color:#818181;">If you have received this electronic communication in error please notify the sender by replying to this electronic communication inserting the word &quot;misdirected&quot; as the subject and delete this communication from your system.</span></p>
+<p><span style="font-family:'Arial';font-size:7pt; color:#818181;"></span></p>
+<p><span style="font-family:'Arial';font-size:7pt; color:#818181;">&nbsp;</span></p>
+<p><span style="font-family:'Arial';font-size:7pt; color:#818181;">MENTION LEGALE:  Le contenu de cette communication &eacute;lectronique et ses pi&egrave;ces jointes sont strictement confidentiels et ne peuvent pas &ecirc;tre utilis&eacute;s ou divulgu&eacute;s par une personne qui n'est pas le destinataire d&eacute;sign&eacute;.</span></p>
+<p><span style="font-family:'Arial';font-size:7pt; color:#818181;">Si vous avez re&ccedil;u cette communication &eacute;lectronique par erreur, s'il vous pla&icirc;t, veuillez aviser l'exp&eacute;diteur en r&eacute;pondant &agrave; cette communication &eacute;lectronique en ins&eacute;rant le mot 'mauvais destinataire' dans lu sujet et supprimer ce message de votre syst&egrave;me informatique.</span></p>
+<p><span style="font-family:'Arial';font-size:8pt; color:#000000;">________________________________</span></p></body></html>

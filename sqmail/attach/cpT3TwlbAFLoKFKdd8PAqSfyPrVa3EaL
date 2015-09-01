@@ -1,0 +1,268 @@
+Return-Path: <notification+zrdoghfzcep1@facebookmail.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on tamaani.ca
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.1 required=7.0 tests=DKIM_SIGNED,DKIM_VALID,
+	DKIM_VALID_AU,HTML_MESSAGE,UNPARSEABLE_RELAY autolearn=ham version=3.3.1
+X-Original-To: eva.lapage@tamaani.ca
+Delivered-To: eva.lapage@tamaani.ca
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from mx-out.facebook.com (outmail021.prn2.facebook.com [66.220.144.148])
+	by tamaani.ca (Postfix) with ESMTPS id DEA1F67FBE
+	for <eva.lapage@tamaani.ca>; Tue,  1 Jul 2014 10:34:47 -0400 (EDT)
+Received: from facebook.com (nw67/lsCum8yR8g/+SuMPrqZ2Bh+pnqfhmUy4rlfvd6d5s3haLA22KoMW46M4LFj 10.102.107.59)
+ by facebook.com with Thrift id d9cc190a012c11e48ce50002c9ae7f62-3ae8430;
+ Tue, 01 Jul 2014 07:34:47 -0700
+X-Facebook: from 10.79.53.45 ([MTI3LjAuMC4x])
+	by async.facebook.com with HTTP (ZuckMail);
+Date: Tue, 1 Jul 2014 07:34:47 -0700
+To: Eva Lapage <eva.lapage@tamaani.ca>
+From: "Facebook" <notification+zrdoghfzcep1@facebookmail.com>
+Reply-to: noreply <noreply@facebookmail.com>
+Subject: Lynda Hamoline shared a photo
+Message-ID: <162a93e15571ca9258dfa76afc1c74b6@async.facebook.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Errors-To: notification+zrdoghfzcep1@facebookmail.com
+X-Facebook-Notify: friend_activity; mailid=a1cc435G5af3d9ce15e5G0G109G573e0d70
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_162a93e15571ca9258dfa76afc1c74b6"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2013-q3; t=1404225287;
+	bh=dckPRzgAifEFKOc2E+rtQuBcjegVy7zUExrI4AXmkGY=;
+	h=Date:To:From:Subject:MIME-Version:Content-Type;
+	b=r1Qsjm+98OvSXiHdO0voSfLn+41yhtmBCe05CAiatDhePaiAFotC3DEIKpbwvrE3M
+	 c+T+ARE78euoSQyipqW4dckCosPLoFId1glvUkeRbI5WrSBh/qB3wij0E9rZbX+zY0
+	 lv9fpEWBX34rUwPg1xOriMil0qJB1zX9EuTAGTLM=
+
+
+--b1_162a93e15571ca9258dfa76afc1c74b6
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+View Post
+https://www.facebook.com/n/?lynda.hamoline%2Fposts%2F10152623522347189&med=
+ium=3Demail&mid=3Da1cc435G5af3d9ce15e5G0G109G573e0d70&bcode=3D1.1404225287=
+.Abmg0E9ZvyaOaOAV&n_m=3Deva.lapage%40tamaani.ca&lloc=3D1st_cta
+
+View Lynda's Timeline
+https://www.facebook.com/n/?lynda.hamoline&medium=3Demail&mid=3Da1cc435G5a=
+f3d9ce15e5G0G109G573e0d70&bcode=3D1.1404225287.Abmg0E9ZvyaOaOAV&n_m=3Deva.=
+lapage%40tamaani.ca&lloc=3D2nd_cta
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Hi Eva,
+
+Lynda Hamoline shared a link.
+
+[https://www.facebook.com/n/?lynda.hamoline&medium=3Demail&mid=3Da1cc435G5=
+af3d9ce15e5G0G109G573e0d70&bcode=3D1.1404225287.Abmg0E9ZvyaOaOAV&n_m=3Deva=
+.lapage%40tamaani.ca&lloc=3Dprofile_img]=20
+
+Like =C2=B7 Comment =C2=B7 Share
+
+Thanks,
+The Facebook Team
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+This message was sent to eva.lapage@tamaani.ca. If you don't want to =
+receive these emails from Facebook in the future, please follow the link =
+below to unsubscribe.
+https://www.facebook.com/o.php?k=3DAS2LK5ewMqDfG9Tb&u=3D100003377714661&mi=
+d=3Da1cc435G5af3d9ce15e5G0G109G573e0d70
+Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303
+
+
+--b1_162a93e15571ca9258dfa76afc1c74b6
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr"><table cellspacing=3D"0" =
+cellpadding=3D"0" id=3D"email_table" =
+style=3D"border-collapse:collapse;width:98%;" border=3D"0"><tr><td =
+id=3D"email_content" style=3D"font-family:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;font-size:12px;"><span =
+style=3D"width:620px;color:#FFFFFF;display:none =
+!important;font-size:1px;">Lynda Hamoline shared a link. Lynda Hamoline =
+Timeline Photos Like =C2=B7 Comment =C2=B7 Share</span><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;width:620px;"><tr><td =
+style=3D"font-size:16px;font-family:&#039;lucida grande&#039;,tahoma,verda=
+na,arial,sans-serif;background:#3b5998;color:#FFFFFF;font-weight:bold;vert=
+ical-align:baseline;letter-spacing:-0.03em;text-align:left;padding:5px =
+20px;"><a style=3D"text-decoration: none;" href=3D"https://www.facebook.co=
+m/n/?lynda.hamoline%2Fposts%2F10152623522347189&amp;medium=3Demail&amp;mid=
+=3Da1cc435G5af3d9ce15e5G0G109G573e0d70&amp;bcode=3D1.1404225287.Abmg0E9Zvy=
+aOaOAV&amp;n_m=3Deva.lapage%40tamaani.ca&amp;lloc=3Dlogo"><span =
+style=3D"background:#3b5998;color:#FFFFFF;font-weight:bold;font-family:&#0=
+39;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;vertical-align:middle; =
+font-size:16px;letter-spacing:-0.03em;text-align:left;vertical-align:basel=
+ine;">facebook</span></a></td></tr></table><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"620px" =
+style=3D"border-collapse:collapse;width:620px;" border=3D"0"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:0px;background-color:#f2f2f2;border-left:none;border-right:=
+none;border-top:none;border-bottom:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"620px" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:0px;width:620px=
+;"><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:20px;background-color:#fff;border-left:none;border-right:no=
+ne;border-top:none;border-bottom:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-bottom:10px;"><span =
+style=3D"color:#333333;font-weight:bold;"><a href=3D"https://www.facebook.=
+com/n/?lynda.hamoline&amp;medium=3Demail&amp;mid=3Da1cc435G5af3d9ce15e5G0G=
+109G573e0d70&amp;bcode=3D1.1404225287.Abmg0E9ZvyaOaOAV&amp;n_m=3Deva.lapag=
+e%40tamaani.ca" style=3D"color:#3b5998;text-decoration:none;">Lynda =
+Hamoline</a> shared a link.</span></td></tr><tr><td style=3D"font-size:11p=
+x;font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:10p=
+x;"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;width:100%;"><tr><td valign=3D"top" =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-right:15px;text-align:left;"><a href=3D"https://www.faceboo=
+k.com/n/?lynda.hamoline&amp;medium=3Demail&amp;mid=3Da1cc435G5af3d9ce15e5G=
+0G109G573e0d70&amp;bcode=3D1.1404225287.Abmg0E9ZvyaOaOAV&amp;n_m=3Deva.lap=
+age%40tamaani.ca&amp;lloc=3Dprofile_img" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"http://profile.a=
+k.fbcdn.net/hprofile-ak-xap1/t1.0-1/p50x50/1604514_10152352045667189_10207=
+47707_n.jpg" style=3D"border:0;" /></a></td><td valign=3D"top" =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;width:100%;text-align:left;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-bottom:4px;"><span =
+style=3D"color:#111111;font-size:13px;font-weight:bold;"><a =
+href=3D"https://www.facebook.com/n/?lynda.hamoline&amp;medium=3Demail&amp;=
+mid=3Da1cc435G5af3d9ce15e5G0G109G573e0d70&amp;bcode=3D1.1404225287.Abmg0E9=
+ZvyaOaOAV&amp;n_m=3Deva.lapage%40tamaani.ca&amp;lloc=3Dname" =
+style=3D"color:#3b5998;text-decoration:none;">Lynda =
+Hamoline</a></span></td></tr><tr><td style=3D"font-size:11px;font-family:L=
+ucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:4px;padding-bottom=
+:4px;"><span style=3D"color:#333333;"></span></td></tr><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-top:4px;padding-bottom:4px;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+valign=3D"top" style=3D"padding-right:10px;font-size: 0px;"><img =
+src=3D"http://sphotos-h.ak.fbcdn.net/hphotos-ak-xap1/t1.0-9/s720x720/10353=
+570_256200927914019_1973965645452158031_n.jpg" style=3D"border:0;" =
+/></td><td valign=3D"top" style=3D"width:100%;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;font-weight:bold;"><a href=3D"https://www.facebook.com/n/?lynda.ham=
+oline%2Fposts%2F10152623522347189&amp;medium=3Demail&amp;mid=3Da1cc435G5af=
+3d9ce15e5G0G109G573e0d70&amp;bcode=3D1.1404225287.Abmg0E9ZvyaOaOAV&amp;n_m=
+=3Deva.lapage%40tamaani.ca" =
+style=3D"color:#3b5998;text-decoration:none;">Timeline =
+Photos</a></td></tr><tr><td style=3D"font-size:11px;font-family:LucidaGran=
+de,tahoma,verdana,arial,sans-serif;"><a href=3D"https://www.facebook.com/n=
+/?lynda.hamoline%2Fposts%2F10152623522347189&amp;medium=3Demail&amp;mid=3D=
+a1cc435G5af3d9ce15e5G0G109G573e0d70&amp;bcode=3D1.1404225287.Abmg0E9ZvyaOa=
+OAV&amp;n_m=3Deva.lapage%40tamaani.ca" =
+style=3D"color:#3b5998;text-decoration:none;"></a></td></tr><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;color:#808080;padding:5px =
+0px;"></td></tr></table></td></tr></table></td></tr><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-top:4px;padding-bottom:4px;"><span =
+style=3D"color:#333333;"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-left:10px;"><a =
+href=3D"https://www.facebook.com/n/?email%2Fufi%2Fclick&amp;action=3Dlike&=
+amp;target=3D10152623522347189&amp;hash=3DAVKSpsA5H-7V1YlJ&amp;medium=3Dem=
+ail&amp;mid=3Da1cc435G5af3d9ce15e5G0G109G573e0d70&amp;bcode=3D1.1404225287=
+.Abmg0E9ZvyaOaOAV&amp;n_m=3Deva.lapage%40tamaani.ca&amp;lloc=3Demail_ufi_l=
+ike&amp;sig_t=3D1404225287&amp;sig=3DAVLiaa_cp9Rh8oE7" =
+style=3D"color:#3b5998;text-decoration:none;">Like</a><span> =C2=B7 =
+</span><a href=3D"https://www.facebook.com/n/?email%2Fufi%2Fclick&amp;acti=
+on=3Dcomment&amp;target=3D10152623522347189&amp;hash=3DAVIkDL6Ft91XrZoM&am=
+p;medium=3Demail&amp;mid=3Da1cc435G5af3d9ce15e5G0G109G573e0d70&amp;bcode=
+=3D1.1404225287.Abmg0E9ZvyaOaOAV&amp;n_m=3Deva.lapage%40tamaani.ca&amp;llo=
+c=3Demail_ufi_comment&amp;sig_t=3D1404225287&amp;sig=3DAVJ1nqNa_pwAGGrH" =
+style=3D"color:#3b5998;text-decoration:none;">Comment</a><span> =C2=B7 =
+</span><a href=3D"https://www.facebook.com/n/?email%2Fufi%2Fclick&amp;acti=
+on=3Dshare&amp;target=3D10152623522347189&amp;hash=3DAVIiuNq-ADwH2Biu&amp;=
+medium=3Demail&amp;mid=3Da1cc435G5af3d9ce15e5G0G109G573e0d70&amp;bcode=3D1=
+.1404225287.Abmg0E9ZvyaOaOAV&amp;n_m=3Deva.lapage%40tamaani.ca&amp;lloc=3D=
+email_ufi_share&amp;sig_t=3D1404225287&amp;sig=3DAVLXEraErahgCtcU" =
+style=3D"color:#3b5998;text-decoration:none;">Share</a></td></tr></table><=
+/span></td></tr><tr><td style=3D"font-size:11px;font-family:LucidaGrande,t=
+ahoma,verdana,arial,sans-serif;padding-top:4px;"><span =
+style=3D"color:#333333;"></span></td></tr></table></td></tr></table></td><=
+/tr></table></td></tr></table></td></tr><tr><td style=3D"font-size:11px;fo=
+nt-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:0px;width:6=
+20px;"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;width:100%;" border=3D"0"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:7px 20px;background-color:#f2f2f2;border-left:none;border-r=
+ight:none;border-top:1px solid #ccc;border-bottom:1px solid #ccc;"><table =
+cellspacing=3D"0" cellpadding=3D"0" style=3D""><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-left:65px;"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-width: =
+1px;border-style: solid;border-color: #29447E #29447E =
+#1a356e;background-color: #5b74a8;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:2px 6px 4px;border-top:1px solid #8a9cc2;"><a =
+href=3D"https://www.facebook.com/n/?lynda.hamoline%2Fposts%2F1015262352234=
+7189&amp;medium=3Demail&amp;mid=3Da1cc435G5af3d9ce15e5G0G109G573e0d70&amp;=
+bcode=3D1.1404225287.Abmg0E9ZvyaOaOAV&amp;n_m=3Deva.lapage%40tamaani.ca&am=
+p;lloc=3D1st_cta" style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-weight:bold;white-space:nowrap;color: #ffffff;font-size: =
+13px;">View Post</span></a></td></tr></table></td></tr></table></td><td =
+style=3D"padding:0px 5px;"></td><td style=3D"font-size:11px;font-family:Lu=
+cidaGrande,tahoma,verdana,arial,sans-serif;padding:7px 0px 6px;"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-width: =
+1px;border-style: solid;border-color: #999999 #999999 =
+#888888;background-color: #eeeeee;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:2px 6px 4px;border-top:1px solid #ffffff;"><a =
+href=3D"https://www.facebook.com/n/?lynda.hamoline&amp;medium=3Demail&amp;=
+mid=3Da1cc435G5af3d9ce15e5G0G109G573e0d70&amp;bcode=3D1.1404225287.Abmg0E9=
+ZvyaOaOAV&amp;n_m=3Deva.lapage%40tamaani.ca&amp;lloc=3D2nd_cta" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-weight:bold;white-space:nowrap;color: #333333;font-size: =
+13px;">View Lynda&#039;s Timeline</span></a></td></tr></table></td></tr></=
+table></td></tr></table></td></tr></table></td></tr></table></td></tr></ta=
+ble><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"border-collapse:collapse;width:620px;"><tr><td =
+style=3D"font-size:11px;font-family:&#039;lucida grande&#039;, tahoma, =
+verdana, arial, sans-serif;padding:30px 20px;background-color:#fff;border-=
+left:none;border-right:none;border-top:none;border-bottom:none;color:#9999=
+99;border:none;">This message was sent to <a =
+href=3D"mailto:eva.lapage&#064;tamaani.ca" style=3D"color:#3b5998;text-dec=
+oration:none;">eva.lapage&#064;tamaani.ca</a>. If you don&#039;t want to =
+receive these emails from Facebook in the future, please <a =
+href=3D"https://www.facebook.com/o.php?k=3DAS2LK5ewMqDfG9Tb&amp;u=3D100003=
+377714661&amp;mid=3Da1cc435G5af3d9ce15e5G0G109G573e0d70" =
+style=3D"color:#3b5998;text-decoration:none;">unsubscribe</a>.<br =
+/>Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303</td></tr></table><span style=3D"width:620px;"><img =
+src=3D"https://www.facebook.com/email_open_log_pic.php?mid=3Da1cc435G5af3d=
+9ce15e5G0G109G573e0d70" style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+
+
+
+--b1_162a93e15571ca9258dfa76afc1c74b6--
+
+
+

@@ -1,0 +1,129 @@
+Return-Path: <Natalie.Rosebush@msss.gouv.qc.ca>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv3.soleica.ca (localhost [127.0.0.1])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 531883DAC85
+	for <aarngak@tamaani.ca>; Tue,  5 Apr 2011 09:46:36 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv3.soleica.ca ([127.0.0.1])
+	by ispv3.soleica.ca (ispv3.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id UAkZzqKyD6Ra for <aarngak@tamaani.ca>;
+	Tue,  5 Apr 2011 09:46:35 -0400 (EDT)
+Received: from tcn00qubc00208.isn.rtss.qc.ca (relais3.ssss.gouv.qc.ca [142.83.199.7])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 82DE73DAC84
+	for <aarngak@tamaani.ca>; Tue,  5 Apr 2011 09:46:35 -0400 (EDT)
+Received: from tc00bar136875.ssss.gouv.qc.ca ([10.249.80.24])
+          by tcn00qubc00208.isn.rtss.qc.ca (Lotus Domino Release 8.5.2FP1)
+          with ESMTP id 2011040509463349-3287247 ;
+          Tue, 5 Apr 2011 09:46:33 -0400 
+X-ASG-Debug-ID: 1302011185-4398659c0004-FBqy4Z
+Received: from tcn00qubc00551.isn.rtss.qc.ca ([10.250.32.27]) by tc00bar136875.ssss.gouv.qc.ca with ESMTP id nv4xjblTkSspHz2n; Tue, 05 Apr 2011 09:46:26 -0400 (EDT)
+X-Barracuda-Envelope-From: Natalie.Rosebush@msss.gouv.qc.ca
+Subject: Change
+To: gilles.boulet@ssss.gouv.qc.ca,
+	jeannie.may@ssss.gouv.qc.ca,
+	aarngak@tamaani.ca,
+	madge.pomerleau@ssss.gouv.qc.ca,
+	jane.beaudoin.csi@ssss.gouv.qc.ca,
+	claude.bouffard@ssss.gouv.qc.ca,
+	jean-pierre.charbonneau.reg17@ssss.gouv.qc.ca,
+	lisa.mesher.mnq@ssss.gouv.qc.ca,
+	larry.watt@ssss.gouv.qc.ca,
+	silas.watt@ssss.gouv.qc.ca,
+	jean.fratelli.reg17@ssss.gouv.qc.ca,
+	michaud_daniel1@yahoo.ca,
+	andre.lebon@cgocable.ca,
+	celine.laforest.mnq@ssss.gouv.qc.ca,
+	helen.dion@ssss.gouv.qc.ca,
+	janie.paquet@ssss.gouv.qc.ca,
+	Dany.Gagnon@ssss.gouv.qc.ca
+X-ASG-Orig-Subj: Change
+X-Mailer: Lotus Notes Release 6.5.6 March 06, 2007
+Message-ID: <OFA824E5A4.D9EFD877-ON85257869.004B1504-85257869.004BA6DE@isn.rtss.qc.ca>
+From: Natalie.Rosebush@msss.gouv.qc.ca
+Date: Tue, 5 Apr 2011 09:45:09 -0400
+MIME-Version: 1.0
+X-Barracuda-Connect: UNKNOWN[10.250.32.27]
+X-Barracuda-Start-Time: 1302011186
+X-Barracuda-URL: http://10.249.80.41:8000/cgi-mod/mark.cgi
+X-Barracuda-Spam-Score: 0.53
+X-Barracuda-Spam-Status: No, SCORE=0.53 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=7.0 tests=HTML_MESSAGE, MIME_BASE64_BLANKS, MIME_BASE64_TEXT, NO_REAL_NAME
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.59976
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 NO_REAL_NAME           From: does not include a real name
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.00 MIME_BASE64_BLANKS     RAW: Extra blank lines in base64 encoding
+	0.52 MIME_BASE64_TEXT       RAW: Message text disguised using base64 encoding
+X-MIMETrack: Serialize by Router on TCN00QUBC00551/Serveurs/SSSS(Release 6.5.6FP3 HF341|October
+ 05, 2010) at 2011-04-05 09:46:26,
+	Itemize by SMTP Server on TCN00QUBC00208/Serveurs/SSSS(Release 8.5.2FP1|November
+ 29, 2010) at 2011-04-05 09:46:33,
+	Serialize by Router on TCN00QUBC00208/Serveurs/SSSS(Release 8.5.2FP1|November
+ 29, 2010) at 2011-04-05 09:46:35,
+	Serialize complete at 2011-04-05 09:46:35
+Content-type: multipart/alternative; 
+	Boundary="0__=0ABBF2FADFD821418f9e8a93df938690918c0ABBF2FADFD82141"
+Content-Disposition: inline
+
+--0__=0ABBF2FADFD821418f9e8a93df938690918c0ABBF2FADFD82141
+Content-transfer-encoding: base64
+Content-type: text/plain; charset=ISO-8859-1
+
+
+DQoNCkhlbGxvIGV2ZXJ5b25lLA0KDQpKdXN0IHdhbnQgdG8gbGV0IHlvdSBrbm93IHRoYXQgSSB3
+aWxsIGJlIGNoYW5naW5nIGpvYiBoZXJlIGF0IHRoZSBNU1NTLiAgSQ0Kd2lsbCBubyBsb25nZXIg
+YmUgcmVzcG9uc2libGUgZm9yIG5hdGl2ZSBhZmZhaXJlcyBhbmQgbm9ydGhlcm4gcmVnaW9ucy4N
+CkknbSBnb2luZyB0byB0aGUgeW91dGggYW5kIGZhbWlseSBkZXBhcnRtZW50IChEaXJlY3Rpb24g
+ZGVzIGpldW5lcyBldCBkZXMNCmZhbWlsbGVzKSBzdGFydGluZyBBcHJpbCAyNnRoLiBTb21lb25l
+IGVsc2Ugd2lsbCByZXBsYWNlIG1lIGJ1dCB3ZSBqdXN0DQpkb24ndCBrbm93IHdobyB5ZXQuICBX
+ZSB3aWxsIGxldCB5b3Uga25vdy4gIE1lYW53aGlsZSwgeW91IGNhbiByZWFjaCBQaWVycmUNCkxh
+ZmxhbW1lICg0MTgtMjY2LTY4MjIpLCBteSBhY3R1YWwgYm9zcywgZm9yIHN1cHBvcnQgb24gYW55
+IHN1YmplY3QuICBIZQ0Kd2lsbCBiZSBoYXBweSB0byBoZWxwLg0KDQpJIGFsc28gd2FudCB0byB0
+ZWxsIHlvdSB0aGF0IGl0IHdhcyBhIHBsZWFzdXJlIHdvcmtpbmcgd2l0aCB5b3UgYW5kIEkgd2ls
+bA0Kc3VyZWx5IG1pc3MgZXZlcnlib2R5LiAgSSBrZWVwIHdpdGggbWUgZ3JlYXQgc291dmVuaXJz
+IG9mIG15IHdvcmsgd2l0aCB5b3UuDQpIb3BlIHRoaW5ncyB3aWxsIG1vdmUgYXMgeW91IHdpc2gg
+Zm9yIHRoZSBzZXJ2aWNlIGltcGxlbWVudGF0aW9uLiBPZg0KY291cnNlLCBzaW5jZSBJIGFtIHN0
+YXlpbmcgYXQgTVNTUywgeW91IGNhbiBhbHdheXMgcmVhY2ggbWUgYXQgdGhpcyBlLW1haWwuDQoN
+ClRha2UgY2FyZSBhbmQgaG9wZSB3ZSB3aWxsIGhhdmUgdGhlIG9wcG9ydHVuaXR5IHRvIHdvcmsg
+YWdhaW4gdG9nZXRoZXIuDQoNCmhhdmUgYSBuaWNlIGRheQ0KTmF0YWxpZQ0KLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tDQpOYXRhbGllIFJvc2VidXNoDQpBZmZhaXJlcyBhdXRvY2h0
+b25lcywgculnaW9ucyBub3JkaXF1ZXMgZXQgZXRobm9jdWx0dXJlbGxlcw0KRGlyZWN0aW9uIGfp
+bulyYWxlIGFkam9pbnRlIGF1eCBlbnRlbnRlcyBkZSBnZXN0aW9uDQoxMDc1LCBjaGVtaW4gU2Fp
+bnRlLUZveSwgM2Ug6XRhZ2UNClF16WJlYyAoUXXpYmVjKSAgRzFTIDJNMQ0KVOls6XBob25loDog
+KDQxOCkgMjY2LTY4MDgNClTpbOljb3BpZXVyoDogKDQxOCkgMjY2LTQ2MTINCg==
+
+--0__=0ABBF2FADFD821418f9e8a93df938690918c0ABBF2FADFD82141
+Content-transfer-encoding: base64
+Content-type: text/html; charset=ISO-8859-1
+Content-Disposition: inline
+
+PGh0bWw+PGJvZHk+DQo8cD5IZWxsbyBldmVyeW9uZSw8YnI+DQo8YnI+DQpKdXN0IHdhbnQgdG8g
+bGV0IHlvdSBrbm93IHRoYXQgSSB3aWxsIGJlIGNoYW5naW5nIGpvYiBoZXJlIGF0IHRoZSBNU1NT
+LiAgSSB3aWxsIG5vIGxvbmdlciBiZSByZXNwb25zaWJsZSBmb3IgbmF0aXZlIGFmZmFpcmVzIGFu
+ZCBub3J0aGVybiByZWdpb25zLiAgSSdtIGdvaW5nIHRvIHRoZSB5b3V0aCBhbmQgZmFtaWx5IGRl
+cGFydG1lbnQgKERpcmVjdGlvbiBkZXMgamV1bmVzIGV0IGRlcyBmYW1pbGxlcykgc3RhcnRpbmcg
+QXByaWwgMjZ0aC4gU29tZW9uZSBlbHNlIHdpbGwgcmVwbGFjZSBtZSBidXQgd2UganVzdCBkb24n
+dCBrbm93IHdobyB5ZXQuICBXZSB3aWxsIGxldCB5b3Uga25vdy4gIE1lYW53aGlsZSwgeW91IGNh
+biByZWFjaCBQaWVycmUgTGFmbGFtbWUgKDQxOC0yNjYtNjgyMiksIG15IGFjdHVhbCBib3NzLCBm
+b3Igc3VwcG9ydCBvbiBhbnkgc3ViamVjdC4gIEhlIHdpbGwgYmUgaGFwcHkgdG8gaGVscC48YnI+
+DQo8YnI+DQpJIGFsc28gd2FudCB0byB0ZWxsIHlvdSB0aGF0IGl0IHdhcyBhIHBsZWFzdXJlIHdv
+cmtpbmcgd2l0aCB5b3UgYW5kIEkgd2lsbCBzdXJlbHkgbWlzcyBldmVyeWJvZHkuICBJIGtlZXAg
+d2l0aCBtZSBncmVhdCBzb3V2ZW5pcnMgb2YgbXkgd29yayB3aXRoIHlvdS48YnI+DQpIb3BlIHRo
+aW5ncyB3aWxsIG1vdmUgYXMgeW91IHdpc2ggZm9yIHRoZSBzZXJ2aWNlIGltcGxlbWVudGF0aW9u
+LiBPZiBjb3Vyc2UsIHNpbmNlIEkgYW0gc3RheWluZyBhdCBNU1NTLCB5b3UgY2FuIGFsd2F5cyBy
+ZWFjaCBtZSBhdCB0aGlzIGUtbWFpbC48YnI+DQo8YnI+DQpUYWtlIGNhcmUgYW5kIGhvcGUgd2Ug
+d2lsbCBoYXZlIHRoZSBvcHBvcnR1bml0eSB0byB3b3JrIGFnYWluIHRvZ2V0aGVyLjxicj4NCjxi
+cj4NCmhhdmUgYSBuaWNlIGRheTxicj4NCk5hdGFsaWU8YnI+DQotLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS08YnI+DQpOYXRhbGllIFJvc2VidXNoPGJyPg0KQWZmYWlyZXMgYXV0b2No
+dG9uZXMsIHLpZ2lvbnMgbm9yZGlxdWVzIGV0IGV0aG5vY3VsdHVyZWxsZXM8YnI+DQpEaXJlY3Rp
+b24gZ+lu6XJhbGUgYWRqb2ludGUgYXV4IGVudGVudGVzIGRlIGdlc3Rpb248YnI+DQoxMDc1LCBj
+aGVtaW4gU2FpbnRlLUZveSwgM2Ug6XRhZ2U8YnI+DQpRdeliZWMgKFF16WJlYykgIEcxUyAyTTE8
+YnI+DQpU6WzpcGhvbmWgOiAoNDE4KSAyNjYtNjgwODxicj4NClTpbOljb3BpZXVyoDogKDQxOCkg
+MjY2LTQ2MTI8YnI+DQo8YnI+DQo8L2JvZHk+PC9odG1sPg==
+
+--0__=0ABBF2FADFD821418f9e8a93df938690918c0ABBF2FADFD82141--
+
+
+

@@ -1,0 +1,232 @@
+Return-Path: <donotreply@apple.com>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv4.soleica.ca (localhost [127.0.0.1])
+	by ispv4.soleica.ca (Postfix) with ESMTP id 8F4F976B2D
+	for <aarngak@tamaani.ca>; Mon, 15 Jul 2013 18:13:40 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv4.soleica.ca ([127.0.0.1])
+	by ispv4.soleica.ca (ispv4.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id hhMVgpGUH056 for <aarngak@tamaani.ca>;
+	Mon, 15 Jul 2013 18:13:34 -0400 (EDT)
+Received: from bz.apple.com (foxwhelp.apple.com [17.151.62.53])
+	by ispv4.soleica.ca (Postfix) with ESMTP id 9A33976B85
+	for <aarngak@tamaani.ca>; Mon, 15 Jul 2013 18:13:34 -0400 (EDT)
+Received: from golf ([17.34.24.129])
+ by bz.apple.com (Oracle Communications Messaging Server 7u4-23.01(7.0.4.23.0)
+ 64bit (built Aug 10 2011)) with ESMTP id <0MQ000AL50EM6E10@bz.apple.com> for
+ aarngak@tamaani.ca; Mon, 15 Jul 2013 15:13:34 -0700 (PDT)
+Date-warning: Date header was inserted by bz.apple.com
+Date: Mon, 15 Jul 2013 15:13:34 -0700 (PDT)
+From: Apple Store Fairview Pointe Claire <donotreply@apple.com>
+To: aarngak@tamaani.ca
+Message-id: <f546f1cadfe889542394582886c20b656ebabb972@apple.com>
+Subject: =?UTF-8?B?Vm90cmUgYXV0b3Jpc2F0aW9uIGRlIHI=?=
+ =?UTF-8?B?w6lwYXJhdGlvbiBsJ0FwcGxlIFN0b3Jl?=
+MIME-version: 1.0
+Content-type: text/html; charset=UTF-8
+Content-transfer-encoding: quoted-printable
+
+<!DOCTYPE html SYSTEM>
+<html lang=3D"en">=20
+  <head>=20
+    <meta charset=3D"utf-8"/>=20
+  </head> =20
+  <body ontouchmove=3D"cancelTouchEvent(event);" style=3D"min-width: 750px;=
+ color: black; width: 480px;">Nous vous remercions de votre visite =C3=A0 l=
+'Apple Store. Vous trouverez ci-dessous un exemplaire de votre dossier d'in=
+tervention.=20
+    <div class=3D"wrapper" style=3D"margin-top: 1em; z-index: 100; backgrou=
+nd: white;"/> =20
+    <div class=3D"content" id=3D"contentScroll">=20
+      <div id=3D"paperwork" style=3D"margin-bottom: 30px; font-size: 10pt; =
+font-family: 'Helvetica', Verdana, Arial, sans-serif; height: 100%; padding=
+: 12px; margin-top: 30px; line-height: 1.3; display: block;">=20
+        <div id=3D"headerinfo">=20
+          <table style=3D"width:100%;">=20
+            <tr>=20
+              <td width=3D"50%" style=3D"font-size: 10pt;">=20
+                <div id=3D"license"></div>=20
+              </td> =20
+              <td width=3D"50%" style=3D"font-size: 10pt; text-align:right;=
+">=20
+                <div id=3D"storename">Apple Store Fairview Pointe Claire</d=
+iv>=20
+              </td>=20
+            </tr> =20
+            <tr>=20
+              <td width=3D"50%" style=3D"font-size: 10pt;">=20
+                <div id=3D"date">15-Jul-13</div>=20
+              </td> =20
+              <td width=3D"50%" style=3D"font-size: 10pt;text-align:right;"=
+>=20
+                <div id=3D"storephone">(514) 630-8800</div>=20
+              </td>=20
+            </tr>=20
+          </table> =20
+          <h2 id=3D"formname" style=3D"text-align: center; padding: 0in; ma=
+rgin-top: .2in; margin-bottom: .4in; color: black;">Autorisation de service=
+ au Genius Bar</h2> =20
+          <div id=3D"repairnumber" style=3D"color: black;">=20
+            <div class=3D"barcode" style=3D"font-size: 16pt; display: none;=
+">*R96920240*</div> R=C3=A9paration N=C2=B0 : R96920240
+          </div>=20
+        </div> =20
+        <div id=3D"customerandproductinformation" style=3D"margin-top: .3in=
+;">=20
+          <table class=3D"parts" cellspacing=3D"0" style=3D"font-size: 10pt=
+; margin-top: -.04in; width: 100%;" cellpadding=3D"0">=20
+            <tr>=20
+              <td style=3D"padding: 0in;" width=3D"66%" colspan=3D"2">=20
+                <h3 class=3D"subheader" style=3D"margin-top: 0in; margin-bo=
+ttom: .05in; padding-top: .15in; border-bottom-color: #B1B1B1; border-botto=
+m-width: 1px; border-bottom-style: solid; font-size: 10pt;">Renseignements =
+sur le client</h3>=20
+              </td> =20
+              <td style=3D"padding: 0in;">=20
+                <h3 class=3D"subheader" style=3D"margin-top: 0in; margin-bo=
+ttom: .05in; padding-top: .15in; border-bottom-color: #B1B1B1; border-botto=
+m-width: 1px; border-bottom-style: solid; font-size: 10pt;">Informations su=
+r le produit</h3>=20
+              </td>=20
+            </tr> =20
+            <tr>=20
+              <td style=3D"padding: 0in;">Alasie Arngak</td> =20
+              <td style=3D"padding: 0in;"/> =20
+              <td style=3D"padding: 0in;">Statut de la garantie : Out of wa=
+rranty(OW)</td>=20
+            </tr> =20
+            <tr>=20
+              <td style=3D"padding: 0in;">          CAN</td> =20
+              <td style=3D"padding: 0in;"/> =20
+              <td style=3D"padding: 0in;">Mod=C3=A8le : IPAD 2 3G</td>=20
+            </tr> =20
+            <tr>=20
+              <td style=3D"padding: 0in;"/>=20
+              <td style=3D"padding: 0in;"/> =20
+              <td style=3D"padding: 0in;">Date d=E2=80=99achat : 15-Jul-11<=
+/td>=20
+            </tr> =20
+            <tr>=20
+              <td style=3D"padding: 0in;"/>=20
+              <td style=3D"padding: 0in;"/> =20
+              <td style=3D"padding: 0in;">N=C2=B0 de s=C3=A9rie : DN6FVFGMD=
+KNY</td>=20
+            </tr> =20
+            <tr>=20
+              <td style=3D"padding: 0in;"/>=20
+              <td style=3D"padding: 0in;"/> =20
+              <td style=3D"padding: 0in;"/>=20
+            </tr>=20
+          </table>=20
+        </div> =20
+        <div id=3D"problemdescription">=20
+          <h3 class=3D"subheader" style=3D"margin-top: 0in; margin-bottom: =
+.05in; padding-top: .15in; border-bottom-color: #B1B1B1; border-bottom-widt=
+h: 1px; border-bottom-style: solid; font-size: 10pt;">Description du probl=
+=C3=A8me/diagnostic</h3> =20
+          <div id=3D"retailnotes" style=3D"word-wrap: break-word; width: 10=
+0%;"><BR>Issue: Shattered display. <BR>Steps to Reproduce: Visually verifie=
+d. <BR>Cosmetic Condition: Shattered. <BR>Alternate Pickup: Customer states=
+ that her friend will pick up the iPad and pay then. NAME: Sally Nuktie. <B=
+R><BR>Employee 299215500</div> =20
+          <div style=3D"height: 8px;"/>=20
+        </div> =20
+        <div id=3D"partsandservice">=20
+          <div>=20
+            <br/> =20
+            <h3 class=3D"subheader" style=3D"margin-top: 0in; margin-bottom=
+: .05in; padding-top: .15in; border-bottom-color: #B1B1B1; border-bottom-wi=
+dth: 1px; border-bottom-style: solid; font-size: 10pt;">Estimation de la r=
+=C3=A9paration</h3> =20
+            <table class=3D"parts" id=3D"authorization_parts" style=3D"font=
+-size: 10pt; margin-top: -.04in; width: 100%;">=20
+              <tbody>=20
+                <tr>=20
+                  <th class=3D"number" id=3D"itemnumberheader" style=3D"tex=
+t-align: left; width: 16%; padding: 0in;">R=C3=A9f=C3=A9rence article</th> =
+=20
+                  <th class=3D"description" id=3D"descriptionheader" style=
+=3D"text-align: left; width: 50%; padding: 0in;">Description</th> =20
+                  <th class=3D"price-header" style=3D"align: right; text-al=
+ign: right; width: 16%; padding: 0in 5px 0in 0in;">Prix</th> =20
+                  <th class=3D"amt-due-header" style=3D"align: right; text-=
+align: right; width: 18%; padding: 0in 5px 0in 0in;">Montant du</th>=20
+                </tr> =20
+                <tr>=20
+                    <td class=3D"number" style=3D"text-align: left; width: =
+16%; padding: 0in;">661-5887</td> =20
+                    <td class=3D"description" style=3D"text-align: left; wi=
+dth: 50%; padding: 0in;">iPad 2, 3G, 64GB, White </td> =20
+                    <td class=3D"price" style=3D"align: right; text-align: =
+right; padding: 0in 5px 0in 0in;">$ 0.00</td> =20
+                    <td class=3D"amount-due" style=3D"align: right; text-al=
+ign: right; padding: 0in 5px 0in 0in;">$ 0.00</td>=20
+                  </tr><tr>=20
+                    <td class=3D"number" style=3D"text-align: left; width: =
+16%; padding: 0in;">S4413Z/A</td> =20
+                    <td class=3D"description" style=3D"text-align: left; wi=
+dth: 50%; padding: 0in;">TARIF R=C3=89PARATION IPAD 64GO WI-FI 3G </td> =20
+                    <td class=3D"price" style=3D"align: right; text-align: =
+right; padding: 0in 5px 0in 0in;">$ 249.00</td> =20
+                    <td class=3D"amount-due" style=3D"align: right; text-al=
+ign: right; padding: 0in 5px 0in 0in;">$ 249.00</td>=20
+                  </tr> =20
+                <tr>=20
+                  <td class=3D"total" style=3D"font-weight: bold; align: ri=
+ght; text-align: right; vertical-align: top; padding: 0in;" colspan=3D"2">T=
+otal</td> =20
+                  <td class=3D"total-price" id=3D"total" style=3D"font-weig=
+ht: bold; align: right; text-align: right; vertical-align: top; padding: 0i=
+n 5px 0in 0in;">$ 249.00</td> =20
+                  <td class=3D"total-price" id=3D"total" style=3D"font-weig=
+ht: bold; align: right; text-align: right; vertical-align: top; padding: 0i=
+n 5px 0in 0in;">$ 286.29</td>=20
+                </tr>=20
+              </tbody>=20
+            </table>=20
+          </div> =20
+          <br/> =20
+          <div class=3D"legal" id=3D"authorization_legal" style=3D"text-ali=
+gn: justify; -webkit-page-break-inside: avoid; -moz-page-break-inside: avoi=
+d; page-break-inside: avoid;">=20
+            <div id=3D"legaltext">=20
+              J'accepte ce qui suit :=20
+              <br/>                 =20
+              <br/>=E2=80=A2 les Conditions g=C3=A9n=C3=A9rales de r=C3=A9p=
+aration figurant au dos de cette page s'appliqueront =C3=A0 l'intervention =
+affectant le produit ci-dessus;=20
+              <br/> =20
+              <br/>=E2=80=A2 Apple ne peut =C3=AAtre tenue responsable de l=
+a perte, de la corruption ou de la divulgation des donn=C3=A9es stock=C3=A9=
+es sur mon produit pendant l'intervention;
+              <br/> =20
+              <br/>=E2=80=A2 l'intervention pouvant entra=C3=AEner une pert=
+e de donn=C3=A9es, il est de ma responsabilit=C3=A9 d'effectuer une sauvega=
+rde de mes donn=C3=A9es avant de d=C3=A9poser mon produit chez Apple pour r=
+=C3=A9paration;
+              <br/>
+              <br/>=E2=80=A2 les produits d=C3=A9pos=C3=A9s pour r=C3=A9par=
+ation pourront =C3=AAtre remplac=C3=A9s par des appareils reconditionn=C3=
+=A9s du m=C3=AAme type au lieu d'=C3=AAtre r=C3=A9par=C3=A9s. Des pi=C3=A8c=
+es reconditionn=C3=A9es pourront =C3=AAtre utilis=C3=A9es pour r=C3=A9parer=
+ le produit d=C3=A9pos=C3=A9.
+            </div> =20
+            <br/>Les Conditions g=C3=A9n=C3=A9rales des interventions de r=
+=C3=A9paration peuvent =C3=AAtre consult=C3=A9es =C3=A0 l'adresse suivante=
+=20
+            <a href=3D"http://www.apple.com/legal/terms/repair/instantexcha=
+nge.html" style=3D"color: #0088CC; cursor: pointer;">http://www.apple.com/l=
+egal/terms/repair/instantexchange.html</a>.=20
+            <br/> =20
+            <br/> =20
+            <br/> =20
+            <br/>=20
+          </div>=20
+        </div>=20
+      </div>=20
+    </div>=20
+  </body>=20
+</html>
+
+

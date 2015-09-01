@@ -1,0 +1,96 @@
+Return-Path: <catherine.gagne@msss.gouv.qc.ca>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from localhost (localhost [127.0.0.1])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 61F9F3D7C39
+	for <aarngak@tamaani.ca>; Tue, 24 Aug 2010 16:39:21 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv3.soleica.ca ([127.0.0.1])
+	by localhost (ispv3.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id 3FBox9LTrXYw for <aarngak@tamaani.ca>;
+	Tue, 24 Aug 2010 16:39:20 -0400 (EDT)
+Received: from tcn00qubc00209.isn.rtss.qc.ca (relais4.ssss.gouv.qc.ca [142.83.199.8])
+	by ispv3.soleica.ca (Postfix) with ESMTP id A62543D79AC
+	for <aarngak@tamaani.ca>; Tue, 24 Aug 2010 16:39:20 -0400 (EDT)
+Received: from tc00bar200725.ssss.gouv.qc.ca ([10.249.80.24])
+          by tcn00qubc00209.isn.rtss.qc.ca (Lotus Domino Release 8.5.1FP1)
+          with ESMTP id 2010082416391836-4147710 ;
+          Tue, 24 Aug 2010 16:39:18 -0400 
+Received: from tcn00qubc00551.isn.rtss.qc.ca (unknown [10.250.32.27])
+	by tc00bar200725.ssss.gouv.qc.ca (Spam & Virus Firewall) with ESMTP id 066C019A0103
+	for <aarngak@tamaani.ca>; Tue, 24 Aug 2010 16:56:51 -0400 (EDT)
+Received: from tcn00qubc00551.isn.rtss.qc.ca ([10.250.32.27]) by tc00bar200725.ssss.gouv.qc.ca with ESMTP id cw9XIeewjjRnwnpf for <aarngak@tamaani.ca>; Tue, 24 Aug 2010 16:56:51 -0400 (EDT)
+From: pierre.laflamme@msss.gouv.qc.ca
+Subject: Relocalisation du MNQ
+To: jeannie.may@ssss.gouv.qc.ca,
+	aarngak@tamaani.ca,
+	gilles.boulet@ssss.gouv.qc.ca,
+	larry.watt@ssss.gouv.qc.ca,
+	Jean-Guy_Letourneau@ssss.gouv.qc.ca,
+	helen.dion@ssss.gouv.qc.ca,
+	Lise.Verreault@msss.gouv.qc.ca,
+	john.gauvreau@msss.gouv.qc.ca,
+	Joseph-Marc.Laforest@msss.gouv.qc.ca,
+	Simon.Tremblay2@msss.gouv.qc.ca,
+	Sylvain.Perigny@msss.gouv.qc.ca
+Cc: Natalie.Rosebush@msss.gouv.qc.ca
+X-Mailer: Lotus Notes Release 6.5.6 March 06, 2007
+Message-ID: <OF387D3BAF.EC6FB18E-ON85257789.0070AE0F-85257789.0071715B@isn.rtss.qc.ca>
+Sender: catherine.gagne@msss.gouv.qc.ca
+Date: Tue, 24 Aug 2010 16:38:22 -0400
+MIME-Version: 1.0
+X-MIMETrack: Serialize by Router on TCN00QUBC00551/Serveurs/SSSS(Release 6.5.6FP3 HF251|January
+ 21, 2010) at 2010-08-24 16:39:13,
+	Itemize by SMTP Server on TCN00QUBC00209/Serveurs/SSSS(Release 8.5.1FP1|January
+ 05, 2010) at 2010-08-24 16:39:18,
+	Serialize by Router on TCN00QUBC00209/Serveurs/SSSS(Release 8.5.1FP1|January
+ 05, 2010) at 2010-08-24 16:39:20,
+	Serialize complete at 2010-08-24 16:39:20
+Content-type: multipart/alternative; 
+	Boundary="0__=0ABBFD1ADFE3289F8f9e8a93df938690918c0ABBFD1ADFE3289F"
+Content-Disposition: inline
+
+--0__=0ABBFD1ADFE3289F8f9e8a93df938690918c0ABBFD1ADFE3289F
+Content-transfer-encoding: base64
+Content-type: text/plain; charset=ISO-8859-1
+
+
+DQpDb25maXJtYXRpb24gZGUgbGEgY29uZulyZW5jZSB06WzpcGhvbmlxdWUgZGUgZGVtYWluLCBt
+ZXJjcmVkaSAyNSBhb/t0IGRlDQoxNiBoIDMwIOAgMTcgaCAzMC4gU2FsbGUgMzc5IHBvdXIgbGVz
+IHBlcnNvbm5lcyBkZSBRdeliZWMuDQoNClBvdXIgdm91cyBqb2luZHJlIOAgbGEgY29uZulyZW5j
+ZSB2b3VzIGRldmV6IGNvbXBvc2VyIGxlIDE4NjYgODI3LTY4NzIgZXQNCmxlIGNvZGUgZCdhY2Po
+cyA1NjAzMTI3Iy4NCg0KVGhpcyBpcyB0byBjb25maXJtIHRoZSB0b21vcnJvdyB0ZWxlcGhvbmUg
+Y29uZmVyZW5jZSBmcm9tIDE2OjMwIHRvIDE3OjMwLA0KcmVnYXJkaW5nIHRoZSBNTlEgcmVsb2Nh
+dGlvbi4gUGxlYXNlIGRpYWwgdGhlIGFib3ZlIG51bWJlcnMgdG8gam9pbiBpbi4NCg0KDQoNCg0K
+UGllcnJlIExhZmxhbW1lDQpEaXJlY3RldXIgZ+lu6XJhbCBhZGpvaW50IGF1eCBlbnRlbnRlcyBk
+ZSBnZXN0aW9uDQoxMDc1LCBjaGVtaW4gU3RlLUZveSwgM2Ug6XRhZ2UNClF16WJlYyAoUXXpYmVj
+KSwgRzFTIDJNMQ0KVOls6XBob25lOiAgICAoNDE4KSAyNjYtNjgyMg0KVOls6WNvcGlldXI6ICAo
+NDE4KSAyNjYtNDYxMg0KcGxhZmxhbW1lQG1zc3MuZ291di5xYy5jYQ0K
+
+--0__=0ABBFD1ADFE3289F8f9e8a93df938690918c0ABBFD1ADFE3289F
+Content-transfer-encoding: base64
+Content-type: text/html; charset=ISO-8859-1
+Content-Disposition: inline
+
+PGh0bWw+PGJvZHk+DQo8cD5Db25maXJtYXRpb24gZGUgbGEgY29uZulyZW5jZSB06WzpcGhvbmlx
+dWUgZGUgZGVtYWluLCBtZXJjcmVkaSAyNSBhb/t0IGRlIDE2IGggMzAg4CAxNyBoIDMwLiBTYWxs
+ZSAzNzkgcG91ciBsZXMgcGVyc29ubmVzIGRlIFF16WJlYy48YnI+DQo8YnI+DQpQb3VyIHZvdXMg
+am9pbmRyZSDgIGxhIGNvbmbpcmVuY2Ugdm91cyBkZXZleiBjb21wb3NlciBsZSAxODY2IDgyNy02
+ODcyIGV0IGxlIGNvZGUgZCdhY2PocyA1NjAzMTI3Iy48YnI+DQo8YnI+DQpUaGlzIGlzIHRvIGNv
+bmZpcm0gdGhlIHRvbW9ycm93IHRlbGVwaG9uZSBjb25mZXJlbmNlIGZyb20gMTY6MzAgdG8gMTc6
+MzAsIHJlZ2FyZGluZyB0aGUgTU5RIHJlbG9jYXRpb24uIFBsZWFzZSBkaWFsIHRoZSBhYm92ZSBu
+dW1iZXJzIHRvIGpvaW4gaW4uPGJyPg0KPGJyPg0KPGJyPg0KPGJyPg0KPGJyPg0KPGI+PGk+PGZv
+bnQgc2l6ZT0iNiIgY29sb3I9IiM4MDAwMDAiIGZhY2U9Ikt1bnN0bGVyIFNjcmlwdCI+UGllcnJl
+IExhZmxhbW1lPC9mb250PjwvaT48L2I+PGJyPg0KPGZvbnQgc2l6ZT0iMSI+RGlyZWN0ZXVyIGfp
+bulyYWwgYWRqb2ludCBhdXggZW50ZW50ZXMgZGUgZ2VzdGlvbjwvZm9udD48YnI+DQo8Zm9udCBz
+aXplPSIxIj4xMDc1LCBjaGVtaW4gU3RlLUZveSwgM2Ug6XRhZ2U8L2ZvbnQ+PGJyPg0KPGZvbnQg
+c2l6ZT0iMSI+UXXpYmVjIChRdeliZWMpLCBHMVMgMk0xPC9mb250Pjxicj4NCjxmb250IHNpemU9
+IjEiPlTpbOlwaG9uZTogICAgKDQxOCkgMjY2LTY4MjI8L2ZvbnQ+PGJyPg0KPGZvbnQgc2l6ZT0i
+MSI+VOls6WNvcGlldXI6ICAoNDE4KSAyNjYtNDYxMjwvZm9udD48YnI+DQo8Zm9udCBzaXplPSIx
+Ij5wbGFmbGFtbWVAbXNzcy5nb3V2LnFjLmNhPC9mb250Pjxicj4NCjxicj4NCjwvYm9keT48L2h0
+bWw+
+
+--0__=0ABBFD1ADFE3289F8f9e8a93df938690918c0ABBFD1ADFE3289F--
+
+
+

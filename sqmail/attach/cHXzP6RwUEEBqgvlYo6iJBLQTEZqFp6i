@@ -1,0 +1,82 @@
+Return-Path: <account-security-noreply@account.microsoft.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on tamaani.ca
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=7.0 tests=BAYES_00,HTML_MESSAGE
+	autolearn=ham version=3.3.1
+X-Original-To: jdcabana@tamaani.ca
+Delivered-To: jdcabana@tamaani.ca
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from BAY004-OMC3S28.hotmail.com (bay004-omc3s28.hotmail.com [65.54.190.166])
+	by tamaani.ca (Postfix) with ESMTPS id 6DA1879551
+	for <jdcabana@tamaani.ca>; Wed,  3 Sep 2014 13:58:02 -0400 (EDT)
+Received: from BL2IDSTOOL1C012 ([65.54.190.187]) by BAY004-OMC3S28.hotmail.com with Microsoft SMTPSVC(7.5.7601.22724);
+	 Wed, 3 Sep 2014 10:58:01 -0700
+Message-ID: <BL2IDSTOOL1C012709A6C52A7BF5E7AC69D8AC40@CEZ.ICE>
+X-Message-Routing: sKFde7CS5BHygFZaC4gFZWeHmOM+Rjf1iOmv8meDbQqeD+9kHFgbAflrz5UYy6v/Ov/vRliTx0hzi7ScTgwYCoH5DCt2tudhzc3IcZ+LMOwsn9CQWwEAfKOOCKCvTKEy7xSG5asQyj7dLhELlKpAZaivz9Q==
+Date: Wed, 3 Sep 2014 10:58:01 -0700
+From: =?Windows-1252?Q?=C9quipe=20des=20comptes=20Microsoft?= <account-security-noreply@account.microsoft.com>
+Subject: =?Windows-1252?Q?Code=20de=20s=E9curit=E9=20du=20compte=20Microsoft?=
+To: <jdcabana@tamaani.ca>
+X-Priority: 3
+X-MSAMetaData: CnnEsQ/jl9SM789bZl9S/fAOCaejj2wVL9zIUh2/lr8JUep4v1BktKAszlBQc0rpcUYKEMgp71EuTmcM/iNjjfvVE2muXnGS6p/GpLDGt2luUdOzkVWU9LSV1pJH5nVG7AMfChjFF2H+wOPPhfP2BWY1AGWX/5zAmqVz4ECcXPbAJQem1Gu5MnW0j58rXQaxwg==
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="------=_Next_Part_2325163405.964"
+X-OriginalArrivalTime: 03 Sep 2014 17:58:01.0740 (UTC) FILETIME=[9A79C4C0:01CFC7A0]
+
+
+--------=_Next_Part_2325163405.964
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 8bit
+
+Merci de nous aider à vérifier le compte Microsoft JD*****@hotmail.com.
+
+Voici votre code : 0645887
+
+Ceci est un code de vérification, pas un mot de passe.
+
+Si vous n’avez pas demandé ce code, une autre personne connaît le mot de passe de JD*****@hotmail.com et a accès à ce compte. Cliquez ici https://account.live.com/pw pour changer votre mot de passe.
+
+Merci,
+L’équipe des comptes Microsoft
+
+
+--------=_Next_Part_2325163405.964
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"> 
+<head>
+<style type="text/css">
+ .link:link, .link:active, .link:visited {
+       color:#2672ec !important;
+       text-decoration:none !important;
+ }
+
+ .link:hover {
+       color:#4284ee !important;
+       text-decoration:none !important;
+ }
+</style>
+<title></title>
+</head>
+<body>
+<table dir="ltr">
+      <tr><td id="i1" style="padding:0; font-family:'Segoe UI Semibold', 'Segoe UI Bold', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:17px; color:#707070">Compte Microsoft</td></tr>
+      <tr><td id="i2" style="padding:0; font-family:'Segoe UI Light', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:41px; color:#2672ec">Code de sécurité</td></tr>
+      <tr><td id="i3" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">Merci de nous avoir aidé à vérifier le compte Microsoft JD*****@hotmail.com.</td></tr>
+      <tr><td id="i4" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">Voici votre code : <span style="font-family:'Segoe UI Bold', 'Segoe UI Semibold', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:14px; font-weight:bold; color:#2a2a2a">0645887</span></td></tr>
+      <tr><td id="i6" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">Ceci est un code de vérification, et non un mot de passe. Si vous n’avez pas demandé ce code, une autre personne connaît le mot de passe pour JD*****@hotmail.com et a accès à ce compte. <a id="iLink2" class="link" style="color:#2672ec; text-decoration:none" href="https://account.live.com/pw">Cliquez ici</a> pour modifier votre mot de passe.</td></tr>
+      <tr><td id="i7" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">Merci,</td></tr>
+      <tr><td id="i8" style="padding:0; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">L’équipe des comptes Microsoft</td></tr>
+</table>
+</body>
+</html>
+
+--------=_Next_Part_2325163405.964--
+
+

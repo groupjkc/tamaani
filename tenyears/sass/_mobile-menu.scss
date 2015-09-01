@@ -1,0 +1,124 @@
+
+@media(max-width:850px) { 
+
+#logo {
+	left:0!important;
+	width:240px!important;
+}
+
+#menu-button {
+	display: inline-block;
+	height: 35px;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	background: url(../images/header/slide-down.png) center right no-repeat;
+	padding-right: 16px;
+	font-size: 15px;
+}
+#menu-button.up {
+	background: url(../images/header/slide-up.png) center right no-repeat;
+}
+#menu-bar, #language-bar {
+	height: 34px;
+	text-align: right;
+	padding: 0px 20px;
+}
+#menu-bar {
+	background-color: #000000;
+	line-height: 34px;
+}
+#language-bar {
+	background-color: #0A88C1;
+	border-bottom: 1px solid #FFF;
+	box-sizing: border-box;
+	line-height: 33px;
+	font-size: 12px;
+	padding-right: 16px;
+	margin-top: 34px;
+	z-index: 3;
+}
+#language-bar > span, #language-bar > a {
+	color: #99D8F5;
+	font-weight: bold;
+}
+#language-bar > a {
+	position: relative;
+	z-index: 6;
+	display: inline-block;
+	height: 34px;
+	padding: 0 2px;
+}
+#language-bar > a.zindex {
+	z-index: 4;
+}
+#language-bar > a:first-child {
+	padding-left: 10px;
+}
+#language-bar > a.in {
+	font-family: syllabary, Arial, sans-serif;
+}
+#language-bar > a.en, #language-bar > a.fr {
+	font-family: Arial, Helvetica, sans-serif;
+}
+#language-bar > a.active, #language-bar > a:hover {
+	color: #FFFFFF;
+}
+
+.navigation {
+	padding:0;}
+
+#drop-down-menu {
+	background-color: #1589C2;
+	position: absolute;
+	top: 34px;
+	width: 100%;
+	padding: 60px 20px 30px 20px;
+	box-sizing: border-box;
+	display: none;
+	z-index: 20;
+}
+#drop-down-menu nav {
+	margin: -20px 0px;
+}
+#drop-down-menu nav a {
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+#drop-down-menu nav a:hover, #drop-down-menu nav li.active > a {
+	font-weight: bold;
+}
+
+#drop-down-menu nav > ul {}
+
+#drop-down-menu nav > ul > li {
+	padding: 15px 0px;
+	list-style:none;
+	border-bottom: 1px solid #3298C9;
+	font-size: 17px;
+}
+#drop-down-menu nav > ul > li:last-child {
+	border-bottom: none;
+}
+#drop-down-menu nav > ul > li > ul {
+	margin-top: 8px;
+	margin-left: -5px;
+	padding:0;
+}
+#drop-down-menu nav > ul > li > ul:after {
+	content: "";
+	display: block;
+	clear: left;
+}
+#drop-down-menu nav > ul > li > ul > li {
+	float: left;
+	font-size: 11px;
+	list-style:none;
+	padding: 0px 6px 0px 5px;
+	background: url(../images/header/menu-separator.png) center right no-repeat;
+}
+#drop-down-menu nav > ul > li > ul > li:last-child {
+	padding-right: 0px;
+	background: none;
+}
+
+}

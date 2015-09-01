@@ -1,0 +1,314 @@
+Return-Path: <mrsupport@shaw.ca>
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on tamaani.ca
+X-Spam-Level: 
+X-Spam-Status: No, score=0.0 required=7.0 tests=HTML_MESSAGE,RP_MATCHES_RCVD
+	autolearn=ham version=3.3.1
+X-Original-To: joanm@tamaani.ca
+Delivered-To: joanm@tamaani.ca
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from smtp-out-02.shaw.ca (smtp-out-02.shaw.ca [64.59.136.138])
+	by tamaani.ca (Postfix) with ESMTP id B758169ADB
+	for <joanm@tamaani.ca>; Thu, 17 Jul 2014 18:07:14 -0400 (EDT)
+X-Cloudmark-SP-Filtered: true
+X-Cloudmark-SP-Result: v=1.1 cv=6dlcsJ/IGOduaTWa2Dbsml466mjAwLXxxnCzM8r9qRI= c=1 sm=1
+ a=jubLkgV6BkgA:10 a=BLceEmwcHowA:10 a=Xf9F0g88CxAxtn43VZ/1bg==:17
+ a=wXGisgxoAAAA:8 a=eD72ay8T_pUuScM3tPkA:9 a=wPNLvfGTeEIA:10
+ a=9c3ehAwzZ1sA:10 a=kTNRsokQgv4A:10 a=ZeWeS3U4M-9EyFY3:21
+ a=QxlsrPZi48Uqbwju:21 a=5woz0PxjunNLcxhuHMIA:9 a=_W_S_7VecoQA:10
+ a=HpAAvcLHHh0Zw7uRqdWCyQ==:117
+Received: from unknown (HELO RoderickPC) ([24.67.6.168])
+  by smtp-out-02.shaw.ca with SMTP; 17 Jul 2014 16:07:14 -0600
+Message-ID: <590AEE793A3544E38BCB29B0EF6261ED@RoderickPC>
+From: "MR Computer Solutions Ltd" <mrsupport@shaw.ca>
+To: <joanm@tamaani.ca>
+Cc: "Paul Lapage" <paulevakuujjuaq@yahoo.com>
+References: <0E160E3ACEDA4FD899228140F070ACEA@RoderickPC> <f17576fb4ac8c460506cdeaf8b64f4b6.squirrel@tamaani.ca>
+In-Reply-To: <f17576fb4ac8c460506cdeaf8b64f4b6.squirrel@tamaani.ca>
+Subject: Re: NIC's IT - MSOffice / MSAccess (LMS software requirements)
+Date: Thu, 17 Jul 2014 15:07:15 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_012B_01CFA1D0.CB3680D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 14.0.8089.726
+Disposition-Notification-To: "MR Computer Solutions Ltd" <mrsupport@shaw.ca>
+X-MimeOLE: Produced By Microsoft MimeOLE V14.0.8089.726
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_012B_01CFA1D0.CB3680D0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Joan,
+
+
+As per our telephone conversation today please forward M&R's contact =
+information to NIC's IT service providers by either calling them or =
+forwarding this email accordingly.
+
+
+It is to be noted that the LMS system utilizes the 'MSOffice-32 Bit' =
+environment exporting reports in MSWord, PDF and MSExcel document =
+formats.  The core engine used by the LMS is 'MSAccess-32bit' which can =
+be purchase and installed separately; it would be advisable to purchase =
+a site license for MSAccess for up to five (5) computers in the event =
+your office requires more personnel to use the LMS system concurrently. =
+M&R will advise your IT department on the LMS system specifications when =
+they contact us.
+
+
+Should there be any questions or concerns on the above please contact me =
+directly at your convenience.
+=20
+Regards,
+Rod Archibald,=20
+M&R Computer Solutions Ltd.
+Director Of Operations & Services
+Phone: 250.372.2433
+Email: mrsupport@shaw.ca
+
+
+
+
+--------------------------------------------------
+From: <joanm@tamaani.ca>
+Sent: Thursday, July 17, 2014 10:55 AM
+To: "MR Computer Solutions Ltd" <mrsupport@shaw.ca>
+Subject: Re: LMS conversion information required
+
+>>Rod,
+> The IT guys were here this morning & said i don't have that MSAccess
+> version installed & was wondering why i needed it.I told them it was =
+so
+> when you return it is needed with the new LMS installation.They would
+> like for you to contact them at www.soleica.ca.I my self can't =
+download
+> things on this computer,it is all done by Soleica's IT person's
+> administratior.
+>   The reason i never out March transactions is because we start our
+> fiscal year in the beginning of April,but i will do the things you =
+need
+> when i have free time & resend it to you.
+> Thanks Jon
+>=20
+>=20
+>=20
+> Joan,
+>>
+>>
+>>
+>> Please review the list of information noted below M&R requires prior =
+to
+>> scheduling a return date for the LMS installation and training:
+>>
+>>   1.. Available dates in July/August that you are available for M&R's
+>> return visit for LMS installation and training; Your previous email
+>> indicated your unavailable August 1st to late September thus M&R's
+>> return visit will be addressed at that time;
+>>   2.. Confirmation on the version of MSAccess NIC is utilizing;  this =
+can
+>> be addressed by installing the 'Loan Amortization' worksheet provided
+>> via email July 7th, 2014; for your convenience the 'Loan =
+Amortization'
+>> worksheet has been attached to this email (LWS_NIC.accde). The =
+original
+>> email July 7th, 2014 contained detailed instructions yet basically =
+all
+>> you need to do is copy the file [LWS_NIC.accde] to the [C:\Temp] =
+folder
+>> and 'double-click' on the file; if you can open it MSAccess is
+>> installed; if not then MSAccess will need to be purchased and =
+installed
+>> prior to M&R's return visit; Please advise accordingly;
+>>   3.. Attached please find an Excel Spreadsheet =
+[NIC_LMS_Data_Templates -
+>> Outstanding Client And Loan Details.xls] which contains a list of =
+loans
+>> that still require information (client and loan details) to be =
+extracted
+>> from onsite source documents as per the original spreadsheet;
+>>   4.. The file [NIC Transaction Log LMS April 2014 Forward.xlsx] is
+>> missing transactions for March 2014; the data files M&R was provided =
+on
+>> our initial visit contained transactions to February 2014; please =
+update
+>> this file with March transactions accordingly and return via email;
+>>   5.. Part of the conversion phase is to balance control totals to =
+the
+>> information converted.  In NIC's situation this can be done by =
+reviewing
+>> a copy of NIC's 2013-2014 fiscal year end outstanding loan balances =
+as
+>> per identified by your auditors; essentially a list of the 143 loans =
+and
+>> the balances as of March 31st, 2014 will need to be forward;  of =
+course
+>> March transactions as per noted in item #4 will also be required;
+>>
+>> Once the above information can be provided M&R will schedule a return
+>> visit and provide an agenda for onsite installation and training
+>> respectively.
+>>
+>>
+>> Regards,
+>> Rod Archibald,
+>> M&R Computer Solutions Ltd.
+>> Director Of Operations & Services
+>> Phone: 250.372.2433
+>> Email: mrsupport@shaw.ca
+>>
+>>
+>>
+>=20
+>
+------=_NextPart_000_012B_01CFA1D0.CB3680D0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Dunicode" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 10.00.9200.16750"></HEAD>
+<BODY id=3DMailContainerBody=20
+style=3D"PADDING-TOP: 15px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px" =
+leftMargin=3D0=20
+topMargin=3D0 CanvasTabStop=3D"true" name=3D"Compose message area">
+<DIV>Joan,<BR><BR><BR>As per our telephone conversation today please =
+forward=20
+<EM>M&amp;R</EM>'s contact information to NIC's IT service providers by =
+either=20
+calling them or forwarding this email accordingly.</DIV>
+<DIV><FONT color=3D#3b1000 face=3DCalibri></FONT>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>It is to be noted that the LMS system utilizes the 'MSOffice-32=20
+Bit'&nbsp;environment exporting reports in&nbsp;MSWord,&nbsp;PDF=20
+and&nbsp;MSExcel document formats.&nbsp;&nbsp;The core engine used by =
+the LMS is=20
+'MSAccess-32bit' which can be purchase and installed separately; it =
+would be=20
+advisable to purchase a site license for MSAccess for up to five (5)=20
+computers&nbsp;in the event your office&nbsp;requires more personnel to =
+use the=20
+LMS system concurrently.&nbsp;<EM>M&amp;R</EM> will advise your IT =
+department on=20
+the LMS system specifications when they contact us.</DIV>
+<DIV><FONT color=3D#3b1000 face=3DCalibri></FONT>&nbsp;</DIV><FONT =
+color=3D#3b1000=20
+face=3DCalibri></FONT><FONT color=3D#3b1000 face=3DCalibri></FONT>
+<DIV><BR>Should there be any questions or concerns on the above please =
+contact=20
+me directly at your convenience.<BR>&nbsp;<BR>Regards,<BR>Rod Archibald, =
+
+<BR><EM>M&amp;R</EM> Computer Solutions Ltd.<BR>Director Of Operations =
+&amp;=20
+Services<BR>Phone: 250.372.2433<BR>Email: <A=20
+title=3D"mailto:mrsupport@shaw.ca&#10;CTRL + Click to follow link"=20
+href=3D"mailto:mrsupport@shaw.ca">mrsupport@shaw.ca</A><BR></DIV>
+<DIV><FONT color=3D#3b1000 face=3DCalibri></FONT>&nbsp;</DIV>
+<DIV><FONT color=3D#3b1000 face=3DCalibri></FONT>&nbsp;</DIV>
+<DIV><BR>--------------------------------------------------<BR>From:=20
+&lt;joanm@tamaani.ca&gt;<BR>Sent: Thursday, July 17, 2014 10:55 =
+AM<BR>To: "MR=20
+Computer Solutions Ltd" &lt;mrsupport@shaw.ca&gt;<BR>Subject: Re: LMS =
+conversion=20
+information required<BR><BR>&gt;&gt;Rod,<BR>&gt; The IT guys were here =
+this=20
+morning &amp; said i don't have that MSAccess<BR>&gt; version installed =
+&amp;=20
+was wondering why i needed it.I told them it was so<BR>&gt; when you =
+return it=20
+is needed with the new LMS installation.They would<BR>&gt; like for you =
+to=20
+contact them at www.soleica.ca.I my self can't download<BR>&gt; things =
+on this=20
+computer,it is all done by Soleica's IT person's<BR>&gt;=20
+administratior.<BR>&gt;&nbsp;&nbsp; The reason i never out March =
+transactions is=20
+because we start our<BR>&gt; fiscal year in the beginning of April,but i =
+will do=20
+the things you need<BR>&gt; when i have free time &amp; resend it to=20
+you.<BR>&gt; Thanks Jon<BR>&gt; <BR>&gt; <BR>&gt; <BR>&gt;=20
+Joan,<BR>&gt;&gt;<BR>&gt;&gt;<BR>&gt;&gt;<BR>&gt;&gt; Please review the =
+list of=20
+information noted below M&amp;R requires prior to<BR>&gt;&gt; scheduling =
+a=20
+return date for the LMS installation and=20
+training:<BR>&gt;&gt;<BR>&gt;&gt;&nbsp;&nbsp; 1.. Available dates in =
+July/August=20
+that you are available for M&amp;R's<BR>&gt;&gt; return visit for LMS=20
+installation and training; Your previous email<BR>&gt;&gt; indicated =
+your=20
+unavailable August 1st to late September thus M&amp;R's<BR>&gt;&gt; =
+return visit=20
+will be addressed at that time;<BR>&gt;&gt;&nbsp;&nbsp; 2.. Confirmation =
+on the=20
+version of MSAccess NIC is utilizing;&nbsp; this can<BR>&gt;&gt; be =
+addressed by=20
+installing the 'Loan Amortization' worksheet provided<BR>&gt;&gt; via =
+email July=20
+7th, 2014; for your convenience the 'Loan Amortization'<BR>&gt;&gt; =
+worksheet=20
+has been attached to this email (LWS_NIC.accde). The =
+original<BR>&gt;&gt; email=20
+July 7th, 2014 contained detailed instructions yet basically =
+all<BR>&gt;&gt; you=20
+need to do is copy the file [LWS_NIC.accde] to the [C:\Temp] =
+folder<BR>&gt;&gt;=20
+and 'double-click' on the file; if you can open it MSAccess =
+is<BR>&gt;&gt;=20
+installed; if not then MSAccess will need to be purchased and=20
+installed<BR>&gt;&gt; prior to M&amp;R's return visit; Please advise=20
+accordingly;<BR>&gt;&gt;&nbsp;&nbsp; 3.. Attached please find an Excel=20
+Spreadsheet [NIC_LMS_Data_Templates -<BR>&gt;&gt; Outstanding Client And =
+Loan=20
+Details.xls] which contains a list of loans<BR>&gt;&gt; that still =
+require=20
+information (client and loan details) to be extracted<BR>&gt;&gt; from =
+onsite=20
+source documents as per the original =
+spreadsheet;<BR>&gt;&gt;&nbsp;&nbsp; 4..=20
+The file [NIC Transaction Log LMS April 2014 Forward.xlsx] =
+is<BR>&gt;&gt;=20
+missing transactions for March 2014; the data files M&amp;R was provided =
+
+on<BR>&gt;&gt; our initial visit contained transactions to February =
+2014; please=20
+update<BR>&gt;&gt; this file with March transactions accordingly and =
+return via=20
+email;<BR>&gt;&gt;&nbsp;&nbsp; 5.. Part of the conversion phase is to =
+balance=20
+control totals to the<BR>&gt;&gt; information converted.&nbsp; In NIC's=20
+situation this can be done by reviewing<BR>&gt;&gt; a copy of NIC's =
+2013-2014=20
+fiscal year end outstanding loan balances as<BR>&gt;&gt; per identified =
+by your=20
+auditors; essentially a list of the 143 loans and<BR>&gt;&gt; the =
+balances as of=20
+March 31st, 2014 will need to be forward;&nbsp; of course<BR>&gt;&gt; =
+March=20
+transactions as per noted in item #4 will also be=20
+required;<BR>&gt;&gt;<BR>&gt;&gt; Once the above information can be =
+provided=20
+M&amp;R will schedule a return<BR>&gt;&gt; visit and provide an agenda =
+for=20
+onsite installation and training<BR>&gt;&gt;=20
+respectively.<BR>&gt;&gt;<BR>&gt;&gt;<BR>&gt;&gt; Regards,<BR>&gt;&gt; =
+Rod=20
+Archibald,<BR>&gt;&gt; M&amp;R Computer Solutions Ltd.<BR>&gt;&gt; =
+Director Of=20
+Operations &amp; Services<BR>&gt;&gt; Phone: 250.372.2433<BR>&gt;&gt; =
+Email:=20
+mrsupport@shaw.ca<BR>&gt;&gt;<BR>&gt;&gt;<BR>&gt;&gt;<BR>&gt;=20
+<BR>&gt;</DIV></BODY></HTML>
+
+------=_NextPart_000_012B_01CFA1D0.CB3680D0--
+
+
+

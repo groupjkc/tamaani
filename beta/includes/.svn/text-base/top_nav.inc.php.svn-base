@@ -1,0 +1,27 @@
+   </head>    
+    <div id="container">
+        <div id="inner">         
+            
+            <div class="header">
+            
+                <div class='nav'>   <?php                          
+					if (!strpos($_SERVER['SCRIPT_NAME'], 'index.php'))
+						echo '<a  href="index.php"> <img class="vertical_bottom" src="images/home_icon_active.png" border="0"></a>';
+					else 
+						echo '<a ><img  class="vertical_bottom" src="images/home_icon_inactive.png" border="0"></a >'; ?> 
+                        
+                    <img  class="vertical_bottom margin" src="images/navigation_seperator.png">
+                     
+                    <a  href='wp/' > <?php echo $lang['login']; ?>  </a> 
+                    
+                    <img  class="vertical_bottom margin" src="images/navigation_seperator.png">   
+                      
+                    <a class="<?php echo $active_en; ?>"  <?php  if(!$active_en) echo "href='?".http_build_query($qa)."'" ; ?> > <?php echo $lang['en']; ?>  </a>    
+                    <a class="<?php echo $active_fr; ?>"  href='<?php if(!$active_fr) echo '?'.http_build_query($qa) ?>' > <?php echo $lang['fr']; ?>  </a>	
+                                            
+                </div>              
+                <div class="center">
+                    <img src="images/title_<?php echo $_SESSION['lang'];?>.png"  border="0"/>
+                </div>      
+                     
+            </div> 

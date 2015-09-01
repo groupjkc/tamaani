@@ -1,0 +1,14 @@
+Reporting-MTA: dns; tamaani.ca
+X-Postfix-Queue-ID: 98E907ECED
+X-Postfix-Sender: rfc822; marionjames@tamaani.ca
+Arrival-Date: Wed, 15 Oct 2014 09:10:35 -0400 (EDT)
+
+Final-Recipient: rfc822; dwindego@hotmail.com
+Original-Recipient: rfc822;dwindego@hotmail.com
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; mx1.hotmail.com
+Diagnostic-Code: smtp; 550 SC-002 (COL004-MC2F31) Unfortunately, messages from
+    70.32.85.65 weren't sent. Please contact your Internet service provider
+    since part of their network is on our block list. You can also refer your
+    provider to http://mail.live.com/mail/troubleshooting.aspx#errors.

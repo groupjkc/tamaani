@@ -1,0 +1,60 @@
+<?php
+	//include ('includes/mobile.detection.header.inc.php');
+
+	header('Content-Type: text/html; charset=utf-8');
+	header('Cache-Control: public, max-age=200');
+	header('Expires: '.gmdate('D, d M Y H:i:s \G\M\T', time() + 3600)); 
+	
+	// LANGUAGE ***********************************************************************************************************	
+	if (isset($_GET['lang'])){
+		$_SESSION['lang'] = $_GET['lang'];
+		setcookie ("lang", $_SESSION['lang'], time()+60*60*24*365*10);
+	}
+	elseif (!isset($_SESSION['lang'])){
+		// Otherwise, get it from the existing cookie 
+		if (isset($_COOKIE['lang'])){
+			$_SESSION['lang'] = $_COOKIE['lang'];
+		}
+		// Otherwise, get it from the browser and store it in the cookie
+		else{
+			$_SESSION['lang'] = 'fr';
+			setcookie ("lang", $_SESSION['lang'], time()+60*60*24*365*10);
+		}
+	}
+	
+	 
+	include('languages/'.$_SESSION['lang'].'.php'); // Grab the associated languages file which contains all strings
+	
+	switch ($_SESSION['lang']){
+		case 'en':
+			$other_lang = 'fr';
+			$active_fr = '';
+			$active_en = 'active';
+			break;
+			
+		case 'fr':
+			$other_lang = 'en';
+			$active_fr  = 'active';
+			$active_en  = '';			
+			break;				
+	}	
+	foreach($_GET as $k => $v) 
+		$qa[$k] = urldecode($v);
+	    $qa['lang'] = $other_lang;	
+
+?>
+<!DOCTYPE html>
+<html>
+<head>
+	<script type='text/javascript'>
+		function preloader(){
+			a = new Image(); 
+			a.src = "images/rogers_master.png";
+		}
+    </script>
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+    <link href='css/style.css' rel='stylesheet' type='text/css' />  
+    <link rel="icon" type="image/png" href="images/favicon.ico" />
+    <title><?php echo $lang['page_title']; ?></title>  
+ 
+

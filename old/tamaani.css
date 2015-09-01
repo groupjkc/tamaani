@@ -1,0 +1,94 @@
+.text {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #000000;
+}
+a:link {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: underline;
+	font-family: "Times New Roman", Times, serif;
+}
+a:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+}
+.title {
+	font-family: Geneva, Arial, Helvetica, san-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.whitetitle {
+	font-family: Geneva, Arial, Helvetica, san-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.boldtitle {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+}
+.caption {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 10px;
+	color: #000000;
+}
+.contactback {
+	background-image: url(images/site_look_r2_c1.gif);
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-color: #E47134;
+}
+.inuttitut {
+	font-family: AiPaiNunavik;
+	font-size: 12px;
+}
+a:visited {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: underline;
+}
+a:visited:hover {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.tableborder {
+	border-top: thin none #FFFFFF;
+	border-right: thin solid #FFFFFF;
+	border-bottom: thin solid #FFFFFF;
+	border-left: thin none #FFFFFF;
+	background-image: url(images/gradient.gif);
+	background-repeat: repeat-x;
+	background-position: bottom;
+	background-color: #E37135;
+}
+.textwhite {
+
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.sitered {
+	background-color: #CC0000;
+}
+.mainborder {
+	border: thin ridge #333333;
+}
+.bulletin {
+	background-image: url(images/board.gif);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+.bulletinfr {
+	background-image: url(images/board_fr.gif);
+	background-repeat: no-repeat;
+	background-position: top;
+}

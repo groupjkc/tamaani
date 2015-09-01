@@ -1,0 +1,128 @@
+Return-Path: <survey@ipsosresearch.com>
+X-Original-To: AARNGAK@TAMAANI.CA
+Delivered-To: AARNGAK@TAMAANI.CA
+Received: from ispv4.soleica.ca (localhost [127.0.0.1])
+	by ispv4.soleica.ca (Postfix) with ESMTP id CC79776441
+	for <AARNGAK@TAMAANI.CA>; Mon, 10 Jun 2013 21:56:14 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Authentication-Results: ispv4.soleica.ca (amavisd-new);
+	dkim=pass (1024-bit key) header.d=ipsosresearch.com
+Received: from ispv4.soleica.ca ([127.0.0.1])
+	by ispv4.soleica.ca (ispv4.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id 3nTtapjle0z7 for <AARNGAK@TAMAANI.CA>;
+	Mon, 10 Jun 2013 21:56:10 -0400 (EDT)
+Received: from mta15.ipsos-interactive.com (mta15.ipsos-interactive.com [94.236.114.144])
+	by ispv4.soleica.ca (Postfix) with ESMTP id 3B6987645D
+	for <AARNGAK@TAMAANI.CA>; Mon, 10 Jun 2013 21:56:10 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=research12J; d=ipsosresearch.com;
+ h=From:To:Reply-To:Date:Subject:List-Unsubscribe:MIME-Version:Content-Type:Message-ID; i=survey@ipsosresearch.com;
+ bh=A9viQUjpRVXvB/7F8w7XKbFxrAo=;
+ b=E5v+gSq8GemWR4BRSIZBHkA4w1SVxKKO+QJpSbJDHhN+Sp7EI+DwQQ8EQquC4eUjjpH+uhNyogFY
+   +BIO6+adrHMw6LEFnQrnI5gZaHgDjPu4TbAwzhndH3Fq4kQZ0YUEotqnQX2R0fbtecGTcuEQBnv/
+   I1x5kvUnE513eTM4+gk=
+Received: by mta15.ipsos-interactive.com id hmq1rk17jukc for <AARNGAK@TAMAANI.CA>; Tue, 11 Jun 2013 02:56:09 +0100 (envelope-from <survey@ipsosresearch.com>)
+X-Sender: survey@ipsosresearch.com
+From: "Ipsos Research"<survey@ipsosresearch.com>
+X-Receiver: AARNGAK@TAMAANI.CA
+To: AARNGAK@TAMAANI.CA
+Reply-To: survey@ipsosresearch.com
+Date: Tue, 11 Jun 2013 02:56:09 +0100
+Subject: Survey Invite from Air Canada
+X-Job: Esender_312220
+List-Unsubscribe: <mailto:ec344e719bb34f04b5c47ccbfef98299@unsub.ipsos-online.com>
+X-BPS1: ec344e719bb34f04b5c47ccbfef98299
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bviews_516b370eac98471f8c97e7ac7786841c"
+Message-ID: <0.0.3.7A5.1CE6646D7F082E3.2886@mta15.ipsos-interactive.com>
+
+--bviews_516b370eac98471f8c97e7ac7786841c
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+You are receiving this email because Air Canada asked IPSOS,
+an independent research company, to find out what you think about
+their products and services. Click here (
+http://research.ipsosinteractive.com/surveys/?pid=3DS1019880&id=3D914420377&supplierID=3D$SupplierID&ci=3D9CODE-$IPS_COUNTRYCODE&pac=3D$CookieConsent&unsubscribe=3D1 ) if you would no longer like to
+receive invitations from them.
+
+Air Canada Jazz values your feedback, and has asked Ipsos, a leading, global market research firm, to contact you on its behalf, to invite you to complete an online survey on your recent travel experience. The survey should take approximately 15 minutes of your time.=20
+
+All information you provide will be kept STRICTLY confidential. Results will be reported in aggregate form only. This survey is for research purposes only, and is not intended to sell or market any products. Since we would like to accurately capture your recent flight experience with us, we ask that you please complete the survey within one week.
+
+Start the Survey=20
+http://research.ipsosinteractive.com/surveys/?pid=3DS1019880&id=3D914420377&supplierID=3D$SupplierID&ci=3D9CODE-$IPS_COUNTRYCODE&pac=3D$CookieConsent
+
+Note: If clicking above doesn't work, copy and paste this URL
+into your browser:
+http://research.ipsosinteractive.com/surveys/?pid=3DS1019880&id=3D914420377&supplierID=3D$SupplierID&ci=3D9CODE-$IPS_COUNTRYCODE&pac=3D$CookieConsent
+
+If you have any problems accessing the site or completing the survey, please contact us by email at survey@ipsosresearch.com.
+
+Thanks for your participation!=20
+
+Regards,
+Ipsos Interactive Services
+160 Bloor St. E. Suite 300
+Toronto, ON, M4W 1B9
+
+Privacy Policy ( http://www.ipsos-na.com/privacy/ )=20
+
+If you require any help with this survey, please quote: Jazz_24a
+
+MRIA/ARIM ( http://www.mria-arim.ca/ABOUT/default.asp )
+We are a member of the Marketing Research and Intelligence
+Association ( http://www.mria-arim.ca/ABOUT/default.asp ) (MRIA).
+
+Copyright =C2=A9 2013 Ipsos
+
+--bviews_516b370eac98471f8c97e7ac7786841c
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><!--CTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dt-->
+<table style=3D"width: 650px;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td colspan=3D"2"><img src=3D"http://media.ipsosinteractive.com/deploy/resources/Mailout/air_ca.jpg" border=3D"0" alt=3D"Air Canada" width=3D"192" height=3D"36" /></td>
+</tr>
+<tr>
+<td colspan=3D"2" height=3D"5" bgcolor=3D"#666666">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"2">
+<p style=3D"font-family: Arial,Helvetica,sans-serif; font-size: 9px; font-style: normal; color: #999999;">You are receiving this email because&nbsp;Air Canada&nbsp;asked IPSOS, an independent research company, to find out what you think about their products and services. If you do not wish to receive survey invitations in the future, please reply to this email with &ldquo;Unsubscribe&rdquo; in the subject line by <a href=3D"mailto:survey@ipsosresearch.com?subject=3DUnsubscribe AIR CANADA">clicking here</a>.</p>
+</td>
+</tr>
+<tr>
+<td style=3D"line-height: 20px; font-family: Arial,sans-serif; font-size: 12px; margin: 5px 10px 5px 10px;" colspan=3D"2">
+<p style=3D"line-height: 20px; font-family: Arial,sans-serif; font-size: 12px; margin: 0 0 1em 10px;"><br />Air Canada Jazz values your feedback, and has asked Ipsos, a leading, global market research firm, to contact you on its behalf, to invite you to complete an online survey on your recent travel experience. The survey should take approximately 15 minutes of your time.</p>
+<p style=3D"line-height: 20px; font-family: Arial,sans-serif; font-size: 12px; margin: 0 0 1em 10px;">All information you provide will be kept STRICTLY confidential. Results will be reported in aggregate form only. This survey is for research purposes only, and is not intended to sell or market any products. Since we would like to accurately capture your recent flight experience with us, we ask that you please complete the survey within one week.</p>
+<p style=3D"line-height: 20px; font-family: Arial,sans-serif; font-size: 16px; margin: 0 0 0px 10px;"><a href=3D"http://research.ipsosinteractive.com/surveys/?pid=3DS1019880&id=3D914420377&amp;supplierID=3D$SupplierID&amp;ci=3D9CODE-$IPS_COUNTRYCODE&amp;pac=3D$CookieConsent" target=3D"_blank"><strong>Start the Survey</strong></a></p>
+<p style=3D"line-height: 12px; font-family: Arial,sans-serif; font-size: 9px; margin: 0 0 1em 10px;">Note: If clicking above doesn't work, copy and paste this URL into your browser:<br />http://research.ipsosinteractive.com/surveys/?pid=3DS1019880&id=3D914420377&amp;supplierID=3D$SupplierID&amp;ci=3D9CODE-$IPS_COUNTRYCODE&amp;pac=3D$CookieConsent</p>
+<p style=3D"line-height: 12px; font-family: Arial,sans-serif; font-size: 9px; margin: 0 0 1em 10px;">If you have any problems accessing the site or completing the survey, please contact us by email at <a href=3D"mailto: survey@ipsosresearch.com" target=3D"_blank">survey@ipsosresearch.com</a>.</p>
+<p style=3D"line-height: 20px; font-family: Arial,sans-serif; font-size: 12px; margin: 0 0 1em 10px;">Thanks for your participation!</p>
+<p style=3D"line-height: 20px; font-family: Arial,sans-serif; font-size: 12px; margin: 0 0 1em 10px;">Regards,<br />Ipsos Interactive Services<br />160 Bloor St. E. Suite 300<br />Toronto, ON, M4W 1B9</p>
+</td>
+</tr>
+<tr>
+<td colspan=3D"2" height=3D"5" bgcolor=3D"#666666">&nbsp;</td>
+</tr>
+<tr>
+<td style=3D"font-family: Arial,sans-serif; font-size: 12px; margin: 5px 10px 5px 10px;" valign=3D"top">
+<p><a href=3D"http://www.ipsos-na.com/privacy/" target=3D"_blank">Privacy Policy</a></p>
+</td>
+<td style=3D"font-family: Arial,sans-serif; font-size: 12px; margin: 5px 10px 5px 10px;" valign=3D"middle">If you require any help with this survey, please quote: Jazz_24a</td>
+</tr>
+<tr>
+<td style=3D"line-height: 5px; font-family: Arial,sans-serif; font-size: 12px; margin: 5px 10px 5px 10px;" width=3D"125"><a href=3D"http://www.mria-arim.ca/ABOUT/default.asp" target=3D"_blank"><img src=3D"http://www.i-say.com/images/2012-invite/IMG_mria_w.jpg" border=3D"0" alt=3D"MRIA/ARIM" width=3D"80" height=3D"20" align=3D"middle" /> </a></td>
+<td style=3D"line-height: 5px; font-family: Arial,sans-serif; font-size: 12px; margin: 5px 10px 5px 10px;" width=3D"475">We are a member of the <a href=3D"http://www.mria-arim.ca/ABOUT/default.asp" target=3D"_blank">Marketing Research and Intelligence Association</a> (MRIA).</td>
+</tr>
+<tr>
+<td style=3D"line-height: 32px; font-family: Arial,sans-serif; font-size: 12px; margin: 5px 10px 5px 10px; color: white; font-weight: bold; text-align: center;" colspan=3D"2" bgcolor=3D"#666666"><img src=3D"https://register.i-say.com/research/coreg/creatives/750/logo-ipsos-small.jpg" border=3D"0" alt=3D"Ipsos logo" width=3D"15" height=3D"13" />&nbsp;&nbsp; Copyright &copy; 2013 Ipsos</td>
+</tr>
+</tbody>
+</table></body></html>
+
+--bviews_516b370eac98471f8c97e7ac7786841c--
+
+

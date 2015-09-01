@@ -1,0 +1,653 @@
+@import 'bootstrap.min';
+@import 'mobile-menu';
+@import 'compass';
+
+$MemorableEvents: #FDB813; 
+$CapacityIncrease: #02AF4E;
+$PartnershipsAgreements: #00A4B8;
+$TechnologyUpgrades: #B9D432;
+$MajorContract: #F05A22;
+$InfrastructureUpgrades: #86BDC0;
+$StudiesResearch: #36B4BB;
+
+
+$slideIntro: #36B4BB; //Slide one's color
+$slideOne: #36B4BB;  //2004
+$slideTwo: #FDB813; //2005
+$slideThree: #00A4B8; //2006
+$slideFour: #86BDC0; //2007
+$slideFive: #B9D432; //2008
+
+$slideSix: #02AF4E; //2009
+$slideSeven: #86BDC0; //2010
+$slideEight: #86BDC0; //2011
+$slideNine: #00A4B8; //2012
+$slideTen: #36B4BB; //2013
+$slideEleven: #F05A22; //2014
+
+
+$titleFont: "Domine", serif;
+$contentFont: "Frutiger", "Istok Web", sans-serif;
+
+
+body {
+	background:#000;
+}
+/* -------------------------------------  TOP NAV ------------------------------------- */	
+
+#logo{
+	  position: absolute;
+	  top: 0px;
+	  left: 15%;
+	  z-index: 99;
+	  /* padding-left: 100px; */
+	  
+  	}
+
+
+
+/* -------------------------------------  TOP NAV LANG------------------------------------- */		
+#language_wrapper{
+	width:100%;
+	background-color:#0a88c1;
+	text-align:center;
+	border-bottom: 1px solid #fff  ;
+	position: relative;
+	 
+}	
+
+	#language {
+		padding: 7px 20px 7px 10px;
+		margin: 0 auto;
+		display: block;
+		color: #99d8f5;
+		text-align: left;
+		width: 95%;
+
+		a {
+			text-align:left;
+			text-decoration: none;
+			font-weight:bold;
+			font-size:12px;
+			cursor:pointer;}
+
+		a.active{
+			color: #99d8f5;}
+
+		a.desactive{
+			color:#fff;  
+			cursor:inherit;}
+
+		a:hover{ 
+			color:#fff;}
+
+		}
+ 
+
+
+#top_nav_wrapper{
+	width:100%;
+	background-color:#000;
+	text-align:center;
+	position: relative;
+	z-index: 2;}	
+		
+#top_nav {
+	margin:0 auto;
+	display:block;}
+
+#top_nav_menu {
+	text-align:right; 
+
+	ul {
+		margin:0;}
+
+	ul li {
+		display: inline-block;
+		zoom:1;
+		text-align:left;
+		padding:9px 11px 9px 10px;}	
+
+	li a{
+		display: block;
+		text-decoration: none;
+		font-weight:bold;
+		font-size:13px;
+		background: url("../images/header/arrow.jpg") no-repeat;
+		background-position: left center  ;
+		padding-left:15px;
+		text-transform:uppercase;
+		color: #9c9c9c;
+		cursor:pointer;}
+
+	li a.selected{
+		color: white; 
+		background: url("../images/header/arrow_active.jpg") no-repeat;
+		background-position: left center  ;}
+	
+	li a:hover{ 
+		color: white; 
+		background: url("../images/header/arrow_active.jpg") no-repeat; 
+		background-position: left center  ;}
+
+	li ul {
+		display:  none; 
+		padding-left:0px;
+		padding-bottom:90px;}
+	
+	li:hover ul{
+		position: absolute;
+		display: inline;
+		padding-top:8px;}
+	
+	li ul.selected {
+		position: absolute;
+		zoom:1;
+		display: inline;
+		padding-top:8px; }					
+
+	li ul li {
+			display: inline-block;
+			zoom:1;
+			*display:inline;
+			text-align:left;
+			padding-left:2px;
+			padding-right:2px;
+		}	
+
+	li ul li a{
+			display: block;
+			text-decoration: none;
+			color: #99d8f5;
+			font-weight:bold;
+			font-size:14px;
+			background:none;
+			padding-left: 0px;
+			text-transform: capitalize;}
+			
+			
+	li ul li a:hover{ 
+			color: white;  
+			background:none;}
+	
+	li ul li a.selected{ 
+		color: white;  
+		background:none;}
+
+	li ul span{
+			color: #99d8f5;}
+
+
+	li a.mail-icon {
+		background: url(../images/header/buttons.png) no-repeat 0 -3px;
+		width: 36px;
+		height: 16px;}
+
+	li a.mail-icon:hover {
+		background-position:0 -27px;}
+
+	}
+
+
+.intro-text {
+	margin:15px 0 0 0;}
+
+.top-right-text {
+	text-align:left;
+	font-family:$titleFont;
+	padding: 0;
+	color: #ccc;		
+	line-height: 26px;
+	text-transform: uppercase;
+
+	span {
+		color: #0A88C1;}
+	}
+
+
+
+
+.yearly-accomplishments {
+	background: #231f20;
+	width: 36%;
+	height: 100%; 
+	margin: 0 0 0 3%;
+	padding: 160px 2% 1% 2%;
+	float: left;
+	position: absolute;
+	box-shadow: -2px 0px 13px rgba(0, 0, 0, 0.9);
+	left:0;
+	border-left:15px solid #fff;
+	border-right:15px solid #fff;
+
+	h2 {
+		margin: 0;
+		font-size: 60px;
+		padding: 0;
+		color: #ccc; 
+		text-align: left;
+		font-family: $titleFont;}
+
+
+	img.popup-pic {
+		max-width: 100%;
+		float: right; 
+		margin: 20px 0 0 0;}
+
+	p, .dates, li {
+		color: #95999a;
+		font-family: serif; 
+		font-family: $contentFont;}
+
+	li {
+		list-style: none;}
+
+	.events-title {
+		font-family: $contentFont;
+		  padding: 0 15px 0 0;
+		  margin: 0 0 5px 0;}
+
+	hr {
+		margin-top: 10px;
+		margin-bottom: 10px;
+		border: 0;
+		border-top: 1px solid grey;}
+
+	.col-lg-4,
+	.col-lg-8 {
+		padding: 0 15px 0 0;} 
+
+	.date {
+		color: #ccc;
+		font-weight: bold;
+		font-family:$contentFont;}
+
+	.event-title {
+	  font-size: 120%;
+	  margin: 0 0 10px 0!important;
+	}
+
+	
+	.col-lg-12.event-title {
+		padding:0;
+		margin:15px 0 0 0;
+		border-bottom:1px solid #999;}
+
+
+	.memorable-events {
+
+			&.event-title {
+				color:$MemorableEvents;}
+
+			&.event-content { 
+		  		border-top: 1px solid $MemorableEvents;}}
+
+
+	.capacity-increase {
+
+			&.event-title {
+				color:$CapacityIncrease;}
+
+			&.event-content {
+		  		border-top: 1px solid $CapacityIncrease;}}
+
+
+	.partnerships-agreements {
+
+			&.event-title {
+				color:$PartnershipsAgreements;}
+
+			&.event-content {
+		  		border-top: 1px solid $PartnershipsAgreements;}}
+
+
+	.technology-upgrades {
+
+			&.event-title {
+				color:$TechnologyUpgrades;}
+
+			&.event-content {
+		  		border-top: 1px solid $TechnologyUpgrades;}}
+
+
+	.major-contract {
+			
+			&.event-title {
+				color:$MajorContract;}
+
+			&.event-content {
+		  		border-top: 1px solid $MajorContract;}}
+
+
+	.infrastructure-upgrades {
+			
+			&.event-title {
+				color:$InfrastructureUpgrades;}
+
+			&.event-content {
+		  		border-top: 1px solid $InfrastructureUpgrades;}}
+
+
+	.studies-research {
+			
+			&.event-title {
+				color:$StudiesResearch;}
+
+			&.event-content {
+		  		border-top: 1px solid $StudiesResearch;}}
+
+	.memorable-events,
+	.capacity-increase,
+	.partnerships-agreements,
+	.technology-upgrades,
+	.major-contract,
+	.infrastructure-upgrades,
+	.studies-research {
+		font-family: serif; 
+		font-family: $contentFont;
+		margin: 0;
+
+		&.event-content {
+  			padding: 5px 15px 20px 0!important;}
+
+		li {
+			margin: 0 0 0 15px;} 
+	}
+
+	.large-title {
+		color: #ccc;
+		font-family: $titleFont;
+	}
+
+	.history-logo {
+		max-width: 100%;
+		width:auto;
+		float: left;
+	}
+}
+
+.item img {
+	float: right;
+	width: 61%;}
+
+
+
+.footer-slider {
+	width: 100%;
+	left: 0;
+	margin: 0;
+	bottom: 0;
+	padding: 20px 0;
+	position: relative;
+    @include background-image(linear-gradient(top, #00789b 0%, #00466e 100%));}
+
+
+.slideIntro {
+	background:$slideIntro;
+}
+
+.slideOne {
+	background:$slideOne;}
+
+.slideTwo {
+	background: $slideTwo;}
+
+.slideThree {
+	background: $slideThree;}
+
+.slideFour {
+	background: $slideFour;}
+
+.slideFive {
+	background: $slideFive;}
+
+.slideSix {
+	background: $slideSix;}
+
+.slideSeven {
+	background: $slideSeven;}
+
+.slideEight {
+	background: $slideEight;}
+
+.slideNine {
+	background: $slideNine;}
+
+.slideTen {
+	background: $slideTen;}
+
+.slideEleven {
+	background: $slideEleven;}
+
+
+.carousel-indicators {
+	position: relative;
+	top: 15px;
+	left: 0;
+	z-index: 15;
+	width: 90%;
+	padding-left: 0;
+	margin-left: 5%;
+	text-align: center;
+	list-style: none;
+
+	li {
+		width: auto;
+		height: auto;
+		text-indent: 0;
+		cursor: pointer;
+		background-color: #000 \9;
+		background-color: rgba(0, 0, 0, 0);
+		border:none;
+		border-radius: 0;
+		color: #fff;
+		margin:0 20px!important;
+		}
+
+	.active {
+		width: auto;
+		height: auto;
+		background:none;}
+
+	.btn--year {
+		color: #8eb2c0;
+		text-decoration: none;}
+}	
+
+/****Slider Bar CSS***/
+
+.track {
+    width: 90%;
+    margin: 0 5%; 
+    height: 18px;
+    background:#015e80;
+
+	@include border-radius(25px);
+	@include box-shadow(inset 0 0px 9px rgba(0,0,0,0.5));
+}
+
+.slider {
+    position: relative; width: 0px; height: 18px;
+    background: #04a8dd;
+    transition: width 300ms ease-out; /* @include transition(width 300ms ease-out); */
+
+	@include border-radius(25px);
+	@include box-shadow(inset 0 0px 9px rgba(0,0,0,0.5));
+
+}
+
+.slider:after {
+    content: "";
+    display: block; position: absolute; top: -1px; right: -5px; width: 20px; height: 20px;
+    background: white;
+    border-radius: 50%; /* @include border-radius(50%); */
+
+    @include box-shadow(0 0 5px #333);
+
+    @include background-image(linear-gradient(-45deg, #ffffff 30%, #f0f0f0 50%, #ffffff 70%))
+
+}
+
+.btn--example-1 { position: relative; top: 5px; left: 50px; }
+.btn--example-2 { position: relative; top: 5px; left: 100px; }
+.btn--example-3 { position: relative; top: 5px; left: 150px; }
+
+/****end of Slider Bar CSS**/
+
+.item.slideIntro .yearly-accomplishments { 
+	display: -webkit-flex; /* Safari */
+	-webkit-flex-direction: column; /* Safari 6.1+ */
+	display: flex;
+	flex-direction: column;
+	justify-content: center;}
+
+
+@media(min-width:851px) {
+
+	.yearly-accomplishments .carousel-indicators.mobile {
+		display:none;}
+
+	.mobile {
+		display:none;}
+
+	#logo {
+		display:block;}
+
+	.item.slideIntro .yearly-accomplishments {
+	  padding: 0px 20px 0 20px;}
+
+}
+
+@media(max-width:850px) {
+
+	#logo {
+	 	display: none;}
+
+	.mobile #logo {
+		display:block;
+
+		img {
+			width: 240px;}
+	} 
+
+	#language {
+		text-align:right;
+	}
+
+	#top_nav_wrapper {
+		display:none;}
+
+		.yearly-accomplishments {
+			position: relative;
+			width: 100%;
+			margin: 0;
+			padding:5% 20px 5% 20px;
+			border-left:none;
+			border-right:none;
+
+			img.popup-pic {
+				max-width: 300px;}
+		}
+
+	.track {
+		display: none;}
+
+	.item img {
+		float: left;
+		width: 100%;}
+
+
+
+
+	.footer-slider {
+		background: none !important;
+		position: fixed;
+		padding:0;
+
+		.mobile-nav {
+			bottom: 0;
+			position: fixed;
+			width: 100%;
+			height: 40px;
+			background: #00466e}
+		}
+
+	.carousel-inner {
+		margin: 0 0 40px 0;}
+
+	.carousel-control .glyphicon-chevron-left, 
+	.carousel-control .glyphicon-chevron-right, 
+	.carousel-control .icon-next, 
+	.carousel-control .icon-prev {
+		top:10px;}
+
+	.carousel-mobile-btn {
+		padding:0;
+
+		a {
+			background: #002e48;
+			color: #fff;
+			display: block;
+			height: 40px;
+			line-height: 40px;
+			text-align: center;
+		font-family: $contentFont;
+		}
+
+	}
+
+	.mobile-nav-title {
+		font-size: 14px;
+		color: #fff;
+		text-align: center;
+		padding: 11px 0;
+		font-family: $contentFont;}
+
+	.memorable-events,
+	.capacity-increase,
+	.partnerships-agreements,
+	.technology-upgrades,
+	.major-contract,
+	.infrastructure-upgrades,
+	.studies-research { 
+
+		&.date {
+			border-bottom:none;}
+
+		&.event-title {
+			font-size: 150%;
+			margin: 0 0 15px 0!important;}
+
+		&.event-content {
+			border-top:none!important;
+		}
+
+		}
+
+
+}
+
+
+@media(max-width:1280px) and (min-width: 1025px) {
+	.yearly-accomplishments {
+		padding:2% 2% 1% 2%;
+
+		h2 {
+			font-size: 40px;}
+
+		.large-title {
+			margin: 0 0 20px 0;	} 
+
+		.large-title.logo-news {	
+			font-size: 20px;
+			float: left;}
+
+		.intro-text {
+			font-size: 14px;}
+
+		  p,
+		  .date,
+		  li {
+		  	font-size: 13px;}
+	}
+}

@@ -1,0 +1,233 @@
+Return-Path: <MEmudluk@krg.ca>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv3.soleica.ca (localhost [127.0.0.1])
+	by ispv3.soleica.ca (Postfix) with ESMTP id D86483D7816
+	for <aarngak@tamaani.ca>; Fri,  2 Sep 2011 11:29:38 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv3.soleica.ca ([127.0.0.1])
+	by ispv3.soleica.ca (ispv3.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id 2PSDuu7voozp for <aarngak@tamaani.ca>;
+	Fri,  2 Sep 2011 11:29:37 -0400 (EDT)
+Received: from tcn00qubc00209.isn.rtss.qc.ca (relais4.ssss.gouv.qc.ca [142.83.199.8])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 276893D7805
+	for <aarngak@tamaani.ca>; Fri,  2 Sep 2011 11:29:37 -0400 (EDT)
+Received: from tc00bar136875.ssss.gouv.qc.ca ([10.249.80.30])
+          by tcn00qubc00209.isn.rtss.qc.ca (Lotus Domino Release 8.5.2FP3)
+          with ESMTP id 2011090211293625-485408 ;
+          Fri, 2 Sep 2011 11:29:36 -0400 
+X-ASG-Debug-ID: 1314977369-3a4f6b980004-FBqy4Z
+Received: from tcn00qubc00551.isn.rtss.qc.ca ([10.250.32.27]) by tc00bar136875.ssss.gouv.qc.ca with ESMTP id 8UDruz6Rjb112uy6 for <aarngak@tamaani.ca>; Fri, 02 Sep 2011 11:29:30 -0400 (EDT)
+X-Barracuda-Envelope-From: MEmudluk@krg.ca
+Received: from tcn00barin00051.ssss.gouv.qc.ca ([10.120.138.26])
+          by TCN00QUBC00117.isqc.reg00.rtss.qc.ca (Lotus Domino Release 6.5.6FP3 HF341)
+          with ESMTP id 2011090211292680-423494 ;
+          Fri, 2 Sep 2011 11:29:26 -0400 
+Received: from mail53.messagelabs.com (mail53.messagelabs.com [216.82.249.211]) by tcn00barin00051.ssss.gouv.qc.ca with ESMTP id 5xZQ9G1hKSoXC93v (version=TLSv1 cipher=AES256-SHA bits=256 verify=NO); Fri, 02 Sep 2011 10:19:24 -0400 (EDT)
+X-Barracuda-Apparent-Source-IP: 216.82.249.211
+X-Env-Sender: MEmudluk@krg.ca
+X-Msg-Ref: server-12.tower-53.messagelabs.com!1314977348!67896368!1
+X-Originating-IP: [66.165.215.33]
+X-StarScan-Version: 6.3.6; banners=-,-,-
+X-VirusChecked: Checked
+Received: (qmail 2428 invoked from network); 2 Sep 2011 15:29:18 -0000
+Received: from 33-215-165-66.rev.knet.ca (HELO outlook.krg.ca) (66.165.215.33)
+  by server-12.tower-53.messagelabs.com with AES128-SHA encrypted SMTP; 2 Sep 2011 15:29:18 -0000
+Received: from Allataarvik.krg.ca ([fe80::e091:22ff:b081:94dc]) by
+ Allataarvik.krg.ca ([fe80::e091:22ff:b081:94dc%10]) with mapi; Fri, 2 Sep
+ 2011 11:27:42 -0400
+From: Maggie Emudluk <MEmudluk@krg.ca>
+To: "Alasie.arngak@ssss.gouv.qc.ca" <Alasie.arngak@ssss.gouv.qc.ca>,
+	"jeannie.may@ssss.gouv.qc.ca" <jeannie.may@ssss.gouv.qc.ca>
+CC: Joseph Annahatak <jannahatak@krg.ca>, Jobie Tukkiapik <JTukkiapik@krg.ca>,
+	Pita Aatami <p_aatami@makivik.org>
+Date: Fri, 2 Sep 2011 11:28:44 -0400
+Subject: FW: nunavik health services
+Thread-Topic: nunavik health services
+X-ASG-Orig-Subj: FW: nunavik health services
+Thread-Index: Acxo1PotnKPFxvrPTcCKREJ0ZECATgArrP8A
+Message-ID: <E7E166F08A4F1A43825017D21D3E44C898363FD0B0@Allataarvik.krg.ca>
+Accept-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+acceptlanguage: en-US
+MIME-Version: 1.0
+X-Virus-Scanned: by bsmtpd at ssss.gouv.qc.ca
+X-MIMETrack: Itemize by SMTP Server on TCN00QUBC00117/Serveurs/SSSS(Release 6.5.6FP3
+ HF341|October 05, 2010) at 2011-09-02 11:29:26,
+	Serialize by Router on TCN00QUBC00551/Serveurs/SSSS(Release 6.5.6FP3 HF341|October
+ 05, 2010) at 2011-09-02 11:29:31,
+	Serialize complete at 2011-09-02 11:29:31,
+	Itemize by SMTP Server on TCN00QUBC00209/Serveurs/SSSS(Release 8.5.2FP3|July
+ 10, 2011) at 2011-09-02 11:29:36,
+	Serialize by Router on TCN00QUBC00209/Serveurs/SSSS(Release 8.5.2FP3|July
+ 10, 2011) at 2011-09-02 11:29:37,
+	Serialize complete at 2011-09-02 11:29:37
+X-TNEFEvaluated: 1
+X-Barracuda-Connect: UNKNOWN[10.250.32.27]
+X-Barracuda-Start-Time: 1314977370
+X-Barracuda-URL: http://10.249.80.41:8000/cgi-mod/mark.cgi
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=7.0 tests=HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.73438
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+Content-Type: multipart/alternative;
+	boundary="_000_E7E166F08A4F1A43825017D21D3E44C898363FD0B0Allataarvikkr_"
+Content-Language: en-US
+
+--_000_E7E166F08A4F1A43825017D21D3E44C898363FD0B0Allataarvikkr_
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="us-ascii"
+
+Hi Alasie and Jeannie,
+
+I'm forwarding this email from Sarah Tukalak since it has to do with health=
+ and MNQ.  I'm also ccing to P Aatami since there's a question regarding JB=
+NQA.
+
+Have a good long weekend,
+
+Maggie E.
+
+From: Sarah Tukalak [mailto:sarah_tukalak@yahoo.ca]
+Sent: Thursday, September 01, 2011 2:30 PM
+To: Maggie Emudluk
+Subject: nunavik health services
+
+maakiingai,
+I am one of the beneficiaries and I am concerned about nunavik population w=
+ho leaves their hometown due to their health condition just because there i=
+s lack of resources here in nunavik, inuit are ordered by doctors to leave =
+without any promise of returning home safely. when an inuk breaks the regul=
+ations of mnq, they are thrown to the streets.
+
+my question is: does not it contravene the JBNQA?,
+
+I have a child with a cancer, I do not feel safe sending her down anymore, =
+since there is no more promises of being 100% served adequately by mnq.
+
+I do not want any inuk to be slaughtered by frenchmen regulations due to la=
+ck of resources in nunavik, this is not right for my fellow inuit.
+
+sincerely
+
+sarah tukalak from puvirnituq
+
+--_000_E7E166F08A4F1A43825017D21D3E44C898363FD0B0Allataarvikkr_
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><meta http-equiv=3DContent-Type content=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 12 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span style=3D'f=
+ont-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Hi Alasie=
+ and Jeannie,<o:p></o:p></span></p><p class=3DMsoNormal><span style=3D'font=
+-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'><o:p>&nbsp;<=
+/o:p></span></p><p class=3DMsoNormal><span style=3D'font-size:11.0pt;font-f=
+amily:"Calibri","sans-serif";color:#1F497D'>I&#8217;m forwarding this email=
+ from Sarah Tukalak since it has to do with health and MNQ.&nbsp; I&#8217;m=
+ also ccing to P Aatami since there&#8217;s a question regarding JBNQA.<o:p=
+></o:p></span></p><p class=3DMsoNormal><span style=3D'font-size:11.0pt;font=
+-family:"Calibri","sans-serif";color:#1F497D'><o:p>&nbsp;</o:p></span></p><=
+p class=3DMsoNormal><span style=3D'font-size:11.0pt;font-family:"Calibri","=
+sans-serif";color:#1F497D'>Have a good long weekend,<o:p></o:p></span></p><=
+p class=3DMsoNormal><span style=3D'font-size:11.0pt;font-family:"Calibri","=
+sans-serif";color:#1F497D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal=
+><span style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#=
+1F497D'>Maggie E.<o:p></o:p></span></p><p class=3DMsoNormal><span style=3D'=
+font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'><o:p>&nb=
+sp;</o:p></span></p><div><div style=3D'border:none;border-top:solid #B5C4DF=
+ 1.0pt;padding:3.0pt 0in 0in 0in'><p class=3DMsoNormal><b><span style=3D'fo=
+nt-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span></b><span sty=
+le=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> Sarah Tukalak [m=
+ailto:sarah_tukalak@yahoo.ca] <br><b>Sent:</b> Thursday, September 01, 2011=
+ 2:30 PM<br><b>To:</b> Maggie Emudluk<br><b>Subject:</b> nunavik health ser=
+vices<o:p></o:p></span></p></div></div><p class=3DMsoNormal><o:p>&nbsp;</o:=
+p></p><div><div><p class=3DMsoNormal style=3D'background:white'><span style=
+=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>maakiing=
+ai,<o:p></o:p></span></p></div><div><p class=3DMsoNormal style=3D'backgroun=
+d:white'><span style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";c=
+olor:black'>I am one of the beneficiaries and I am concerned about nunavik =
+population who leaves their hometown due to their health condition just bec=
+ause there is lack of resources here in nunavik, inuit are ordered by docto=
+rs to leave without any promise of returning home safely. when an inuk brea=
+ks the regulations of mnq, they are thrown to the streets.<o:p></o:p></span=
+></p></div><div><p class=3DMsoNormal style=3D'background:white'><span style=
+=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>&nbsp;<o=
+:p></o:p></span></p></div><div><p class=3DMsoNormal style=3D'background:whi=
+te'><span style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:=
+black'>my question is:&nbsp;does not it&nbsp;contravene the JBNQA?, <o:p></=
+o:p></span></p></div><div><p class=3DMsoNormal style=3D'background:white'><=
+span style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black=
+'>&nbsp;<o:p></o:p></span></p></div><div><p class=3DMsoNormal style=3D'back=
+ground:white'><span style=3D'font-size:10.0pt;font-family:"Arial","sans-ser=
+if";color:black'>I have a child with a cancer, I do not&nbsp;feel safe&nbsp=
+;sending her&nbsp;down&nbsp;anymore, since there is no more promises&nbsp;o=
+f being 100% served&nbsp;adequately by&nbsp;mnq.<o:p></o:p></span></p></div=
+><div><p class=3DMsoNormal style=3D'background:white'><span style=3D'font-s=
+ize:10.0pt;font-family:"Arial","sans-serif";color:black'>&nbsp;<o:p></o:p><=
+/span></p></div><div><p class=3DMsoNormal style=3D'background:white'><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:black'>I d=
+o not want&nbsp;any inuk to&nbsp;be slaughtered by frenchmen regulations du=
+e to lack of&nbsp;resources in nunavik, this is not right for my fellow inu=
+it.<o:p></o:p></span></p></div><div><p class=3DMsoNormal style=3D'backgroun=
+d:white'><span style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";c=
+olor:black'>&nbsp;<o:p></o:p></span></p></div><div><p class=3DMsoNormal sty=
+le=3D'background:white'><span style=3D'font-size:10.0pt;font-family:"Arial"=
+,"sans-serif";color:black'>sincerely<o:p></o:p></span></p></div><div><p cla=
+ss=3DMsoNormal style=3D'background:white'><span style=3D'font-size:10.0pt;f=
+ont-family:"Arial","sans-serif";color:black'>&nbsp;<o:p></o:p></span></p></=
+div><div><p class=3DMsoNormal style=3D'background:white'><span style=3D'fon=
+t-size:10.0pt;font-family:"Arial","sans-serif";color:black'>sarah tukalak f=
+rom puvirnituq&nbsp;&nbsp;<o:p></o:p></span></p></div></div></div></body></=
+html>=
+
+--_000_E7E166F08A4F1A43825017D21D3E44C898363FD0B0Allataarvikkr_--
+
+

@@ -1,0 +1,362 @@
+Return-Path: <donotreply@apple.com>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv4.soleica.ca (localhost [127.0.0.1])
+	by ispv4.soleica.ca (Postfix) with ESMTP id 6C87376CCA
+	for <aarngak@tamaani.ca>; Thu, 18 Jul 2013 17:49:44 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv4.soleica.ca ([127.0.0.1])
+	by ispv4.soleica.ca (ispv4.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id BmhIrzoX4Dw8 for <aarngak@tamaani.ca>;
+	Thu, 18 Jul 2013 17:49:38 -0400 (EDT)
+Received: from bz.apple.com (bz.apple.com [17.151.62.53])
+	by ispv4.soleica.ca (Postfix) with ESMTP id 6456D76ACF
+	for <aarngak@tamaani.ca>; Thu, 18 Jul 2013 17:49:38 -0400 (EDT)
+Received: from golf ([17.34.24.129])
+ by bz.apple.com (Oracle Communications Messaging Server 7u4-23.01(7.0.4.23.0)
+ 64bit (built Aug 10 2011)) with ESMTP id <0MQ500ILIJAPI3E0@bz.apple.com> for
+ aarngak@tamaani.ca; Thu, 18 Jul 2013 14:49:37 -0700 (PDT)
+Date-warning: Date header was inserted by bz.apple.com
+Date: Thu, 18 Jul 2013 14:49:37 -0700 (PDT)
+From: Apple Store Fairview Pointe Claire <donotreply@apple.com>
+To: aarngak@tamaani.ca
+Message-id: <719014f840fb02b82402234113502c25beeb49bcf@apple.com>
+Subject: Your Apple Store Work Authorization & Service Confirmation
+MIME-version: 1.0
+Content-type: text/html; charset=UTF-8
+Content-transfer-encoding: quoted-printable
+
+<!DOCTYPE html SYSTEM>
+<html lang=3D"en">
+  <head>
+ =20
+    <meta charset=3D"utf-8" />
+  </head>
+  <body ontouchmove=3D"cancelTouchEvent(event);" style=3D"min-width: 750px;=
+ color: black; width: 480px;">
+Thank you for visiting the Apple Store.  Below is a copy of your service re=
+cord.
+        <div class=3D"wrapper" style=3D"margin-top: 1em; z-index: 100; back=
+ground: white;">
+                </div><div class=3D"content" id=3D"contentScroll">
+                <div id=3D"paperwork" style=3D"margin-bottom: 30px; font-si=
+ze: 10pt; font-family: 'MyriadSet-Text', 'Helvetica', Verdana, Arial, sans-=
+serif; height: 100%; padding: 12px; margin-top: 30px; line-height: 1.3; dis=
+play: block;">
+
+<div id=3D"headerinfo">
+        <table style=3D"width:100%;">
+        <tr>
+                <td width=3D"50%" style=3D"font-size: 10pt;">
+                                <div id=3D"license"></div>
+                </td>
+                <td width=3D"50%" style=3D"font-size: 10pt; text-align:righ=
+t;">
+                            <div id=3D"storename">Apple Store Fairview Poin=
+te Claire</div>
+                </td>
+        </tr>       =20
+        <tr>
+                <td width=3D"50%" style=3D"font-size: 10pt;">
+                                <div id=3D"date">18-Jul-13</div>
+                </td>
+                <td width=3D"50%" style=3D"font-size: 10pt;text-align:right=
+;">
+                                <div id=3D"storephone">(514) 630-8800</div>
+                </td>
+        </tr>       =20
+        </table>
+        <h2 id=3D"formname" style=3D"text-align: center; padding: 0in; marg=
+in-top: .2in; margin-bottom: .4in; color: black;">Genius Bar Work Authoriza=
+tion & Service Confirmation</h2><div id=3D"repairnumber" style=3D"color: bl=
+ack;"> <div class=3D"barcode" style=3D"font-size: 16pt; display: none;">*R9=
+6920240*</div> Repair No: R96920240</div></div>
+       =20
+        <div id=3D"customerandproductinformation" style=3D"margin-top: .3in=
+;">
+                <table class=3D"parts" cellspacing=3D"0" style=3D"font-size=
+: 10pt; margin-top: -.04in; width: 100%;" cellpadding=3D"0">
+                <tr>
+                        <td style=3D"padding: 0in;" width=3D"66%" colspan=
+=3D"2"><h3 class=3D"subheader" style=3D"margin-top: 0in; margin-bottom: .05=
+in; padding-top: .15in; border-bottom-color: #B1B1B1; border-bottom-width: =
+1px; border-bottom-style: solid; font-size: 10pt;">Customer Information</h3=
+></td>
+                        <td style=3D"padding: 0in;"><h3 class=3D"subheader"=
+ style=3D"margin-top: 0in; margin-bottom: .05in; padding-top: .15in; border=
+-bottom-color: #B1B1B1; border-bottom-width: 1px; border-bottom-style: soli=
+d; font-size: 10pt;">Product Information</h3></td>
+                </tr>
+                <tr>
+                        <td style=3D"padding: 0in;">Alasie Arngak</td>
+                        <td style=3D"padding: 0in;"></td>
+                        <td style=3D"padding: 0in;">Warranty Status: Out of=
+ warranty(OW)</td>
+                </tr>
+                <tr>
+                        <td style=3D"padding: 0in;"></td>
+                        <td style=3D"padding: 0in;"></td>
+                        <td style=3D"padding: 0in;">Model: IPAD 2 3G</td>
+                </tr>
+                <tr>
+                        <td style=3D"padding: 0in;"></td>
+                        <td style=3D"padding: 0in;"></td>
+                        <td style=3D"padding: 0in;">Date of Purchase: 15-Ju=
+l-11</td>
+                </tr>
+                <tr>
+                        <td style=3D"padding: 0in;"></td>
+                        <td style=3D"padding: 0in;"></td>
+                        <td style=3D"padding: 0in;">Serial No: DN6FVFGMDKNY=
+</td>
+                </tr>
+                <tr>
+                        <td style=3D"padding: 0in;"></td>
+                        <td style=3D"padding: 0in;"></td>
+                        <td style=3D"padding: 0in;"></td>
+                </tr>
+        </table>
+        </div>   =20
+       =20
+        <div id=3D"problemdescription"><h3 class=3D"subheader" style=3D"mar=
+gin-top: 0in; margin-bottom: .05in; padding-top: .15in; border-bottom-color=
+: #B1B1B1; border-bottom-width: 1px; border-bottom-style: solid; font-size:=
+ 10pt;">Problem Description/Diagnosis</h3><div id=3D"retailnotes" style=3D"=
+word-wrap: break-word; width: 100%;"><BR>Issue: Shattered display. <BR>Step=
+s to Reproduce: Visually verified. <BR>Cosmetic Condition: Shattered. <BR>A=
+lternate Pickup: Customer states that her friend will pick up the iPad and =
+pay then. NAME: Sally Nuktie. <BR><BR>Employee 299215500</div><div style=3D=
+"height: 8px;"></div></div>
+       =20
+        <div id=3D"partsandservice">
+        <div>
+                <br />
+                <h3 class=3D"subheader" style=3D"margin-top: 0in; margin-bo=
+ttom: .05in; padding-top: .15in; border-bottom-color: #B1B1B1; border-botto=
+m-width: 1px; border-bottom-style: solid; font-size: 10pt;">
+                        Repair Estimate
+                </h3>
+                <table class=3D"parts" id=3D"authorization_parts" style=3D"=
+font-size: 10pt; margin-top: -.04in; width: 100%;">
+                        <tbody>
+                                <tr>
+                                        <th class=3D"number" id=3D"itemnumb=
+erheader" style=3D"text-align: left; width: 16%; padding: 0in;">
+                                                Item Number
+                                        </th>
+                                        <th class=3D"description" id=3D"des=
+criptionheader" style=3D"text-align: left; width: 50%; padding: 0in;">
+                                                Description
+                                        </th>
+                                        <th class=3D"price-header" style=3D=
+"align: right; text-align: right; width: 16%; padding: 0in 5px 0in 0in;">
+                                                Price
+                                        </th>
+                                        <th class=3D"amt-due-header" style=
+=3D"align: right; text-align: right; width: 18%; padding: 0in 5px 0in 0in;"=
+>
+                                                Amount Due
+                                        </th>
+                                </tr>
+                                <tr>
+                                                <td class=3D"number" style=
+=3D"text-align: left; width: 16%; padding: 0in;">
+                                                        661-5887
+                                                </td>
+                                                <td class=3D"description" s=
+tyle=3D"text-align: left; width: 50%; padding: 0in;">
+                                                        iPad 2, 3G, 64GB, W=
+hite<BR>Replacement Serial Id: DKVKV094DKNY=20
+                                                </td>
+                                                <td class=3D"price" style=
+=3D"align: right; text-align: right; padding: 0in 5px 0in 0in;">
+                                                        $ 0.00
+                                                </td>
+                                                <td class=3D"amount-due" st=
+yle=3D"align: right; text-align: right; padding: 0in 5px 0in 0in;">
+                                                        $ 0.00
+                                                </td><tr>
+                                                <td class=3D"number" style=
+=3D"text-align: left; width: 16%; padding: 0in;">
+                                                        S4413Z/A
+                                                </td>
+                                                <td class=3D"description" s=
+tyle=3D"text-align: left; width: 50%; padding: 0in;">
+                                                        IPAD FLAT RATE 64GB=
+ WI-FI 3G CHG RET-INT=20
+                                                </td>
+                                                <td class=3D"price" style=
+=3D"align: right; text-align: right; padding: 0in 5px 0in 0in;">
+                                                        $ 249.00
+                                                </td>
+                                                <td class=3D"amount-due" st=
+yle=3D"align: right; text-align: right; padding: 0in 5px 0in 0in;">
+                                                        $ 249.00
+                                                </td>
+                                </tr>
+                                <tr>
+                                        <td>
+                                        </td>
+                                        <td class=3D"total" style=3D"font-w=
+eight: bold; align: right; text-align: right; vertical-align: top; padding:=
+ 0in;">
+                                        Tax
+                                        </td>
+                                        <td><b></td>
+                                        <td class=3D"total-price" style=3D"=
+font-weight: bold; align: right; text-align: right; vertical-align: top; pa=
+dding: 0in 5px 0in 0in;">
+                                                $ 37.29
+                                        </td>
+                                </tr>
+                                <tr>
+                                        <td class=3D"total" style=3D"font-w=
+eight: bold; align: right; text-align: right; vertical-align: top; padding:=
+ 0in;" colspan=3D"2">
+                                                Total
+                                        </td>
+                                        <td class=3D"total-price" id=3D"tot=
+al" style=3D"font-weight: bold; align: right; text-align: right; vertical-a=
+lign: top; padding: 0in 5px 0in 0in;">
+                                                $ 249.00
+                                        </td>
+                                        <td class=3D"total-price" id=3D"tot=
+al" style=3D"font-weight: bold; align: right; text-align: right; vertical-a=
+lign: top; padding: 0in 5px 0in 0in;">
+                                                $ 286.29
+                                        </td>
+                                </tr>
+                        </tbody>
+                </table>
+        </div>
+        <br />
+       =20
+        <div class=3D"legal" id=3D"authorization_legal" style=3D"text-align=
+: justify; -webkit-page-break-inside: avoid; -moz-page-break-inside: avoid;=
+ page-break-inside: avoid;">
+        <div id=3D"legaltext">
+        <B>Work Authorization.</B>I agree that the Repair Terms and Conditi=
+ons on the reverse side of this page will apply to the service of the Produ=
+ct identified above; Apple is not responsible for any loss, corruption, or =
+breach of the data on my product during service; as loss of data may occur =
+as a result of the service, it is my responsibility to make a backup copy o=
+f my data before bringing my product to Apple for service; goods presented =
+for repair may be replaced by refurbished goods of the same type rather tha=
+n being repaired. Refurbished parts may be used to repair the goods.
+        </div>
+       =20
+        <div id=3D"partsandservice1">
+        <div>
+                <br />
+                <h3 class=3D"subheader" style=3D"margin-top: 0in; margin-bo=
+ttom: .05in; padding-top: .15in; border-bottom-color: #B1B1B1; border-botto=
+m-width: 1px; border-bottom-style: solid; font-size: 10pt;">
+                        Parts and Service
+                </h3>
+                <table class=3D"parts" style=3D"font-size: 10pt; margin-top=
+: -.04in; width: 100%;">
+                        <tbody>
+                                <tr>
+                                        <th class=3D"number" id=3D"confirma=
+tion_itemnumberheader" style=3D"text-align: left; width: 16%; padding: 0in;=
+">
+                                                Item Number
+                                        </th>
+                                        <th class=3D"description" id=3D"con=
+firmation_descriptionheader" style=3D"text-align: left; width: 50%; padding=
+: 0in;">
+                                                Description
+                                        </th>
+                                        <th class=3D"price-header" style=3D=
+"align: right; text-align: right; width: 16%; padding: 0in 5px 0in 0in;">
+                                                Price
+                                        </th>
+                                        <th class=3D"amt-due-header" style=
+=3D"align: right; text-align: right; width: 18%; padding: 0in 5px 0in 0in;"=
+>
+                                                Amount Due
+                                        </th>
+                                </tr>
+                                <tr>
+                                        <td class=3D"number" style=3D"text-=
+align: left; width: 16%; padding: 0in;">
+                                        </td>
+                                        <td class=3D"description" style=3D"=
+text-align: left; width: 50%; padding: 0in;">
+                                                Same as described above
+                                        </td>
+                                        <td class=3D"price" style=3D"align:=
+ right; text-align: right; padding: 0in 5px 0in 0in;">
+                                        </td>
+                                        <td class=3D"amount-due" style=3D"a=
+lign: right; text-align: right; padding: 0in 5px 0in 0in;">
+                                        </td>
+                                </tr>
+                                <tr>
+                                        <td style=3D"padding: 0in;">
+                                        </td>
+                                        <td class=3D"total" style=3D"font-w=
+eight: bold; align: right; text-align: right; vertical-align: top; padding:=
+ 0in;">
+                                                Total
+                                        </td>
+                                        <td class=3D"total-price" style=3D"=
+font-weight: bold; align: right; text-align: right; vertical-align: top; pa=
+dding: 0in 5px 0in 0in;">
+                                                $ 249.00
+                                        </td>
+                                        <td class=3D"total-price" id=3D"con=
+firmation_total" style=3D"font-weight: bold; align: right; text-align: righ=
+t; vertical-align: top; padding: 0in 5px 0in 0in;">
+                                                $ 286.29
+                                        </td>
+                                </tr>
+                        </tbody>
+                </table>
+                <br />
+        </div>
+        <div class=3D"legal" id=3D"confirmation_legal" style=3D"text-align:=
+ justify; -webkit-page-break-inside: avoid; -moz-page-break-inside: avoid; =
+page-break-inside: avoid;">
+                <div id=3D"confirmation_legaltext">
+
+                        Thank you for choosing AppleCare for the repair of =
+your Apple Product. To ensure the highest level of quality and reliability,=
+ all work is performed by AppleCare certified technicians using genuine App=
+le parts. Additionally, all repairs are backed by Apple=E2=80=99s 90-day se=
+rvice limited warranty, or the original one-year limited warranty, whicheve=
+r is longer. Note: The items identified above have been exchanged by Apple =
+for new or refurbished parts or products. Any applicable cost is indicated =
+adjacent to the part(s) or product description. Service parts are subject t=
+o tax.
+                        <br />
+                        <br />
+                        If you need any future technical or administrative =
+assistance, please contact AppleCare Support by calling 1-800-263-3394. Als=
+o, answers to many questions regarding the operation of your Apple Product =
+can be found at:=20
+                        <a href=3D"http://www.apple.com/ca/support" style=
+=3D"color: #0088CC; cursor: pointer;">
+                                www.apple.com/ca/support/</a>
+                </div>
+        </div>
+</div>
+<br />
+<br />
+Repair Terms and Conditions and be found at=20
+<a href=3D"http://www.apple.com/legal/terms/repair/instantexchange.html" st=
+yle=3D"color: #0088CC; cursor: pointer;">
+        http://www.apple.com/legal/terms/repair/instantexchange.html</a>.
+<br />
+<br />
+<br />
+<br />
+</div>
+
+        </div>
+        </div>
+
+  </div></body>
+</html>
+
+

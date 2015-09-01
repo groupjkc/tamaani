@@ -1,0 +1,24 @@
+Return-Path: <arqivik.lhc@tamaani.ca>
+Received: from tamaani.ca (unknown [70.32.85.65])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by micro.org (Postfix) with ESMTPS id E25FE1011D5
+	for <finances@motorsportdelatapipale.com>; Fri, 25 Apr 2014 17:40:22 -0400 (EDT)
+X-No-Auth: unauthenticated sender
+Received: from tamaani.ca (localhost [IPv6:::1])
+	by tamaani.ca (Postfix) with ESMTP id 794FE6225C
+	for <finances@motorsportdelatapipale.com>; Fri, 25 Apr 2014 17:40:22 -0400 (EDT)
+Received: from 208.114.177.77 (proxying for 208.114.177.77)
+        (SquirrelMail authenticated user arqivik.lhc@tamaani.ca)
+        by tamaani.ca with HTTP;
+        Fri, 25 Apr 2014 17:40:22 -0400
+Message-ID: <bd731699e53fe2df490ac8c642a23106.squirrel@tamaani.ca>
+Date: Fri, 25 Apr 2014 17:40:22 -0400
+Subject: Information ID
+From: arqivik.lhc@tamaani.ca
+To: finances@motorsportdelatapipale.com
+User-Agent: SquirrelMail/1.4.22
+MIME-Version: 1.0
+Content-Type: multipart/mixed;boundary="----=_20140425174022_35242"
+X-Priority: 3 (Normal)
+Importance: Normal

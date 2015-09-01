@@ -1,0 +1,98 @@
+/* Scrollbar properties are only supported by Internet Explorer 5.5+  */
+body {
+	scrollbar-3dlight-color : #BDC2C6;
+	scrollbar-arrow-color : #596568;
+	scrollbar-base-color : #FFFFFF;
+	scrollbar-darkshadow-color : Black;
+	scrollbar-face-color : #9AA6AB;
+	scrollbar-highlight-color : #8C999D;
+	scrollbar-shadow-color : #8C999D;
+	scrollbar-track-color : #D5D9DB;
+}
+
+.menutext {
+	text-decoration: none;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #21536A;
+	font-weight: bold;
+}
+
+a.menuvertical {
+	text-decoration: none;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	background-color: transparent;
+}
+
+a.menuvertical:hover {
+	text-decoration: none;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	background-color: white;
+}
+
+.titre {
+	text-decoration: none;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #000000;
+	font-weight: bold;
+}
+
+.text {
+	text-decoration:none;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+   font-size:11px;
+	color:#000000;
+}
+
+.texte {
+	text-decoration:none;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+   font-size:11px;
+	color:#000000;
+}
+
+.tcat {
+	background: url(.././images/gradient_tcat.gif) #869bbf;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 11px;	
+	font-weight: bold;
+	color: #000000;
+}
+
+.inactif {
+	text-decoration:none;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+   font-size: 11px;
+   color:#999999;
+}
+
+.zone {
+	background-color:#F7F7F7;
+	border-color:#AAB3B3;
+	border-width:1px;
+    text-decoration: none;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #21536A;
+	font-weight: bold;
+}
+
+.obligatoire {
+	text-decoration:none;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+   font-size:11px;
+	color:#FF0000;
+}
+
+
+.wtext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFFFFF;
+	text-decoration: none;
+}

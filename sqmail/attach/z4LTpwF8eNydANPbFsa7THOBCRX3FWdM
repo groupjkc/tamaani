@@ -1,0 +1,398 @@
+Return-Path: <concierge@insideapple.apple.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on tamaani.ca
+X-Spam-Level: 
+X-Spam-Status: No, score=0.6 required=7.0 tests=DKIM_SIGNED,DKIM_VALID,
+	DKIM_VALID_AU,HTML_MESSAGE,MIME_HTML_MOSTLY,MPART_ALT_DIFF,RP_MATCHES_RCVD,
+	T_REMOTE_IMAGE autolearn=no version=3.3.1
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from nwk-txn-msbadger0601.apple.com (nwk-txn-msbadger0601.apple.com [17.151.1.74])
+	by tamaani.ca (Postfix) with ESMTPS id D5AEBB7F8C
+	for <aarngak@tamaani.ca>; Thu, 28 Aug 2014 16:30:55 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha1; d=insideapple.apple.com; s=insideapple2048; c=relaxed/relaxed;
+	q=dns/txt; i=@insideapple.apple.com; t=1409257853;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=yWhZjT7rrzcFwcnHs59uFXgb614=;
+	b=iZXh2wnoNnURnp6Y4Q+tioA++GxQqda+dfMloqlBp68Xf4UjA3EvNJEaAVuRh8ns
+	hifZefcpDeRjRP4J8l6hYfrUHljZpmEzdWloxqYLZk4znsdTwK8sv/67k7azW1F6
+	gajLmeGAqZH8Uf6TJWt8DYwNJXJf9QpZmP0xRHPhN0s+rwsYmRxiqUGLQS4gcMF4
+	1VCFvY8aDydkQZP3Bis3Ok+fgZIAtgLe+B+RwRqKmQvjnxfaVfSp6rOHlfSPfzSE
+	FDEsktIjOUNbeW+Nhw+kB/tJuF6LY+7AmIognF+BVMx0jsFvoLtE3Au6ZQwRgVB2
+	57bNQzGmjTQh19ZPl+LVUw==;
+Date: Thu, 28 Aug 2014 20:30:53 +0000 (GMT)
+From: Apple <concierge@insideapple.apple.com>
+To: aarngak@tamaani.ca
+Message-ID: <1922116160.6463711409257853820.JavaMail.email@email.apple.com>
+Subject: Your upcoming Genius Bar appointment.
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_328908_1673581440.1409257853820"
+X-EmailType-Id: 782122
+X-Sent-To: aarngak@tamaani.ca,2,k%2BmjWPCFEH1m5ry2zndhAmtlpZp7z0StBLaYV0pDs9CjBzaumwDFqMlZRKefYCWqEwdZSPaBfc1wHqWycuV81j4uiktyBiiUr6OnD9YCpqA7NlJMb%2B1Q4313kP2DW5S3yU%2BUhqUeq1GmY8OybYeGkSjtEp%2FfAx9NnPUuX2k6DljpEZMkWngsiGrWpm6D4bgCqFR3wY69bsIdydg3B1eEyOr972dpf8wZxN%2BxLILKVgFfsdC9f3NoIvMjAWGgXtX49GbteaocnarM6%2Fkusbw3IxDzxhLTL5E0JoOzrE4qjlA%3D
+X-Attach-Flag: N
+X-TXN_ID: 92776A52-60F9-4F85-9767-221C6F6110B4
+X-Business-Group: Retail
+X-DKIM_SIGN_REQUIRED: YES
+
+------=_Part_328908_1673581440.1409257853820
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+Content-Disposition: inline
+
+
+
+------=_Part_328908_1673581440.1409257853820
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Your upcoming Genius Bar appointment.</title>
+<meta name=3D"viewport" content=3D"width=3D714">
+<meta http-equiv=3D"content-type" content=3D"text/html; charset=3Dutf-8">
+<style type=3D"text/css">
+a,a.aapl-link,a.aapl-link:link {text-decoration:none}
+a.aapl-link:hover {text-decoration:underline}
+body {width: 100% !important}
+
+@media only screen and (max-device-width: 768px) {
+  #aapl-eyebrow, #aapl-footer {-webkit-text-size-adjust:100%}
+  .aapl-tile {-webkit-text-size-adjust:110%}
+  #aapl-eyebrow a, #aapl-footer a, a {color:inherit}
+  #aapl-page {-webkit-text-size-adjust:108%}
+}
+
+@media only screen and (max-device-width: 480px) {
+  #aapl-container { padding: 20px 0px 40px 11px !important; }
+  #aapl-container > div { -webkit-transform: scale(.945); -webkit-transform=
+-origin: center 0; }
+}
+
+@media only screen and (min-device-width: 569px) and (min-device-pixel-rati=
+o: 2), only screen and (min-device-width: 569px) and (-webkit-min-device-pi=
+xel-ratio: 2) {
+  img { visibility:hidden; }
+  *[class=3Dmore],
+  *[class~=3Dtpl_linkbug] img { visibility:visible !important; }
+  *[class=3Dttl] { background:url('http://images.apple.com/data/retail/asse=
+ts/en_ca/dm/geniusbar/01/ttl_2x.gif') no-repeat 0 0; -webkit-background-siz=
+e: 629px 116px; }
+  *[class=3Dright] { background:url('http://images.apple.com/dm/us/12/0545/=
+i/right_2x.gif') no-repeat 0 0; -webkit-background-size: 42px 94px; }
+  *[class=3Dcurl] { background:url('http://images.apple.com/dm/us/12/0545/i=
+/curl_2x.gif') no-repeat 0 0; -webkit-background-size: 10px 174px; }
+  *[class=3Dbot1] { background:url('http://images.apple.com/dm/us/12/0545/i=
+/bot1_2x.gif') no-repeat 0 0; -webkit-background-size: 545px 7px; }
+  *[class=3Dbot2] { background:url('http://images.apple.com/dm/us/12/0545/i=
+/bot2_2x.gif') no-repeat 0 0; -webkit-background-size: 629px 20px; }
+}
+
+</style>
+<!--[if gte mso 9]>
+<style type=3D"text/css">
+table,td,div,p {font-family: Lucida Sans, Lucida Sans Unicode, Lucida Grand=
+e, Arial, Helvetica, Verdana, sans-serif !important; line-height:normal !im=
+portant}
+</style>
+<![endif]-->
+<!--[if lte mso 7]>
+<style type=3D"text/css">
+table,td,div,p {font-family: Lucida Grande, Lucida Sans, Lucida Sans Unicod=
+e, Arial, Helvetica, Verdana, sans-serif !important; line-height:normal}
+</style>
+<![endif]-->
+</head>
+
+<body bgcolor=3D"#ffffff" style=3D"margin:0; padding:0;">
+  <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" al=
+ign=3D"center">
+    <tr>
+      <td id=3D"aapl-container" style=3D"padding:20px 32px 40px 43px; backg=
+round:#ffffff;">
+        <div>
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+  <tr>
+    <td style=3D"background:#f8f8f8; -webkit-border-radius:10px;">
+      <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+        <tr>
+          <td class=3D"ttl" width=3D"629">
+            <img src=3D"http://images.apple.com/data/retail/assets/en_ca/dm=
+/geniusbar/01/ttl.gif" width=3D"629" height=3D"116" style=3D"display:block;=
+margin:0" border=3D"0" alt=3D"Thanks for making a reservation.">
+          </td>
+        </tr>
+        <tr>
+          <td style=3D"background:#f8f8f8;" valign=3D"top" id=3D"aapl-page"=
+>
+      <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+  <tr>
+    <td width=3D"42" style=3D"background:#f8f8f8;"></td>
+    <td width=3D"1" style=3D"background:#dfdfdf;"></td>
+    <td style=3D"background:#fcfcfc;" valign=3D"top">
+      <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+        <tr>
+          <td colspan=3D"4" height=3D"15"></td>
+        </tr>
+        <tr>
+          <td width=3D"27"></td>
+          <td width=3D"333" valign=3D"top">
+                        <table cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0">
+              <tr>
+                <td style=3D"font-family:Lucida Grande,Lucida Sans,Lucida S=
+ans Unicode,Arial,Helvetica,Verdana,sans-serif; font-size:12px; line-height=
+:1.5em; color:#333333;">
+                  Dear Alasie,<br>
+Here are the details of your upcoming reservation.
+                </td>
+              </tr>
+              <tr>
+                <td height=3D"12"></td>
+              </tr>
+              <tr>
+                <td style=3D"font-family:Lucida Grande,Lucida Sans,Lucida S=
+ans Unicode,Arial,Helvetica,Verdana,sans-serif; font-size:12px; line-height=
+:1.5em; color:#333333;">
+                 =20
+                    <div>
+                      What: <strong style=3D"color:#000000; text-decoration=
+:none;"></strong>
+                    </div>
+                 =20
+                    <div>
+                      When: <strong style=3D"color:#000000; text-decoration=
+:none;">Thursday, August 28, 2014 at 4:50 PM</strong>
+                    </div>
+                 =20
+                    <div>
+                      Where: <strong style=3D"color:#000000; text-decoratio=
+n:none;">Apple Store, Fairview Pointe-Claire</strong>
+                    </div>
+                 =20
+                </td>
+              </tr>
+              <tr>
+                <td height=3D"12"></td>
+              </tr>
+              <tr>
+                <td style=3D"font-family:Lucida Grande,Lucida Sans,Lucida S=
+ans Unicode,Arial,Helvetica,Verdana,sans-serif; font-size:12px; line-height=
+:1.5em; color:#333333;">
+                  When you arrive, please check in with any Apple Store emp=
+loyee.
+                </td>
+              </tr>
+              <tr>
+                <td height=3D"12"></td>
+              </tr>
+              <tr>
+                <td style=3D"font-family:Lucida Grande,Lucida Sans,Lucida S=
+ans Unicode,Arial,Helvetica,Verdana,sans-serif; font-size:12px; line-height=
+:1.5em; color:#333333;">
+                  We look forward to seeing you. <br>
+Your Apple Store team,<br>
+Fairview Pointe-Claire
+                </td>
+              </tr>
+            </table>
+          </td>
+          <td width=3D"19"></td>
+          <td width=3D"137" valign=3D"top">
+                        <table cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0">
+             =20
+                <tr>
+     <td style=3D"font-family:Lucida Grande,Lucida Sans,Lucida Sans Unicode=
+,Arial,Helvetica,Verdana,sans-serif; font-size:10px; line-height:1.4em; col=
+or:#666666;">
+                    Apple Store,<br>
+Fairview Pointe-Claire
+                  </td>
+                </tr>
+                <tr>
+                  <td height=3D"7"></td>
+                </tr>
+             =20
+                <tr>
+                  <td style=3D"font-family:Lucida Grande,Lucida Sans,Lucida=
+ Sans Unicode,Arial,Helvetica,Verdana,sans-serif; font-size:10px; line-heig=
+ht:1.4em; color:#666666;">
+                    <a class=3D"aapl-link tpl_linkbug" href=3D"http://conci=
+erge.apple.com/iCalService/ics?id=3D646182708" style=3D"color:#0088cc;">Add=
+ this to your calendar<img src=3D"http://images.apple.com/dm/us/12/0545/i/a=
+2_2x.gif" width=3D"8" height=3D"8" style=3D"display:inline; margin:0" borde=
+r=3D"0" alt=3D""></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td height=3D"7"></td>
+                </tr>
+             =20
+                <tr>
+                  <td style=3D"font-family:Lucida Grande,Lucida Sans,Lucida=
+ Sans Unicode,Arial,Helvetica,Verdana,sans-serif; font-size:10px; line-heig=
+ht:1.4em; color:#666666;">
+                    If you are no longer able <span style=3D"white-space:no=
+wrap;">to attend</span> this session, <span style=3D"white-space:nowrap;">p=
+lease <a class=3D"aapl-link tpl_linkbug" href=3D"http://concierge.apple.com=
+/xc/retail/history/R392" style=3D"font-family:Lucida Grande,Lucida Sans,Luc=
+ida Sans Unicode,Arial,Helvetica,Verdana,sans-serif;  color:#0088cc;">cance=
+l</a></span> or <a class=3D"aapl-link tpl_linkbug" href=3D"http://concierge=
+.apple.com/xc/retail/history/R392" style=3D"font-family:Lucida Grande,Lucid=
+a Sans,Lucida Sans Unicode,Arial,Helvetica,Verdana,sans-serif;  color:#0088=
+cc;">reschedule</a> your reservation.
+                  </td>
+                </tr>
+                <tr>
+                  <td height=3D"7"></td>
+                </tr>
+             =20
+                <tr>
+                  <td style=3D"font-family:Lucida Grande,Lucida Sans,Lucida=
+ Sans Unicode,Arial,Helvetica,Verdana,sans-serif; font-size:10px; line-heig=
+ht:1.4em; color:#666666;">
+                    <a class=3D"aapl-link tpl_linkbug" href=3D"http://www.a=
+pple.com/ca/retail/fairviewpointeclaire/" style=3D"color:#0088cc;">Get dire=
+ctions to the store<img src=3D"http://images.apple.com/dm/us/12/0545/i/a2_2=
+x.gif" width=3D"8" height=3D"8" style=3D"display:inline; margin:0" border=
+=3D"0" alt=3D""></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td height=3D"7"></td>
+                </tr>
+             =20
+                <tr>
+                  <td style=3D"font-family:Lucida Grande,Lucida Sans,Lucida=
+ Sans Unicode,Arial,Helvetica,Verdana,sans-serif; font-size:10px; line-heig=
+ht:1.4em; color:#666666;">
+                    <a class=3D"aapl-link tpl_linkbug" href=3D"https://itun=
+es.apple.com/ca/app/apple-store/id375380948?mt=3D8&ls=3D1" style=3D"color:#=
+0088cc;">Download the <span style=3D"white-space:nowrap;">Apple Store app</=
+span><img src=3D"http://images.apple.com/dm/us/12/0545/i/a2_2x.gif" width=
+=3D"8" height=3D"8" style=3D"display:inline; margin:0" border=3D"0" alt=3D"=
+"></a>
+                  </td>
+              =20
+                </tr>
+                <tr>
+                  <td height=3D"7"></td>
+                </tr>
+             =20
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td colspan=3D"4" height=3D"15"></td>
+        </tr>
+      </table>
+    </td>
+    <td width=3D"1" style=3D"background:#dfdfdf;"></td>
+    <td valign=3D"top" width=3D"42" class=3D"right">
+        <img src=3D"http://images.apple.com/dm/us/12/0545/i/right.gif" widt=
+h=3D"42" height=3D"94" style=3D"display:block; margin:0;" border=3D"0" alt=
+=3D"">
+    </td>
+  </tr>
+  <tr>
+    <td style=3D"background:#f8f8f8;"></td>
+    <td colspan=3D"3" class=3D"bot1" width=3D"545">
+      <img src=3D"http://images.apple.com/dm/us/12/0545/i/bot1.gif" width=
+=3D"545" height=3D"7" style=3D"display:block; margin:0;" border=3D"0" alt=
+=3D"">
+    </td>
+    <td style=3D"background:#f8f8f8;"></td>
+  </tr>
+</table>
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+  <tr>
+    <td height=3D"21" colspan=3D"2"></td>
+  </tr>
+  <tr>
+    <td width=3D"70"></td>
+    <td width=3D"360">
+      <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+        <tr>
+          =20
+
+=09=09=09
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td height=3D"25" colspan=3D"2"></td>
+  </tr> =20
+</table>
+          </td>
+        </tr>
+        <tr>
+          <td width=3D"629" class=3D"bot2" valign=3D"top">
+            <img src=3D"http://images.apple.com/dm/us/12/0545/i/bot2.gif" w=
+idth=3D"629" height=3D"20" style=3D"display:block; margin:0;" border=3D"0" =
+alt=3D"">
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td valign=3D"top" width=3D"10" class=3D"curl">
+      <img src=3D"http://images.apple.com/dm/us/12/0545/i/curl.gif" width=
+=3D"10" height=3D"174" style=3D"display:block; margin:0;" border=3D"0" alt=
+=3D"">
+    </td>
+  </tr>
+</table>
+<table width=3D"639" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center" id=3D"aapl-footer" style=3D"margin:0 auto">
+  <tr>
+    <td style=3D"padding:13px 60px 10px 72px;font-family:Geneva,Verdana,Ari=
+al,Helvetica,sans-serif;font-size:9px; line-height:1.34em; color:#a7a9ac;">
+        If you are unable to turn off Find My , Apple cannot provide suppor=
+t services. This policy is in force to prevent unauthorized persons from se=
+rvicing your  without your knowledge.<br><br>
+       Apple Canada Inc. 7495 Birchmount Road, Markham, ON L3R 5G2<br>
+        <a href=3D"http://www.apple.com/legal/" style=3D"color:#a7a9ac; fon=
+t-family:Geneva,Verdana,Arial,Helvetica,sans-serif; text-decoration:underli=
+ne;">All Rights Reserved</a> / <a href=3D"http://www.apple.com/ca/privacy" =
+style=3D"color:#a7a9ac; font-family:Geneva,Verdana,Arial,Helvetica,sans-ser=
+if; text-decoration:underline;">Privacy Policy</a> / <a href=3D"http://appl=
+eid.apple.com/en_CA" style=3D"color:#a7a9ac; font-family:Geneva,Verdana,Ari=
+al,Helvetica,sans-serif; text-decoration:underline;">My Apple ID</a><br>
+        <br>
+Si vous ne recevez pas les courriels d=E2=80=99Apple dans la langue de votr=
+e choix, <a href=3D"http://www.apple.com/ca/fr/language/" style=3D"color:#a=
+7a9ac;text-decoration:underline;white-space:nowrap;">cliquez ici</a>.<br><b=
+r>
+        This is a transactional email. If you prefer not to receive commerc=
+ial email from Apple, please <a href=3D"http://mynews.apple.com/ca/unsubscr=
+ibe" style=3D"color:#a7a9ac; font-family:Geneva,Verdana,Arial,Helvetica,san=
+s-serif; text-decoration:underline;"><span style=3D"white-space:nowrap;">cl=
+ick here</span></a>.<br>
+        <br>
+TM and copyright =C2=A92014 Apple Inc.
+    </td>
+  </tr>
+  <tr>
+    <td><img src=3D'http://outsideapple.apple.com/img/APPLE_EMAIL_LINK/spac=
+er4.gif?v=3D2&a=3Dk%2BmjWPCFEH1m5ry2zndhAmtlpZp7z0StBLaYV0pDs9CjBzaumwDFqMl=
+ZRKefYCWqEwdZSPaBfc1wHqWycuV81j4uiktyBiiUr6OnD9YCpqA7NlJMb%2B1Q4313kP2DW5S3=
+yU%2BUhqUeq1GmY8OybYeGkSjtEp%2FfAx9NnPUuX2k6DljpEZMkWngsiGrWpm6D4bgCqFR3wY6=
+9bsIdydg3B1eEyOr972dpf8wZxN%2BxLILKVgFfsdC9f3NoIvMjAWGgXtX49GbteaocnarM6%2F=
+kusbw3IxDzxhLTL5E0JoOzrE4qjlA%3D'/></td>
+  </tr>
+</table>
+        </div>
+        <div id=3D"aapl-spacer"></div>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
+------=_Part_328908_1673581440.1409257853820--
+
+

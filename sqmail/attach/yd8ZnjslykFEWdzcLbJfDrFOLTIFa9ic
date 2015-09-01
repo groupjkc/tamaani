@@ -1,0 +1,124 @@
+Return-Path: <prosati@makivik.org>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv3.soleica.ca (localhost [127.0.0.1])
+	by ispv3.soleica.ca (Postfix) with ESMTP id AF0723D8DDD
+	for <aarngak@tamaani.ca>; Fri, 18 Feb 2011 16:16:35 -0500 (EST)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv3.soleica.ca ([127.0.0.1])
+	by ispv3.soleica.ca (ispv3.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id YzEc9eiwefCb for <aarngak@tamaani.ca>;
+	Fri, 18 Feb 2011 16:16:35 -0500 (EST)
+Received: from tcn00qubc00209.isn.rtss.qc.ca (relais4.ssss.gouv.qc.ca [142.83.199.8])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 87B853D8DDC
+	for <aarngak@tamaani.ca>; Fri, 18 Feb 2011 16:16:35 -0500 (EST)
+Received: from tc00bar200725.ssss.gouv.qc.ca ([10.249.80.24])
+          by tcn00qubc00209.isn.rtss.qc.ca (Lotus Domino Release 8.5.2FP1)
+          with ESMTP id 2011021816163421-610748 ;
+          Fri, 18 Feb 2011 16:16:34 -0500 
+X-ASG-Debug-ID: 1298063789-3c729eb90001-FBqy4Z
+Received: from tcn00qubc00551.isn.rtss.qc.ca ([10.250.32.27]) by tc00bar200725.ssss.gouv.qc.ca with ESMTP id wzn0vVqCPbFI5uFf for <aarngak@tamaani.ca>; Fri, 18 Feb 2011 16:16:29 -0500 (EST)
+X-Barracuda-Envelope-From: prosati@makivik.org
+Received: from tcn00barin00051.ssss.gouv.qc.ca ([10.120.138.27])
+          by TCN00QUBC00379.isqc.reg00.rtss.qc.ca (Lotus Domino Release 6.5.6FP3 HF341)
+          with ESMTP id 2011021816152104-545706 ;
+          Fri, 18 Feb 2011 16:15:21 -0500 
+Received: from makivik.org (mail.makivik.org [67.69.43.196]) by tcn00barin00051.ssss.gouv.qc.ca with ESMTP id M3t9kXBIBUshdhni; Fri, 18 Feb 2011 15:18:01 -0500 (EST)
+X-Barracuda-Apparent-Source-IP: 67.69.43.196
+Received: from mail2.makivik.org ([192.168.58.10])
+	by mail.makivik.org  with ESMTP id p1ILF9Xg024126;
+	Fri, 18 Feb 2011 16:15:09 -0500
+Message-id: <fc.0073fb5c007b77170073fb5c007b7717.7b7acd@makivik.org>
+X-FC-Thread-ID: 0073fb5c-007b7717
+Date: Fri, 18 Feb 2011 16:16:42 -0500
+Subject: Meeting with Nathalie Normandeau & Geoffrey Kelley - March 3rd
+Precedence: special-delivery
+X-ASG-Orig-Subj: Meeting with Nathalie Normandeau & Geoffrey Kelley - March 3rd
+Priority: urgent
+X-Priority: 1 (High)
+X-MSMail-Priority: High
+X-Mailer: FirstClass 11.0 (build 11.003)
+X-FC-SERVER-TZ: 15729388
+To: alacie.nalukturuk@kativik.qc.ca, Alasie.arngak@ssss.gouv.qc.ca,
+        a.gordon@nunavik-tourism.com, "Michael Cameron" <mcameron@makivik.org>,
+        c.arngak@avataq.qc.ca, mayor@nvkujjuaq.qc.ca, jmseguin@krg.ca,
+        "Jobie Tukkiapik" <jtukkiapik@makivik.org>, lmercier@krg.ca,
+        annie.grenier@kativik.qc.ca, mary_aitchison@kativik.qc.ca,
+        "Marc Allard" <m_allard@makivik.org>, sgrasser@krg.ca, ayassa@krg.ca,
+        iparizeau@krg.ca, mgauvin@krg.ca, taqralik@avataq.qc.ca,
+        louisgagnon@avataq.qc.ca, jlance@krg.ca, jpapak@krg.ca,
+        serge_dery@ssss.gouv.qc.ca, jeannie.may@ssss.gouv.qc.ca, fgagne@krg.ca,
+        "Stas Olpinski" <s_olpinski@makivik.org>
+Cc: "Pita Aatami" <p_aatami@makivik.org>, rmackey@krg.ca, memudluk@krg.ca,
+        "=?UTF-8?B?SmVhbi1GcmFuw6dvaXM=?= Arteau" <jfarteau@makivik.org>
+From: "Patricia Rosati" <prosati@makivik.org>
+MIME-Version: 1.0
+X-Virus-Scanned: by bsmtpd at ssss.gouv.qc.ca
+X-MIMETrack: Itemize by SMTP Server on TCN00QUBC00379/Serveurs/SSSS(Release 6.5.6FP3
+ HF341|October 05, 2010) at 2011-02-18 16:15:21,
+	Serialize by Router on TCN00QUBC00551/Serveurs/SSSS(Release 6.5.6FP3 HF341|October
+ 05, 2010) at 2011-02-18 16:16:29,
+	Serialize complete at 2011-02-18 16:16:29,
+	Itemize by SMTP Server on TCN00QUBC00209/Serveurs/SSSS(Release 8.5.2FP1|November
+ 29, 2010) at 2011-02-18 16:16:34,
+	Serialize by Router on TCN00QUBC00209/Serveurs/SSSS(Release 8.5.2FP1|November
+ 29, 2010) at 2011-02-18 16:16:35,
+	Serialize complete at 2011-02-18 16:16:35
+X-TNEFEvaluated: 1
+X-Barracuda-Connect: UNKNOWN[10.250.32.27]
+X-Barracuda-Start-Time: 1298063789
+X-Barracuda-URL: http://10.249.80.42:8000/cgi-mod/mark.cgi
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=7.0 tests=MISSING_MIMEOLE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.55725
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 MISSING_MIMEOLE        Message has X-MSMail-Priority, but no X-MimeOLE
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=ISO-8859-1
+
+To: 	Nunavik Organization Presidents
+	Nunavik Representatives on Plan Nord Working Groups
+
+
+-------------------------------------------------------------------------=
+--
+We have just been informed that ministers Nathalie Normandeau (Deputy
+Premier, Minister of Natural Resources and Wildlife, and Minister
+responsible for the Northern Plan) and Geoffrey Kelley (newly appointed
+Minister responsible for Aboriginal Affairs) will be in Kuujjuaq on
+Thursday, March 3rd to make a public presentation on the Plan Nord. The
+presentation will start in the morning and will probably end around 4:00
+p.m.
+
+On behalf of Pita Aatami and Maggie Emudluk, I would like to invite you t=
+o
+join us for this important presentation. It is planned that there will be
+an opportunity to address the ministers directly about the concerns and
+issues raised by our organizations over the course of the past year
+through the Plan Nord and Plan Nunavik processes.
+
+Please confirm your intention to attend this presentation to me directly
+by email prosati@makivik.org no later than February 22.   Everyone is
+asked to handle their own travel arrangements.
+
+Thank you and have a good day.
+
+Pita Aatami and Maggie Emudluk
+
+
+-------------------------------------------------------------------------=
+--
+Thank you
+
+Patricia Rosati
+Makivik Corporation
+1111, Boul. Dr. Frederik-Philips=20
+3e =E9tage
+St. Laurent, QC H4M 2X6
+(514) 745-8880, ext. 201
+prosati@makivik.org
+
+
+

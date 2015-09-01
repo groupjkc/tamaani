@@ -1,0 +1,56 @@
+<?php
+	$lang['home']          = "Accueil";
+	$lang['page_title']    = "Centre D'Innovation Sans-Fil Rogers";	
+
+	$lang['fr']            = "FR";
+	$lang['en']            = "AN";
+	$lang['login']         = "Login";
+	
+	
+ 	/*Home Page*/	
+	
+	$lang['title_home']      = "Les &eacute;l&eacute;ments diff&eacute;renciateurs de <span class='red'>Rogers</span>";
+	$lang['text_home']       = "<ul>
+									<li><span class='white'>Des conseillers de confi ance pour vos solutions sans-fil</span></li> 
+									<li><span class='white'>Un &eacute;cosyst&egrave;me de partenaires qualifi&eacute;s</span></li> 
+									<li><span class='white'>Le r&eacute;seau fiable qui a fait ses preuves</span></li> 
+									<li><span class='white'>Des solutions d&rsquo;affaires novatrices et adapt&eacute;es</span></li> 
+									<li><span class='white'>Un service &agrave; la client&egrave;le d&rsquo;affaires de calibre mondial reconnu</span></li> 
+								</ul>";
+								
+								
+ 	/*video Page*/	
+	$lang['title_video']      = '<span class="red">View</span> Video';
+	$lang['sub_title_video']  = "PLEASE SELECT THE SPEED OF YOUR CONNECTION";
+	$lang['text_video']       =  '<ul>
+									<li><span class="white">Fast Connection - HI DEF, HQ</span></li> 
+									<li><span class="white">Cable Connection - Medium Quality</span></li> 
+									<li><span class="white">Slower Connection - Low Res</span></li> 
+								</ul> ';  	
+	
+
+	/*Footer*/
+	$lang['location']      = "M O N T R &Eacute; A L";
+	$lang['footer']        = "Pour plus d'information, contactez-nous en <a href='contact.php?lang=fr' id='contact_us_btn'>cliquant ici</a>";
+	
+	/*Form*/
+	$lang['form_text']     = "Pour obtenir de l'information additionnelle ou pour planifier une visite du Centre d'Innovation Sans-fil Rogers, veuillez compl&eacute;ter le formulaire suivant :<br><br>";
+	$lang['contact']       = "Contactez-Nous";	
+	
+	
+	$lang['Name']          = "Pr&eacute;nom et nom";
+	$lang['Email']         = "Courriel";
+	$lang['Company']   	   = "Entreprise";
+	$lang['phone']         = "T&eacute;l&eacute;phone";
+	$lang['reason']        = "Raison";
+	$lang['visit']         = "Visite";
+	$lang['Send']    	   = "Envoyer";	
+	$lang['Required'] 	   = "* Champs obligatoires";
+	$lang['thankmsg']      = "Merci d'avoir communiqu&eacute; avec nous. Nous vous contacterons sous peu pour r&eacute;pondre &agrave; votre demande.";
+	$lang['logo']          = "rogers_mc.png";
+	
+	$lang['fields_missing'] = "Veuillez remplir les champs obligatoires";
+	$lang['invalid_email']  = "Veuillez entrer une adresse email valide";
+	$lang['invalid_zip']    = "Veuillez entrer un code postal valide";	
+	
+	$lang['register_now']    = '<span class="red">Register </span>Now';	?>

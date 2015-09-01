@@ -1,0 +1,135 @@
+<?php
+class rcube_plesk_password
+{
+	    function __construct($params = array())
+    {
+        $this->_params['host'] = 'localhost';
+        $this->_params['port'] = 106;
+    }
+	
+	
+    function format_error_result($code, $line)
+    {
+        if (preg_match('/^\d\d\d\s+(\S.*)\s*$/', $line, $matches)) {
+            return array('code' => $code, 'message' => $matches[1]);
+        } else {
+            return $code;
+        }
+    }
+	
+	function save($curpass, $passwd) {
+
+        $rcmail = rcmail::get_instance();
+
+        $link = mysql_connect($rcmail->config->get('plesk_db_host'), $rcmail->config->get('plesk_db_admin'), $rcmail->config->get('plesk_db_pass'));
+
+        if (!$link)
+                return PASSWORD_ERROR;
+        mysql_select_db("psa");
+
+        $sql = "SELECT a.id,a.password,m.mail_name,d.name
+                FROM domains d, mail m, accounts a
+                WHERE
+                        d.name='" . $rcmail->user->get_username('domain') . "' AND
+                        m.mail_name='" . $rcmail->user->get_username('local'). "' AND
+                        m.dom_id=d.id AND a.id=m.account_id";
+        $res = mysql_query($sql);
+        if ($row = mysql_fetch_assoc($res)) {
+
+                //$driver = new Passwd_Driver_poppassd(array('host'=>'localhost', 'port'=> '106'));
+                $return = $this->changePassword($_SESSION['username'], $curpass, $passwd);
+                if ($return[1] == "Success")
+                        if ($row["password"] != $curpass)
+                                return PASSWORD_ERROR;
+                        elseif (mysql_query("UPDATE accounts set password='" . $passwd . "' where id='" . $row["id"] . "' LIMIT 1"))
+                                return PASSWORD_SUCCESS;
+                        else
+                                return PASSWORD_ERROR;
+                else
+                        return PASSWORD_ERROR;
+        }
+        else
+                return PASSWORD_ERROR;
+}
+	
+    function _connect()
+    {
+        $this->_fp = fsockopen($this->_params['host'], $this->_params['port'], $errno, $errstr, 30);
+        if (!$this->_fp) {
+            return array(false, $errstr);
+        } else {
+            $res = $this->_getPrompt();
+            return $res;
+        }
+    }
+    function _disconnect()
+    {
+        if (isset($this->_fp)) {
+            fputs($this->_fp, "quit\n");
+            fclose($this->_fp);
+        }
+    }
+    function _getPrompt()
+    {
+        $prompt = fgets($this->_fp, 4096);
+        if (!$prompt) {
+            return array(false, "No prompt returned from server.");
+        }
+        if (preg_match('/^[1-5][0-9][0-9]/', $prompt)) {
+            $rc = substr($prompt, 0, 3);
+            /* This should probably be a regex match for 2?0 or 3?0, no? */
+            if ($rc == '200' || $rc == '220' || $rc == '250' || $rc == '300' ) {
+                return array(true, "Success");
+            } else {
+                return array(false, $prompt);
+            }
+        } else {
+            return array(true, "Success");
+        }
+    }
+
+    function _sendCommand($cmd, $arg)
+    {
+        $line = $cmd . ' ' . $arg . "\n";
+        $res_fputs = fputs($this->_fp, $line);
+        if (!$res_fputs) {
+            return array(false, "Cannot send command to server.");
+        }
+        $res = $this->_getPrompt();
+        return $res;
+    }
+
+    function changePassword($username, $old_password, $new_password)
+    {
+        $res = $this->_connect();
+        if (!$res[0]) {
+            return $res;
+        }
+
+        $res = $this->_sendCommand('user', $username);
+        if (!$res[0]) {
+            $this->_disconnect();
+            return array(false, "User not found");
+        }
+
+        $res = $this->_sendCommand('pass', $old_password);
+        if (!$res[0]) {
+            $this->_disconnect();
+            return array(false, "Incorrect Password");
+        }
+
+
+
+        $res = $this->_sendCommand('newpass', $new_password);
+        $this->_disconnect();
+        if (!$res[0]) {
+            return $res;
+        }
+
+        return array(true, "Success");
+    }
+
+
+  
+}
+

@@ -1,0 +1,534 @@
+Return-Path: <n_c_i_bounces@insideapple.apple.com>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv4.soleica.ca (localhost [127.0.0.1])
+	by ispv4.soleica.ca (Postfix) with ESMTP id 94040771BE
+	for <aarngak@tamaani.ca>; Fri,  1 Nov 2013 13:19:37 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Authentication-Results: ispv4.soleica.ca (amavisd-new);
+	dkim=pass (2048-bit key) header.d=insideapple.apple.com
+Received: from ispv4.soleica.ca ([127.0.0.1])
+	by ispv4.soleica.ca (ispv4.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id PLTfwFRlVcLg for <aarngak@tamaani.ca>;
+	Fri,  1 Nov 2013 13:19:32 -0400 (EDT)
+Received: from msbadger0603.apple.com (msbadger0603.apple.com [17.254.6.120])
+	by ispv4.soleica.ca (Postfix) with ESMTP id 5B6F1771A8
+	for <aarngak@tamaani.ca>; Fri,  1 Nov 2013 13:19:32 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha1; d=insideapple.apple.com; s=insideapple2048; c=relaxed/simple;
+	q=dns/txt; i=@insideapple.apple.com; t=1383326371;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=XpsFzy826WcBv6LYS2JPJRaIU+A=;
+	b=hWVEu11zqIqflqNPdLHjltYZC7SAMQLlzT7xQapn/0CYBIOyd/zbKeWLmvMWCyzn
+	EhlWiIs+t7FPwcrZxHQdsrsHBeamaL+mYg5p4bImERLFgXXN3i6CLTpEiOwPGYX7
+	9StG96yAo7pJErRsekGKT0ImGcmEv2bScZ5I+JA0sNhUwILTDK1ALvoB3D+23joT
+	s7Z8WP6h/TaalWIAGnNv6kO6HaFeMFWMzq4yTJ8hyfz0YfVQg3/NruqfP4Y3qFKO
+	TzfiLNQMuOY/FM4oAADIUcJpzljkNkbl1wnQXAllcRsSNgWielQy73Xdizf6Fmdf
+	d459llRqyqgAPjnM+KMVCg==;
+Date: Fri, 01 Nov 2013 17:19:31 +0000
+From: Apple <News_Canada@InsideApple.Apple.com>
+To: aarngak@tamaani.ca
+Message-ID: <1499604644.40291335.1383326371847.JavaMail.cboxp@chevak.apple.com>
+Subject: iPad Air is here.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_40291334_493038110.1383326371847"
+X-Broadcast-Id: 116015
+List-Unsubscribe: <http://mynews.apple.com/subscriptions?v=2&la=en_ca&a=abyZBQw48hkCSZXJowu%2F38MLNnKekM0SDkj9Rw%2BijEv8ht%2FIULEohST%2FLZVXaq1e%2Fvw2DW3kxHrzbKIHDNt%2FIX6GGsFHuaVVDOrIPIEI1O3n%2B%2Fn%2BNG44s6IiHcKJDo%2B%2B>
+X-Sent-To: aarngak@tamaani.ca,2,DpMdNCHANAtT600BD8fAcKqpOjhxI62TNss43wiyvrrq%2Fe9naX%2FMGcTfsSyCylYBkwlspMYU%2FqGpkWt9HNzR3QdSB1oWi9IR0xZgTFQx98h79sd9sxMvNeQ%2B432wbGk%2B
+
+------=_Part_40291334_493038110.1383326371847
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+iPad Air. The power of lightness.
+
+It=E2=80=99s 7.5 millimetres thin and weighs just one pound. With the stunn=
+ing 9.7-inch Retina display and the new A7 chip, it=E2=80=99s the most powe=
+rful and capable iPad yet. Buy iPad Air today and get free delivery. Or vis=
+it your favourite Apple Retail Store and we=E2=80=99ll set it up just the w=
+ay you like.
+
+Apple Retail Store
+http://c.apple.com/r?v=3D2&la=3Den&lc=3Dca&a=3DFBQ6XUoA6SPLl%2BFrwP6JDy5Njh=
+wGN5DCOTaS4NNg7rp79sd9sxMvNeQ%2B432wbGk%2B&ct=3DAM7s3M9
+
+Buy Now
+http://c.apple.com/r?v=3D2&la=3Den&lc=3Dca&a=3DFBQ6XUoA6SPLl%2BFrwP6JDy5Njh=
+wGN5DCOTaS4NNg7rp79sd9sxMvNeQ%2B432wbGk%2B&ct=3DAM0L0l3
+
+Learn more
+http://c.apple.com/r?v=3D2&la=3Den&lc=3Dca&a=3DFBQ6XUoA6SPLl%2BFrwP6JDy5Njh=
+wGN5DCOTaS4NNg7rp79sd9sxMvNeQ%2B432wbGk%2B&ct=3DAM2i8i8
+
+-------------------------------------------------------------
+
+Apple
+http://c.apple.com/r?v=3D2&la=3Den&lc=3Dca&a=3DFBQ6XUoA6SPLl%2BFrwP6JDy5Njh=
+wGN5DCOTaS4NNg7rp79sd9sxMvNeQ%2B432wbGk%2B&ct=3DAM2T7G4
+
+Shop Online
+http://c.apple.com/r?v=3D2&la=3Den&lc=3Dca&a=3DFBQ6XUoA6SPLl%2BFrwP6JDy5Njh=
+wGN5DCOTaS4NNg7rp79sd9sxMvNeQ%2B432wbGk%2B&ct=3DAM2u4T6
+
+Find a Store
+http://c.apple.com/r?v=3D2&la=3Den&lc=3Dca&a=3DFBQ6XUoA6SPLl%2BFrwP6JDy5Njh=
+wGN5DCOTaS4NNg7rp79sd9sxMvNeQ%2B432wbGk%2B&ct=3DAM6P2K5
+
+1-800-MY-APPLE
+
+Get the Apple Store App
+http://c.apple.com/r?v=3D2&la=3Den&lc=3Dca&a=3DFBQ6XUoA6SPLl%2BFrwP6JDy5Njh=
+wGN5DCOTaS4NNg7rp79sd9sxMvNeQ%2B432wbGk%2B&ct=3DAM5M2G1
+
+-------------------------------------------------------------
+
+Supplies may be limited and are available on a first-come, first-served bas=
+is.
+
+Apple Canada Inc. 7495 Birchmount Road, Markham, ON L3R 5G2
+
+All Rights Reserved
+http://www.apple.com/legal/
+
+Privacy Policy
+http://www.apple.com/ca/privacy/
+
+My Apple ID
+https://appleid.apple.com/en_CA/
+
+Si vous ne recevez pas les courriels d'Apple dans la langue de votre choix,=
+ cliquez ici.
+http://www.apple.com/ca/fr/language/
+
+If you prefer not to receive commercial email from Apple, or if you've chan=
+ged your email address, please click here.
+http://mynews.apple.com/subscriptions?v=3D2&la=3Den_ca&a=3DabyZBQw48hkCSZXJ=
+owu%2F38MLNnKekM0SDkj9Rw%2BijEt3OL54O4wohNnRJHM9NIge%2Fvw2DW3kxHrzbKIHDNt%2=
+FIX6GGsFHuaVVDOrIPIEI1O3n%2B%2Fn%2BNG44s6IiHcKJDo%2B%2B
+
+TM and copyright (c) 2013 Apple Inc.
+------=_Part_40291334_493038110.1383326371847
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>P0015797-313164</title>
+<meta http-equiv=3D"content-type" content=3D"text/html;charset=3Dutf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>
+<style type=3D"text/css">
+a,a.aapl-link,a.aapl-link:link { text-decoration:none; }
+a.aapl-link:hover { text-decoration:underline; }
+body { width:100% !important; }
+a { color:inherit; }
+@media only screen and (max-device-width:768px) {
+=09#aapl-eyebrow,#aapl-footer { -webkit-text-size-adjust:120%; }
+=09#aapl-eyebrow a,#aapl-footer a, a { color:inherit; }
+=09* { text-rendering:optimizelegibility; }
+}
+/* Retina Graphics */
+@media
+only screen and (min-device-width:569px) and (min-device-pixel-ratio : 2),
+only screen and (min-device-width:569px) and (-webkit-min-device-pixel-rati=
+o : 2) {
+=09img { visibility:hidden; }
+=09*[class=3Daapl-link] img { visibility:visible; }
+=09*[id=3Dlogo] { background:url('http://images.apple.com/ca/dm/13/10/7131l=
+/logo_2x.gif') no-repeat 0 0; -webkit-background-size:20px 24px; }
+=09*[id=3Dtitle] { background:url('http://images.apple.com/ca/dm/13/10/7131=
+l/title_1_2x.gif') no-repeat 0 0; -webkit-background-size:700px 111px; }
+=09*[id=3Dair-hero] { background:url('http://images.apple.com/ca/dm/13/10/7=
+131l/ipad_air_hero_2x.jpg') no-repeat 0 0; -webkit-background-size:700px 26=
+2px; }
+=09*[class=3Dbuynow] { background:url('http://images.apple.com/ca/dm/13/10/=
+7131l/buynow_2x.jpg') no-repeat 0 0; -webkit-background-size:97px 35px; }
+}
+/* Mobile Version */
+@media only screen and (max-device-width: 568px) {
+=09td[id=3Daapl-desktop-container],
+=09div[id=3Daapl-desktop] { display:none !important; padding:0 !important; =
+}
+
+ =09* { margin:0; padding:0; list-style:none; }
+ =09.selfclear:after { clear:both; display:block; visibility:hidden; height=
+:0; content:'.'; }
+ =09body,
+=09html { width:320px!important; }
+
+=09div[id=3Daapl-mobile-container] { overflow:visible !important; height:10=
+0% !important; max-height:100% !important; }
+=09div[id=3Daapl-mobile] { display:block !important; width:306px; padding:3=
+0px 7px; color:#000000; font-family:Lucida Grande,Lucida Sans,Lucida Sans U=
+nicode,Arial,Helvetica,Verdana,sans-serif; font-size:14px; line-height:1.41=
+6em; text-align:center; -webkit-text-size-adjust:none; }
+=09div[id=3Daapl-mobile] img { display:block; }
+
+=09div[id=3Daapl-mobile] h1,
+=09div[id=3Daapl-mobile] h1 img { margin:0 auto; }
+
+=09div[id=3Daapl-mobile] a.aapl-link,
+=09div[id=3Daapl-mobile] a.more { color:#0088cc; text-decoration:none; }
+=09div[id=3Daapl-mobile] a.more { margin-left:4px; padding-right:8px; backg=
+round:url('http://images.apple.com/ca/dm/13/10/7131l/m_arrow_2x.gif') 100% =
+58% no-repeat; background-size:8px 8px; }
+
+=09div[id=3Daapl-mobile] .row { margin:0 auto; width:290px; text-align:cent=
+er; }
+=09div[id=3Daapl-mobile] .row h1 img { margin-bottom:10px; }
+=09div[id=3Daapl-mobile] .row p { color:#666; margin:0 auto 12px; }
+=09div[id=3Daapl-mobile] .row .hero { position:relative; z-index:1; margin:=
+0 auto 30px; }
+=09div[id=3Daapl-mobile] .row .intro { position:relative; z-index:2; width:=
+85%; }
+
+=09div[id=3Daapl-mobile] .m-buynow { display:block; width:102px; margin:0 a=
+uto; }
+
+=09div[id=3Daapl-mobile] #header.row { border:0; }
+=09div[id=3Daapl-mobile] #header h1 { margin-left:-15px; margin-bottom:25px=
+; }
+
+=09div[id=3Daapl-mobile] #ipad-air { padding-bottom:33px; }
+=09div[id=3Daapl-mobile] #ipad-air .intro { margin-bottom:20px; }
+=09div[id=3Daapl-mobile] #ipad-air .m-buynow { margin-bottom:15px; }
+
+=09div[id=3Daapl-mobile] #footer { margin-bottom: 8px; }
+=09div[id=3Daapl-mobile] #footer .box { display:table; table-layout:fixed; =
+width:304px; margin-bottom:6px; border:1px solid #ccc; -webkit-border-radiu=
+s:4px; font-size:12px; }
+=09div[id=3Daapl-mobile] #footer .box li,
+=09div[id=3Daapl-mobile] #footer .box li a { color:#666; }
+=09div[id=3Daapl-mobile] #footer .box li { display:table-cell; }
+=09div[id=3Daapl-mobile] #footer .box li a { width:292px; position:relative=
+; z-index:1; display:inline-block; padding:6px; }
+=09div[id=3Daapl-mobile] #footer .box li a:after { position:absolute; top:1=
+1px; right:0; display:block; width:1px; height:9px; content:''; background:=
+#666; }
+=09div[id=3Daapl-mobile] #footer .box li.last a:after { display:none; }
+
+=09div[id=3Daapl-mobile] #footer .box.grid3col li.last { width:120px; }
+=09div[id=3Daapl-mobile] #footer .box.grid3col li a { width:70px; height:19=
+px; padding:6px 11px 6px 11px; }
+
+=09div[id=3Daapl-mobile] #footer .box.grid3col li.first a { width:76px; pad=
+ding:6px 10px 6px 6px; }
+=09div[id=3Daapl-mobile] #footer .box.grid3col li.last a { width:112px; pad=
+ding:6px 0 6px 6px; }
+
+=09div[id=3Daapl-mobile] .sosumi { padding:1px 10px;color:#999999; font-fam=
+ily:Geneva,Verdana,Arial,Helvetica,sans-serif;font-size:9px;line-height:1.3=
+4em; text-align:left; }
+=09
+=09div[id=3Daapl-mobile] #footer #eyebrow .mobile-eyebrow { margin: 2px aut=
+o 6px; width: 304px; -webkit-border-radius:4px; border: 1px solid #ccc;  fo=
+nt-size: 12px; line-height: 31px; font-weight: normal; color: 666; text-ali=
+gn: center; text-shadow: 0px 0px 2px #fff; }
+=09div[id=3Daapl-mobile] #footer #eyebrow .mobile-eyebrow a { color: #666; =
+text-decoration: none; }
+=09div[id=3Daapl-mobile] #footer #eyebrow .mobile-eyebrow span {padding: 12=
+px; color: #999;text-decoration: none; }
+=09}
+}
+</style>
+<!--[if gte mso 9]>
+<style type=3D"text/css">
+table,td,div,p {font-family:Lucida Sans,Lucida Sans Unicode,Lucida Grande,A=
+rial,Helvetica,Verdana,sans-serif !important;line-height:normal !important}
+</style>
+<![endif]-->
+<!--[if lte mso 7]>
+<style type=3D"text/css">
+table,td,div,p {font-family:Lucida Grande,Lucida Sans,Lucida Sans Unicode,A=
+rial,Helvetica,Verdana,sans-serif !important;line-height:normal}
+</style>
+<![endif]-->
+</head>
+<body bgcolor=3D"#ffffff" style=3D"margin:0;padding:0">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"center">
+<tr><td><img src=3D"http://c.apple.com/img/APPLE_EMAIL_LINK/spacer2.gif?v=
+=3D2&a=3DpVZ9kmv4EboYQozmO3Y6TETgq4XMHo2CvTrh5QhoqyLC%2BbjQATfAxWmy1%2BVlCP=
+4ymXxtorhjZRIPKka58wRD0nTxsmotNynfoAJjhrNbkTc%3D" alt=3D"" width=3D"1" heig=
+ht=3D"1" ></td></tr>
+<tr>
+<td style=3D"padding:20px 20px 40px 20px;background-color:#ffffff" id=3D"aa=
+pl-desktop-container">
+=09<div id=3D"aapl-desktop">
+=09=09<table width=3D"700" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ align=3D"center" id=3D"aapl-eyebrow" style=3D"margin:0 auto">
+=09=09=09<tr>
+=09=09=09=09<td id=3D"logo" width=3D"20" height=3D"24"><a href=3D"http://c.=
+apple.com/r?v=3D2&la=3Den&lc=3Dca&a=3DFBQ6XUoA6SPLl%2BFrwP6JDy5NjhwGN5DCOTa=
+S4NNg7rp79sd9sxMvNeQ%2B432wbGk%2B&ct=3DAM3K5Q2"><img src=3D"http://images.a=
+pple.com/ca/dm/13/10/7131l/logo.gif" width=3D"20" height=3D"24" alt=3D"" bo=
+rder=3D"0" style=3D"display:block; margin:0;"></a></td>
+=09=09=09=09<td width=3D"680" align=3D"right" valign=3D"bottom" style=3D"pa=
+dding:12px 0 0 0"><div style=3D"font-family:Lucida Grande,Arial,Helvetica,G=
+eneva,Verdana,sans-serif;color:#aaaaaa;font-size:10px;line-height:1.3em;"><=
+a class=3D"aapl-link" href=3D"http://c.apple.com/r?v=3D2&la=3Den&lc=3Dca&a=
+=3DFBQ6XUoA6SPLl%2BFrwP6JDy5NjhwGN5DCOTaS4NNg7rp79sd9sxMvNeQ%2B432wbGk%2B&c=
+t=3DAM4H0M0" style=3D"color:#aaaaaa;white-space:nowrap">Shop Online</a> &nb=
+sp;&nbsp;| &nbsp;&nbsp;<a href=3D"http://c.apple.com/r?v=3D2&la=3Den&lc=3Dc=
+a&a=3DFBQ6XUoA6SPLl%2BFrwP6JDy5NjhwGN5DCOTaS4NNg7rp79sd9sxMvNeQ%2B432wbGk%2=
+B&ct=3DAM4L6m2" class=3D"aapl-link" style=3D"color:#aaaaaa;white-space:nowr=
+ap">Find a Store</a> &nbsp;&nbsp;| &nbsp;&nbsp;1-800-MY-APPLE &nbsp;&nbsp;|=
+ &nbsp;&nbsp;<a href=3D"http://c.apple.com/r?v=3D2&la=3Den&lc=3Dca&a=3DFBQ6=
+XUoA6SPLl%2BFrwP6JDy5NjhwGN5DCOTaS4NNg7rp79sd9sxMvNeQ%2B432wbGk%2B&ct=3DAM5=
+d8v9" class=3D"aapl-link" style=3D"color:#aaaaaa;white-space:nowrap">Get th=
+e Apple Store App</a></div></td>
+=09=09=09</tr>
+=09=09=09<tr><td height=3D"8" colspan=3D"2"></td></tr>
+=09=09=09<tr><td height=3D"1" bgcolor=3D"#c5c5c5" colspan=3D"2"></td></tr>
+=09=09</table>
+=09=09<table width=3D"700" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ align=3D"center" style=3D"margin:0 auto">
+=09=09=09<tr>
+=09=09=09=09<td width=3D"700" style=3D"background-color:#ffffff" bgcolor=3D=
+"#ffffff">
+=09=09=09=09=09<table width=3D"700" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" align=3D"center" style=3D"margin:0 auto">
+=09=09=09=09=09=09<tr><td width=3D"700" height=3D"50" valign=3D"top" colspa=
+n=3D"3"></td></tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td id=3D"title" width=3D"700" height=3D"111" valign=
+=3D"top" colspan=3D"3">
+=09=09=09=09=09=09=09=09<div style=3D"margin:0;font-family:Lucida Grande,Lu=
+cida Sans,Lucida Sans Unicode,Arial,Helvetica,Verdana,sans-serif;color:#666=
+666;font-size:15px;line-height:1.5714em">
+=09=09=09=09=09=09=09=09=09<img src=3D"http://images.apple.com/ca/dm/13/10/=
+7131l/title_1.gif" width=3D"700" height=3D"111" alt=3D"iPad Air. The power =
+of lightness." border=3D"0" style=3D"display:block; margin:0;">
+=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09<tr><td width=3D"700" height=3D"28" valign=3D"top" style=
+=3D"margin:0 auto" colspan=3D"3"></td></tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td width=3D"40" height=3D"100" colspan=3D"1"></td>
+=09=09=09=09=09=09=09<td width=3D"620" valign=3D"top" height=3D"100" align=
+=3D"center" colspan=3D"1">
+=09=09=09=09=09=09=09=09<div style=3D"margin:0;font-family:Lucida Grande,Lu=
+cida Sans,Lucida Sans Unicode,Arial,Helvetica,Verdana,sans-serif;color:#666=
+666;font-size:15px;line-height:1.5714em">
+=09=09=09=09=09=09=09=09=09It=E2=80=99s 7.5 millimetres thin and weighs jus=
+t one pound.<br> With the stunning 9.7-inch Retina display and the new A7 c=
+hip,<br> it=E2=80=99s the most powerful and capable iPad yet. Buy iPad Air =
+today<br> and get free delivery. Or visit your favourite <a href=3D"http://=
+c.apple.com/r?v=3D2&la=3Den&lc=3Dca&a=3DFBQ6XUoA6SPLl%2BFrwP6JDy5NjhwGN5DCO=
+TaS4NNg7rp79sd9sxMvNeQ%2B432wbGk%2B&ct=3DAM4F3y8" style=3D"color:#0088cc" c=
+lass=3D"aapl-link">Apple Retail Store</a><br> and we=E2=80=99ll set it up j=
+ust the way you like.<br>
+=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09<td width=3D"40" height=3D"100" colspan=3D"1"></td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09<tr><td width=3D"700" height=3D"25" valign=3D"top" style=
+=3D"margin:0 auto" colspan=3D"3"></td></tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td width=3D"700" height=3D"60" colspan=3D"3">
+=09=09=09=09=09=09=09=09<table width=3D"700" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0" align=3D"center" style=3D"margin:0 auto">
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td width=3D"301" height=3D"35" colspan=3D"1"=
+></td>
+=09=09=09=09=09=09=09=09=09=09<td width=3D"97" valign=3D"top" height=3D"35"=
+ align=3D"center" colspan=3D"1" class=3D"buynow">
+=09=09=09=09=09=09=09=09=09=09=09<div style=3D"margin:0;font-family:Lucida =
+Grande,Lucida Sans,Lucida Sans Unicode,Arial,Helvetica,Verdana,sans-serif;c=
+olor:#000000;font-size:14px;line-height:1.5714em">
+=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://c.apple.com/r?v=3D2&l=
+a=3Den&lc=3Dca&a=3DFBQ6XUoA6SPLl%2BFrwP6JDy5NjhwGN5DCOTaS4NNg7rp79sd9sxMvNe=
+Q%2B432wbGk%2B&ct=3DAM6C9F1" style=3D"color:#0088cc"><img src=3D"http://ima=
+ges.apple.com/ca/dm/13/10/7131l/buynow.jpg" width=3D"97" height=3D"35" alt=
+=3D"Buy Now" border=3D"0" style=3D"margin:0; display:block"></a>
+=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09<td width=3D"301" height=3D"35" colspan=3D"1"=
+></td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09<tr><td width=3D"700" height=3D"19" valign=3D"to=
+p" style=3D"margin:0 auto" colspan=3D"3"></td></tr>
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td width=3D"301" height=3D"34" colspan=3D"1"=
+></td>
+=09=09=09=09=09=09=09=09=09=09<td width=3D"98" valign=3D"top" height=3D"34"=
+ align=3D"center" colspan=3D"1">
+=09=09=09=09=09=09=09=09=09=09=09<div style=3D"margin:0;font-family:Lucida =
+Grande,Lucida Sans,Lucida Sans Unicode,Arial,Helvetica,Verdana,sans-serif;c=
+olor:#000000;font-size:14px;line-height:1.5714em">
+=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://c.apple.com/r?v=3D2&l=
+a=3Den&lc=3Dca&a=3DFBQ6XUoA6SPLl%2BFrwP6JDy5NjhwGN5DCOTaS4NNg7rp79sd9sxMvNe=
+Q%2B432wbGk%2B&ct=3DAM3v1O6" style=3D"color:#0088cc" class=3D"aapl-link">Le=
+arn more<img src=3D"http://images.apple.com/ca/dm/13/10/7131l/arrow_2x.gif"=
+ width=3D"11" height=3D"10" alt=3D"" border=3D"0" style=3D"margin:0;display=
+:inline-block"></a><br>
+=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09<td width=3D"301" height=3D"34" colspan=3D"1"=
+></td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09<tr><td width=3D"700" height=3D"25" valign=3D"bottom" col=
+span=3D"3"></td></tr>
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td width=3D"700" height=3D"262" valign=3D"top" align=
+=3D"center" style=3D"margin:0 auto" colspan=3D"3" id=3D"air-hero"><a href=
+=3D"http://c.apple.com/r?v=3D2&la=3Den&lc=3Dca&a=3DFBQ6XUoA6SPLl%2BFrwP6JDy=
+5NjhwGN5DCOTaS4NNg7rp79sd9sxMvNeQ%2B432wbGk%2B&ct=3DAM8v5c0"><img src=3D"ht=
+tp://images.apple.com/ca/dm/13/10/7131l/ipad_air_hero.jpg" width=3D"700" he=
+ight=3D"262" alt=3D"" border=3D"0" style=3D"display:block; margin:0;"></a><=
+/td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09<tr><td width=3D"700" height=3D"59" valign=3D"bottom" col=
+span=3D"3"></td></tr>
+=09=09=09=09=09=09<tr><td width=3D"700" height=3D"1" bgcolor=3D"#c5c5c5" co=
+lspan=3D"3"></td></tr>
+=09=09=09=09=09</table>
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09</table>
+=09=09<table width=3D"700" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ align=3D"center" id=3D"aapl-footer" style=3D"margin:0 auto">
+=09=09=09<tr>
+=09=09=09=09<td style=3D"padding:25px 20px 10px 20px" align=3D"center">
+=09=09=09=09=09<div style=3D"font-family:Geneva,Verdana,Arial,Helvetica,san=
+s-serif;font-size:9px;line-height:1.34em;color:#999999">
+=09=09=09=09=09=09Supplies may be limited and are available on a first-come=
+, first-served&nbsp;basis.<br><br>
+=09=09=09=09=09=09Apple Canada Inc. <a style=3D"color:#999;text-decoration:=
+none;">7495 Birchmount Road, Markham, ON L3R 5G2</a><br>
+
+=09=09=09=09=09<a href=3D"http://www.apple.com/legal/" style=3D"text-decora=
+tion:underline;color:#999;">All Rights Reserved</a> / <a href=3D"http://www=
+.apple.com/ca/privacy" style=3D"text-decoration:underline;color:#999;">Priv=
+acy Policy</a> / <a href=3D"https://appleid.apple.com/en_CA/" style=3D"text=
+-decoration:underline;color:#999;">My Apple ID</a>
+=09=09=09=09=09<br>
+=09=09=09=09=09<br>
+=09=09=09=09=09Si vous ne recevez pas les courriels d=E2=80=99Apple dans la=
+ langue de votre choix, <a href=3D"http://www.apple.com/ca/fr/language/" st=
+yle=3D"color:#999999;text-decoration:underline;white-space:nowrap;">cliquez=
+ ici</a>.
+=09=09=09=09=09<br>
+=09=09=09=09=09<br>
+=09=09=09=09=09If you prefer not to receive commercial email from <a style=
+=3D"color:#999;text-decoration:none;">Apple</a>, or if you=E2=80=99ve chang=
+ed your email address, please <a href=3D"http://mynews.apple.com/subscripti=
+ons?v=3D2&la=3Den_ca&a=3DabyZBQw48hkCSZXJowu%2F38MLNnKekM0SDkj9Rw%2BijEv8ht=
+%2FIULEohST%2FLZVXaq1e%2Fvw2DW3kxHrzbKIHDNt%2FIX6GGsFHuaVVDOrIPIEI1O3n%2B%2=
+Fn%2BNG44s6IiHcKJDo%2B%2B" style=3D"color:#999; font-family: Geneva, Verdan=
+a, Arial, Helvetica, sans-serif; font-size:9px;text-decoration:underline;wh=
+ite-space:nowrap;">click here</a>.
+=09=09=09=09=09<br>
+=09=09=09=09=09<br>
+=09=09=09=09=09TM and copyright &copy; 2013 <a style=3D"color:#999;text-dec=
+oration:none;">Apple Inc.</a>
+=09=09=09=09=09</div>
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09</table>
+=09</div>
+</td>
+</tr>
+<tr>
+=09<td>
+=09=09<div style=3D"width:320px;max-height:0;height:0;overflow:hidden" id=
+=3D"aapl-mobile-container">
+=09=09=09<div id=3D"aapl-mobile" style=3D"display:none;">
+=09=09=09=09<div class=3D"aapl-mobile-body">
+=09=09=09=09=09<div id=3D"header" class=3D"row selfclear">
+=09=09=09=09=09=09<h1><img src=3D"http://images.apple.com/ca/dm/13/10/7131l=
+/m_title_2x.png" width=3D"320" height=3D"78" alt=3D"iPad Air. The power of =
+lightness."></h1>
+=09=09=09=09=09=09<a href=3D"http://c.apple.com/r?v=3D2&la=3Den&lc=3Dca&a=
+=3DFBQ6XUoA6SPLl%2BFrwP6JDy5NjhwGN5DCOTaS4NNg7rp79sd9sxMvNeQ%2B432wbGk%2B&c=
+t=3DAM6k8c5"><img class=3D"hero" src=3D"http://images.apple.com/ca/dm/13/10=
+/7131l/m_ipad_air_hero_2x.jpg" width=3D"249" height=3D"372" alt=3D""></a>
+=09=09=09=09=09</div>
+=09=09=09=09=09<div id=3D"ipad-air" class=3D"row selfclear">
+=09=09=09=09=09=09<p class=3D"intro">It=E2=80=99s 7.5 millimetres thin and =
+weighs<br> just one pound. With the stunning<br> 9.7-inch Retina display an=
+d the new<br> A7 chip, it=E2=80=99s the most powerful and capable iPad yet.=
+ Buy iPad Air today and get free delivery. Or visit your favourite <a href=
+=3D"http://c.apple.com/r?v=3D2&la=3Den&lc=3Dca&a=3DFBQ6XUoA6SPLl%2BFrwP6JDy=
+5NjhwGN5DCOTaS4NNg7rp79sd9sxMvNeQ%2B432wbGk%2B&ct=3DAM5p9Z3" class=3D"aapl-=
+link">Apple Retail Store</a> and <br>we=E2=80=99ll set it up just the way y=
+ou like.</p>
+=09=09=09=09=09=09<p><a class=3D"m-buynow" href=3D"http://c.apple.com/r?v=
+=3D2&la=3Den&lc=3Dca&a=3DFBQ6XUoA6SPLl%2BFrwP6JDy5NjhwGN5DCOTaS4NNg7rp79sd9=
+sxMvNeQ%2B432wbGk%2B&ct=3DAM8w7A5"><img src=3D"http://images.apple.com/ca/d=
+m/13/10/7131l/m_buynow_2x.jpg" width=3D"99" height=3D"34" alt=3D"Buy Now"><=
+/a></p>
+=09=09=09=09=09=09<p><a href=3D"http://c.apple.com/r?v=3D2&la=3Den&lc=3Dca&=
+a=3DFBQ6XUoA6SPLl%2BFrwP6JDy5NjhwGN5DCOTaS4NNg7rp79sd9sxMvNeQ%2B432wbGk%2B&=
+ct=3DAM2p0D6" class=3D"more">Learn more</a></p>
+=09=09=09=09=09</div>
+=09=09=09=09=09<div id=3D"footer" class=3D"selfclear">
+=09=09=09=09=09=09<div id=3D"eyebrow" class=3D"selfclear">
+=09=09=09=09=09=09<div class=3D"mobile-eyebrow">
+=09=09=09=09=09=09=09<a href=3D"http://c.apple.com/r?v=3D2&la=3Den&lc=3Dca&=
+a=3DFBQ6XUoA6SPLl%2BFrwP6JDy5NjhwGN5DCOTaS4NNg7rp79sd9sxMvNeQ%2B432wbGk%2B&=
+ct=3DAM0a7k5">Shop Online</a><span>|</span><a href=3D"http://c.apple.com/r?=
+v=3D2&la=3Den&lc=3Dca&a=3DFBQ6XUoA6SPLl%2BFrwP6JDy5NjhwGN5DCOTaS4NNg7rp79sd=
+9sxMvNeQ%2B432wbGk%2B&ct=3DAM5y2o7">Find a Store</a><span>|</span>1-800-MY-=
+APPLE
+=09=09=09=09=09=09</div>
+=09=09=09=09=09=09<div class=3D"mobile-eyebrow">
+=09=09=09=09=09=09=09<a href=3D"http://c.apple.com/r?v=3D2&la=3Den&lc=3Dca&=
+a=3DFBQ6XUoA6SPLl%2BFrwP6JDy5NjhwGN5DCOTaS4NNg7rp79sd9sxMvNeQ%2B432wbGk%2B&=
+ct=3DAM8G9n8">Get the Apple Store App</a>
+=09=09=09=09=09=09</div>
+=09=09=09=09=09</div>
+=09=09=09=09=09</div>
+=09=09=09=09=09<div class=3D"sosumi">
+=09=09=09=09=09=09Supplies may be limited and are available on a first-come=
+, first-served&nbsp;basis.<br><br>
+=09=09=09=09=09=09Apple Canada Inc.<br>
+=09=09=09<a style=3D"color:#999;text-decoration:none;">7495 Birchmount Road=
+, Markham, ON L3R 5G2</a><br>
+=09=09=09<a href=3D"http://www.apple.com/legal/" style=3D"text-decoration:u=
+nderline;color:#999;">All Rights Reserved</a> / <a href=3D"http://www.apple=
+.com/ca/privacy" style=3D"text-decoration:underline;color:#999;">Privacy Po=
+licy</a> / <a href=3D"https://appleid.apple.com/en_CA/" style=3D"text-decor=
+ation:underline;color:#999;">My Apple ID</a>
+=09=09=09<br>
+=09=09=09<br>
+=09=09=09Si vous ne recevez pas les courriels d=E2=80=99Apple dans la langu=
+e de votre choix, <a href=3D"http://www.apple.com/ca/fr/language/" style=3D=
+"color:#999999;text-decoration:underline;white-space:nowrap;">cliquez ici</=
+a>.
+=09=09=09<br>
+=09=09=09<br>
+=09=09=09If you prefer not to receive commercial email from <a style=3D"col=
+or:#999;text-decoration:none;">Apple</a>, or if you=E2=80=99ve changed your=
+ email address, please <a href=3D"http://mynews.apple.com/subscriptions?v=
+=3D2&la=3Den_ca&a=3DabyZBQw48hkCSZXJowu%2F38MLNnKekM0SDkj9Rw%2BijEv8ht%2FIU=
+LEohST%2FLZVXaq1e%2Fvw2DW3kxHrzbKIHDNt%2FIX6GGsFHuaVVDOrIPIEI1O3n%2B%2Fn%2B=
+NG44s6IiHcKJDo%2B%2B" style=3D"color:#999; font-family: Geneva, Verdana, Ar=
+ial, Helvetica, sans-serif; font-size:9px;text-decoration:underline;white-s=
+pace:nowrap;">click here</a>.
+=09=09=09<br>
+=09=09=09<br>
+=09=09=09TM and copyright &copy; 2013 <a style=3D"color:#999;text-decoratio=
+n:none;">Apple Inc.</a>
+=09=09=09=09=09</div>
+=09=09=09=09</div>
+=09=09=09</div>
+=09=09</div>
+=09</td>
+</tr>
+</table>
+<img src=3D"http://metrics.apple.com/b/ss/appleuscdmclickmap/1/H.4-pdv-2/11=
+6015?[AQB]&amp;pageName=3DP0015797-313164&amp;r=3DD%3DReferer&amp;v1=3DD%3D=
+User-Agent&amp;v9=3DD%3DpageName&amp;[AQE]" width=3D"1" height=3D"1" alt=3D=
+""></body>
+</html>
+------=_Part_40291334_493038110.1383326371847--
+
+

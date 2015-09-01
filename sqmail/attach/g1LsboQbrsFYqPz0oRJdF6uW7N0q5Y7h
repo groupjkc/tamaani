@@ -1,0 +1,251 @@
+Return-Path: <bobbiedoc1@skymesh.com.au>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv3.soleica.ca (localhost [127.0.0.1])
+	by ispv3.soleica.ca (Postfix) with ESMTP id B070A3D7653
+	for <aarngak@tamaani.ca>; Tue, 13 Sep 2011 21:07:31 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv3.soleica.ca ([127.0.0.1])
+	by ispv3.soleica.ca (ispv3.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id xC6005B-pG9a for <aarngak@tamaani.ca>;
+	Tue, 13 Sep 2011 21:07:28 -0400 (EDT)
+Received: from tcn00qubc00208.isn.rtss.qc.ca (relais3.ssss.gouv.qc.ca [142.83.199.7])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 4C9AA3D7652
+	for <aarngak@tamaani.ca>; Tue, 13 Sep 2011 21:07:27 -0400 (EDT)
+Received: from tc00bar200725.ssss.gouv.qc.ca ([10.249.80.30])
+          by tcn00qubc00208.isn.rtss.qc.ca (Lotus Domino Release 8.5.2FP3)
+          with ESMTP id 2011091321072713-1332843 ;
+          Tue, 13 Sep 2011 21:07:27 -0400 
+X-ASG-Debug-ID: 1315962442-06cc45c90001-FBqy4Z
+Received: from tcn00qubc00551.isn.rtss.qc.ca ([10.250.32.27]) by tc00bar200725.ssss.gouv.qc.ca with ESMTP id b8CUmFCVy65JPcVX for <aarngak@tamaani.ca>; Tue, 13 Sep 2011 21:07:22 -0400 (EDT)
+X-Barracuda-Envelope-From: bobbiedoc1@skymesh.com.au
+Received: from tcn00barin00051.ssss.gouv.qc.ca ([10.120.138.26])
+          by TCN00QUBC00117.isqc.reg00.rtss.qc.ca (Lotus Domino Release 6.5.6FP3 HF341)
+          with ESMTP id 2011091321071595-210144 ;
+          Tue, 13 Sep 2011 21:07:15 -0400 
+Received: from mp2.skymesh.com.au (mp2.skymesh.com.au [180.181.128.47]) by tcn00barin00051.ssss.gouv.qc.ca with ESMTP id bdXNjEoJrcwDQpKO for <alasie.arngak@ssss.gouv.qc.ca>; Tue, 13 Sep 2011 19:56:30 -0400 (EDT)
+X-Barracuda-Apparent-Source-IP: 180.181.128.47
+Received-SPF: pass (tcn00barin00051.ssss.gouv.qc.ca: domain of skymesh.com.au designates 180.181.128.47 as permitted sender) client-ip=180.181.128.47; envelope-from=bobbiedoc1@skymesh.com.au;
+Received: from bob4b1a83b1877 (unknown [180.181.23.42])
+	by mp2.skymesh.com.au (Postfix) with SMTP id 6D8723120AA
+	for <alasie.arngak@ssss.gouv.qc.ca>; Wed, 14 Sep 2011 11:06:57 +1000 (EST)
+Message-ID: <935A8010E465405782ACBB9A5BD540D4@bob4b1a83b1877>
+From: "Bob Carveth" <bobbiedoc1@skymesh.com.au>
+To: <alasie.arngak@ssss.gouv.qc.ca>
+Subject: Inuktitut translation
+Date: Wed, 14 Sep 2011 11:06:43 +1000
+X-ASG-Orig-Subj: Inuktitut translation
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5931
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.6109
+X-Virus-Scanned: by bsmtpd at ssss.gouv.qc.ca
+X-MIMETrack: Itemize by SMTP Server on TCN00QUBC00117/Serveurs/SSSS(Release 6.5.6FP3
+ HF341|October 05, 2010) at 2011-09-13 21:07:15,
+	Serialize by Router on TCN00QUBC00551/Serveurs/SSSS(Release 6.5.6FP3 HF341|October
+ 05, 2010) at 2011-09-13 21:07:21,
+	Serialize complete at 2011-09-13 21:07:21,
+	Itemize by SMTP Server on TCN00QUBC00208/Serveurs/SSSS(Release 8.5.2FP3|July
+ 10, 2011) at 2011-09-13 21:07:27,
+	Serialize by Router on TCN00QUBC00208/Serveurs/SSSS(Release 8.5.2FP3|July
+ 10, 2011) at 2011-09-13 21:07:28,
+	Serialize complete at 2011-09-13 21:07:28
+X-TNEFEvaluated: 1
+X-Barracuda-Connect: UNKNOWN[10.250.32.27]
+X-Barracuda-Start-Time: 1315962442
+X-Barracuda-URL: http://10.249.80.42:8000/cgi-mod/mark.cgi
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=7.0 tests=BSF_SC0_TG035a, HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.74453
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.00 BSF_SC0_TG035a         Message contains invalid style definition
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001B_01CC72CE.6321F120"
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_001B_01CC72CE.6321F120
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset="iso-8859-1"
+
+Ai Alasie, Qanuippit?
+Bob Carveth ujunga, Australia nngaaqpunga.
+Aittaaq for troubling you, but I wonder If you may be able to help me =
+with some translations in the future.
+I have an interest in endangered languages and I am impressed by the =
+effort that the Inuit people have put into preserving their beautiful =
+language.
+In my life I have travelled many paths, but at my stage of life  I now =
+regret not having trod the Inuit trail.           Belatedly in life I am =
+looking at the Inuit culture and realise what a wonderful people the =
+Inuits are.                                I am awed by their ability to =
+survive in such harsh environmental conditions, conditions that would be =
+impossible for a qalunaat to survive in.
+Hopefully I feel that if the Inuit people keep their traditional way of =
+life intact they may survive the futuristic pressures that will be put =
+on mankind.
+I have read Melanie McGrath's book "The Long Exile" and it touched me =
+deeply. To subject people to such inhuman treatment goes to the core of =
+my soul.                        Those bloody qalunaats in power at the =
+time manipulating those beautiful people into such precarious locations =
+as a "land holding exercise" almost made me weep.
+
+I have never met an Inuit, but look forward to the day I do.
+
+I think it is wonderful how the school system promotes the teaching of =
+Inuktitut in the the first three years of schooling and reinforcing that =
+learning throughout the following years of schooling.
+I personally see the issue of promoting the retention of the Inuktitut =
+language as an identity issue. I believe that maintaining the use of =
+their forbearer's language affirms and strengthens the identity of the =
+student as an Inuit.
+In doing my little bit towards promoting the students learning Inuktitut =
+I have linked with Principal of Ulluriaq school at Kangiqsualujjuak and =
+have donoted over $2,000.00 worth of prizes to be handed out to the =
+Students at Christmas this year.
+There will be a major prize (such as a digital camera) for every class =
+and a participation prize for every student.
+Although I live on the extreme opposite of the globe, it lessens not my =
+enthusiasm to help to contribute to promote the retention of the =
+Inuktitut language.
+I have beeen toying with the idea of putting together a small speech in =
+Inuktitut that could be played to the students at the prize presentation =
+night at Christmas.
+It is this bit of translation I need a hand with and I wonder if you =
+could assist me with this exercise.
+I am aware of the different dialects in Nunavik and I think the dialect =
+spoken at Kangiksualujjuaq would be similiar to the South Qikiqtaaluk =
+dialect.
+I look forward to hear from you
+Namimiutsajauvit?
+Tavvaujutit
+Bob Carveth
+
+------=_NextPart_000_001B_01CC72CE.6321F120
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset="iso-8859-1"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.19120">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2 face=3DArial>Ai Alasie, Qanuippit?</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial>Bob Carveth ujunga, Australia=20
+nngaaqpunga.</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial>Aittaaq for troubling you, but I wonder =
+If you may=20
+be able to help me with some translations in the future.</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial>I have an interest in endangered =
+languages and I am=20
+impressed by the effort that the Inuit people have put into preserving =
+their=20
+beautiful language.</FONT></DIV>
+<DIV><FONT size=3D2><SPAN style=3D"FONT-FAMILY: Arial">In my life I have =
+travelled=20
+many paths, but at my stage of life&nbsp; I now regret not having trod =
+the Inuit=20
+trail.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN></FONT><FONT size=3D2 face=3DArial><SPAN style=3D"FONT-FAMILY: =
+Arial">Belatedly=20
+in life I am looking at the Inuit culture and realise what a wonderful =
+people=20
+the Inuits=20
+are.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+&nbsp;</SPAN></FONT><FONT size=3D2 face=3DArial><SPAN =
+style=3D"FONT-FAMILY: Arial">I=20
+am awed by their ability to survive in such harsh environmental =
+conditions,=20
+conditions that&nbsp;would be impossible for a qalunaat to survive=20
+in.</SPAN></FONT><?xml:namespace prefix =3D o ns =3D=20
+"urn:schemas-microsoft-com:office:office" /><o:p></o:p>
+<DIV>
+<DIV><FONT size=3D2 face=3DArial><SPAN style=3D"FONT-FAMILY: =
+Arial">Hopefully I feel=20
+that if the Inuit people keep their traditional way of life intact they =
+may=20
+survive the futuristic pressures that will be put on=20
+mankind.</SPAN></FONT><o:p></o:p></DIV>
+<DIV>
+<P class=3DMsoNormal><FONT size=3D2 face=3DArial><SPAN =
+style=3D"FONT-FAMILY: Arial">I=20
+have read Melanie McGrath's book "The Long Exile" and it touched me =
+deeply. To=20
+subject people to such inhuman treatment goes to the core of my=20
+soul.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+</SPAN></FONT><FONT size=3D2 face=3DArial><SPAN style=3D"FONT-FAMILY: =
+Arial">Those=20
+bloody qalunaats in power at the time manipulating those beautiful =
+people into=20
+such precarious locations as a "land holding exercise" almost made me=20
+weep.</SPAN></FONT><o:p></o:p></P></DIV>
+<DIV>
+<P class=3DMsoNormal><FONT size=3D2 face=3DArial><SPAN =
+style=3D"FONT-FAMILY: Arial">I=20
+have never met an Inuit, but look forward to the day I=20
+do.</SPAN></FONT></P><FONT size=3D2 face=3DArial><SPAN =
+style=3D"FONT-FAMILY: Arial">
+<DIV><FONT size=3D2 face=3DArial><FONT size=3D2 face=3DArial>
+<DIV>I think it is wonderful how the school system promotes the teaching =
+of=20
+Inuktitut in the the first three years of schooling and reinforcing that =
+
+learning throughout the following years of schooling.</DIV>I personally =
+see the=20
+issue&nbsp;of promoting the retention of the&nbsp;Inuktitut =
+language&nbsp;as=20
+an&nbsp;identity issue. I believe that maintaining the use of their =
+forbearer's=20
+language&nbsp;</FONT></FONT><FONT size=3D2 face=3DArial><FONT size=3D2=20
+face=3DArial>affirms and strengthens the identity of the student as an=20
+Inuit.</FONT></FONT></DIV>
+<DIV>In doing my little bit towards promoting the students learning =
+Inuktitut I=20
+have linked with Principal of Ulluriaq school at Kangiqsualujjuak and =
+have=20
+donoted over $2,000.00 worth of prizes to be handed out to the Students =
+at=20
+Christmas this year.</DIV>
+<DIV>There will be a major prize (such as a digital camera) for every =
+class and=20
+a participation prize for every student.</DIV>
+<DIV>Although I live on the extreme opposite of the globe, it lessens =
+not my=20
+enthusiasm to help to contribute to promote the retention of the =
+Inuktitut=20
+language.</DIV>
+<DIV>I have beeen toying with the idea of putting together a small =
+speech in=20
+Inuktitut that could be played to the students at the prize presentation =
+night=20
+at Christmas.</DIV>
+<DIV>It is this bit of translation I need a hand with and I wonder if =
+you could=20
+assist me with this exercise.</DIV>
+<DIV>I am aware of the different dialects in Nunavik and I think the =
+dialect=20
+spoken at Kangiksualujjuaq would be similiar to the South Qikiqtaaluk=20
+dialect.</DIV>
+<DIV>I look forward to hear from you</DIV>
+<DIV>Namimiutsajauvit?</DIV>
+<DIV>Tavvaujutit</DIV>
+<DIV>Bob Carveth</DIV>
+<DIV>&nbsp;</DIV></SPAN></FONT><o:p></o:p></DIV></DIV></DIV></BODY></HTML=
+>
+
+------=_NextPart_000_001B_01CC72CE.6321F120--
+
+
+

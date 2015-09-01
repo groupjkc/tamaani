@@ -1,0 +1,268 @@
+Return-Path: <nicolas@critsend.com>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv4.soleica.ca (localhost [127.0.0.1])
+	by ispv4.soleica.ca (Postfix) with ESMTP id C7F4D76120
+	for <aarngak@tamaani.ca>; Mon,  3 Jun 2013 08:08:19 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+X-Spam-Flag: NO
+X-Spam-Score: 4.569
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.569 tagged_above=3 required=5 tests=[BAYES_95=3,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, FORGED_HOTMAIL_RCVD2=0.874,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, LONGWORD=0.3,
+	MEGALONGWORD=0.6, RCVD_IN_DNSWL_NONE=-0.0001, RP_MATCHES_RCVD=-0.207]
+	autolearn=no
+Authentication-Results: ispv4.soleica.ca (amavisd-new);
+	dkim=pass (1024-bit key) header.d=messaging-master.net
+Received: from ispv4.soleica.ca ([127.0.0.1])
+	by ispv4.soleica.ca (ispv4.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id 92Uz-OJqbDf1 for <aarngak@tamaani.ca>;
+	Mon,  3 Jun 2013 08:08:15 -0400 (EDT)
+Received: from sender87.critsend.com (sender87.critsend.com [46.105.124.82])
+	by ispv4.soleica.ca (Postfix) with ESMTP id 3F88176131
+	for <aarngak@tamaani.ca>; Mon,  3 Jun 2013 08:08:15 -0400 (EDT)
+Received: from sender87.critsend.com (localhost.localdomain [127.0.0.1])
+	by sender87.critsend.com (Postfix) with ESMTP id 70F58C70A4
+	for <aarngak@tamaani.ca>; Mon,  3 Jun 2013 12:08:14 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+ d=messaging-master.net; i=@messaging-master.net; q=dns/txt;
+ s=critsend2; t=1370261294; h=Subject : From : To : MIME-Version :
+ Message-ID : List-Unsubscribe : Precedence : Sender : Content-Type;
+ bh=guoA8vmNPlHpgPwktxjL4g40YWfUHwC9KpHspevSI84=; b=b6j4JnN/p//m3yAFC8yBMvpyZeuC65vy54A/O5zz9URX+zMGcfj57uCtoSTH29ZsMz0rSJIxlhBj6OFmuSK0rbEv4S167vqWxcu6k52/xC9pjqYkGhbzWJ+58hrgngo0nG28IHI1eeKpe3FHpImpiHgBeOT4kUM1Exiy2WDgryk=
+Subject: Alasie, you have 24 hours left to join me at Beyond the Rack
+From: Aya May <jeannie780@hotmail.com>
+To: Alasie Arngak <aarngak@tamaani.ca>
+MIME-Version: 1.0
+Message-ID: <4+paavls2lb2bsaeaa2abzseaga3thhgyru7dkrnfb3q7y3szo37rfkqsqgunx3n2toxng3vup2bghk2ix2azd6f2ukl6xvx34gcctndxzec2ppliktfrkveaeaotp733riwlmetgj2ywoil4rarjjy45jyjan4yblcf7xi5zgr4======+251074@critsend.com>
+List-Unsubscribe: <mailto: unsub--4+paavls2lb2bsaeaa2abzseaga3thhgyru7dkrnfb3q7y3szo37rfkqsqgunx3n2toxng3vup2bghk2ix2azd6f2ukl6xvx34gcctndxzec2ppliktfrkveaeaotp733riwlmetgj2ywoil4rarjjy45jyjan4yblcf7xi5zgr4======+251074@critsend.com>
+Precedence: bulk
+Sender: <delivery@critsend.com>
+Content-Type: multipart/alternative;
+	boundary="_=_swift_v4_137026129351ac872d3ef1f_=_"
+Date: Mon,  3 Jun 2013 12:08:14 +0000 (UTC)
+
+
+--_=_swift_v4_137026129351ac872d3ef1f_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi AlasieLast week, I sent you an invitation to join the private shoppin=
+g club, Beyond the Rack.
+Hurry, you only have 24 hours left to take =
+advantage of this exclusive opportunity.
+Join me and save up to 80% =
+off top designer fashions, accessories, beauty and home decor.
+http:=
+//join.beyondtherack-invitations.com/r?001:eNqNyk0OwiAUBODTwLLhpxRYsGg1v=
+YYp9DVtEGrqU/T2YryAySy+mcyS0CG8kF6z4/ThVsQbkT0RY83l2+4/l1IaD+89z7jCMYXYh=
+D3VPUHycFRs+bkhVAynXjLdGSLHFIk8A/OtscoYLSYvrYbFWsGtAiNVZw3XEPisWEtTdP9+P=
+5uLNZs=3D=20
+
+Enjoy,
+Aya
+This message has been sent to y=
+ou
+by jeannie780@hotmail.comto discover Beyond the Rack.
+If you =
+don't want to receive anymore recommendations to discover Beyond the Rac=
+k: http://join.beyondtherack-invitations.com/r?001:eNqNjEEKwyAUBU8TN6WSa=
+Ky6cFEouYeaH2KtGuJPaW9fyQkKbzEDw1sSGoQPklc2jBxmRdw6fu/Y1HY57cRnCZk6+JY84=
+wq79fEa8jugxVBypb6kFh25Hq76PTig29p+phQ7/oDejUoLpSSzjmsJi9Zs0AIUFzetBgl+m=
+EU/khTNv+0PtGY4MQ=3D=3D
+BeyondtheRack | 4600 Hickmore, Montreal, Queb=
+ec, Canada, H4T 1K2
+Privacy policy: http://join.beyondtherack-invitat=
+ions.com/r?001:eNqNikEKwyAURE+jm0KIGqsuXBRK7qHmS8RoJLW1uX0lJygMzHvD+FR1h=
+W/FW9YMv/Vaa0Hsgejcc7vswtbaYOHc81JXOIyLg9tT30P2e69yhI9xZ6dXSGUDxOYUEXvCa=
+CepuJSCGsuUAK8UJYqDZPyuJBHgyMLHCaeo//3+APxHNVU=3D
+
+--_=_swift_v4_137026129351ac872d3ef1f_=_
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w=
+3.org/TR/REC-html40/loose.dtd">
+<html><head><title></title></head><body>
+        <table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" style=3D"border:none;" width=3D"600"><tbody><tr><=
+td>
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border:none;" width=3D"600"><tbody><tr><td height=3D"50" va=
+lign=3D"top" width=3D"28">&nbsp;
+                                        </td>
+                                    <td valign=3D"top" width=3D"396">&nbsp;
+                                        </td>
+                                    <td valign=3D"top" width=3D"176">&nbsp;
+                                        </td>
+                                </tr><tr><td valign=3D"top" width=3D"28">&n=
+bsp;
+                                        </td>
+                                    <td height=3D"58" valign=3D"top" width=
+=3D"396">
+                                        <a href=3D"http://join.beyondtherac=
+k-invitations.com/r?001:eNqNykEOgyAQheHTwNIAIwILFraN9xAco8HBxtKS3r4coclbfHn=
+5Vyp+K3TwI3vB383l+WIwMjW11Vq7gN8zL2XDa46piye1n5ACXg17/uwFG273EYQZLIOJEoMHit=
+Bbp601ag7gDK7OKek0WtCDs9JglIsWPafk/21/NwIyMQ=3D=3D"><img alt=3D"Beyond the =
+Rack" border=3D"0" src=3D"http://cdn.beyondtherack-invitations.com/beyondth=
+erack-invitations/email/main/img/logo_2.jpg" style=3D"display:block;" title=
+=3D"Beyond the Rack"></a></td>
+                                    <td valign=3D"top" width=3D"176">&nbsp;
+                                        </td>
+                                </tr><tr><td valign=3D"top" width=3D"28">&n=
+bsp;
+                                        </td>
+                                    <td height=3D"25" valign=3D"top" width=
+=3D"396">&nbsp;
+                                        </td>
+                                    <td valign=3D"top" width=3D"176">&nbsp;
+                                        </td>
+                                </tr></tbody></table><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" style=3D"border:none;" width=3D"600"><tbo=
+dy><tr><td valign=3D"top" width=3D"28">&nbsp;
+                                        </td>
+                                    <td height=3D"21" valign=3D"top" width=
+=3D"249">
+                                       </td>
+                                    <td align=3D"right" style=3D"font-size:=
+11px; font-family:Arial, Helvetica, sans-serif; color:#6e6e6e;" valign=3D"t=
+op" width=3D"323">
+                                        You do not want to receive further =
+invitations? <a href=3D"http://join.beyondtherack-invitations.com/r?001:eNq=
+Ni0EOgyAQAF8jtxoBKXDg0KTxH4BrpQgYXJr09+UJTeYwh5ktodkxHeTIhpLWHc+BPwa2dN4l5N=
+HBt+QVd6jWx1vIn4AWQ8nX6EvqUctXc5evwcF47n1eUhz4EyY3Ky2Uksw6riVsWjOqBSgu7lpRC=
+Z6uYppJiubv9niZpRSE+gOPXjig" style=3D"color:#8e212c;" von-linkgroup=3D"Foot=
+er">Unsubscribe here</a></td>
+                                </tr></tbody></table><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" style=3D"border:none;" width=3D"600"><tbo=
+dy><tr valign=3D"top"><td height=3D"292" valign=3D"top" width=3D"28">
+                                        </td>
+                                    <td bgcolor=3D"#e8e8e8" valign=3D"top" =
+width=3D"249">
+                                        <a href=3D"http://join.beyondtherac=
+k-invitations.com/r?001:eNqNykEOgyAQheHTwNIAIwILFraN9xAco8HBxtKS3r4coclbfHn=
+5Vyp+K3TwI3vF383l+WIwMjW11Vq7gN8zL2XDa46piye1n5ACXg17/uwFG273EYQZLIOJEoMHit=
+Bbp601ag7gDK7OKek0WtCDs9JglIsWPafk/21/OEIyMw=3D=3D"><img border=3D"0" src=
+=3D"http://cdn.beyondtherack-invitations.com/beyondtherack-invitations/emai=
+l/main/img/main.jpg" style=3D"display:block;"></a></td>
+                                    <td bgcolor=3D"#e8e8e8" valign=3D"top" =
+width=3D"292">
+                                        <table bgcolor=3D"#e8e8e8" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"292"><tbody><tr valign=
+=3D"top"><td height=3D"20" valign=3D"top" width=3D"292">&nbsp;
+                                                        </td>
+                                                </tr><tr valign=3D"top"><td=
+ style=3D"font-size:20px; font-family:Arial, Helvetica, sans-serif;" valign=
+=3D"top" width=3D"292">
+                                                        Hi Alasie</td>
+                                                </tr><tr valign=3D"top"><td=
+ height=3D"17" valign=3D"top" width=3D"292">&nbsp;
+                                                        </td>
+                                                </tr><tr valign=3D"top"><td=
+ style=3D"font-size:14px; font-family:Arial, Helvetica, sans-serif;" valign=
+=3D"top">
+                                                        <table bgcolor=3D"#=
+e8e8e8" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"292"><tbo=
+dy><tr valign=3D"top"><td style=3D"font-size: 14px; " valign=3D"top">
+                                                                        Las=
+t week, I sent you an invitation to join the private shopping club, Beyond =
+the Rack.</td>
+                                                                </tr><tr va=
+lign=3D"top"><td height=3D"17" valign=3D"top" width=3D"292">&nbsp;
+                                                                        </t=
+d>
+                                                                </tr><tr va=
+lign=3D"top"><td style=3D"font-size: 14px; " valign=3D"top">
+                                                                        Hur=
+ry, you only have <strong>24 hours left</strong> to take advantage of this =
+exclusive opportunity.</td>
+                                                                </tr><tr va=
+lign=3D"top"><td height=3D"17" valign=3D"top" width=3D"292">&nbsp;
+                                                                        </t=
+d>
+                                                                </tr><tr va=
+lign=3D"top"><td style=3D"font-size: 14px; " valign=3D"top">
+                                                                       Join=
+ me and save up to <strong>80% off </strong>top designer fashions, accessor=
+ies, beauty and home decor.</td>
+                                                                </tr></tbod=
+y></table></td>
+                                                </tr><tr valign=3D"top"><td=
+ height=3D"20" valign=3D"top" width=3D"292">&nbsp;
+                                                        </td>
+                                                </tr><tr valign=3D"top"><td=
+ valign=3D"top" width=3D"292">
+                                                        <table border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" style=3D"border:none;" width=3D"292"><=
+tbody><tr valign=3D"top"><td style=3D"font-size:14px; font-family:Arial, He=
+lvetica, sans-serif;" valign=3D"top" width=3D"173">
+                                                                        Enj=
+oy,<br>
+                                                                        Aya=
+</td>
+                                                                    <td val=
+ign=3D"top" width=3D"119">
+                                                                        <ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td bgcolor=
+=3D"#f9d4e9" style=3D"background:url('') repeat-x scroll 100% 0 #fcd0d4;bac=
+kground-color:#fcd0d4;border:1px solid #e5b5b9;text-align:center;border-rad=
+ius:4px;padding-top:2px;padding-bottom:4px;padding-left:7px;padding-right:7=
+px">
+                                                                           =
+             <a href=3D"http://join.beyondtherack-invitations.com/r?001:eNq=
+NykEOgyAQheHTwNIAIwILFraN9xAco8HBxtKS3r4coclbfHn5Vyp+K3TwI3vg7+byfDEYmZraaq=
+1dwO+Zl7LhNcfUxZPaT0gBr4Y9f/aCDbf7CMIMlsFEicEDReit09YaNQdwBlfnlHQaLejBWWkwy=
+kWLnlPy/7Y/OOIyNA=3D=3D" style=3D"font-weight:bold;font-size:12px;font-fami=
+ly:arial,sans-serif;text-decoration:none;color:#8e212c;display:block;paddin=
+g-top:6px;padding-bottom:4px;padding-left:7px;padding-right:7px" target=3D"=
+_blank">Join Now</a></td>
+                                                                           =
+     </tr></tbody></table></td>
+                                                                    <td val=
+ign=3D"top" width=3D"31">&nbsp;
+                                                                        </t=
+d>
+                                                                </tr></tbod=
+y></table></td>
+                                                </tr></tbody></table></td>
+                                    <td bgcolor=3D"#e8e8e8" width=3D"31">&n=
+bsp;
+                                        </td>
+                                </tr></tbody></table></td>
+                </tr><tr><td>
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border:none;" width=3D"600"><tbody><tr><td height=3D"20">&n=
+bsp;
+                                        </td>
+                                </tr><tr><td width=3D"28">&nbsp;
+                                        </td>
+                                    <td style=3D"font-size:11px; color:#6e6=
+e6e; font-family:Arial, Helvetica, sans-serif;" width=3D"572">
+                                        This message has been sent to you b=
+y jeannie780@hotmail.com to discover Beyond the Rack. If you don't want to =
+receive anymore recommendations to discover Beyond the Rack, <a href=3D"htt=
+p://join.beyondtherack-invitations.com/r?001:eNqNi0sOgyAUAE+juxLlU3gLFk0a7y=
+H4LBQBo88mvX05QpNZzGJmzWQD5a3fipX91Zz2Tjw6PjXeNRbm8FvLQgGP2adbLJ9IM8VaTuZrb=
+tFVzsud/ogO2R7aPOXUiScOThpQxmg+OwEaVwA+gkIj1B3MqNGPixpkn5P9u91edqqV8PgBkV84=
+ow=3D=3D" style=3D"color:#8e212c;" von-linkgroup=3D"Footer">unsubscribe her=
+e</a><br><br>
+                                        BeyondtheRack | 4600 Hickmore, Mont=
+real, Quebec, Canada, H4T 1K2 | <font style=3D"font-size:10px; color:#1874C=
+D"><a href=3D"http://join.beyondtherack-invitations.com/r?001:eNqNikEKwyAUB=
+U+jy5BorLpwUQjeQ823ETUGayu5fT1CYeANj/G5qaPlhNOpGP4MbxeiT0T0oPc+WbjLubcDqnFx=
+ciWPP5y+jLlq+Bp3D3uHfCVAVOeI6AazXYVkQnBiLJUcvJRkkQwEZQ8pFg5u2dm84hzV3216KV1=
+Kg/oDzJw1xw=3D=3D" style=3D"font-size:11px; color:#8e212c" target=3D"_blank=
+" von-linkgroup=3D"Footer">Privacy policy</a></font></td>
+                                </tr></tbody></table></td>
+                </tr></tbody></table><br><img width=3D"1" height=3D"1" src=
+=3D"http://t.critsend.com/o.png?v=3D4+paavls2lb2bsaeaa2abzseaga3thhgyru7dkr=
+nfb3q7y3szo37rfkqsqgunx3n2toxng3vup2bghk2ix2azd6f2ukl6xvx34gcctndxzec2pplik=
+tfrkveaeaotp733riwlmetgj2ywoil4rarjjy45jyjan4yblcf7xi5zgr4=3D=3D=3D=3D=3D=
+=3D+251074@critsend.com" /></body></html>
+
+
+--_=_swift_v4_137026129351ac872d3ef1f_=_--
+
+
+

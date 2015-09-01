@@ -1,0 +1,42 @@
+<?php
+	/* MOBILE BROWSER DETECTION AND REDIRECTION 
+	   by Marc Robert Guay for MobilizeMe (c) 2010 */
+	   
+	session_start();
+
+	$desktop_url = "www.rogerswic.ca";
+	$mobile_url = "www.rogerswic.ca/mobile/";
+
+	if (1){ // ON OFF SWITCH
+
+		if (!isset($_SESSION['is_wireless_device'])){ // Prevent repeated, useless calls to the webservice
+			
+			// This calls the webservice set up on the MobilizeMe website.  It sends the user agent and recevies the is_wireless_device and xhtml_support_level variables.
+			// Many more are available for further fine-tuning @ http://wurfl.sourceforge.net/help_doc.php
+			$url = "http://www.mobilizeme.com/wurfl/webservice.php?ua=".urlencode($_SERVER['HTTP_USER_AGENT'])."&search=is_wireless_device|resolution_width";
+			$ch = curl_init($url);
+			curl_setopt($ch, CURLOPT_RETURNTRANSFER, true); 
+			$val = curl_exec($ch);                      
+			curl_close($ch);
+			libxml_use_internal_errors(true);
+			$xml = simplexml_load_string($val);
+			$errors = libxml_get_errors();
+
+			if (($val !== FALSE) && (!$errors)){ 
+
+				// We can't store the node values directly in session variables because they're not regular PHP objects, so we store them in
+				// normal variables first, and then put them in sessions.
+				$is_wireless_device = $xml->device->search->capability[0]->attributes()->value;
+				$resolution_width = $xml->device->search->capability[1]->attributes()->value;					
+				$_SESSION['is_wireless_device'] = (string)$is_wireless_device;
+				$_SESSION['resolution_width'] = (int)$resolution_width;		
+			}
+			else  $_SESSION['is_wireless_device'] = "false"; // If the webservice is down for whatever reason keep loading the default page.
+		}	
+		// If it's a mobile device
+		if ($_SESSION['is_wireless_device'] == "true"){  
+			header ("Location: http://".$mobile_url);// Redirect to the full mobile site.	
+		}    
+		// Else, keep loading the desktop site...
+	}
+?>

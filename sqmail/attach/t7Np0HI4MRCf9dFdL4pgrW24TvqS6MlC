@@ -1,0 +1,89 @@
+Return-Path: <Jean-Guy_Letourneau@ssss.gouv.qc.ca>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv3.soleica.ca (localhost [127.0.0.1])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 26E633D7EC0
+	for <aarngak@tamaani.ca>; Wed, 14 Dec 2011 13:54:33 -0500 (EST)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv3.soleica.ca ([127.0.0.1])
+	by ispv3.soleica.ca (ispv3.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id 5_inFjEFgs7h for <aarngak@tamaani.ca>;
+	Wed, 14 Dec 2011 13:54:33 -0500 (EST)
+Received: from tcn00qubc00208.isn.rtss.qc.ca (relais3.ssss.gouv.qc.ca [142.83.199.7])
+	by ispv3.soleica.ca (Postfix) with ESMTP id EDBEB3D7E91
+	for <aarngak@tamaani.ca>; Wed, 14 Dec 2011 13:54:32 -0500 (EST)
+Received: from tc00bar136875.ssss.gouv.qc.ca ([10.249.80.30])
+          by tcn00qubc00208.isn.rtss.qc.ca (Lotus Domino Release 8.5.2FP3)
+          with ESMTP id 2011121413542812-487730 ;
+          Wed, 14 Dec 2011 13:54:28 -0500 
+X-ASG-Debug-ID: 1323888069-47e449be01e4-FBqy4Z
+Received: from tcn00qubc00551.isn.rtss.qc.ca ([10.250.32.27]) by tc00bar136875.ssss.gouv.qc.ca with ESMTP id jWmt3zNwcdElWY1k for <aarngak@tamaani.ca>; Wed, 14 Dec 2011 13:45:15 -0500 (EST)
+X-Barracuda-Envelope-From: Jean-Guy_Letourneau@ssss.gouv.qc.ca
+Subject: Response to Dr Porter's letter
+To: larry.watt@ssss.gouv.qc.ca
+X-ASG-Orig-Subj: Response to Dr Porter's letter
+Cc: alasie.arngak@ssss.gouv.qc.ca,
+	aarngak@tamaani.ca,
+	silas.watt@ssss.gouv.qc.ca,
+	celine.laforest.mnq@ssss.gouv.qc.ca,
+	helen.dion@ssss.gouv.qc.ca,
+	eva.gunn@ssss.gouv.qc.ca
+X-Mailer: Lotus Notes Release 5.0.8  June 18, 2001
+Message-ID: <OF31B9686B.794540BA-ON85257966.0066461D@isn.rtss.qc.ca>
+From: Jean-Guy_Letourneau@ssss.gouv.qc.ca
+Date: Wed, 14 Dec 2011 13:44:24 -0500
+Disposition-Notification-To: Jean-Guy_Letourneau@ssss.gouv.qc.ca
+MIME-Version: 1.0
+X-Barracuda-Connect: UNKNOWN[10.250.32.27]
+X-Barracuda-Start-Time: 1323888315
+X-Barracuda-URL: http://10.249.80.41:8000/cgi-mod/mark.cgi
+X-Barracuda-Spam-Score: 0.53
+X-Barracuda-Spam-Status: No, SCORE=0.53 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=7.0 tests=HTML_MESSAGE, MIME_BASE64_BLANKS, MIME_BASE64_TEXT, NO_REAL_NAME
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.83075
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 NO_REAL_NAME           From: does not include a real name
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.00 MIME_BASE64_BLANKS     RAW: Extra blank lines in base64 encoding
+	0.52 MIME_BASE64_TEXT       RAW: Message text disguised using base64 encoding
+X-MIMETrack: Serialize by Router on TCN00QUBC00551/Serveurs/SSSS(Release 6.5.6FP3 HF341|October
+ 05, 2010) at 2011-12-14 13:45:15,
+	Itemize by SMTP Server on TCN00QUBC00208/Serveurs/SSSS(Release 8.5.2FP3|July
+ 10, 2011) at 2011-12-14 13:54:28,
+	Serialize by Router on TCN00QUBC00208/Serveurs/SSSS(Release 8.5.2FP3|July
+ 10, 2011) at 2011-12-14 13:54:32,
+	Serialize complete at 2011-12-14 13:54:32
+Content-type: multipart/alternative; 
+	Boundary="0__=0ABBF3F5DFF5C08D8f9e8a93df938690918c0ABBF3F5DFF5C08D"
+Content-Disposition: inline
+
+--0__=0ABBF3F5DFF5C08D8f9e8a93df938690918c0ABBF3F5DFF5C08D
+Content-transfer-encoding: base64
+Content-type: text/plain; charset=ISO-8859-1
+
+
+DQpIaSBMYXJyeSwNCg0KSSBqdXN0IHJlY2VpdmVkIGluZm9ybWF0aW9uIHRoYXQgdGhlIGFjdGlu
+ZyBleGVjdXRpdmUgZGlyZWN0b3IgZm9yIFJVSVMNCk1jR2lsbCwgTXIuIE5vcm1hbmQgUmluZnJl
+dCwgcmVwbGFjaW5nIERyIFBvcnRlciwgaGFzIGEgbGV0dGVyIHJlYWR5IHRvDQphbnN3ZXIgdG8g
+b3VyIENoYWlyLCBBbGFzaWUgQXJuZ2FrJ3MgbGV0dGVyIGNvbmNlcm5pbmcgdGhlIE1OUSByZWxv
+Y2F0aW9uLg0KDQpZb3Ugc2hvdWxkIHJlY2VpdmUgaXQgdmVyeSBzb29uLg0KDQoNCllvdXJzLA0K
+DQpKZWFuLUd1eSBM6XRvdXJuZWF1DQo0NTAtODg2LTA5MTkNCg0KDQo=
+
+--0__=0ABBF3F5DFF5C08D8f9e8a93df938690918c0ABBF3F5DFF5C08D
+Content-transfer-encoding: base64
+Content-type: text/html; charset=ISO-8859-1
+Content-Disposition: inline
+
+PGh0bWw+PGJvZHk+DQo8cD5IaSBMYXJyeSw8YnI+DQo8YnI+DQpJIGp1c3QgcmVjZWl2ZWQgaW5m
+b3JtYXRpb24gdGhhdCB0aGUgYWN0aW5nIGV4ZWN1dGl2ZSBkaXJlY3RvciBmb3IgUlVJUyBNY0dp
+bGwsIE1yLiBOb3JtYW5kIFJpbmZyZXQsIHJlcGxhY2luZyBEciBQb3J0ZXIsIGhhcyBhIGxldHRl
+ciByZWFkeSB0byBhbnN3ZXIgdG8gb3VyIENoYWlyLCBBbGFzaWUgQXJuZ2FrJ3MgbGV0dGVyIGNv
+bmNlcm5pbmcgdGhlIE1OUSByZWxvY2F0aW9uLjxicj4NCjxicj4NCllvdSBzaG91bGQgcmVjZWl2
+ZSBpdCB2ZXJ5IHNvb24uPGJyPg0KPGJyPg0KPGJyPg0KWW91cnMsPGJyPg0KPGJyPg0KSmVhbi1H
+dXkgTOl0b3VybmVhdTxicj4NCjQ1MC04ODYtMDkxOTxicj4NCg0KPHA+PC9ib2R5PjwvaHRtbD4=
+
+--0__=0ABBF3F5DFF5C08D8f9e8a93df938690918c0ABBF3F5DFF5C08D--
+
+
+

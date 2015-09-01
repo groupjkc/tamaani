@@ -1,0 +1,1425 @@
+Return-Path: <bounces+778141-fdaf-aarngak=tamaani.ca@email.airportrentalcars.com>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv4.soleica.ca (localhost [127.0.0.1])
+	by ispv4.soleica.ca (Postfix) with ESMTP id EEB5B771AA
+	for <aarngak@tamaani.ca>; Wed, 30 Oct 2013 14:02:52 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+X-Spam-Flag: YES
+X-Spam-Score: 5.872
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.872 tagged_above=3 required=5 tests=[BAYES_99=2.5,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, MIME_HTML_MOSTLY=0.428, MR_STRANGE_QUESTION=1.5,
+	OFFER_URI=1, RCVD_IN_DNSWL_NONE=-0.0001, RP_MATCHES_RCVD=-0.207,
+	SARE_FROM_SPAM_WORD3=0.75] autolearn=no
+Authentication-Results: ispv4.soleica.ca (amavisd-new);
+	dkim=pass (1024-bit key) header.d=email.airportrentalcars.com
+Received: from ispv4.soleica.ca ([127.0.0.1])
+	by ispv4.soleica.ca (ispv4.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id 8RCgSZ0Eb0fX for <aarngak@tamaani.ca>;
+	Wed, 30 Oct 2013 14:02:44 -0400 (EDT)
+Received: from o6.email.airportrentalcars.com (o6.email.airportrentalcars.com [192.254.116.204])
+	by ispv4.soleica.ca (Postfix) with SMTP id 12B6677129
+	for <aarngak@tamaani.ca>; Wed, 30 Oct 2013 14:02:43 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; 
+	d=email.airportrentalcars.com; 
+	h=content-type:mime-version:from:to:subject; s=smtpapi; 
+	bh=X/mVxr0Nf+X3pnzHgmzt8IVFZzE=; b=R4hXfZKGfIs3x1IRcfIL9jYUpMoX+
+	1PU9ZCDfDbZCVPHCzNtldSooFhFMx+YAODoYbGjAVmLAq0btRbbzcrln1qihLrMC
+	rr4fFwjNZlUibQFkii+crtH1EnP/csZrCuh1MniPJVVu7I7p82ywNcsHVJS5TnSJ
+	/l97fOCFetSpks=
+Received: by filter-140.sjc1.sendgrid.net with SMTP id filter-140.9387.527149A62
+        Wed, 30 Oct 2013 18:02:14 +0000 (GMT)
+Received: from localhost.localdomain ([UNAVAILABLE]. [10.42.80.48])
+	by 10.42.83.240:2500 (trex/4.8.88);
+	Wed, 30 Oct 2013 18:01:41 GMT
+Received: from Nzc4MTQx (64-6-23-9.priceline.com [64.6.23.9])
+	by localhost.localdomain (SG) with HTTP id 1420a87af3f.8e1.c9e9
+	for <email@domain.com>; Wed, 30 Oct 2013 18:02:13 +0000 (GMT)
+Content-Type: multipart/alternative;
+	boundary="===============7108664717501170278=="
+MIME-Version: 1.0
+From: "AirportRentalCars.com" <deal@email.airportrentalcars.com>
+To: AARNGAK@TAMAANI.CA
+Subject: ***SPAM*** Rental Cars from $6/day!
+Message-ID: <1383156135.4216156382727552@filter-140.sjc1.sendgrid.net>
+Date: Wed, 30 Oct 2013 18:02:15 +0000 (GMT)
+X-SG-EID: 7zrzLI/SWys3wgx8Bn6N6i9GZw7nvMDXAXiMq+oa0Odkxv0exau4GBDpSYPIdSxUv65G6l+prvpXmHIhFoArUOnoenm8xajTUJLHCfuVHGHyn1AR7vfeGddzb03fr35Qhm1MPKnUs1UeMzLdX/pszuK/asyOc972OOoOSDJkY78=
+X-SG-ID: gnwugAPEk90ONPODfP9Nu2d/uOXINnNL52qX+BsYc2UJC0QOGQ1rPKTS46kFYaXivtqKDhQHttVjFhyFDEarmAWyaj/h2gpq0U3fQ6d7MKE=
+
+--===============7108664717501170278==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Please enable HTML viewing of Priceline.com emails for the full experience.=
+
+--===============7108664717501170278==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+	<title>AirportRentalCars Email Newsletter</title>
+</head>
+<body>
+<span style=3D"font-size:6px; color:#ffffff;">Save big on rental cars!</spa=
+n>
+<div style=3D"background-color: #ffffff; padding: 0px 0px 15px 0px;">
+<img src=3D"http://jump.priceline.com/email_open1x1.gif?refid=3DPMARC_PROMO=
+_EMAIL&sendId=3D25000387721&refclickid=3DOPEN|25000387721&ea=3DACAE8EA52B21=
+A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=3DPMARC_=
+PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&email_subject_line=
+=3DRental Cars from $6/day!&email_preview_line=3DSave big on rental cars!" =
+style=3D"width: 1px;height: 1px;display: block;outline: none;text-decoratio=
+n: none;" alt=3D""\>
+<table cellpadding=3D"0" width=3D"818" cellspacing=3D"0" border=3D"0">
+    <tr>
+      <td valign=3D"top">
+  		<table width=3D"818" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" s=
+tyle=3D"font-family:verdana; color:#0078ff; font-size:12px;">
+			<tr>
+    			<td width=3D"590" valign=3D"top" style=3D"padding:0px 0px 15px 0px;">
+      				<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PR=
+OMO_EMAIL&sendId=3D25000387721&refclickid=3DLOGO|25000387721&ea=3DACAE8EA52=
+B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=3DPMA=
+RC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhttp://ww=
+w.airportrentalcars.com/?refid=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&ref=
+clickid=3DLOGO|25000387721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9=
+805CF&utm_medium=3Demail&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMAR=
+C_PROMO_EMAIL_25000387721" >
+        				<img src=3D"http://image.emails.priceline.com/lib/fef51371706d0=
+0/m/1/logo_338x69.gif" width=3D"338" height=3D"69" alt=3D"airportrentalcars=
+.com" border=3D"0" style=3D"display:block;"/>
+      				</a>
+    			</td>
+				<td align=3D"right" valign=3D"bottom" style=3D"padding:0px 6px 15px 2px=
+;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DTOPNAV_MYRESERVATIONS|25000387721&ea=
+=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_=
+source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=
+=3Dhttps://secure.airportrentalcars.com/reservations/?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DTOPNAV_MYRESERVATIONS|25000387721&ea=
+=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_=
+source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721"  s=
+tyle=3D"color:#0078ff;">my reservations</a>
+				</td>
+				<td align=3D"right" valign=3D"bottom" style=3D"padding:0px 0px 15px 0px=
+;">|</td>
+				<td align=3D"right" valign=3D"bottom" style=3D"padding:0px 6px 15px 2px=
+;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DTOPNAV_HELP|25000387721&ea=3DACAE8EA=
+52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=3DP=
+MARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhttp://=
+www.airportrentalcars.com/support/faq/?refid=3DPMARC_PROMO_EMAIL&sendId=3D2=
+5000387721&refclickid=3DTOPNAV_HELP|25000387721&ea=3DACAE8EA52B21A3CA40CC55=
+E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=3DPMARC_PROMO_EMAI=
+L&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721"  style=3D"color:#0078ff;">h=
+elp</a>
+				</td>
+				<td align=3D"right" valign=3D"bottom" style=3D"padding:0px 0px 15px 0px=
+;">|</td>
+				<td align=3D"right" valign=3D"bottom" style=3D"padding:0px 0px 15px 0px=
+;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DTOPNAV_ABOUTUS|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/about/?refid=3DPMARC_PROMO_EMAIL&sendId=3D250=
+00387721&refclickid=3DTOPNAV_ABOUTUS|25000387721&ea=3DACAE8EA52B21A3CA40CC5=
+5E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=3DPMARC_PROMO_EMA=
+IL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721"  style=3D"color:#0078ff;">=
+about us</a>
+				</td>
+  			</tr>
+		</table><!-- Thin Outer Blue Border Table Start -->
+<table width=3D"818" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"border:1px solid #83cad7;">
+	<tr>
+		<td>
+		<!-- Thicker Outer Blue Border Table Start -->
+		<table width=3D"816" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" sty=
+le=3D"border:14px solid #b8e6ee;">
+			<tr>
+				<td>
+				<!-- Orange Header Table Start -->
+				<table width=3D"788" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" s=
+tyle=3D"font-family:verdana; color:#ffffff; font-size:18px;">
+					<tr>
+						<td bgcolor=3D"#f3932f" style=3D"font-weight:bold; padding:10px 0px 1=
+0px 20px; border:1px solid #c16c12;">Rental Cars from $6/day!</td>
+					</tr>
+					<tr>
+						<td style=3D"border:8px solid #93d2dd">
+						<!-- Main White Table Start -->
+						<table width=3D"772" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ >
+							<tr>
+								<td style=3D"padding:10px 10px 10px 10px;">
+<!-- START OF NEW TABLE TO FIX GMAIL BREAK-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td valign=3D"top" width=3D"485">
+								<form name=3D"QuickPickRentalCars" method=3D"get" action=3D"http://=
+secure.airportrentalcars.com/search/">
+									<input type=3D"hidden" name=3D"putype">
+									<input type=3D"hidden" name=3D"dotype">
+									<input type=3D"hidden" name=3D"ProductID" id=3D"ProductID" value=
+=3D"8">
+									<input type=3D"hidden" name=3D"refid" id=3D"refid" value=3D"PMARC_=
+PROMO_EMAIL">
+									<input type=3D"hidden" name=3D"refclickid" id=3D"refclickid" value=
+=3D"BOOKING_BOX|25000387721">
+									<input type=3D"hidden" name=3D"sendId"  value=3D"25000387721">
+									<!-- Booking Box Table Start -->
+									<table align=3D"left" width=3D"485" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" bgcolor=3D"#177180" style=3D"border:1px solid #1c7482; f=
+ont-family:verdana; color:#ffffff; font-size:12px;">
+										<tr>
+											<td colspan=3D"4" style=3D"font-size:14px; font-weight:bold; pad=
+ding:12px 0px 12px 14px;">SEARCH RENTAL CAR DEALS</td>
+										</tr>
+										<tr>
+											<td valign=3D"middle" align=3D"left" style=3D"padding:0px 0px 12=
+px 14px;">Airport:</td>
+											<td colspan=3D"3" valign=3D"middle" align=3D"left" style=3D"padd=
+ing:0px 0px 12px 0px;"><input type=3D"text" maxlength=3D"25" size=3D"35" na=
+me=3D"citypu" style=3D"font-size: 12px; color:#8e8e8e;"></td>
+										</tr>
+										<tr>
+											<td valign=3D"middle" align=3D"left" style=3D"padding:0px 0px 12=
+px 14px;">Pick up:</td>
+											<td valign=3D"middle" align=3D"left" style=3D"padding:0px 14px 1=
+2px 0px;"><input type=3D"text" maxlength=3D"25" size=3D"12" name=3D"pudt" v=
+alue=3D"11/02/2013" style=3D"font-size: 12px; color:#8e8e8e;"></td>
+											<td valign=3D"middle" align=3D"left" style=3D"padding:0px 14px 1=
+2px 0px;"><select name=3D"putm" style=3D"font-size: 12px; color:#8e8e8e;">
+											<option value=3D"00:00">
+											12:00 AM</option>
+											<option value=3D"00:30">
+											12:30 AM</option>
+											<option value=3D"01:00">
+											1:00 AM</option>
+											<option value=3D"01:30">
+											1:30 AM</option>
+											<option value=3D"02:00">
+											2:00 AM</option>
+											<option value=3D"02:30">
+											2:30 AM</option>
+											<option value=3D"03:00">
+											3:00 AM</option>
+											<option value=3D"03:30">
+											3:30 AM</option>
+											<option value=3D"04:00">
+											4:00 AM</option>
+											<option value=3D"04:30">
+											4:30 AM</option>
+											<option value=3D"05:00">
+											5:00 AM</option>
+											<option value=3D"05:30">
+											5:30 AM</option>
+											<option value=3D"06:00">
+											6:00 AM</option>
+											<option value=3D"06:30">
+											6:30 AM</option>
+											<option value=3D"07:00">
+											7:00 AM</option>
+											<option value=3D"07:30">
+											7:30 AM</option>
+											<option value=3D"08:00">
+											8:00 AM</option>
+											<option value=3D"08:30">
+											8:30 AM</option>
+											<option selected value=3D"09:00">
+											9:00 AM</option>
+											<option value=3D"09:30">
+											9:30 AM</option>
+											<option value=3D"10:00">
+											10:00 AM</option>
+											<option value=3D"10:30">
+											10:30 AM</option>
+											<option value=3D"11:00">
+											11:00 AM</option>
+											<option value=3D"11:30">
+											11:30 AM</option>
+											<option value=3D"12:00">
+											12:00 PM</option>
+											<option value=3D"12:30">
+											12:30 PM</option>
+											<option value=3D"13:00">
+											1:00 PM</option>
+											<option value=3D"13:30">
+											1:30 PM</option>
+											<option value=3D"14:00">
+											2:00 PM</option>
+											<option value=3D"14:30">
+											2:30 PM</option>
+											<option value=3D"15:00">
+											3:00 PM</option>
+											<option value=3D"15:30">
+											3:30 PM</option>
+											<option value=3D"16:00">
+											4:00 PM</option>
+											<option value=3D"16:30">
+											4:30 PM</option>
+											<option value=3D"17:00">
+											5:00 PM</option>
+											<option value=3D"17:30">
+											5:30 PM</option>
+											<option value=3D"18:00">
+											6:00 PM</option>
+											<option value=3D"18:30">
+											6:30 PM</option>
+											<option value=3D"19:00">
+											7:00 PM</option>
+											<option value=3D"19:30">
+											7:30 PM</option>
+											<option value=3D"20:00">
+											8:00 PM</option>
+											<option value=3D"20:30">
+											8:30 PM</option>
+											<option value=3D"21:00">
+											9:00 PM</option>
+											<option value=3D"21:30">
+											9:30 PM</option>
+											<option value=3D"22:00">
+											10:00 PM</option>
+											<option value=3D"22:30">
+											10:30 PM</option>
+											<option value=3D"23:00">
+											11:00 PM</option>
+											<option value=3D"23:30">
+											11:30 PM</option></select></td>
+											<td rowspan=3D"2" valign=3D"bottom" align=3D"left" style=3D"padd=
+ing:0px 14px 9px 0px;"><input name=3D"search" type=3D"image" src=3D"http://=
+image.emails.priceline.com/lib/fef51371706d00/m/1/search_150x36.jpg" width=
+=3D"150" height=3D"36" value=3D"SEARCH RENTAL CARS" alt=3D"search rentals" =
+border=3D"0" style=3D"display:block;"></td>
+										</tr>
+										<tr>
+											<td valign=3D"middle" align=3D"left" style=3D"padding:0px 0px 12=
+px 14px;">Drop off:</td>
+											<td valign=3D"middle" align=3D"left" style=3D"padding:0px 14px 1=
+2px 0px;"><input type=3D"text" maxlength=3D"25" size=3D"12" name=3D"dodt" v=
+alue=3D"11/04/2013" style=3D"font-size: 12px; color:#8e8e8e;"></td>
+											<td valign=3D"middle" align=3D"left" style=3D"padding:0px 14px 1=
+2px 0px;"><select name=3D"dotm" style=3D"font-size: 12px; color:#8e8e8e;">
+											<option value=3D"00:00">
+											12:00 AM</option>
+											<option value=3D"00:30">
+											12:30 AM</option>
+											<option value=3D"01:00">
+											1:00 AM</option>
+											<option value=3D"01:30">
+											1:30 AM</option>
+											<option value=3D"02:00">
+											2:00 AM</option>
+											<option value=3D"02:30">
+											2:30 AM</option>
+											<option value=3D"03:00">
+											3:00 AM</option>
+											<option value=3D"03:30">
+											3:30 AM</option>
+											<option value=3D"04:00">
+											4:00 AM</option>
+											<option value=3D"04:30">
+											4:30 AM</option>
+											<option value=3D"05:00">
+											5:00 AM</option>
+											<option value=3D"05:30">
+											5:30 AM</option>
+											<option value=3D"06:00">
+											6:00 AM</option>
+											<option value=3D"06:30">
+											6:30 AM</option>
+											<option value=3D"07:00">
+											7:00 AM</option>
+											<option value=3D"07:30">
+											7:30 AM</option>
+											<option value=3D"08:00">
+											8:00 AM</option>
+											<option value=3D"08:30">
+											8:30 AM</option>
+											<option selected value=3D"09:00">
+											9:00 AM</option>
+											<option value=3D"09:30">
+											9:30 AM</option>
+											<option value=3D"10:00">
+											10:00 AM</option>
+											<option value=3D"10:30">
+											10:30 AM</option>
+											<option value=3D"11:00">
+											11:00 AM</option>
+											<option value=3D"11:30">
+											11:30 AM</option>
+											<option value=3D"12:00">
+											12:00 PM</option>
+											<option value=3D"12:30">
+											12:30 PM</option>
+											<option value=3D"13:00">
+											1:00 PM</option>
+											<option value=3D"13:30">
+											1:30 PM</option>
+											<option value=3D"14:00">
+											2:00 PM</option>
+											<option value=3D"14:30">
+											2:30 PM</option>
+											<option value=3D"15:00">
+											3:00 PM</option>
+											<option value=3D"15:30">
+											3:30 PM</option>
+											<option value=3D"16:00">
+											4:00 PM</option>
+											<option value=3D"16:30">
+											4:30 PM</option>
+											<option value=3D"17:00">
+											5:00 PM</option>
+											<option value=3D"17:30">
+											5:30 PM</option>
+											<option value=3D"18:00">
+											6:00 PM</option>
+											<option value=3D"18:30">
+											6:30 PM</option>
+											<option value=3D"19:00">
+											7:00 PM</option>
+											<option value=3D"19:30">
+											7:30 PM</option>
+											<option value=3D"20:00">
+											8:00 PM</option>
+											<option value=3D"20:30">
+											8:30 PM</option>
+											<option value=3D"21:00">
+											9:00 PM</option>
+											<option value=3D"21:30">
+											9:30 PM</option>
+											<option value=3D"22:00">
+											10:00 PM</option>
+											<option value=3D"22:30">
+											10:30 PM</option>
+											<option value=3D"23:00">
+											11:00 PM</option>
+											<option value=3D"23:30">
+											11:30 PM</option></select></td>
+										</tr>
+										<tr>
+											<td colspan=3D"4" align=3D"right" style=3D"padding:0px 20px 12px=
+ 0px;">
+												<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_=
+PROMO_EMAIL&sendId=3D25000387721&refclickid=3DSEARCH_NOT_WORKING|2500038772=
+1&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&=
+utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721=
+&url=3Dhttp://www.airportrentalcars.com/?refid=3DPMARC_PROMO_EMAIL&sendId=
+=3D25000387721&refclickid=3DSEARCH_NOT_WORKING|25000387721&ea=3DACAE8EA52B2=
+1A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=3DPMARC=
+_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721" style=3D"color:#=
+ffffff;">Search not responding?</a>
+											</td>
+										</tr>
+									</form>
+								</table>
+<!-- TD OF NEW TABLE TO FIX GMAIL BREAK-->
+</td>
+<td width=3D"255" style=3D"padding-left:10px;padding-top:5px;padding-right:=
+10px;padding-bottom:5px;">=09
+							<!-- Booking Box Table End -->
+								<!-- Top Rental Car Deals Table Start -->
+								<table align=3D"right" width=3D"255" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" bgcolor=3D"#ffffff" style=3D"border:1px solid #98d5e1; f=
+ont-family:verdana; color:#0078ff; font-size:12px;">
+									<tr>
+										<td colspan=3D"2" bgcolor=3D"#177180" style=3D"font-size:14px; co=
+lor:#ffffff; font-weight:bold; padding:7px 0px 7px 10px;">Top Rental Car De=
+als</td>
+									</tr>
+									<tr>
+										<td valign=3D"middle" align=3D"left" style=3D"padding:13px 0px 0p=
+x 10px;"><img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m=
+/1/arrow_8x8.jpg" width=3D"8" height=3D"8" alt=3D"" border=3D"0" style=3D"d=
+isplay:block;"></td>
+										<td valign=3D"middle" align=3D"left" style=3D"padding:13px 5px 0p=
+x 10px;"><a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PRO=
+MO_EMAIL&sendId=3D25000387721&refclickid=3DTOP_DEALS|25000387721&ea=3DACAE8=
+EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/los-angeles-intl-lax/?refid=3DPMA=
+RC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DTOP_DEALS|25000387721&ea=
+=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_=
+source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721" st=
+yle=3D"text-decoration:underline; color:#0078ff;">Los Angeles Rental Car De=
+als!</a></td>
+									</tr>
+									<tr>
+										<td valign=3D"middle" align=3D"left" style=3D"padding:10px 0px 0p=
+x 10px;"><img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m=
+/1/arrow_8x8.jpg" width=3D"8" height=3D"8" alt=3D"" border=3D"0" style=3D"d=
+isplay:block;"></td>
+										<td valign=3D"middle" align=3D"left" style=3D"padding:10px 5px 0p=
+x 10px;"><a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PRO=
+MO_EMAIL&sendId=3D25000387721&refclickid=3DTOP_DEALS|25000387721&ea=3DACAE8=
+EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/san-francisco-intl-sfo/?refid=3DP=
+MARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DTOP_DEALS|25000387721&ea=
+=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_=
+source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721" st=
+yle=3D"text-decoration:underline; color:#0078ff;">San Francisco Rental Car =
+Deals!</a></td>
+									</tr>
+									<tr>
+										<td valign=3D"middle" align=3D"left" style=3D"padding:10px 0px 0p=
+x 10px;"><img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m=
+/1/arrow_8x8.jpg" width=3D"8" height=3D"8" alt=3D"" border=3D"0" style=3D"d=
+isplay:block;"></td>
+										<td valign=3D"middle" align=3D"left" style=3D"padding:10px 5px 0p=
+x 10px;"><a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PRO=
+MO_EMAIL&sendId=3D25000387721&refclickid=3DTOP_DEALS|25000387721&ea=3DACAE8=
+EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/chicago-ohare-intl-ord/?refid=3DP=
+MARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DTOP_DEALS|25000387721&ea=
+=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_=
+source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721" st=
+yle=3D"text-decoration:underline; color:#0078ff;">Chicago Rental Car Deals<=
+/a></td>
+									</tr>
+									<tr>
+										<td valign=3D"middle" align=3D"left" style=3D"padding:10px 0px 0p=
+x 10px;"><img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m=
+/1/arrow_8x8.jpg" width=3D"8" height=3D"8" alt=3D"" border=3D"0" style=3D"d=
+isplay:block;"></td>
+										<td valign=3D"middle" align=3D"left" style=3D"padding:10px 5px 0p=
+x 10px;"><a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PRO=
+MO_EMAIL&sendId=3D25000387721&refclickid=3DTOP_DEALS|25000387721&ea=3DACAE8=
+EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/orlando-intl-mco/?refid=3DPMARC_P=
+ROMO_EMAIL&sendId=3D25000387721&refclickid=3DTOP_DEALS|25000387721&ea=3DACA=
+E8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721"=20
+style=3D"text-decoration:underline; color:#0078ff;">Orlando International A=
+irport (MCO) Rental Car Deals!</a></td>
+									</tr>
+									<tr>
+										<td valign=3D"middle" align=3D"left" style=3D"padding:10px 0px 10=
+px 10px;"><img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/=
+m/1/arrow_8x8.jpg" width=3D"8" height=3D"8" alt=3D"" border=3D"0" style=3D"=
+display:block;"></td>
+										<td valign=3D"middle" align=3D"left" style=3D"padding:10px 5px 10=
+px 10px;"><a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PR=
+OMO_EMAIL&sendId=3D25000387721&refclickid=3DTOP_DEALS|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/las-vegas-mccarran-intl-las/?refi=
+d=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DTOP_DEALS|250003877=
+21&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail=
+&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_2500038772=
+1" style=3D"text-decoration:underline; color:#0078ff;">Las Vegas Discount R=
+ental Car Deals!</a></td>
+									</tr>
+								</table>
+<!-- END OF NEW TABLE TO FIX GMAIL BREAK-->
+</td>
+</tr>
+</table>
+
+								</td>
+							</tr><!-- Top Rental Car Deals Table End -->
+							<tr>
+								<td align=3D"center">
+								<!-- Weekend Rental Car Deals Table Start -->
+								<table width=3D"750" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" bgcolor=3D"#ffffff" style=3D"margin-top:15px; border:1px solid #76c5cb; =
+font-family:verdana; color:#000000; font-size:12px;">
+									<tr>
+										<td colspan=3D"5" bgcolor=3D"#177180" style=3D"font-size:14px; co=
+lor:#ffffff; font-weight:bold; padding:7px 0px 7px 10px;">Save Big on Renta=
+l Cars!</td>
+									</tr>
+			<tr>
+				<td align=3D"left" style=3D"border-right:1px solid #76c5cb; border-bott=
+om:1px solid #76c5cb; color:#0078ff; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CITY|25000387721&ea=3DACAE8=
+EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/phoenix-sky-harbor-intl-phx/?refi=
+d=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CITY|25000=
+387721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3De=
+mail&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_250003=
+87721" style=3D"text-decoration:underline; color:#0078ff;">
+						<span style=3D"font-size:14px; font-weight:bold;">Phoenix</span>
+						<br>(PHX)
+					</a>
+				</td>
+			   <td align=3D"center" style=3D"border-right:1px solid #76c5cb; border-=
+bottom:1px solid #76c5cb; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_IMG|25000387721&ea=3DACAE8E=
+A52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=3D=
+PMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhttp:/=
+/www.airportrentalcars.com/us-airports/phoenix-sky-harbor-intl-phx/?refid=
+=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_IMG|2500038=
+7721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Dema=
+il&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387=
+721">
+						<img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/=
+CAR_ECAR.jpg" width=3D"134" height=3D"72" alt=3D"" border=3D"0" style=3D"di=
+splay:block;">
+					</a>
+			   </td>
+			   <td align=3D"left" style=3D"border-right:1px solid #76c5cb; border-bo=
+ttom:1px solid #76c5cb; padding:10px 10px 10px 25px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CLASS|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/phoenix-sky-harbor-intl-phx/?refi=
+d=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CLASS|2500=
+0387721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3D=
+email&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000=
+387721" style=3D"color:#000000;">
+						<span style=3D"font-size:14px; font-weight:bold;">Economy Car</span>
+					</a>
+			   </td>
+		  	   <td align=3D"center" style=3D"border-right:1px solid #76c5cb; borde=
+r-bottom:1px solid #76c5cb; color:#177180; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_PRICE|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/phoenix-sky-harbor-intl-phx/?refi=
+d=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_PRICE|2500=
+0387721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3D=
+email&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000=
+387721" style=3D"color:#177180;text-decoration:none;">
+						from $<span style=3D"font-size:20px; font-weight:bold;">6</span> /day
+					</a>
+			   </td>
+			   <td align=3D"center" style=3D"border-bottom:1px solid #76c5cb; paddin=
+g:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_BUTTON|25000387721&ea=3DACA=
+E8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/phoenix-sky-harbor-intl-phx/?refi=
+d=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_BUTTON|250=
+00387721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=
+=3Demail&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25=
+000387721">
+						<img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/=
+showme_80x34.jpg" width=3D"80" height=3D"34" alt=3D"show me" border=3D"0" s=
+tyle=3D"display:block;">
+					</a>
+				</td>
+			</tr>
+			<tr>
+				<td align=3D"left" style=3D"border-right:1px solid #76c5cb; border-bott=
+om:1px solid #76c5cb; color:#0078ff; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CITY|25000387721&ea=3DACAE8=
+EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/san-francisco-intl-sfo/?refid=3DP=
+MARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CITY|2500038772=
+1&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&=
+utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721=
+" style=3D"text-decoration:underline; color:#0078ff;">
+						<span style=3D"font-size:14px; font-weight:bold;">San Francisco</span>
+						<br>(SFO)
+					</a>
+				</td>
+			   <td align=3D"center" style=3D"border-right:1px solid #76c5cb; border-=
+bottom:1px solid #76c5cb; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_IMG|25000387721&ea=3DACAE8E=
+A52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=3D=
+PMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhttp:/=
+/www.airportrentalcars.com/us-airports/san-francisco-intl-sfo/?refid=3DPMAR=
+C_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_IMG|25000387721&ea=
+=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_=
+source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721">
+						<img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/=
+CAR_ECAR.jpg" width=3D"134" height=3D"72" alt=3D"" border=3D"0" style=3D"di=
+splay:block;">
+					</a>
+			   </td>
+			   <td align=3D"left" style=3D"border-right:1px solid #76c5cb; border-bo=
+ttom:1px solid #76c5cb; padding:10px 10px 10px 25px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CLASS|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/san-francisco-intl-sfo/?refid=3DP=
+MARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CLASS|250003877=
+21&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail=
+&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_2500038772=
+1" style=3D"color:#000000;">
+						<span style=3D"font-size:14px; font-weight:bold;">Economy Car</span>
+					</a>
+			   </td>
+		  	   <td align=3D"center" style=3D"border-right:1px solid #76c5cb; borde=
+r-bottom:1px solid #76c5cb; color:#177180; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_PRICE|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/san-francisco-intl-sfo/?refid=3DP=
+MARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_PRICE|250003877=
+21&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail=
+&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_2500038772=
+1" style=3D"color:#177180;text-decoration:none;">
+						from $<span style=3D"font-size:20px; font-weight:bold;">7</span> /day
+					</a>
+			   </td>
+			   <td align=3D"center" style=3D"border-bottom:1px solid #76c5cb; paddin=
+g:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_BUTTON|25000387721&ea=3DACA=
+E8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/san-francisco-intl-sfo/?refid=3DP=
+MARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_BUTTON|25000387=
+721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demai=
+l&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_250003877=
+21">
+						<img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/=
+showme_80x34.jpg" width=3D"80" height=3D"34" alt=3D"show me" border=3D"0" s=
+tyle=3D"display:block;">
+					</a>
+				</td>
+			</tr>
+			<tr>
+				<td align=3D"left" style=3D"border-right:1px solid #76c5cb; border-bott=
+om:1px solid #76c5cb; color:#0078ff; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CITY|25000387721&ea=3DACAE8=
+EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/los-angeles-intl-lax/?refid=3DPMA=
+RC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CITY|25000387721&=
+ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&ut=
+m_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721" =
+style=3D"text-decoration:underline; color:#0078ff;">
+						<span style=3D"font-size:14px; font-weight:bold;">Los Angeles</span>
+						<br>(LAX)
+					</a>
+				</td>
+			   <td align=3D"center" style=3D"border-right:1px solid #76c5cb; border-=
+bottom:1px solid #76c5cb; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_IMG|25000387721&ea=3DACAE8E=
+A52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=3D=
+PMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhttp:/=
+/www.airportrentalcars.com/us-airports/los-angeles-intl-lax/?refid=3DPMARC_=
+PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_IMG|25000387721&ea=
+=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_=
+source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721">
+						<img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/=
+CAR_CCAR.jpg" width=3D"134" height=3D"72" alt=3D"" border=3D"0" style=3D"di=
+splay:block;">
+					</a>
+			   </td>
+			   <td align=3D"left" style=3D"border-right:1px solid #76c5cb; border-bo=
+ttom:1px solid #76c5cb; padding:10px 10px 10px 25px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CLASS|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/los-angeles-intl-lax/?refid=3DPMA=
+RC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CLASS|25000387721=
+&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&u=
+tm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721"=
+ style=3D"color:#000000;">
+						<span style=3D"font-size:14px; font-weight:bold;">Compact Car</span>
+					</a>
+			   </td>
+		  	   <td align=3D"center" style=3D"border-right:1px solid #76c5cb; borde=
+r-bottom:1px solid #76c5cb; color:#177180; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_PRICE|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/los-angeles-intl-lax/?refid=3DPMA=
+RC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_PRICE|25000387721=
+&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&u=
+tm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721"=
+ style=3D"color:#177180;text-decoration:none;">
+						from $<span style=3D"font-size:20px; font-weight:bold;">7</span> /day
+					</a>
+			   </td>
+			   <td align=3D"center" style=3D"border-bottom:1px solid #76c5cb; paddin=
+g:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_BUTTON|25000387721&ea=3DACA=
+E8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/los-angeles-intl-lax/?refid=3DPMA=
+RC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_BUTTON|2500038772=
+1&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&=
+utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721=
+">
+						<img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/=
+showme_80x34.jpg" width=3D"80" height=3D"34" alt=3D"show me" border=3D"0" s=
+tyle=3D"display:block;">
+					</a>
+				</td>
+			</tr>
+			<tr>
+				<td align=3D"left" style=3D"border-right:1px solid #76c5cb; border-bott=
+om:1px solid #76c5cb; color:#0078ff; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CITY|25000387721&ea=3DACAE8=
+EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/dallas-fort-worth-intl-dfw/?refid=
+=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CITY|250003=
+87721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Dem=
+ail&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_2500038=
+7721" style=3D"text-decoration:underline; color:#0078ff;">
+						<span style=3D"font-size:14px; font-weight:bold;">Dallas</span>
+						<br>(DFW)
+					</a>
+				</td>
+			   <td align=3D"center" style=3D"border-right:1px solid #76c5cb; border-=
+bottom:1px solid #76c5cb; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_IMG|25000387721&ea=3DACAE8E=
+A52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=3D=
+PMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhttp:/=
+/www.airportrentalcars.com/us-airports/dallas-fort-worth-intl-dfw/?refid=3D=
+PMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_IMG|2500038772=
+1&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&=
+utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721=
+">
+						<img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/=
+CAR_SCAR.jpg" width=3D"134" height=3D"72" alt=3D"" border=3D"0" style=3D"di=
+splay:block;">
+					</a>
+			   </td>
+			   <td align=3D"left" style=3D"border-right:1px solid #76c5cb; border-bo=
+ttom:1px solid #76c5cb; padding:10px 10px 10px 25px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CLASS|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/dallas-fort-worth-intl-dfw/?refid=
+=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CLASS|25000=
+387721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3De=
+mail&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_250003=
+87721" style=3D"color:#000000;">
+						<span style=3D"font-size:14px; font-weight:bold;">Standard Car</span>
+					</a>
+			   </td>
+		  	   <td align=3D"center" style=3D"border-right:1px solid #76c5cb; borde=
+r-bottom:1px solid #76c5cb; color:#177180; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_PRICE|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/dallas-fort-worth-intl-dfw/?refid=
+=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_PRICE|25000=
+387721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3De=
+mail&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_250003=
+87721" style=3D"color:#177180;text-decoration:none;">
+						from $<span style=3D"font-size:20px; font-weight:bold;">8</span> /day
+					</a>
+			   </td>
+			   <td align=3D"center" style=3D"border-bottom:1px solid #76c5cb; paddin=
+g:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_BUTTON|25000387721&ea=3DACA=
+E8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/dallas-fort-worth-intl-dfw/?refid=
+=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_BUTTON|2500=
+0387721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3D=
+email&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000=
+387721">
+						<img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/=
+showme_80x34.jpg" width=3D"80" height=3D"34" alt=3D"show me" border=3D"0" s=
+tyle=3D"display:block;">
+					</a>
+				</td>
+			</tr>
+			<tr>
+				<td align=3D"left" style=3D"border-right:1px solid #76c5cb; border-bott=
+om:1px solid #76c5cb; color:#0078ff; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CITY|25000387721&ea=3DACAE8=
+EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/miami-intl-mia/?refid=3DPMARC_PRO=
+MO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CITY|25000387721&ea=3DA=
+CAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_sour=
+ce=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721" style=
+=3D"text-decoration:underline; color:#0078ff;">
+						<span style=3D"font-size:14px; font-weight:bold;">Miami</span>
+						<br>(MIA)
+					</a>
+				</td>
+			   <td align=3D"center" style=3D"border-right:1px solid #76c5cb; border-=
+bottom:1px solid #76c5cb; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_IMG|25000387721&ea=3DACAE8E=
+A52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=3D=
+PMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhttp:/=
+/www.airportrentalcars.com/us-airports/miami-intl-mia/?refid=3DPMARC_PROMO_=
+EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_IMG|25000387721&ea=3DACAE8=
+EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721">
+						<img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/=
+CAR_CCAR.jpg" width=3D"134" height=3D"72" alt=3D"" border=3D"0" style=3D"di=
+splay:block;">
+					</a>
+			   </td>
+			   <td align=3D"left" style=3D"border-right:1px solid #76c5cb; border-bo=
+ttom:1px solid #76c5cb; padding:10px 10px 10px 25px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CLASS|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/miami-intl-mia/?refid=3DPMARC_PRO=
+MO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CLASS|25000387721&ea=3D=
+ACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_sou=
+rce=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721" style=
+=3D"color:#000000;">
+						<span style=3D"font-size:14px; font-weight:bold;">Compact Car</span>
+					</a>
+			   </td>
+		  	   <td align=3D"center" style=3D"border-right:1px solid #76c5cb; borde=
+r-bottom:1px solid #76c5cb; color:#177180; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_PRICE|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/miami-intl-mia/?refid=3DPMARC_PRO=
+MO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_PRICE|25000387721&ea=3D=
+ACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_sou=
+rce=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721" style=
+=3D"color:#177180;text-decoration:none;">
+						from $<span style=3D"font-size:20px; font-weight:bold;">8</span> /day
+					</a>
+			   </td>
+			   <td align=3D"center" style=3D"border-bottom:1px solid #76c5cb; paddin=
+g:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_BUTTON|25000387721&ea=3DACA=
+E8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/miami-intl-mia/?refid=3DPMARC_PRO=
+MO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_BUTTON|25000387721&ea=
+=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_=
+source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721">
+						<img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/=
+showme_80x34.jpg" width=3D"80" height=3D"34" alt=3D"show me" border=3D"0" s=
+tyle=3D"display:block;">
+					</a>
+				</td>
+			</tr>
+			<tr>
+				<td align=3D"left" style=3D"border-right:1px solid #76c5cb; border-bott=
+om:1px solid #76c5cb; color:#0078ff; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CITY|25000387721&ea=3DACAE8=
+EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/las-vegas-mccarran-intl-las/?refi=
+d=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CITY|25000=
+387721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3De=
+mail&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_250003=
+87721" style=3D"text-decoration:underline; color:#0078ff;">
+						<span style=3D"font-size:14px; font-weight:bold;">Las Vegas</span>
+						<br>(LAS)
+					</a>
+				</td>
+			   <td align=3D"center" style=3D"border-right:1px solid #76c5cb; border-=
+bottom:1px solid #76c5cb; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_IMG|25000387721&ea=3DACAE8E=
+A52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=3D=
+PMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhttp:/=
+/www.airportrentalcars.com/us-airports/las-vegas-mccarran-intl-las/?refid=
+=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_IMG|2500038=
+7721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Dema=
+il&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387=
+721">
+						<img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/=
+CAR_ECAR.jpg" width=3D"134" height=3D"72" alt=3D"" border=3D"0" style=3D"di=
+splay:block;">
+					</a>
+			   </td>
+			   <td align=3D"left" style=3D"border-right:1px solid #76c5cb; border-bo=
+ttom:1px solid #76c5cb; padding:10px 10px 10px 25px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CLASS|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/las-vegas-mccarran-intl-las/?refi=
+d=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CLASS|2500=
+0387721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3D=
+email&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000=
+387721" style=3D"color:#000000;">
+						<span style=3D"font-size:14px; font-weight:bold;">Economy Car</span>
+					</a>
+			   </td>
+		  	   <td align=3D"center" style=3D"border-right:1px solid #76c5cb; borde=
+r-bottom:1px solid #76c5cb; color:#177180; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_PRICE|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/las-vegas-mccarran-intl-las/?refi=
+d=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_PRICE|2500=
+0387721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3D=
+email&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000=
+387721" style=3D"color:#177180;text-decoration:none;">
+						from $<span style=3D"font-size:20px; font-weight:bold;">9</span> /day
+					</a>
+			   </td>
+			   <td align=3D"center" style=3D"border-bottom:1px solid #76c5cb; paddin=
+g:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_BUTTON|25000387721&ea=3DACA=
+E8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/las-vegas-mccarran-intl-las/?refi=
+d=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_BUTTON|250=
+00387721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=
+=3Demail&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25=
+000387721">
+						<img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/=
+showme_80x34.jpg" width=3D"80" height=3D"34" alt=3D"show me" border=3D"0" s=
+tyle=3D"display:block;">
+					</a>
+				</td>
+			</tr>
+			<tr>
+				<td align=3D"left" style=3D"border-right:1px solid #76c5cb; border-bott=
+om:1px solid #76c5cb; color:#0078ff; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CITY|25000387721&ea=3DACAE8=
+EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/chicago-ohare-intl-ord/?refid=3DP=
+MARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CITY|2500038772=
+1&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&=
+utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721=
+" style=3D"text-decoration:underline; color:#0078ff;">
+						<span style=3D"font-size:14px; font-weight:bold;">Chicago</span>
+						<br>(ORD)
+					</a>
+				</td>
+			   <td align=3D"center" style=3D"border-right:1px solid #76c5cb; border-=
+bottom:1px solid #76c5cb; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_IMG|25000387721&ea=3DACAE8E=
+A52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=3D=
+PMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhttp:/=
+/www.airportrentalcars.com/us-airports/chicago-ohare-intl-ord/?refid=3DPMAR=
+C_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_IMG|25000387721&ea=
+=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_=
+source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721">
+						<img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/=
+CAR_CCAR.jpg" width=3D"134" height=3D"72" alt=3D"" border=3D"0" style=3D"di=
+splay:block;">
+					</a>
+			   </td>
+			   <td align=3D"left" style=3D"border-right:1px solid #76c5cb; border-bo=
+ttom:1px solid #76c5cb; padding:10px 10px 10px 25px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CLASS|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/chicago-ohare-intl-ord/?refid=3DP=
+MARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CLASS|250003877=
+21&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail=
+&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_2500038772=
+1" style=3D"color:#000000;">
+						<span style=3D"font-size:14px; font-weight:bold;">Compact Car</span>
+					</a>
+			   </td>
+		  	   <td align=3D"center" style=3D"border-right:1px solid #76c5cb; borde=
+r-bottom:1px solid #76c5cb; color:#177180; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_PRICE|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/chicago-ohare-intl-ord/?refid=3DP=
+MARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_PRICE|250003877=
+21&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail=
+&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_2500038772=
+1" style=3D"color:#177180;text-decoration:none;">
+						from $<span style=3D"font-size:20px; font-weight:bold;">9</span> /day
+					</a>
+			   </td>
+			   <td align=3D"center" style=3D"border-bottom:1px solid #76c5cb; paddin=
+g:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_BUTTON|25000387721&ea=3DACA=
+E8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/chicago-ohare-intl-ord/?refid=3DP=
+MARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_BUTTON|25000387=
+721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demai=
+l&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_250003877=
+21">
+						<img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/=
+showme_80x34.jpg" width=3D"80" height=3D"34" alt=3D"show me" border=3D"0" s=
+tyle=3D"display:block;">
+					</a>
+				</td>
+			</tr>
+			<tr>
+				<td align=3D"left" style=3D"border-right:1px solid #76c5cb; border-bott=
+om:1px solid #76c5cb; color:#0078ff; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CITY|25000387721&ea=3DACAE8=
+EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/boston-logan-intl-bos/?refid=3DPM=
+ARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CITY|25000387721=
+&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&u=
+tm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721"=
+ style=3D"text-decoration:underline; color:#0078ff;">
+						<span style=3D"font-size:14px; font-weight:bold;">Boston</span>
+						<br>(BOS)
+					</a>
+				</td>
+			   <td align=3D"center" style=3D"border-right:1px solid #76c5cb; border-=
+bottom:1px solid #76c5cb; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_IMG|25000387721&ea=3DACAE8E=
+A52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=3D=
+PMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhttp:/=
+/www.airportrentalcars.com/us-airports/boston-logan-intl-bos/?refid=3DPMARC=
+_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_IMG|25000387721&ea=
+=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_=
+source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721">
+						<img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/=
+CAR_CCAR.jpg" width=3D"134" height=3D"72" alt=3D"" border=3D"0" style=3D"di=
+splay:block;">
+					</a>
+			   </td>
+			   <td align=3D"left" style=3D"border-right:1px solid #76c5cb; border-bo=
+ttom:1px solid #76c5cb; padding:10px 10px 10px 25px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CLASS|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/boston-logan-intl-bos/?refid=3DPM=
+ARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CLASS|2500038772=
+1&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&=
+utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721=
+" style=3D"color:#000000;">
+						<span style=3D"font-size:14px; font-weight:bold;">Compact Car</span>
+					</a>
+			   </td>
+		  	   <td align=3D"center" style=3D"border-right:1px solid #76c5cb; borde=
+r-bottom:1px solid #76c5cb; color:#177180; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_PRICE|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/boston-logan-intl-bos/?refid=3DPM=
+ARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_PRICE|2500038772=
+1&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&=
+utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721=
+" style=3D"color:#177180;text-decoration:none;">
+						from $<span style=3D"font-size:20px; font-weight:bold;">9</span> /day
+					</a>
+			   </td>
+			   <td align=3D"center" style=3D"border-bottom:1px solid #76c5cb; paddin=
+g:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_BUTTON|25000387721&ea=3DACA=
+E8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/boston-logan-intl-bos/?refid=3DPM=
+ARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_BUTTON|250003877=
+21&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail=
+&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_2500038772=
+1">
+						<img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/=
+showme_80x34.jpg" width=3D"80" height=3D"34" alt=3D"show me" border=3D"0" s=
+tyle=3D"display:block;">
+					</a>
+				</td>
+			</tr>
+			<tr>
+				<td align=3D"left" style=3D"border-right:1px solid #76c5cb; border-bott=
+om:1px solid #76c5cb; color:#0078ff; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CITY|25000387721&ea=3DACAE8=
+EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/orlando-intl-mco/?refid=3DPMARC_P=
+ROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CITY|25000387721&ea=
+=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_=
+source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721" st=
+yle=3D"text-decoration:underline; color:#0078ff;">
+						<span style=3D"font-size:14px; font-weight:bold;">Orlando</span>
+						<br>(MCO)
+					</a>
+				</td>
+			   <td align=3D"center" style=3D"border-right:1px solid #76c5cb; border-=
+bottom:1px solid #76c5cb; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_IMG|25000387721&ea=3DACAE8E=
+A52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=3D=
+PMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhttp:/=
+/www.airportrentalcars.com/us-airports/orlando-intl-mco/?refid=3DPMARC_PROM=
+O_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_IMG|25000387721&ea=3DACA=
+E8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721">
+						<img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/=
+CAR_ECAR.jpg" width=3D"134" height=3D"72" alt=3D"" border=3D"0" style=3D"di=
+splay:block;">
+					</a>
+			   </td>
+			   <td align=3D"left" style=3D"border-right:1px solid #76c5cb; border-bo=
+ttom:1px solid #76c5cb; padding:10px 10px 10px 25px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CLASS|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/orlando-intl-mco/?refid=3DPMARC_P=
+ROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CLASS|25000387721&ea=
+=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_=
+source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721" st=
+yle=3D"color:#000000;">
+						<span style=3D"font-size:14px; font-weight:bold;">Economy Car</span>
+					</a>
+			   </td>
+		  	   <td align=3D"center" style=3D"border-right:1px solid #76c5cb; borde=
+r-bottom:1px solid #76c5cb; color:#177180; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_PRICE|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/orlando-intl-mco/?refid=3DPMARC_P=
+ROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_PRICE|25000387721&ea=
+=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_=
+source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721" st=
+yle=3D"color:#177180;text-decoration:none;">
+						from $<span style=3D"font-size:20px; font-weight:bold;">10</span> /day
+					</a>
+			   </td>
+			   <td align=3D"center" style=3D"border-bottom:1px solid #76c5cb; paddin=
+g:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_BUTTON|25000387721&ea=3DACA=
+E8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/orlando-intl-mco/?refid=3DPMARC_P=
+ROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_BUTTON|25000387721&ea=
+=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_=
+source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721">
+						<img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/=
+showme_80x34.jpg" width=3D"80" height=3D"34" alt=3D"show me" border=3D"0" s=
+tyle=3D"display:block;">
+					</a>
+				</td>
+			</tr>
+			<tr>
+				<td align=3D"left" style=3D"border-right:1px solid #76c5cb; border-bott=
+om:1px solid #76c5cb; color:#0078ff; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CITY|25000387721&ea=3DACAE8=
+EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/new-york-city-john-f-kennedy-intl=
+-jfk/?refid=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_=
+CITY|25000387721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_=
+medium=3Demail&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EM=
+AIL_25000387721" style=3D"text-decoration:underline; color:#0078ff;">
+						<span style=3D"font-size:14px; font-weight:bold;">New York</span>
+						<br>(JFK)
+					</a>
+				</td>
+			   <td align=3D"center" style=3D"border-right:1px solid #76c5cb; border-=
+bottom:1px solid #76c5cb; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_IMG|25000387721&ea=3DACAE8E=
+A52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=3D=
+PMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhttp:/=
+/www.airportrentalcars.com/us-airports/new-york-city-john-f-kennedy-intl-jf=
+k/?refid=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_IMG=
+|25000387721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medi=
+um=3Demail&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_=
+25000387721">
+						<img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/=
+CAR_ECAR.jpg" width=3D"134" height=3D"72" alt=3D"" border=3D"0" style=3D"di=
+splay:block;">
+					</a>
+			   </td>
+			   <td align=3D"left" style=3D"border-right:1px solid #76c5cb; border-bo=
+ttom:1px solid #76c5cb; padding:10px 10px 10px 25px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_CLASS|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/new-york-city-john-f-kennedy-intl=
+-jfk/?refid=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_=
+CLASS|25000387721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm=
+_medium=3Demail&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_E=
+MAIL_25000387721" style=3D"color:#000000;">
+						<span style=3D"font-size:14px; font-weight:bold;">Economy Car</span>
+					</a>
+			   </td>
+		  	   <td align=3D"center" style=3D"border-right:1px solid #76c5cb; borde=
+r-bottom:1px solid #76c5cb; color:#177180; padding:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_PRICE|25000387721&ea=3DACAE=
+8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/new-york-city-john-f-kennedy-intl=
+-jfk/?refid=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_=
+PRICE|25000387721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm=
+_medium=3Demail&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_E=
+MAIL_25000387721" style=3D"color:#177180;text-decoration:none;">
+						from $<span style=3D"font-size:20px; font-weight:bold;">18</span> /day
+					</a>
+			   </td>
+			   <td align=3D"center" style=3D"border-bottom:1px solid #76c5cb; paddin=
+g:10px 10px 10px 10px;">
+					<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_E=
+MAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_BUTTON|25000387721&ea=3DACA=
+E8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=
+=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhtt=
+p://www.airportrentalcars.com/us-airports/new-york-city-john-f-kennedy-intl=
+-jfk/?refid=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DRC_DEALS_=
+BUTTON|25000387721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&ut=
+m_medium=3Demail&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_=
+EMAIL_25000387721">
+						<img src=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/=
+showme_80x34.jpg" width=3D"80" height=3D"34" alt=3D"show me" border=3D"0" s=
+tyle=3D"display:block;">
+					</a>
+				</td>
+			</tr></table>
+								<!-- Weekend Rental Car Deals Table End -->
+								</td>
+							</tr>
+							<tr>
+								<td align=3D"center" style=3D"padding:10px 0px 10px 0px;"><img src=
+=3D"http://image.emails.priceline.com/lib/fef51371706d00/m/1/brands_750x68.=
+jpg" width=3D"750" height=3D"68" alt=3D"Hertz Enterprise Budget Avis Thrift=
+y National Alamo" border=3D"0" style=3D"display:block;"></td>
+							</tr>
+							<!--
+							<tr>
+								<td align=3D"center" style=3D"padding:0px 0px 20px 0px;"><a href=3D=
+"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_EMAIL&sendId=3D2=
+5000387721&refclickid=3DPCLN_XSELL|25000387721&ea=3DACAE8EA52B21A3CA40CC55E=
+9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=3DPMARC_PROMO_EMAIL=
+&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721"><img src=3D"http://image.ema=
+ils.priceline.com/lib/fef51371706d00/m/1/priceline_banner_729x92.jpg" width=
+=3D"729" height=3D"92" alt=3D"last minute deals up to 50% off at priceline.=
+com" border=3D"0" style=3D"display:block;"></a></td>
+							</tr>
+							-->
+						</table>
+						<!-- Main White Table End -->
+						<!-- </td>
+					</tr>
+				</table>
+				 -->
+				<!-- Orange Header Table End -->
+				</td>
+			</tr>
+		</table>
+		<!-- Thicker Outer Blue Border Table End -->
+		</td>
+	</tr>
+</table>
+<!-- Thin Outer Blue Border Table End --></td>
+  </tr>
+<tr>
+    <td valign=3D"top"><table width=3D"818" border=3D"0" cellpadding=3D"1" =
+cellspacing=3D"0" style=3D"font-family:verdana; color:#000000; font-size:11=
+px;">
+
+  <tr>
+    <td style=3D"padding:15px 0px 0px 0px;">Questions? Please do not reply =
+to this email; responses are not monitored and will not go to a customer se=
+rvice representative. If you have questions about these promotions or a pre=
+vious AirportRentalCars request, please visit our=20
+	<a href=3D"http://jump.priceline.com/default.asp?refid=3DPMARC_PROMO_EMAIL=
+&sendId=3D25000387721&refclickid=3DCS_HELP|25000387721&ea=3DACAE8EA52B21A3C=
+A40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demail&utm_source=3DPMARC_PRO=
+MO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_25000387721&url=3Dhttp://www.airp=
+ortrentalcars.com/support/faq/?refid=3DPMARC_PROMO_EMAIL&sendId=3D250003877=
+21&refclickid=3DCS_HELP|25000387721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F29=
+30A674DB9805CF&utm_medium=3Demail&utm_source=3DPMARC_PROMO_EMAIL&utm_campai=
+gn=3DPMARC_PROMO_EMAIL_25000387721"   style=3D"color:#99ccff;text-decoratio=
+n:underline;">Customer Service Center</a>.</td>
+    <td rowspan=3D"5"><img src=3D"http://image.emails.priceline.com/lib/fef=
+51371706d00/m/1/spacer.gif" width=3D"10" height=3D"1" alt=3D""></td>
+  </tr>
+
+  <tr>
+    <td style=3D"padding:15px 0px 15px 0px;">Subscription Management: You a=
+re receiving this e-mail because you requested to be added to our AirportRe=
+ntalCars.com e-mail list, or you asked to receive future updates when booki=
+ng or inquiring about a AirportRentalCars.com purchase. If you would prefer=
+ not to receive future AirportRentalCars.com deals and updates and wish to =
+unsubscribe, please <a href=3D"http://jump.priceline.com/default.asp?refid=
+=3DPMARC_PROMO_EMAIL&sendId=3D25000387721&refclickid=3DUNSUBSCRIBE|25000387=
+721&ea=3DACAE8EA52B21A3CA40CC55E9900C8D6F2930A674DB9805CF&utm_medium=3Demai=
+l&utm_source=3DPMARC_PROMO_EMAIL&utm_campaign=3DPMARC_PROMO_EMAIL_250003877=
+21&url=3Dhttps://offers.priceline.com/p/unsub_arc.php?ea=3DACAE8EA52B21A3CA=
+40CC55E9900C8D6F2930A674DB9805CF%26send_id=3D25000387721"  style=3D"color:#=
+99ccff; text-decoration:underline;">unsubscribe here</a></td>
+  </tr>
+
+  <tr>
+    <td style=3D"color:#000000; border-top:1px solid #667799; padding:15px =
+0px 15px 0px;">RENTAL CAR DEALS: Rental car rate shown above are rates obta=
+ined by other airportrentalcars.com customers for offers booked in the last=
+ 21 days. Rates are in US dollars but do not include taxes and fees, airpor=
+t fees or surcharges, coverages and car options. Rates and availability cha=
+nge constantly and rates are not guaranteed. The rates shown above are upda=
+ted once a week and are subject to change at any time. There is no guarante=
+e that specific rental cars, dates or prices will be available. </td>
+  </tr>
+
+  <tr>
+    <td style=3D"border-top:1px solid #667799; padding:15px 0px 0px 0px;">T=
+o ensure that AirportRentalCars newsletters are delivered to your inbox, pl=
+ease add "<a href=3D"mailto:deal@email.airportrentalcars.com" style=3D"colo=
+r: #99ccff; text-decoration: underline;">deal@email.airportrentalcars.com</=
+a>" to your address book.</td>
+  </tr>
+
+  <tr>
+    <td style=3D"padding:15px 0px 15px 0px;">This is a promotional email fr=
+om AirportRentalCars.com - 800 Connecticut Ave. Norwalk, CT 06854</td>
+  </tr>
+
+</table></td>
+  </tr>
+
+</table>
+</div>
+
+<img src=3D"http://email.airportrentalcars.com/wf/open?upn=3D8z3bLdk80C-2F6=
+btA-2B4FbcpZAAPwS792Ya6yaxSO8R0uH2SWBaE6LXzbaN-2BbgQ5O0A1HC7pem-2BggUcW8MIu=
+1O5K4awM2we2MAUrxYLxB8UZeA0tf0G0WuZT8QtqzKbiGwq2se8fm-2FpimVWG5kOvU5u6lL62l=
+kMm-2F4eGhcDXs6NTfsnszJBqRQaRSeWBGeRaX0awqsxM3MxaPbnyp77MBp4i7d03ph-2FAxWQ1=
+hVrenWbuTUh69gZbk6rBe-2BTRwpWd4aT4-2BANaIM9ecOSrTX-2Ft5dvVieZwXSNZFsqOGgm6U=
+UAoewl9NPclJ0J-2F6sCAPmQhgOQ" alt=3D"" width=3D"1" height=3D"1" border=3D"0=
+" style=3D"height:1px !important;width:1px !important;border-width:0 !impor=
+tant;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !imp=
+ortant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !=
+important;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+--===============7108664717501170278==--
+
+

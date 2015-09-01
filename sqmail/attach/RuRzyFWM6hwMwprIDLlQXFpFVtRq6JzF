@@ -1,0 +1,56 @@
+Return-Path: <MARC.APOLLONIO@RADIO-CANADA.CA>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from localhost (localhost [127.0.0.1])
+	by ispv2.soleica.ca (Postfix) with ESMTP id A908313A4D1
+	for <aarngak@tamaani.ca>; Fri, 19 Jun 2009 11:43:41 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv2.soleica.ca ([127.0.0.1])
+	by localhost (ispv2.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id X+r8ZO+l3rDl for <aarngak@tamaani.ca>;
+	Fri, 19 Jun 2009 11:43:37 -0400 (EDT)
+Received: from mtliron.cbc.ca (mtliron.cbc.ca [159.33.128.110])
+	by ispv2.soleica.ca (Postfix) with ESMTP id A2EC313A3BE
+	for <aarngak@tamaani.ca>; Fri, 19 Jun 2009 11:42:48 -0400 (EDT)
+Received: from gwmtlout02.cbc.ca (HELO mtlnwgwiaout.mtl.cbc.ca) ([159.33.128.132])
+  by mtliron.cbc.ca with ESMTP; 19 Jun 2009 11:42:48 -0400
+X-IronPort-AV: i="4.42,254,1243828800"; 
+   d="scan'208,217"; a="18860003:sNHT15091836"
+Received: from GWIAoutMTL-MTA by mtlnwgwiaout.mtl.cbc.ca
+	with Novell_GroupWise; Fri, 19 Jun 2009 11:42:48 -0400
+Message-Id: <4A3B79B3.E13C.0093.0@RADIO-CANADA.CA>
+X-Mailer: Novell GroupWise Internet Agent 7.0.3 
+Date: Fri, 19 Jun 2009 11:42:43 -0400
+From: "MARC APOLLONIO" <MARC.APOLLONIO@RADIO-CANADA.CA>
+To: <aarngak@tamaani.ca>
+Subject: article
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="=__Part4B6037E3.0__="
+
+This is a MIME message. If you are reading this text, you may want to 
+consider changing to a mail reader or gateway that understands how to 
+properly handle MIME multipart messages.
+
+--=__Part4B6037E3.0__=
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+
+http://www.cyberpresse.ca/actualites/quebec-canada/national/200906/18/01-877068-grand-nord-la-situation-des-enfants-se-degrade.php
+
+--=__Part4B6037E3.0__=
+Content-Type: text/html; charset=US-ASCII
+Content-Transfer-Encoding: quoted-printable
+Content-Description: HTML
+
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<META content=3D"MSHTML 6.00.2900.3562" name=3DGENERATOR></HEAD>
+<BODY style=3D"MARGIN: 4px 4px 1px; FONT: 10pt Tahoma"><A href=3D"http://ww=
+w.cyberpresse.ca/actualites/quebec-canada/national/200906/18/01-877068-gran=
+d-nord-la-situation-des-enfants-se-degrade.php">http://www.cyberpresse.ca/a=
+ctualites/quebec-canada/national/200906/18/01-877068-grand-nord-la-situatio=
+n-des-enfants-se-degrade.php</A></BODY></HTML>
+
+--=__Part4B6037E3.0__=--
+
+

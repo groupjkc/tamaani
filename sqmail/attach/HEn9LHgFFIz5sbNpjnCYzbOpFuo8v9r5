@@ -1,0 +1,63 @@
+Return-Path: <fbNOREPLY@myfanbox.com>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv3.soleica.ca (localhost [127.0.0.1])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 75B653D8412
+	for <aarngak@tamaani.ca>; Wed, 28 Mar 2012 23:24:47 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv3.soleica.ca ([127.0.0.1])
+	by ispv3.soleica.ca (ispv3.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id v1u8zmytGp8T for <aarngak@tamaani.ca>;
+	Wed, 28 Mar 2012 23:24:46 -0400 (EDT)
+Received: from smtp1341.sms.ac (unknown [208.69.98.141])
+	by ispv3.soleica.ca (Postfix) with ESMTP id F31743D8422
+	for <aarngak@tamaani.ca>; Wed, 28 Mar 2012 23:24:21 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k6; d=myfanbox.com;
+ h=Content-Transfer-Encoding:List-Unsubscribe:MIME-Version:From:To:Date:Subject:Content-Type:Message-Id; i=fbNOREPLY@myfanbox.com;
+ bh=I92kSZIyWHvMyi65Areh/sb3ND8=;
+ b=18sxvqtAe0nQEaXpVeaHymx8Vj2w2psCMuXqWDVQy2JT8qwLjHOHV5MAuOd10+IktvlkELh0A2IU
+   JHDnhiEUpw==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k6; d=myfanbox.com;
+ b=CqD5yH/q9/Z8YtxOJ3qsFoINdTk7ti3mchdmyCGCyuEZw5Jtcy1ZoYtVkAdH2gtXUa097HV4udDx
+   gT75eiQ59g==;
+Received: by smtp1341.sms.ac id hefavs0llb8q for <aarngak@tamaani.ca>; Wed, 28 Mar 2012 20:24:16 -0700 (envelope-from <fbNOREPLY@myfanbox.com>)
+Content-Transfer-Encoding: binary
+ContentID: 31700
+TemplateID: 1584
+MessageLogId: 440870925
+EmailType: 530
+X-JAM: O0530
+List-Unsubscribe: http://profile.fanbox.com/ApplicationManager/APIEmailSettings.aspx?cid=31700&em=%2fqTndD1QV0qQkB2ezc0e9avVN8ntvyrs&vet=530&mlid=440870925&dt=032812&ptid=1584&aec=-1&tec=0
+MIME-Version: 1.0
+From: "michele_forgues" <fbNOREPLY@myfanbox.com>
+To: aarngak@tamaani.ca
+Date: 28 Mar 2012 20:24:16 -0700
+Subject: REMINDER: michele_forgues shared some photos with you
+Content-Type: multipart/alternative;
+ boundary=--boundary_18947372_4a7784c2-b6b5-437c-86ec-49e77db85d7f
+Message-Id: <4F73D5E0.00000EF3@smtp1341.sms.ac>
+
+
+----boundary_18947372_4a7784c2-b6b5-437c-86ec-49e77db85d7f
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+michele_forgues shared a new photo slideshow with you View now
+http://profile.fanbox.com/DeveloperOptin/BlogROME.aspx?vet=530&mlid=440870925&vlsid=31700&dt=032812&cid=31700&evt=961770659&src=SUPERBROMEMEMBERRESEND&encemail=%2fqTndD1QV0qQkB2ezc0e9avVN8ntvyrs&ptid=1584michele_forgues's time spent in this site helps urban community development.To reduce unwanted emails: if you don't respond to (click) emails from any person, all further emails to you from that person are automatically blocked for 24 hours.
+
+To ensure you don't miss anything from michele_forgues please check your feed
+ or inbox
+ regularly.This message was intended for aarngak@tamaani.ca and was sent as a notification, invitation or reminder (digital goods subject to change in reminders) of an event initiated by michele_forgues using a third-party or platform application and may contain promotional materials and/or services for sale including digital goods received.To control messages sent to or from you, your contacts and/or FanBox, click here
+http://profile.fanbox.com/ApplicationManager/ROMEBlogSettings.aspx?cid=31700&em=%2fqTndD1QV0qQkB2ezc0e9avVN8ntvyrs&vet=530&mlid=440870925&dt=032812&ptid=1584&aec=-1&tec=-1&pid=31700&sendid=210143638.Our offices are located at: FanBox - 113 West G Street, STE 510, San Diego, CA 92101, USA
+----boundary_18947372_4a7784c2-b6b5-437c-86ec-49e77db85d7f
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<div style="font-size: 12pt; font-family: Arial, Helvetica, sans-serif; color: #000000;">michele_forgues shared a new photo slideshow with you <a href="http://profile.fanbox.com/DeveloperOptin/BlogROME.aspx?vet=530&mlid=440870925&vlsid=31700&dt=032812&cid=31700&evt=961770659&src=SUPERBROMEMEMBERRESEND&encemail=%2fqTndD1QV0qQkB2ezc0e9avVN8ntvyrs&ptid=1584">View now</a></div><div style="margin-top: 80px; font-size: 10pt; font-family: Arial, Helvetica, sans-serif; color: #000000;">michele_forgues's time spent in this site helps urban community development.<div><strong>To reduce unwanted emails:</strong> if you don't respond to (click) emails from any person, all further emails to you from that person are automatically blocked for 24 hours.</div>
+	<div style="margin-top:1em;">To ensure you don't miss anything from michele_forgues please check your <a href="">feed</a> or <a href="">inbox</a> regularly.</div></div><br /><div style="border-top: 1px solid #000; font-size: 8pt; font-family: Arial, Helvetica, sans-serif; color: #000000;">This message was intended for aarngak@tamaani.ca and was sent as a notification, invitation or reminder (digital goods subject to change in reminders) of an event initiated by michele_forgues using a third-party or platform application and may contain promotional materials and/or services for sale including digital goods received.<br /><br />To control messages sent to or from you, your contacts and/or FanBox, click <a href="http://profile.fanbox.com/ApplicationManager/ROMEBlogSettings.aspx?cid=31700&em=%2fqTndD1QV0qQkB2ezc0e9avVN8ntvyrs&vet=530&mlid=440870925&dt=032812&ptid=1584&aec=-1&tec=-1&pid=31700&sendid=210143638">here</a>.<div>Our offices are located at: FanBox - 113 West G Street, 
+ STE 510, San Diego, CA 92101, USA</div></div>
+----boundary_18947372_4a7784c2-b6b5-437c-86ec-49e77db85d7f--
+
+
+
+

@@ -1,0 +1,239 @@
+Return-Path: <johanne.morel@yahoo.fr>
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on tamaani.ca
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.1 required=7.0 tests=DKIM_SIGNED,DKIM_VALID,
+	DKIM_VALID_AU,FREEMAIL_FROM autolearn=ham version=3.3.1
+X-Original-To: jna@tamaani.ca
+Delivered-To: jna@tamaani.ca
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from nm20-vm7.bullet.mail.ir2.yahoo.com (nm20-vm7.bullet.mail.ir2.yahoo.com [212.82.96.249])
+	by tamaani.ca (Postfix) with ESMTPS id 7C0AE68EE0
+	for <jna@tamaani.ca>; Tue, 30 Sep 2014 13:49:35 -0400 (EDT)
+Received: from [212.82.98.61] by nm20.bullet.mail.ir2.yahoo.com with NNFMP; 30 Sep 2014 17:49:33 -0000
+Received: from [212.82.98.83] by tm14.bullet.mail.ir2.yahoo.com with NNFMP; 30 Sep 2014 17:49:33 -0000
+Received: from [127.0.0.1] by omp1020.mail.ir2.yahoo.com with NNFMP; 30 Sep 2014 17:49:33 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 570040.46895.bm@omp1020.mail.ir2.yahoo.com
+Received: (qmail 61056 invoked by uid 60001); 30 Sep 2014 17:49:33 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.fr; s=s1024; t=1412099373; bh=ljlwiuo9F1xLHCZlAraS2Nb9/doeXwE0VoyovzxcThg=; h=Message-ID:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding; b=1ky2QJJuVnPUTalB2v61pgmk/y2qsZEoOevMUUJaAqnepyh/+AjB++nbLfCYZTPMA9yTeitl4gPkazjBxVgDY+SLRhyFnOOvb76xi7tnwu2F5O/+5Ww0fX4ppBarvTkCSjovYk53qNFsD+Vftst8xBOebkvPhNgfUsdV6bYODRg=
+X-YMail-OSG: eRk_hpIVM1mXnDQNZIHxvqYBtvUd3V8aZa4XfRncnDx3.Ps
+ UNtEfXGfH70j3sZ2_HbKO3V_8T.vXKIPZ3HFeA3tfzCOJGD33uTdQVS.q1en
+ blAgBy.UGzWYJCu9B90yJJ_RgkawW31VOguGuTu513N6bSfogIKF.JUQbtfJ
+ qf8Z4yPzuFsPyA7y1HkcMRRCuMMNmBaXTE4OqWaGfsi.Oh7Yey3WUXek7N6D
+ tXDs.VM9gTXgEnJEPQWRKSPOYHTOILIoOHajGKDjJiHyg0DtAZrfMWQ1Wk5l
+ p5HvN8DHIDxpWuitwtI2S407OpsC8_UOHLeU6RVggIDd9dZ4BbkJhEUl9kGh
+ fwwev1z56rJMj4SIVjS6iehtvxjHL983.NxEGdqwFKtuuFhzK2GYVi5.eju7
+ Xx8lMAWWi1saQzSNF.jIerNQDfyd8sbt6fEeOT9KQZ1_pFvs73RPXjHp09yG
+ GZH9poM05XDF2Z4dnV3ucMBbn6UPZuqJgzuO_ODmRieweQLQ1nsi0H46iiMZ
+ 0VDyiheLfO7qx3YNoX96j1gB1NGDIYI.xRJ3CQdC2wOQ5QowaSI6mjGe9Ydn
+ M_FZYb7Hn
+Received: from [198.168.152.20] by web172805.mail.ir2.yahoo.com via HTTP; Tue, 30 Sep 2014 18:49:33 BST
+X-Rocket-MIMEInfo: 002.001,SGVyZSBpdCBpcyENCg0KDQotLS0gRW4gZGF0ZSBkZcKgOiBWZW4gMjYuOS4xNCwgSm9oYW5uZSBNb3JlbCA8am9oYW5uZS5tb3JlbEB5YWhvby5mcj4gYSDDqWNyaXTCoDoNCg0KPiBEZTogSm9oYW5uZSBNb3JlbCA8am9oYW5uZS5tb3JlbEB5YWhvby5mcj4NCj4gT2JqZXQ6IFJlOiBTdW5zaGluZSB0cmlwIHRvIERpc25leQ0KPiDDgDogImpuYUB0YW1hYW5pLmNhIiA8am5hQHRhbWFhbmkuY2E.DQo.IENjOiBzYWxsaWVjaGlzbGV0dEBob3RtYWlsLmNvbSwga2FuZ2luYW5jeUBnbWFpbC5jb20NCj4gRGF0ZToBMAEBAQE-
+X-Mailer: YahooMailClassic/786 YahooMailWebService/0.8.203.696
+Message-ID: <1412099373.64080.YahooMailBasic@web172805.mail.ir2.yahoo.com>
+Date: Tue, 30 Sep 2014 18:49:33 +0100
+From: Johanne Morel <johanne.morel@yahoo.fr>
+Subject: Fw : Re: Sunshine trip to Disney
+To: "jna@tamaani.ca" <jna@tamaani.ca>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Here it is!
+
+
+--- En date de=A0: Ven 26.9.14, Johanne Morel <johanne.morel@yahoo.fr> a =
+=E9crit=A0:
+
+> De: Johanne Morel <johanne.morel@yahoo.fr>
+> Objet: Re: Sunshine trip to Disney
+> =C0: "jna@tamaani.ca" <jna@tamaani.ca>
+> Cc: salliechislett@hotmail.com, kanginancy@gmail.com
+> Date: Vendredi 26 septembre 2014, 17h50
+> Hi Mr. Adams,
+> please find included the list of the names of
+> the 6 children and 2 escorts for the Sunshine trip to Disney
+>=20
+> as you are well aware, this trip is for children who suffer significant a=
+nd permanent=A0 physical impairments. The medical conditions of the childre=
+n have been evaluated by a medical team at Sunshine and the following child=
+ren have been found to be eligible.
+> 1. Raymond Ittulak
+> 2. Aloupa Emudluk
+> 3. Itsaja Etok
+> 4.Sukartai Annanack
+> 5. Jocelyn Etok
+> 6. Tuniq Etok
+> We have asked 2 adults to come with the children, one is Eleonora Townley=
+ and the other remains to be confirmed (probably Pasha Etok). We
+> feel it is not safe to send 6 children with a single adult. The 8 travell=
+ers are from Kangiqsualujjuaq. They would arrive in Montreal on the 4th
+> of October and return home on the 8th.
+>=20
+> Several other children from Nunavik will be joining the trip. All their t=
+ravel arrangements have been made around medical appointments.=20
+> All these children will be travelling with a parent, so 2 tickets were ob=
+tained for each of them
+> There are 2 from Kuujjuaraapik, 1 from Quaqtaq, 1 from Aupaluk, 3 from Ku=
+ujjuaq and 2 others from Kangiqsualujjuaq (total of 9 children
+ + 9 adults, 2 from the Hudson and 7 from Ungava have had their tickets pai=
+d by the healthcare system).
+> Should you require further information, please feel free to contact me at=
+ this address. I will reply promptly.
+> I thank you for all the efforts you have invested into making this trip a=
+ reality for the children
+> The passport office number is1-800-567-6868. Again, if Jordan's passport =
+is not yetin the mail, could you please ask them to send it for pick
+> up at the Montreal office on Ren=E9 L=E9vesque (Guy Favreau
+ complex).=20
+> Johanne Morel
+>=20
+>=20
+>=20
+>=20
+> --------------------------------------------
+> En date de=A0: Lun 8.9.14, Johnny Adams <jadams@lavalfortinadams.com>
+> a =E9crit=A0:
+>=20
+>  Objet: Re:
+> [Fwd: Sunshine trip to Disney]
+>  =C0:
+> "Pita Aatami" <pita.aatami@airinuit.com>
+>  Cc:
+> "Lydia Cartolano" <lcartolano@airinuit.com>,
+> "johanne.morel@yahoo.fr"
+> <johanne.morel@yahoo.fr>
+>  Date: Lundi 8 septembre 2014, 14h18
+> =20
+> =20
+> =20
+> =A0=20
+> =20
+> =20
+>  Hi Pita and Lydia,
+> =20
+> =20
+> =20
+>  I have
+> included Dr.Johanne Morel so she can contact
+>  Lydia directly at Air Inuit.
+>=20
+>=20
+> =20
+> =20
+>  I
+> would like to thank Air Inuit for their support on
+>  this worthwhile initiative of Sunshine
+> Foundation for
+>  Nunavimmiut children who
+> might not have had the privilege of
+>  seeing
+> Disney World in their lifetime. =A0Lastly, a big
+>  thank you to Dr. Morel for her
+> =A0 dedication in making this happen.
+> =20
+> =20
+> =20
+>  Regards,
+> =20
+>=20
+>=20
+> =20
+>  Johnny
+>=20
+>=20
+> =20
+> =20
+>  Sent
+> from my iPhone
+> =20
+> =20
+>  On Sep 8, 2014, at 9:49 AM, "Pita
+> Aatami" <pita.aatami@airinuit.com>
+>  wrote:
+> =20
+> =20
+> =20
+> =20
+> =20
+> =A0=20
+> =20
+> =20
+>  Hi Johnny
+> =20
+> =A0
+> =A0=20
+>  We can work together
+>=20
+> on this, it is a worthwhile project, it will bring some
+>  sunshine for the children that would go on the
+> trip. I am
+>  including Lydia Cartolano
+> =A0 in the email, she can take care of all the
+> logistics, the
+>  only issue we have is the
+> security tax, it is roughly $50
+>  per person
+> that has to be paid to the government, I wonder
+>  if we can have help from the board members of
+> Makivik, the
+>  members of the board of
+> =A0 Makivik, we would ask for support would be
+> where the
+>  children are living from.=20
+> =A0 =A0=20
+> =A0 =A0=20
+>=20
+> Pita=20
+> =A0 =A0=20
+> =20
+> =20
+>  From: Johnny Adams
+> [mailto:jadams@lavalfortinadams.com]
+> =20
+> =20
+>  Sent:
+> September-08-14 9:20 AM
+> =20
+>=20
+> To: Pita Aatami
+> =20
+>  Subject:
+> Fwd: [Fwd: Sunshine trip to
+>  Disney]=20
+> =20
+> =20
+> =A0 =A0=20
+> =20
+>  Call me when you get
+>  this.
+> =20
+> =20
+> =20
+>  Sent from my iPhone=20
+> =20
+> =20
+> =20
+> =20
+>  Begin forwarded message:=20
+> =20
+> =20
+>  From:
+> <jna@tamaani.ca>
+> =20
+>  Date: September 8, 2014 at
+> 9:20:55 AM GMT-4
+> =20
+>  To:
+> <jadams@lavalfortinadams.com>
+> =20
+>  Subject: [Fwd: Sunshine trip
+> to Disney]=20
+> =20
+> =20
+> =20
+> =20
+> 
+
+

@@ -1,0 +1,68 @@
+            <div id="bottom_nav" >
+                <a href="video.php" ><span class="red">View</span>  Video</a>
+                <img  class="vertical_middle margin" src="images/bot_nav_sep.png">
+                <a href="wp/wp-login.php?action=register" ><span class="red">Register</span> Now</a>
+                <img  class="vertical_middle margin" src="images/bot_nav_sep.png">
+                <a  href="wp/" class="red"><span class="red">Blog</span></a>
+            </div>            
+           
+            <div id='footer_home'>
+                <?php  if(!$contact){?>  
+                    <div id="footer_left">	
+                    
+                        <div class="footer_title">	
+                        	<?php echo $lang['location']; ?>
+                        </div> 
+                        <div class="text">	
+                        	<?php echo $lang['footer']; ?>
+                        </div>                         		
+                    </div> 
+                <?php }?>  
+                <div id="footer_right">	
+                    <img src="images/<?php echo $lang['logo'];?>"  border="0"/>	
+                </div>        
+            </div>        
+        </div> 
+    </div>
+	<script type='text/javascript' src='js/jquery-1.3.2.min.js'></script>   
+	<script type='text/javascript' src='js/jquery.pngFix.pack.js'></script>       
+    <script type='text/javascript' src='js/jquery.validate.js'></script>       
+	<script type='text/javascript'>
+		$(document).ready(function(){ 
+								   
+			$(document).pngFix(); 
+
+			$('#name').focus(); // focus on the first input
+			
+			$.validator.messages.required = "";
+			$.validator.messages.email = "";			
+			
+			$.validator.addMethod('minWords', function(value, element, params) {
+				return !$(element).val() || $(element).val().match(/\b\w+\b/g).length >= params;
+			}, 'Please enter at least {0} words.');
+			
+			$("#contact").validate({
+				errorPlacement: function(error, element) {
+				},
+				focusInvalid: true,
+				highlight: function(element, errorClass) {
+					$(element).addClass('error');
+				}
+				
+			});	
+
+			
+		}); 
+	</script>         
+	<script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-2423068-61']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>    
+</body>
+</html>

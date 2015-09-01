@@ -1,0 +1,89 @@
+Return-Path: <serge_dery@ssss.gouv.qc.ca>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv3.soleica.ca (localhost [127.0.0.1])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 36DEA3D7FB3
+	for <aarngak@tamaani.ca>; Mon, 30 May 2011 12:14:29 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv3.soleica.ca ([127.0.0.1])
+	by ispv3.soleica.ca (ispv3.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id w7X6u+yaCrxz for <aarngak@tamaani.ca>;
+	Mon, 30 May 2011 12:14:29 -0400 (EDT)
+Received: from tcn00qubc00208.isn.rtss.qc.ca (relais3.ssss.gouv.qc.ca [142.83.199.7])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 0A9033D7E9B
+	for <aarngak@tamaani.ca>; Mon, 30 May 2011 12:14:29 -0400 (EDT)
+Received: from tc00bar200725.ssss.gouv.qc.ca ([10.249.80.30])
+          by tcn00qubc00208.isn.rtss.qc.ca (Lotus Domino Release 8.5.2FP1)
+          with ESMTP id 2011053012142851-3629325 ;
+          Mon, 30 May 2011 12:14:28 -0400 
+X-ASG-Debug-ID: 1306772063-7b1270290002-FBqy4Z
+Received: from tcn00qubc00551.isn.rtss.qc.ca ([10.250.32.27]) by tc00bar200725.ssss.gouv.qc.ca with ESMTP id zddtH6NyLyj4lAiN for <aarngak@tamaani.ca>; Mon, 30 May 2011 12:14:23 -0400 (EDT)
+X-Barracuda-Envelope-From: serge_dery@ssss.gouv.qc.ca
+Subject: Need to tal with your husband Charlie
+To: aarngak@tamaani.ca
+X-ASG-Orig-Subj: Need to tal with your husband Charlie
+X-Mailer: Lotus Notes Release 6.5.6 March 06, 2007
+Message-ID: <OFFC3503A6.77605DB7-ON852578A0.0058F583-852578A0.00593733@isn.rtss.qc.ca>
+From: serge_dery@ssss.gouv.qc.ca
+Date: Mon, 30 May 2011 12:14:13 -0400
+MIME-Version: 1.0
+X-Barracuda-Connect: UNKNOWN[10.250.32.27]
+X-Barracuda-Start-Time: 1306772063
+X-Barracuda-URL: http://10.249.80.42:8000/cgi-mod/mark.cgi
+X-Barracuda-Spam-Score: 0.53
+X-Barracuda-Spam-Status: No, SCORE=0.53 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=7.0 tests=HTML_MESSAGE, MIME_BASE64_BLANKS, MIME_BASE64_TEXT, NO_REAL_NAME
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.65115
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 NO_REAL_NAME           From: does not include a real name
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.00 MIME_BASE64_BLANKS     RAW: Extra blank lines in base64 encoding
+	0.52 MIME_BASE64_TEXT       RAW: Message text disguised using base64 encoding
+X-MIMETrack: Serialize by Router on TCN00QUBC00551/Serveurs/SSSS(Release 6.5.6FP3 HF341|October
+ 05, 2010) at 2011-05-30 12:14:23,
+	Itemize by SMTP Server on TCN00QUBC00208/Serveurs/SSSS(Release 8.5.2FP1|November
+ 29, 2010) at 2011-05-30 12:14:28,
+	Serialize by Router on TCN00QUBC00208/Serveurs/SSSS(Release 8.5.2FP1|November
+ 29, 2010) at 2011-05-30 12:14:29,
+	Serialize complete at 2011-05-30 12:14:29
+Content-type: multipart/alternative; 
+	Boundary="0__=0ABBF233DFCB73138f9e8a93df938690918c0ABBF233DFCB7313"
+Content-Disposition: inline
+
+--0__=0ABBF233DFCB73138f9e8a93df938690918c0ABBF233DFCB7313
+Content-transfer-encoding: base64
+Content-type: text/plain; charset=ISO-8859-1
+
+
+DQpHb29kIE1vbmRheSBBbGFzaWUNCg0KSSBoYXZlIHRyaWVkIHRvIGNhbGwgeW91ciBodXNiYW5k
+IHR3aWNlIGF0ICg4MTkpIDMzOC0zMzc4LiBCdXQgaXQgc2VlbXMNCnRoYXQgdGhlIHBob25lIGxp
+bmsgaXMgaGF2aW5nIHByb2JsZW1zLg0KDQoNCkNvdWxkIHlvdSBwbGVhc2UgYXNrIGhpbSB0byBj
+YWxsIG1lIG9uIG15IGNlbGwgcGhvbmUgYXQgKDgxOSkgNDc1LTQ4NjcgLg0KDQpUaGFuayB5b3Ug
+dmVyeSBtdWNoIGFuZCBzZWUgeW91IHNvb24gIQ0KDQpTZXJnZSBE6XJ5DQpQdWJsaWMgSGVhbHRo
+IERpcmVjdG9yIC8gRGlyZWN0ZXVyIGRlIGxhIHNhbnTpIFB1YmxpcXVlDQpSUlNTUyBOdW5hdmlr
+IFJCSFNTDQpLdXVqanVhcSwgUWMNClTpbDogKDgxOSkgOTY0LTIyMjIgIyAyMjYNCkZheDogKDgx
+OSkgOTY0LTI3MTENCnNlcmdlX2RlcnlAc3Nzcy5nb3V2LnFjLmNhDQpodHRwOi8vd3d3LnJyc3Nz
+MTcuZ291di5xYy5jYQ==
+
+--0__=0ABBF233DFCB73138f9e8a93df938690918c0ABBF233DFCB7313
+Content-transfer-encoding: base64
+Content-type: text/html; charset=ISO-8859-1
+Content-Disposition: inline
+
+PGh0bWw+PGJvZHk+DQo8cD5Hb29kIE1vbmRheSBBbGFzaWU8YnI+DQo8YnI+DQpJIGhhdmUgdHJp
+ZWQgdG8gY2FsbCB5b3VyIGh1c2JhbmQgdHdpY2UgYXQgKDgxOSkgMzM4LTMzNzguIEJ1dCBpdCBz
+ZWVtcyB0aGF0IHRoZSBwaG9uZSBsaW5rIGlzIGhhdmluZyBwcm9ibGVtcy48YnI+DQo8YnI+DQo8
+YnI+DQpDb3VsZCB5b3UgcGxlYXNlIGFzayBoaW0gdG8gY2FsbCBtZSBvbiBteSBjZWxsIHBob25l
+IGF0ICg4MTkpIDQ3NS00ODY3IC48YnI+DQo8YnI+DQpUaGFuayB5b3UgdmVyeSBtdWNoIGFuZCBz
+ZWUgeW91IHNvb24gITxicj4NCjxicj4NClNlcmdlIETpcnk8YnI+DQpQdWJsaWMgSGVhbHRoIERp
+cmVjdG9yIC8gRGlyZWN0ZXVyIGRlIGxhIHNhbnTpIFB1YmxpcXVlPGJyPg0KUlJTU1MgTnVuYXZp
+ayBSQkhTUzxicj4NCkt1dWpqdWFxLCBRYzxicj4NClTpbDogKDgxOSkgOTY0LTIyMjIgIyAyMjY8
+YnI+DQpGYXg6ICg4MTkpIDk2NC0yNzExPGJyPg0Kc2VyZ2VfZGVyeUBzc3NzLmdvdXYucWMuY2E8
+YnI+DQo8YSBocmVmPSJodHRwOi8vd3d3LnJyc3NzMTcuZ291di5xYy5jYSI+aHR0cDovL3d3dy5y
+cnNzczE3LmdvdXYucWMuY2E8L2E+PGJyPg0KPC9ib2R5PjwvaHRtbD4=
+
+--0__=0ABBF233DFCB73138f9e8a93df938690918c0ABBF233DFCB7313--
+
+
+

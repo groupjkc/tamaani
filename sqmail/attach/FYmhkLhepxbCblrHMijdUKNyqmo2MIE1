@@ -1,0 +1,257 @@
+Return-Path: <stagoona@gmail.com>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv3.soleica.ca (localhost [127.0.0.1])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 3CE8E3D9D85
+	for <aarngak@tamaani.ca>; Wed, 16 Mar 2011 08:29:04 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv3.soleica.ca ([127.0.0.1])
+	by ispv3.soleica.ca (ispv3.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id R4n1yWFQsEXi for <aarngak@tamaani.ca>;
+	Wed, 16 Mar 2011 08:29:03 -0400 (EDT)
+Received: from tcn00qubc00209.isn.rtss.qc.ca (relais4.ssss.gouv.qc.ca [142.83.199.8])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 0BB503D9D80
+	for <aarngak@tamaani.ca>; Wed, 16 Mar 2011 08:29:03 -0400 (EDT)
+Received: from tc00bar200725.ssss.gouv.qc.ca ([10.249.80.24])
+          by tcn00qubc00209.isn.rtss.qc.ca (Lotus Domino Release 8.5.2FP1)
+          with ESMTP id 2011031608290198-740612 ;
+          Wed, 16 Mar 2011 08:29:01 -0400 
+X-ASG-Debug-ID: 1300278535-1aad43c30006-FBqy4Z
+Received: from tcn00qubc00551.isn.rtss.qc.ca ([10.250.32.27]) by tc00bar200725.ssss.gouv.qc.ca with ESMTP id epSG91zBliHhxuCY for <aarngak@tamaani.ca>; Wed, 16 Mar 2011 08:28:57 -0400 (EDT)
+X-Barracuda-Envelope-From: stagoona@gmail.com
+Received: from tcn00barin00051.ssss.gouv.qc.ca ([10.120.138.27])
+          by TCN00QUBC00117.isqc.reg00.rtss.qc.ca (Lotus Domino Release 6.5.6FP3 HF341)
+          with ESMTP id 2011031608273294-229425 ;
+          Wed, 16 Mar 2011 08:27:32 -0400 
+Received: from mail-gx0-f172.google.com (mail-gx0-f172.google.com [209.85.161.172]) by tcn00barin00051.ssss.gouv.qc.ca with ESMTP id uLkCbunmTOIkVLpf (version=TLSv1 cipher=RC4-SHA bits=128 verify=NO) for <alasie.arngak@ssss.gouv.qc.ca>; Wed, 16 Mar 2011 0
+X-Barracuda-Apparent-Source-IP: 209.85.161.172
+Received-SPF: pass (tcn00barin00051.ssss.gouv.qc.ca: domain of gmail.com designates 209.85.161.172 as permitted sender) client-ip=209.85.161.172; envelope-from=stagoona@gmail.com;
+Received: by gxk19 with SMTP id 19so653609gxk.3
+        for <alasie.arngak@ssss.gouv.qc.ca>; Wed, 16 Mar 2011 05:28:43 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=/CWgtjSWjWsW/kZA+Ld840za7HCPT8OSjBU2GZGs2zA=;
+        b=Np+Qxe33cUPTsFWZojBWmKCL8GHEmMbBmZa61P9f634rrDmtmEuOZB1CAXUr/Z5Jrr
+         QemSxNTcM6Dpll1N/hN7jVoCXIJLTpLQe7xS/aPWCuyaOTyyAaDiaHNVBi7UoZM5OshY
+         YjQUQxJPB10avWBxgzZnWVXneAxlJAtqSrDAs=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        b=L5Cd/LqoRKhd2zWuLslaZb+3B7+t3WW4EcaT34zMK2uDePbUjd89AgAkY510hVbr39
+         7lulthR7BNKYCNRaf2olDEfyRvyJ6Z6jZ8l2dD9AXyyRMm8o08GOFZxRoiKJ/sQhGPBE
+         HhPvIBz+C3D513vU+km9ZHySQ0CpL6pXs4FsE=
+MIME-Version: 1.0
+Received: by 10.101.145.37 with SMTP id x37mr483337ann.160.1300278523547; Wed,
+ 16 Mar 2011 05:28:43 -0700 (PDT)
+Received: by 10.100.139.19 with HTTP; Wed, 16 Mar 2011 05:28:43 -0700 (PDT)
+In-Reply-To: <OF08FF4D65.8B5312ED-ON8525784E.0077ED00-8525784E.00783004@isn.rtss.qc.ca>
+References: <OF08FF4D65.8B5312ED-ON8525784E.0077ED00-8525784E.00783004@isn.rtss.qc.ca>
+Date: Wed, 16 Mar 2011 08:28:43 -0400
+Message-ID: <AANLkTin5XSzox1Nc-ssEWrcmwBf3j4AmjbV3rm5xT1Lo@mail.gmail.com>
+Subject: =?windows-1252?B?W1BvbGx1cmllbCBwb3RlbnRpZWxdICA=?= =?windows-1252?Q?Re=3A_Open_letter_=2D_END_OF_ANNIE_POPERT=92S_CONTRACT_=2F?= =?windows-1252?Q?_Lettre_ouverte_=2D_FIN_DE_CONTRAT_D=92ANNIE_POPERT?=
+From: Sara Tagoona <stagoona@gmail.com>
+X-ASG-Orig-Subj: =?windows-1252?B?W1BvbGx1cmllbCBwb3RlbnRpZWxdICA=?= =?windows-1252?Q?Re=3A_Open_letter_=2D_END_OF_ANNIE_POPERT=92S_CONTRACT_=2F?= =?windows-1252?Q?_Lettre_ouverte_=2D_FIN_DE_CONTRAT_D=92ANNIE_POPERT?=
+To: alasie.arngak@ssss.gouv.qc.ca
+X-Virus-Scanned: by bsmtpd at ssss.gouv.qc.ca
+X-MIMETrack: Itemize by SMTP Server on TCN00QUBC00117/Serveurs/SSSS(Release 6.5.6FP3
+ HF341|October 05, 2010) at 2011-03-16 08:27:32,
+	Serialize by Router on TCN00QUBC00551/Serveurs/SSSS(Release 6.5.6FP3 HF341|October
+ 05, 2010) at 2011-03-16 08:28:56,
+	Serialize complete at 2011-03-16 08:28:56,
+	Itemize by SMTP Server on TCN00QUBC00209/Serveurs/SSSS(Release 8.5.2FP1|November
+ 29, 2010) at 2011-03-16 08:29:01,
+	Serialize by Router on TCN00QUBC00209/Serveurs/SSSS(Release 8.5.2FP1|November
+ 29, 2010) at 2011-03-16 08:29:03,
+	Serialize complete at 2011-03-16 08:29:03
+X-TNEFEvaluated: 1
+X-Barracuda-Connect: UNKNOWN[10.250.32.27]
+X-Barracuda-Start-Time: 1300278537
+X-Barracuda-URL: http://10.249.80.42:8000/cgi-mod/mark.cgi
+X-Barracuda-Spam-Score: 0.20
+X-Barracuda-Spam-Status: No, SCORE=0.20 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=7.0 tests=BSF_SC0_SA038b, HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.58061
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.20 BSF_SC0_SA038b         Custom Rule SA038b
+Content-Type: multipart/alternative; boundary=0016e6d2726181517a049e98af7f
+
+--0016e6d2726181517a049e98af7f
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Alacie,
+
+I received the open letter from the Health board and I just want to express
+and share with you my thoughts on this matter. I certainly agree this is a
+very unfortunate situation under the circumstances and many people seem to
+have comments on it.
+
+I am aware of the circumstances that lead to Annie Poperts dismissal and I
+will not comment on this for personal reasons as this concerns my niece and
+my sister.  What I want to comment on is the decision that was made to end
+Annie Poperts contracts. I feel that this should of been brought to the
+board prior to such a decision and certainly to meet with both parties.  As
+managers and directors we must be ready to take criticism even if we do not
+agree with what is said and this is a very important quality needed in order
+to be able to work with people and go ahead.
+
+You have indicated the healing contract was not one of the contracts that
+was canceled and that it was to do with the youth protection file.  I have
+to say whether its the healing contract or not, this work that Annie does
+will always be part of the process and it certainly is in the clinical
+projects.  I am a member of the advisory committee on the clinical project
+on youth.  We had a very productive meeting at the last meeting, some very
+important points were discussed and the next steps that were to be taken.
+One of the points mentioned was to involve the population in the clinical
+projects and to also include the healing component  in this process.
+
+I would like to conclude by saying we have fellow Inuit that are valuable to
+us in the work we are doing and they are far in between.  We must think
+wisely before any such decision are made and I believe there are always ways
+of working things out in a better way as in this case.
+Nakirmiik and have a nice day.
+
+Sara Tagoona.
+
+
+
+On Wed, Mar 9, 2011 at 4:52 PM, <eric.duchesneau@ssss.gouvca> wrote:
+
+>
+> For your information / Pour votre information!
+>
+>
+>
+>
+>
+>
+>
+
+
+-- 
+Sara Tagoona, Director
+Tungasuvvik, Women's Shelter
+P.O. Box 586
+Kuujjuaq, Que.
+Tel. <%28819%29%20964-0536> <%28819%29%20964-0536>
+<%28819%29%20964-0536><%28819%29%20964-0536><%28819%29%20964-0536><%28819%29%20964-0536><%28819%29%20964-0536>(819)
+964-0536
+Fax <%28819%29964-2792> <%28819%29964-2792>
+<%28819%29964-2792><%28819%29964-2792><%28819%29964-2792><%28819%29964-2792><%28819%29964-2792>
+(819)964-2792
+
+--0016e6d2726181517a049e98af7f
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=ISO-8859-1
+
+Hi Alacie,<br><br>I received the open letter from the Health board and I ju=
+st want to express and share with you my thoughts on this matter. I certain=
+ly agree this is a very unfortunate situation under the circumstances and m=
+any people seem to have comments on it. =A0=A0 =A0 =A0 =A0 =A0 =A0 =A0 =A0=
+=A0=A0 <br>
+
+
+
+
+<br>I am aware of the circumstances that lead to Annie Poperts dismissal an=
+d I will not comment on this for personal reasons as this concerns my niece=
+ and my sister.=A0 What I want to comment on is the decision that was made =
+to end Annie Poperts contracts. I feel that this should of been brought to =
+the board prior to such a decision and certainly to meet with both parties.=
+=A0 As managers and directors we must be ready to take criticism even if we=
+ do not agree with what is said and this is a very important quality needed=
+ in order to be able to work with people and go ahead. =A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0 =A0 =A0=A0 <br>
+
+
+
+<br>You have indicated the healing contract was not one of the contracts th=
+at was canceled and that it was to do with the youth protection file.=A0 I =
+have to say whether its the healing contract or not, this work that Annie d=
+oes will always be part of the process and it certainly is in the clinical =
+projects.=A0 I am a member of the advisory committee on the clinical projec=
+t on youth.=A0 We had a very productive meeting at the last meeting, some v=
+ery important points were discussed and the next steps that were to be take=
+n.=A0 One of the points mentioned was to involve the population in the clin=
+ical projects and to also include the healing component=A0 in this process.=
+ =A0 <br>
+
+
+
+
+
+<br>I would like to conclude by saying we have fellow Inuit that are valuab=
+le to us in the work we are doing and they are far in between.=A0 We must t=
+hink wisely before any such decision are made and I believe there are alway=
+s ways of working things out in a better way as in this case. <br>
+Nakirmiik and have a nice day.<br><br>Sara Tagoona.<br>
+<br>
+<br>
+
+<br><div class=3D"gmail_quote">On Wed, Mar 9, 2011 at 4:52 PM,  <span dir=
+=3D"ltr">&lt;eric.duchesneau@ssss.gouvca&gt;</span> wrote:<br><blockquote c=
+lass=3D"gmail_quote" style=3D"border-left: 1px solid rgb(204, 204, 204); ma=
+rgin: 0pt 0pt 0pt 0.8ex; padding-left: 1ex;">
+
+
+
+
+
+
+
+
+
+<br><font face=3D"sans-serif" size=3D"2">For your information / Pour votre =
+information!</font>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><font face=3D"sans-serif" size=3D"2"><br>
+</font><img src=3D"https://mail.google.com/mail/?ui=3D2&amp;ik=3D0566a825eb=
+&amp;view=3Datt&amp;th=3D12eb21a4ba121bb8&amp;attid=3D0.1&amp;disp=3Demb&am=
+p;realattid=3D2a0686405dd609a3_0.0.1&amp;zw"></blockquote></div><br><br cle=
+ar=3D"all"><br>
+
+
+
+
+
+
+
+-- <br>Sara Tagoona, Director<br>Tungasuvvik, Women&#39;s Shelter<br>P.O. B=
+ox 586<br>Kuujjuaq, Que.<br>Tel. <a href=3D"tel:%28819%29%20964-0536" targe=
+t=3D"_blank"></a><a href=3D"tel:%28819%29%20964-0536" target=3D"_blank"></a=
+><a href=3D"tel:%28819%29%20964-0536" target=3D"_blank"></a><a href=3D"tel:=
+%28819%29%20964-0536" target=3D"_blank"></a><a href=3D"tel:%28819%29%20964-=
+0536" target=3D"_blank"></a><a href=3D"tel:%28819%29%20964-0536" target=3D"=
+_blank"></a><a href=3D"tel:%28819%29%20964-0536" target=3D"_blank"></a><a h=
+ref=3D"tel:%28819%29%20964-0536" target=3D"_blank">(819) 964-0536</a><br>
+
+
+
+
+
+
+
+Fax <a href=3D"tel:%28819%29964-2792" target=3D"_blank"></a><a href=3D"tel:=
+%28819%29964-2792" target=3D"_blank"></a><a href=3D"tel:%28819%29964-2792" =
+target=3D"_blank"></a><a href=3D"tel:%28819%29964-2792" target=3D"_blank"><=
+/a><a href=3D"tel:%28819%29964-2792" target=3D"_blank"></a><a href=3D"tel:%=
+28819%29964-2792" target=3D"_blank"></a><a href=3D"tel:%28819%29964-2792" t=
+arget=3D"_blank"></a><a href=3D"tel:%28819%29964-2792" target=3D"_blank">(8=
+19)964-2792</a><br>
+
+
+
+
+
+
+--0016e6d2726181517a049e98af7f--
+
+

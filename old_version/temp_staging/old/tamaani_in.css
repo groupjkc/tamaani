@@ -1,0 +1,91 @@
+/*General Body Elements*/
+
+
+body {
+	margin: 0px;
+	height: 0px;
+	width: 0px;
+	font-family: AiPaiNunavik;
+
+}
+p {
+	font-family: AiPaiNunavik;
+	font-size: 12px;
+}
+a:link {
+	font-family: AiPaiNunavik;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: underline;
+}
+a:visited {
+	font-family: AiPaiNunavik;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: underline;
+}
+a:visited:hover {
+	font-family: AiPaiNunavik;
+	font-size: 12px;
+	color: #CC0000;
+	text-decoration: underline;
+}
+a:hover {
+	font-family: AiPaiNunavik;
+	font-size: 12px;
+	color: #CC0000;
+	text-decoration: underline;
+}
+h3 {
+	color: #3366CC;
+}
+.english {
+	font-family: Geneva, Arial, Helvetica, san-serif;
+}
+.footnotes {
+	font-family: AiPaiNunavik;
+	font-size: 9px;
+	color: #000000;
+}
+.bold {
+	font-weight: bold;
+	font-size: 12px;
+}
+.title {
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+}
+
+/*Table Elements*/
+
+
+.tableborder {
+	border: 1px solid #3399CC;
+	background-color: #99CCFF;
+}
+.trbgcolor {
+	background-color: #CC0000;
+	border: 0px;
+}
+.contactback {
+	background-image: url(images/contact.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+.bulletin {
+	background-image: url(images/board_in.gif);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+.content {
+	font-family: AiPaiNunavik;
+	font-size: 11px;
+	color: #000000;
+}
+a.en:link {
+	font-family: Geneva, Arial, Helvetica, san-serif;
+	font-size: 12px;
+	color: #CC0000;
+}

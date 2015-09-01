@@ -1,0 +1,67 @@
+Return-Path: <karla.jessen.williamson@gmail.com>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv4.soleica.ca (localhost [127.0.0.1])
+	by ispv4.soleica.ca (Postfix) with ESMTP id 6524C76870
+	for <aarngak@tamaani.ca>; Sun, 10 Mar 2013 12:57:45 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Authentication-Results: ispv4.soleica.ca (amavisd-new);
+	dkim=pass (2048-bit key) header.d=gmail.com
+Received: from ispv4.soleica.ca ([127.0.0.1])
+	by ispv4.soleica.ca (ispv4.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id ReGrTnbUemFB for <aarngak@tamaani.ca>;
+	Sun, 10 Mar 2013 12:57:42 -0400 (EDT)
+Received: from mail-pb0-f67.google.com (mail-pb0-f67.google.com [209.85.160.67])
+	by ispv4.soleica.ca (Postfix) with ESMTP id 6BA0173C33
+	for <aarngak@tamaani.ca>; Sun, 10 Mar 2013 12:56:55 -0400 (EDT)
+Received: by mail-pb0-f67.google.com with SMTP id wz12so2536436pbc.10
+        for <aarngak@tamaani.ca>; Sun, 10 Mar 2013 09:56:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:x-received:date:message-id:subject:from:to
+         :content-type;
+        bh=cuSvabqIUvzXP8za6Hi6tUtALpnwVOIRgUqzHy+p61o=;
+        b=xC31cRYrILHCMokAvjWw80xd0WRj+A4ly6UjhPlo2pWDr3wbNB6ntec8z3wfWKCau5
+         q7tM04gf5gyincN6REwzyCkQZVMgs488K6MeJ2tijGTlrzQXJZdSsNDosAGzRv4KNyCm
+         NOmcYdakWpq+LU73pgNgL02917DT8rUZdcr5wE5jOC6KKS1hliF8r5D8z9pY1cbOTCye
+         isC/cCwwliMddRZctcNztOBoc0ESepkKcMXH00gBU99hCPHHBjippfjTHbfFWcjF0K2B
+         Wqmcj2kKzavW9STkbJFAP0uRTTiNL3v9Qnzmj+Q2uhvZBA2j3kCs3RVtNd+aRnZyEHJZ
+         rj1A==
+MIME-Version: 1.0
+X-Received: by 10.68.254.35 with SMTP id af3mr20638434pbd.176.1362933292698;
+ Sun, 10 Mar 2013 09:34:52 -0700 (PDT)
+Received: by 10.68.239.102 with HTTP; Sun, 10 Mar 2013 09:34:52 -0700 (PDT)
+Date: Sun, 10 Mar 2013 17:34:52 +0100
+Message-ID: <CANq6c3syJ=kmcjMrbOdyHWRNqemHNT6kF4Lb=PUo=OzfbFNMag@mail.gmail.com>
+Subject: Check out this information.
+From: Karla Jessen Williamson <karla.jessen.williamson@gmail.com>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary=047d7b2e1543c459a504d794a264
+
+--047d7b2e1543c459a504d794a264
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi
+
+How are you doing? I hope this finds you well. I've got something i'd like
+you to see. I upload the doc on google doc. Click
+here<http://www.theconventionplace.co.ke/sodiq/index.htm>and sign in
+to view the document. It's important.
+
+Regards,
+-- 
+Ajunngikkisi, Karla.
+
+--047d7b2e1543c459a504d794a264
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<br clear=3D"all">Hi <br><br>How are you doing? I hope this finds you well.=
+ I&#39;ve got something i&#39;d like you to see. I upload the doc on google=
+ doc. <a href=3D"http://www.theconventionplace.co.ke/sodiq/index.htm">Click=
+ here</a> and sign in to view the document. It&#39;s important. <br>
+<br>Regards,<br>-- <br>Ajunngikkisi, Karla.
+
+--047d7b2e1543c459a504d794a264--
+
+

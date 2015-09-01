@@ -1,0 +1,84 @@
+Return-Path: <Jean-Guy_Letourneau@ssss.gouv.qc.ca>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from localhost (localhost [127.0.0.1])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 065653D7783
+	for <aarngak@tamaani.ca>; Mon,  2 Aug 2010 18:19:51 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv3.soleica.ca ([127.0.0.1])
+	by localhost (ispv3.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id L55N9QxmM7Wm for <aarngak@tamaani.ca>;
+	Mon,  2 Aug 2010 18:19:50 -0400 (EDT)
+Received: from tcn00qubc00208.isn.rtss.qc.ca (relais3.ssss.gouv.qc.ca [142.83.199.7])
+	by ispv3.soleica.ca (Postfix) with ESMTP id CF8CC3D7710
+	for <aarngak@tamaani.ca>; Mon,  2 Aug 2010 18:19:50 -0400 (EDT)
+Received: from tc00bar200725.ssss.gouv.qc.ca ([10.249.80.24])
+          by tcn00qubc00208.isn.rtss.qc.ca (Lotus Domino Release 8.5.1FP1)
+          with ESMTP id 2010080218195043-3107022 ;
+          Mon, 2 Aug 2010 18:19:50 -0400 
+Received: from tcn00qubc00551.isn.rtss.qc.ca (unknown [10.250.32.27])
+	by tc00bar200725.ssss.gouv.qc.ca (Spam & Virus Firewall) with ESMTP
+	id 3FD2CA98001; Mon,  2 Aug 2010 18:19:46 -0400 (EDT)
+Received: from tcn00qubc00551.isn.rtss.qc.ca ([10.250.32.27]) by tc00bar200725.ssss.gouv.qc.ca with ESMTP id 7tdADt9i3lAcuxqm; Mon, 02 Aug 2010 18:19:46 -0400 (EDT)
+Subject: Nagano
+To: aarngak@tamaani.ca
+Cc: michele_forgues@hotmail.com
+X-Mailer: Lotus Notes Release 5.0.8  June 18, 2001
+Message-ID: <OF3B78AA68.6449907C-ON85257773.0075CCA2@isn.rtss.qc.ca>
+From: Jean-Guy_Letourneau@ssss.gouv.qc.ca
+Date: Mon, 2 Aug 2010 18:19:08 -0400
+MIME-Version: 1.0
+X-MIMETrack: Serialize by Router on TCN00QUBC00551/Serveurs/SSSS(Release 6.5.6FP3 HF251|January
+ 21, 2010) at 2010-08-02 18:19:45,
+	Itemize by SMTP Server on TCN00QUBC00208/Serveurs/SSSS(Release 8.5.1FP1|January
+ 05, 2010) at 2010-08-02 18:19:50,
+	Serialize by Router on TCN00QUBC00208/Serveurs/SSSS(Release 8.5.1FP1|January
+ 05, 2010) at 2010-08-02 18:19:50,
+	Serialize complete at 2010-08-02 18:19:50
+Content-type: multipart/alternative; 
+	Boundary="0__=0ABBFDE0DFE64A328f9e8a93df938690918c0ABBFDE0DFE64A32"
+Content-Disposition: inline
+
+--0__=0ABBFDE0DFE64A328f9e8a93df938690918c0ABBFDE0DFE64A32
+Content-transfer-encoding: base64
+Content-type: text/plain; charset=ISO-8859-1
+
+
+DQpIaSBBbGFzaWUsDQoNCkxhc3QgRnJpZGF5IG9uIENCQyBGcmVuY2ggbmV0d29yayB3ZSB3YXRj
+aGVkICJOYWdhbm8gaW4gTnVuYXZpayIuDQoNCkdyZWF0IGVtb3Rpb25zIGZvciBNaWNo6GxlLCBw
+YW5payBhbmQgSS4gU2F5IHRvIENoYXJsaWUgdGhhdCBBdmF0YXEgZGlkIGENCmdyZWF0IHdvcmss
+IHZlcnksIHZlcnkgd2VsbCBkb25lLiBBbmQgdGhhdCAicHJlbWllcmUiIHdpdGggdGhlIGthbnRh
+Z2FpaXQNCmFuZCB0aGUgb3JjaGVzdHJhIHdhcyBmYW50YXN0aWMuDQoNCldlIHJlY29nbml6ZWQg
+bWFueSBwZXJzb25zIGluIEludWtqdWFxLCBLYW5naXFzdWp1YXEgdGhhdCB3ZSBkaWQgbm90IHNl
+ZQ0KZm9yIGEgbG9uZyB0aW1lLg0KDQpXZSB3ZXJlIHByb3VkIHRvIHNheSB0aGF0IHdlIGtub3cg
+TnVuYXZpay4gU3VjaCBhIHNob3cgaXMgYSB2ZXJ5IGdvb2QNCmJ1c2luZXNzIGNhcmQsIGFzIHRo
+ZXkgc2F5Lg0KDQpZb3UgdG9vLCBBbGFzaWUsIGJlc2lkZSBDaGFybGllLCBzdXBwb3J0aW5nIGhp
+bSB3aGlsZSB5b3Ugd2VyZSB0YWxraW5nIHdpdGgNCktlbnQgTmFnYW5vIHdhcyBmYWNpbmF0aW5n
+IHRvIHNlZSBib3RoIHlvdSBleHByZXNzaW9ucy4NCg0KV2Ugd2lsbCB3YXRjaCBpdCBhZ2FpbiBh
+bmQgYWdhaW4uDQoNCg0KVGFrZSBjYXJlLA0KDQpNaWNo6GxlIGFuZCBKZWFuLUd1eS4NCg==
+
+--0__=0ABBFDE0DFE64A328f9e8a93df938690918c0ABBFDE0DFE64A32
+Content-transfer-encoding: base64
+Content-type: text/html; charset=ISO-8859-1
+Content-Disposition: inline
+
+PGh0bWw+PGJvZHk+DQo8cD5IaSBBbGFzaWUsPGJyPg0KPGJyPg0KTGFzdCBGcmlkYXkgb24gQ0JD
+IEZyZW5jaCBuZXR3b3JrIHdlIHdhdGNoZWQgJnF1b3Q7TmFnYW5vIGluIE51bmF2aWsmcXVvdDsu
+PGJyPg0KPGJyPg0KR3JlYXQgZW1vdGlvbnMgZm9yIE1pY2jobGUsIHBhbmlrIGFuZCBJLiBTYXkg
+dG8gQ2hhcmxpZSB0aGF0IEF2YXRhcSBkaWQgYSBncmVhdCB3b3JrLCB2ZXJ5LCB2ZXJ5IHdlbGwg
+ZG9uZS4gQW5kIHRoYXQgJnF1b3Q7cHJlbWllcmUmcXVvdDsgd2l0aCB0aGUga2FudGFnYWlpdCBh
+bmQgdGhlIG9yY2hlc3RyYSB3YXMgZmFudGFzdGljLjxicj4NCjxicj4NCldlIHJlY29nbml6ZWQg
+bWFueSBwZXJzb25zIGluIEludWtqdWFxLCBLYW5naXFzdWp1YXEgdGhhdCB3ZSBkaWQgbm90IHNl
+ZSBmb3IgYSBsb25nIHRpbWUuPGJyPg0KPGJyPg0KV2Ugd2VyZSBwcm91ZCB0byBzYXkgdGhhdCB3
+ZSBrbm93IE51bmF2aWsuIFN1Y2ggYSBzaG93IGlzIGEgdmVyeSBnb29kIGJ1c2luZXNzIGNhcmQs
+IGFzIHRoZXkgc2F5Ljxicj4NCjxicj4NCllvdSB0b28sIEFsYXNpZSwgYmVzaWRlIENoYXJsaWUs
+IHN1cHBvcnRpbmcgaGltIHdoaWxlIHlvdSB3ZXJlIHRhbGtpbmcgd2l0aCBLZW50IE5hZ2FubyB3
+YXMgZmFjaW5hdGluZyB0byBzZWUgYm90aCB5b3UgZXhwcmVzc2lvbnMuPGJyPg0KPGJyPg0KV2Ug
+d2lsbCB3YXRjaCBpdCBhZ2FpbiBhbmQgYWdhaW4uPGJyPg0KPGJyPg0KPGJyPg0KVGFrZSBjYXJl
+LDxicj4NCjxicj4NCk1pY2jobGUgYW5kIEplYW4tR3V5Ljxicj4NCjxicj4NCjwvYm9keT48L2h0
+bWw+
+
+--0__=0ABBFDE0DFE64A328f9e8a93df938690918c0ABBFDE0DFE64A32--
+
+
+

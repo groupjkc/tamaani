@@ -1,0 +1,87 @@
+Return-Path: <account-security-noreply@account.microsoft.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on tamaani.ca
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=7.0 tests=BAYES_00,HTML_MESSAGE
+	autolearn=ham version=3.3.1
+X-Original-To: jdcabana@tamaani.ca
+Delivered-To: jdcabana@tamaani.ca
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from BAY004-OMC3S12.hotmail.com (bay004-omc3s12.hotmail.com [65.54.190.150])
+	by tamaani.ca (Postfix) with ESMTPS id 0AFAFBAA71
+	for <jdcabana@tamaani.ca>; Tue,  2 Sep 2014 14:53:38 -0400 (EDT)
+Received: from BL2IDSTOOL1C013 ([65.54.190.187]) by BAY004-OMC3S12.hotmail.com with Microsoft SMTPSVC(7.5.7601.22724);
+	 Tue, 2 Sep 2014 11:53:38 -0700
+Message-ID: <BL2IDSTOOL1C0131562C7BE3683A6520E638AC70@CEZ.ICE>
+X-Message-Routing: sKFde7CS5BHygFZaC4gFZWeHmOM+Rjf1iOmv8meDbQqeD+9kHFgbAflrz5UYy6v/Ov/vRliTx0hzi7ScTgwYCoH5DCps5wqMtuM7WZtmXymF+QuZjFEHkIFnjWYIFT6V/pjb/qFYm4uPQv21HG+fNsdrlfQ==
+Date: Tue, 2 Sep 2014 11:53:37 -0700
+From: =?Windows-1252?Q?L=92=E9quipe=20des=20comptes=20Microsoft?= <account-security-noreply@account.microsoft.com>
+Subject: =?Windows-1252?Q?Informations=20de=20s=E9curit=E9=20du=20compte=20Microsoft?=
+To: <jdcabana@tamaani.ca>
+X-Priority: 3
+X-MSAMetaData: CsWaC1Y5q+SO63/eLst5zTiWSlCi+7R4vD4xtBtMbhsmA6W5JvOoLymbRvEYXam3brCTCIzIYgV//vEGWgSdQIMWiesaEI0DkM9Kby+YJiuEv1/PPMHxUmM2emFZYk14wd12mHJXKO88iLGxvD1urHLWlxglRsDZRHtL4Mu8Araed9u/3noAsvyTmFKlWwykmQ==
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="------=_Next_Part_2232814557.138"
+X-OriginalArrivalTime: 02 Sep 2014 18:53:38.0217 (UTC) FILETIME=[34C20190:01CFC6DF]
+
+
+--------=_Next_Part_2232814557.138
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 8bit
+
+Quelqu’un a initié un processus de remplacement de toutes les informations de sécurité pour le compte Microsoft JD*****@hotmail.com.
+
+Si vous avez bien fait cette demande, cliquez sur https://account.live.com/ar/cancel?mkt=FR-CA pour ignorer la période d'attente en utilisant vos informations de sécurité existantes.
+
+Si ce n’était pas vous, quelqu’un essaie de prendre le contrôle de JD*****@hotmail.com. Cliquez sur https://account.live.com/ar/cancel?mkt=FR-CA et nous vous aiderons à protéger ce compte.
+
+Merci,
+L’équipe des comptes Microsoft
+
+
+--------=_Next_Part_2232814557.138
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"> 
+<head>
+<style type="text/css">
+ .link:link, .link:active, .link:visited {
+       color:#2672ec !important;
+       text-decoration:none !important;
+ }
+
+ .link:hover {
+       color:#4284ee !important;
+       text-decoration:none !important;
+ }
+</style>
+<title></title>
+</head>
+<body>
+<table dir="ltr">
+      <tr><td id="i1" style="padding:0; font-family:'Segoe UI Semibold', 'Segoe UI Bold', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:17px; color:#707070">Compte Microsoft</td></tr>
+      <tr><td id="i2" style="padding:0; font-family:'Segoe UI Light', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:41px; color:#2672ec">Remplacement des informations de sécurité</td></tr>
+      <tr><td id="i4" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">Quelqu’un a initié un processus de remplacement de toutes les informations de sécurité pour le compte Microsoft <a dir="ltr" id="iAccount" class="link" style="color:#2672ec; text-decoration:none" href="mailto:JD*****@hotmail.com">JD*****@hotmail.com</a>.</td></tr>
+      <tr><td id="i8" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">Si vous avez bien fait cette demande, cliquez sur le bouton ci-dessous pour ignorer la période d'attente en utilisant vos informations de sécurité existantes.</td></tr>
+      <tr><td style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">
+         <table border="0" cellspacing="0"><tr><td bgcolor="#2672ec" style="background-color:#2672ec; padding-top: 5px; padding-right: 20px; padding-bottom: 5px; padding-left: 20px; min-width:50px;">
+           <a id="i9" style="font-family: 'Segoe UI Semibold', 'Segoe UI Bold', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:14px; text-align:center; text-decoration:none; font-weight:600; letter-spacing:0.02em; color:#fff;" href="https://account.live.com/ar/cancel?mkt=FR-CA">
+             J'ai fait cette demande
+           </a>
+         </td></tr></table>
+      </td></tr>
+      <tr><td id="i8" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">Si ce n’était pas vous, quelqu’un essaie de prendre le contrôle de <a dir="ltr" id="iAccount" class="link" style="color:#2672ec; text-decoration:none" href="mailto:JD*****@hotmail.com">JD*****@hotmail.com</a>. <a id="iLink2" class="link" style="color:#2672ec; text-decoration:none" href="https://account.live.com/ar/cancel?mkt=FR-CA">Cliquez ici</a> et nous vous aiderons à protéger ce compte.</td></tr>
+      <tr><td style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">Merci,</td></tr>
+      <tr><td id="i12" style="padding:0; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">L’équipe des comptes Microsoft</td></tr>
+</table>
+</body>
+</html>
+
+--------=_Next_Part_2232814557.138--
+
+

@@ -1,0 +1,98 @@
+Return-Path: <Jean-Guy_Letourneau@ssss.gouv.qc.ca>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv3.soleica.ca (localhost [127.0.0.1])
+	by ispv3.soleica.ca (Postfix) with ESMTP id ED3A33DB9E4
+	for <aarngak@tamaani.ca>; Thu, 28 Apr 2011 14:52:04 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv3.soleica.ca ([127.0.0.1])
+	by ispv3.soleica.ca (ispv3.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id 2IUyPAip9Cpn for <aarngak@tamaani.ca>;
+	Thu, 28 Apr 2011 14:52:04 -0400 (EDT)
+Received: from tcn00qubc00209.isn.rtss.qc.ca (relais4.ssss.gouv.qc.ca [142.83.199.8])
+	by ispv3.soleica.ca (Postfix) with ESMTP id C22353DB9E0
+	for <aarngak@tamaani.ca>; Thu, 28 Apr 2011 14:52:04 -0400 (EDT)
+Received: from tc00bar136875.ssss.gouv.qc.ca ([10.249.80.24])
+          by tcn00qubc00209.isn.rtss.qc.ca (Lotus Domino Release 8.5.2FP1)
+          with ESMTP id 2011042814520398-3825859 ;
+          Thu, 28 Apr 2011 14:52:03 -0400 
+X-ASG-Debug-ID: 1304016668-51c12d340002-FBqy4Z
+Received: from tcn00qubc00551.isn.rtss.qc.ca ([10.250.32.27]) by tc00bar136875.ssss.gouv.qc.ca with ESMTP id hWdhXFE63k1vNpts; Thu, 28 Apr 2011 14:51:09 -0400 (EDT)
+X-Barracuda-Envelope-From: Jean-Guy_Letourneau@ssss.gouv.qc.ca
+Subject: NRG
+To: aarngak@tamaani.ca,
+	jeannie.may@ssss.gouv.qc.ca,
+	gilles.boulet@ssss.gouv.qc.ca,
+	silas.watt@ssss.gouv.qc.ca,
+	larry.watt@ssss.gouv.qc.ca
+X-ASG-Orig-Subj: NRG
+Cc: billy.watt@ssss.gouv.qc.ca,
+	mgrey@makivik.org
+X-Mailer: Lotus Notes Release 5.0.8  June 18, 2001
+Message-ID: <OF9E8F17BD.FFD0AD7C-ON85257880.0066029B@isn.rtss.qc.ca>
+From: Jean-Guy_Letourneau@ssss.gouv.qc.ca
+Date: Thu, 28 Apr 2011 14:50:40 -0400
+Disposition-Notification-To: Jean-Guy_Letourneau@ssss.gouv.qc.ca
+MIME-Version: 1.0
+X-Barracuda-Connect: UNKNOWN[10.250.32.27]
+X-Barracuda-Start-Time: 1304016669
+X-Barracuda-URL: http://10.249.80.41:8000/cgi-mod/mark.cgi
+X-Barracuda-Spam-Score: 0.53
+X-Barracuda-Spam-Status: No, SCORE=0.53 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=7.0 tests=HTML_MESSAGE, MIME_BASE64_BLANKS, MIME_BASE64_TEXT, NO_REAL_NAME
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.62198
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 NO_REAL_NAME           From: does not include a real name
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.00 MIME_BASE64_BLANKS     RAW: Extra blank lines in base64 encoding
+	0.52 MIME_BASE64_TEXT       RAW: Message text disguised using base64 encoding
+X-MIMETrack: Serialize by Router on TCN00QUBC00551/Serveurs/SSSS(Release 6.5.6FP3 HF341|October
+ 05, 2010) at 2011-04-28 14:51:09,
+	Itemize by SMTP Server on TCN00QUBC00209/Serveurs/SSSS(Release 8.5.2FP1|November
+ 29, 2010) at 2011-04-28 14:52:03,
+	Serialize by Router on TCN00QUBC00209/Serveurs/SSSS(Release 8.5.2FP1|November
+ 29, 2010) at 2011-04-28 14:52:04,
+	Serialize complete at 2011-04-28 14:52:04
+Content-type: multipart/alternative; 
+	Boundary="0__=0ABBF213DFF5840B8f9e8a93df938690918c0ABBF213DFF5840B"
+Content-Disposition: inline
+
+--0__=0ABBF213DFF5840B8f9e8a93df938690918c0ABBF213DFF5840B
+Content-transfer-encoding: base64
+Content-type: text/plain; charset=ISO-8859-1
+
+
+DQpIaSwNCg0KVGhlIHJlZmVyZW5kdW0gaXMgb3ZlciBhbmQgdGhlIG5vIG9wdGlvbiBjYW1lIG91
+dCB2ZXJ5IHN0cm9uZy4NCg0KQXMgdGhleSBzYXkgIlZveCBQb3B1bGksIFZveCBEZWkiID0gUG9l
+cGxlJ3Mgdm9pY2UgaXMgR29kJ3Mgdm9pY2UgIQ0KDQpJIGRlZXBseSByZXNwZWN0IHRoaXMgaXNz
+dWUuIE15c2VsZiBJIHN0cm9uZ2x5IGJlbGVpdmVkIHRoYXQgaXQgd2FzIGEgZ29vZA0KdG9vbCB0
+byBnbyBmb3J3YXJkLiBJIHRoYW5rIHlvdSBmb3IgZ2l2aW5nIG1lIHRoZSBleHRyZW1lIHByaXZp
+bGVnZSB0bw0Kd29ya2luZyBpbnRvIHRoaXMgZmlsZS4NCg0KSSB0cnVzdCB0aGUgbnVuYXZpbW1p
+dXQgaW4gZmluZGluZyB0aGUgcGF0aCB0aGF0IHdpbGwgZml0IHRoZSBmdXR1cmUgYXMgeW91DQph
+bHdheXMgZGlkIGluIHRoZSBsYXN0IG92ZXIgMywwMDAgeWVhcnMuIEkgaGFkIGdyZWF0IGRpc2N1
+c3Npb24gd2l0aCBzb21lDQp5b3VuZyBhZHVsdHMgaW4gS3V1amp1YXE6IHRoZSBza3kgaXMgYmx1
+ZS4NCg0KDQpOYWt1bWlpbWFyaWFsdWssDQoNCkplYW4tR3V5IEzpdG91cm5lYXUNCg==
+
+--0__=0ABBF213DFF5840B8f9e8a93df938690918c0ABBF213DFF5840B
+Content-transfer-encoding: base64
+Content-type: text/html; charset=ISO-8859-1
+Content-Disposition: inline
+
+PGh0bWw+PGJvZHk+DQo8cD5IaSw8YnI+DQo8YnI+DQpUaGUgcmVmZXJlbmR1bSBpcyBvdmVyIGFu
+ZCB0aGUgbm8gb3B0aW9uIGNhbWUgb3V0IHZlcnkgc3Ryb25nLjxicj4NCjxicj4NCkFzIHRoZXkg
+c2F5ICZxdW90O1ZveCBQb3B1bGksIFZveCBEZWkmcXVvdDsgPSBQb2VwbGUncyB2b2ljZSBpcyBH
+b2QncyB2b2ljZSAhPGJyPg0KPGJyPg0KSSBkZWVwbHkgcmVzcGVjdCB0aGlzIGlzc3VlLiBNeXNl
+bGYgSSBzdHJvbmdseSBiZWxlaXZlZCB0aGF0IGl0IHdhcyBhIGdvb2QgdG9vbCB0byBnbyBmb3J3
+YXJkLiBJIHRoYW5rIHlvdSBmb3IgZ2l2aW5nIG1lIHRoZSBleHRyZW1lIHByaXZpbGVnZSB0byB3
+b3JraW5nIGludG8gdGhpcyBmaWxlLjxicj4NCjxicj4NCkkgdHJ1c3QgdGhlIG51bmF2aW1taXV0
+IGluIGZpbmRpbmcgdGhlIHBhdGggdGhhdCB3aWxsIGZpdCB0aGUgZnV0dXJlIGFzIHlvdSBhbHdh
+eXMgZGlkIGluIHRoZSBsYXN0IG92ZXIgMywwMDAgeWVhcnMuIEkgaGFkIGdyZWF0IGRpc2N1c3Np
+b24gd2l0aCBzb21lIHlvdW5nIGFkdWx0cyBpbiBLdXVqanVhcTogdGhlIHNreSBpcyBibHVlLjxi
+cj4NCjxicj4NCjxicj4NCk5ha3VtaWltYXJpYWx1ayw8YnI+DQo8YnI+DQpKZWFuLUd1eSBM6XRv
+dXJuZWF1PGJyPg0KPGJyPg0KPC9ib2R5PjwvaHRtbD4=
+
+--0__=0ABBF213DFF5840B8f9e8a93df938690918c0ABBF213DFF5840B--
+
+
+

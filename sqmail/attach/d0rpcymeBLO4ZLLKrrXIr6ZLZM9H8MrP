@@ -1,0 +1,97 @@
+Return-Path: <MEmudluk@krg.ca>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv3.soleica.ca (localhost [127.0.0.1])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 50AE93D7F82
+	for <aarngak@tamaani.ca>; Tue,  1 Nov 2011 13:03:49 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv3.soleica.ca ([127.0.0.1])
+	by ispv3.soleica.ca (ispv3.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id FyFRa-sULJo1 for <aarngak@tamaani.ca>;
+	Tue,  1 Nov 2011 13:03:45 -0400 (EDT)
+Received: from tcn00qubc00209.isn.rtss.qc.ca (relais4.ssss.gouv.qc.ca [142.83.199.8])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 8EEE03D7F6D
+	for <aarngak@tamaani.ca>; Tue,  1 Nov 2011 13:03:45 -0400 (EDT)
+Received: from tc00bar136875.ssss.gouv.qc.ca ([10.249.80.30])
+          by tcn00qubc00209.isn.rtss.qc.ca (Lotus Domino Release 8.5.2FP3)
+          with ESMTP id 2011110113034377-2130990 ;
+          Tue, 1 Nov 2011 13:03:43 -0400 
+X-ASG-Debug-ID: 1320167018-45dcd5620003-FBqy4Z
+Received: from tcn00qubc00551.isn.rtss.qc.ca ([10.250.32.27]) by tc00bar136875.ssss.gouv.qc.ca with ESMTP id 3YFexciYd20o3K8H for <aarngak@tamaani.ca>; Tue, 01 Nov 2011 13:03:39 -0400 (EDT)
+X-Barracuda-Envelope-From: MEmudluk@krg.ca
+Received: from tcn00barin00048.ssss.gouv.qc.ca ([10.120.138.26])
+          by TCN00QUBC00379.isqc.reg00.rtss.qc.ca (Lotus Domino Release 6.5.6FP3 HF341)
+          with ESMTP id 2011110113033395-214527 ;
+          Tue, 1 Nov 2011 13:03:33 -0400 
+Received: from mail197.messagelabs.com (mail197.messagelabs.com [216.82.254.83]) by tcn00barin00048.ssss.gouv.qc.ca with ESMTP id E3uEHzH7TFEb6tLB (version=TLSv1 cipher=AES256-SHA bits=256 verify=NO) for <alasie.arngak@ssss.gouv.qc.ca>; Tue, 01 Nov 2011 1
+X-Barracuda-Apparent-Source-IP: 216.82.254.83
+X-Env-Sender: MEmudluk@krg.ca
+X-Msg-Ref: server-7.tower-197.messagelabs.com!1320166458!74713611!1
+X-Originating-IP: [66.165.215.33]
+X-StarScan-Version: 6.3.6; banners=-,-,-
+X-VirusChecked: Checked
+Received: (qmail 3554 invoked from network); 1 Nov 2011 16:54:25 -0000
+Received: from 33-215-165-66.rev.knet.ca (HELO outlook.krg.ca) (66.165.215.33)
+  by server-7.tower-197.messagelabs.com with AES128-SHA encrypted SMTP; 1 Nov 2011 16:54:25 -0000
+Received: from Allataarvik.krg.ca ([fe80::e091:22ff:b081:94dc]) by
+ Allataarvik.krg.ca ([fe80::e091:22ff:b081:94dc%10]) with mapi; Tue, 1 Nov
+ 2011 12:53:47 -0400
+From: Maggie Emudluk <MEmudluk@krg.ca>
+To: Patricia Rosati <prosati@makivik.org>
+CC: Pita Aatami <p_aatami@makivik.org>, "alacie.nalukturuk@kativik.qc.ca"
+	<alacie.nalukturuk@kativik.qc.ca>, "alasie.arngak@ssss.gouv.qc.ca"
+	<alasie.arngak@ssss.gouv.qc.ca>, =?utf-8?B?SmVhbi1GcmFuw6dvaXMgQXJ0ZWF1?=
+	<jfarteau@makivik.org>, Isabelle Parizeau <IParizeau@krg.ca>, Louis Mercier
+	<LMercier@krg.ca>
+Date: Tue, 1 Nov 2011 12:54:17 -0400
+Subject: Re: Letter to Minister Kelley
+Thread-Topic: Letter to Minister Kelley
+X-ASG-Orig-Subj: Re: Letter to Minister Kelley
+Thread-Index: AcyYttJ5EJphXiAORJWoSfYgAbZbZA==
+Message-ID: <AF1B629A-C37E-409D-BE21-523C0C8373FB@krg.ca>
+References: <fc.0073fb5c008d44390073fb5c008d4439.8d4452@makivik.org>
+In-Reply-To: <fc.0073fb5c008d44390073fb5c008d4439.8d4452@makivik.org>
+Accept-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+acceptlanguage: en-US
+MIME-Version: 1.0
+X-Virus-Scanned: by bsmtpd at ssss.gouv.qc.ca
+X-MIMETrack: Itemize by SMTP Server on TCN00QUBC00379/Serveurs/SSSS(Release 6.5.6FP3
+ HF341|October 05, 2010) at 2011-11-01 13:03:33,
+	Serialize by Router on TCN00QUBC00551/Serveurs/SSSS(Release 6.5.6FP3 HF341|October
+ 05, 2010) at 2011-11-01 13:03:39,
+	Serialize complete at 2011-11-01 13:03:39,
+	Itemize by SMTP Server on TCN00QUBC00209/Serveurs/SSSS(Release 8.5.2FP3|July
+ 10, 2011) at 2011-11-01 13:03:43,
+	Serialize by Router on TCN00QUBC00209/Serveurs/SSSS(Release 8.5.2FP3|July
+ 10, 2011) at 2011-11-01 13:03:45,
+	Serialize complete at 2011-11-01 13:03:45
+X-TNEFEvaluated: 1
+X-Barracuda-Connect: UNKNOWN[10.250.32.27]
+X-Barracuda-Start-Time: 1320167018
+X-Barracuda-URL: http://10.249.80.41:8000/cgi-mod/mark.cgi
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=7.0 tests=
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.79030
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset="utf-8"
+Content-Language: en-US
+
+SGVsbG8gUGF0cmNpYSwNCg0KSSdtIGdvb2Qgd2l0aCB0aGUgbGV0dGVyLg0KDQpNYWdnaWUgRS4N
+Cg0KTWFnZ2llIEVtdWRsdWsNCg0KT24gMjAxMS0xMC0zMSwgYXQgNjowMiBQTSwgIlBhdHJpY2lh
+IFJvc2F0aSIgPHByb3NhdGlAbWFraXZpay5vcmc+IHdyb3RlOg0KDQo+IEhlbGxvLA0KPiANCj4g
+UGxlYXNlIGZpbmQgYXR0YWNoZWQgYSBsZXR0ZXIgYWRkcmVzc2VkIHRvIEdlb2ZmIEtlbGxleSBy
+ZWdhcmRpbmcgdGhlDQo+IFF1ZWJlYyBOdW5hdmlrIFRhYmxlLiAgDQo+IA0KPiBJZiB0aGlzIGxl
+dHRlciBpcyB0byB5b3VyIGFwcHJvdmFsLCBwbGVhc2UgbGV0IG1lIGtub3cgYW5kIEkgd2lsbCBh
+cnJhbmdlDQo+IGZvciBldmVyeW9uZSdzIHNpZ25hdHVyZXMgdG8gYXBwZWFyLg0KPiANCj4gVGhh
+bmsgeW91LA0KPiANCj4gUGF0cmljaWEgUm9zYXRpDQo+IFNlY3JldGFyeSB0byBQaXRhIEFhdGFt
+aQ0KPiBNYWtpdmlrIENvcnBvcmF0aW9uDQo+IDExMTEsIEJvdWwuIERyLiBGcmVkZXJpay1QaGls
+aXBzIA0KPiAzZSDDqXRhZ2UNCj4gU3QuIExhdXJlbnQsIFFDIEg0TSAyWDYNCj4gKDUxNCkgNzQ1
+LTg4ODAsIGV4dC4gMjAxDQo+IHByb3NhdGlAbWFraXZpay5vcmcNCj4gDQo+IDxMLUdLZWxsZXkg
+UXVlYmVjIE51bmF2aWsgVGFibGUgRmluYWwtRnJvbSA0IE9yZ2FuaXphdGlvbnMuZG9jPg0K
+
+

@@ -1,0 +1,138 @@
+Return-Path: <lydia.saunders@bell.ca>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv3.soleica.ca (localhost [127.0.0.1])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 1B8973D867A
+	for <aarngak@tamaani.ca>; Fri,  4 May 2012 15:00:04 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv3.soleica.ca ([127.0.0.1])
+	by ispv3.soleica.ca (ispv3.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id PvlRbKd6DFDa for <aarngak@tamaani.ca>;
+	Fri,  4 May 2012 15:00:03 -0400 (EDT)
+Received: from mail1.bemta14.messagelabs.com (mail1.bemta14.messagelabs.com [193.109.254.98])
+	by ispv3.soleica.ca (Postfix) with ESMTP id A4C3B3D8673
+	for <aarngak@tamaani.ca>; Fri,  4 May 2012 14:59:17 -0400 (EDT)
+Received: from [194.106.220.35:47714] by server-9.bemta-14.messagelabs.com id 39/84-05787-30724AF4; Fri, 04 May 2012 18:59:15 +0000
+X-Env-Sender: lydia.saunders@bell.ca
+X-Msg-Ref: server-7.tower-91.messagelabs.com!1336157934!8584919!49
+X-Originating-IP: [206.47.0.177]
+X-StarScan-Version: 6.5.7; banners=-,-,-
+X-VirusChecked: Checked
+Received: (qmail 16616 invoked from network); 4 May 2012 18:59:15 -0000
+Received: from dm1c8e.bell.ca (HELO TLS.Exchange.Bell.ca) (206.47.0.177)
+  by server-7.tower-91.messagelabs.com with RC4-SHA encrypted SMTP; 4 May 2012 18:59:15 -0000
+Received: from hub02-wyn.bell.corp.bce.ca (142.182.199.50) by
+ dm1c8e.exchange3.bell.ca (198.235.102.108) with Microsoft SMTP Server id
+ 8.3.213.0; Fri, 4 May 2012 14:59:10 -0400
+Received: from MBX10.bell.corp.bce.ca ([142.182.199.123]) by
+ hub02-wyn.bell.corp.bce.ca ([142.182.199.50]) with mapi; Fri, 4 May 2012
+ 14:59:13 -0400
+From: "lydia.saunders@bell.ca" <lydia.saunders@bell.ca>
+To: "Aani Saunders (aanimut@hotmail.com)" <aanimut@hotmail.com>
+CC: "Alacie Ainalik (a_ainalik@hotmail.com)" <a_ainalik@hotmail.com>, "Alacie
+ Arngak " <aarngak@tamaani.ca>, "Annahatak Elisapee (e.annahatak@hotmail.com)"
+	<e.annahatak@hotmail.com>, Annie Augiak <aaniaugiak@hotmail.com>, "Annie
+ Goguen" <agoguen@kamattsiavik.ca>, Annie Kudluk
+	<anniekudluk_733@hotmail.com>, Annmarie Aitchison
+	<annmarieaitchison@hotmail.com>, "Aputik Angnatuk
+ (aputikangnatuk@hotmail.com)" <aputikangnatuk@hotmail.com>, "Daisy Arnatuk
+ (daisyarnatuk@hotmail.com)" <daisyarnatuk@hotmail.com>, "Elena Berthe
+ (elena.b.222@hotmail.com)" <elena.b.222@hotmail.com>, Eva Deer
+	<eva.deer@tamaani.ca>, Eva Gordon <evakgordon@hotmail.com>, George Kala
+	<kalageorge@hotmail.com>, "Hika Saunders (hikasaunders@hotmail.com)"
+	<hikasaunders@hotmail.com>, "kjonas@tamaani.ca" <kjonas@tamaani.ca>, "Lizzie
+ e. York" <lizzie_epooyork@hotmail.com>, "aippa22@hotmail.com"
+	<aippa22@hotmail.com>, "Lucy Meeko (lucymeeko@hotmail.com)"
+	<lucymeeko@hotmail.com>, "lydiajaaka@yahoo.ca" <lydiajaaka@yahoo.ca>,
+	"maggie_a.berthe@bell.ca" <maggie_a.berthe@bell.ca>, "msaunders@makivik.org"
+	<msaunders@makivik.org>, "Maryjoann Kauki (qaukai@hotmail.com)"
+	<qaukai@hotmail.com>, "Mary Berthe (marypuuti@hotmail.com)"
+	<marypuuti@hotmail.com>, "Mary Aitchison (Mary.Aitchison@kativik.qc.ca)"
+	<Mary.Aitchison@kativik.qc.ca>, "Nancy Berthe (nancyberthe54@live.ca)"
+	<nancyberthe54@live.ca>, " (mpinguatuq@krg.ca)" <mpinguatuq@krg.ca>, "Minnie
+ Gordon (arctic-char@hotmail.com)" <arctic-char@hotmail.com>, "Penena
+ Tamanikainasau (akudlik77@hotmail.com)" <akudlik77@hotmail.com>, "Qiallak
+ Qumaaluk (qiallak_qumaaluk@kativik.qc.ca)" <qiallak_qumaaluk@kativik.qc.ca>,
+	Sala Padlayat <sala.padlayat@kativik.qc.ca>, Gordon Sarah <SGordon@krg.ca>,
+	"Sarah Mulucto (sarah_mulucto@hotmail.com)" <sarah_mulucto@hotmail.com>,
+	"Simona Akuludjuk (simona.akuludjukX3@hotmail.com)"
+	<simona.akuludjukX3@hotmail.com>, "Sheila Saunders
+ (siila_saunders29@hotmail.com)" <siila_saunders29@hotmail.com>, Sarah Saggiak
+	<sarahsaggiak@hotmail.com>
+Date: Fri, 4 May 2012 14:59:13 -0400
+Subject: Christain Site www.jrsbible.info
+Thread-Topic: Christain Site www.jrsbible.info
+Thread-Index: Ac0qJ/pej3D8fLjlTM+xYZc0qNj8Yg==
+Message-ID: <4660832CB7A7F3448171F9A2F05B12CE0827D31038@MBX10.bell.corp.bce.ca>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+acceptlanguage: en-US
+Content-Type: multipart/alternative;
+	boundary="_000_4660832CB7A7F3448171F9A2F05B12CE0827D31038MBX10bellcorp_"
+MIME-Version: 1.0
+
+--_000_4660832CB7A7F3448171F9A2F05B12CE0827D31038MBX10bellcorp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+--_000_4660832CB7A7F3448171F9A2F05B12CE0827D31038MBX10bellcorp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; charset=3Dus-ascii"=
+>
+
+
+<meta name=3DGenerator content=3D"Microsoft Word 10 (filtered)">
+
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{font-family:Arial;
+	color:windowtext;}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.55pt 2.0cm 42.55pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=3DEN-CA link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><font size=3D2 face=3DArial><span style=3D'font-size:1=
+0.0pt;
+font-family:Arial'>&nbsp;</span></font></p>
+
+</div>
+
+</body>
+
+</html>
+
+--_000_4660832CB7A7F3448171F9A2F05B12CE0827D31038MBX10bellcorp_--
+
+

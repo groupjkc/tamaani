@@ -1,0 +1,80 @@
+Return-Path: <noreply@yourfanbox.com>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv3.soleica.ca (localhost [127.0.0.1])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 8E5983D843E
+	for <aarngak@tamaani.ca>; Sun,  1 Apr 2012 09:24:05 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv3.soleica.ca ([127.0.0.1])
+	by ispv3.soleica.ca (ispv3.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id HZFjDNFPITAg for <aarngak@tamaani.ca>;
+	Sun,  1 Apr 2012 09:24:03 -0400 (EDT)
+Received: from smtp158.sms.ac (smtp158.sms.ac [208.69.101.158])
+	by ispv3.soleica.ca (Postfix) with ESMTP id B64DA3D83FC
+	for <aarngak@tamaani.ca>; Sun,  1 Apr 2012 09:23:38 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k7; d=yourfanbox.com;
+ h=Content-Transfer-Encoding:List-Unsubscribe:MIME-Version:From:To:Date:Subject:Content-Type:Message-Id; i=noreply@yourfanbox.com;
+ bh=pGSkhBIvQ4CBZUAZdvbpjOwTNAY=;
+ b=NNWg90hJr2ZMIw5Dzxb4LAN767EL+mzoqtWAcuBtJx33Q/cfRkYzp7ti0EBOJND5mM/dsMSiIB2M
+   463lL6pj0A==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k7; d=yourfanbox.com;
+ b=o58e4d8IcWNNj0bh3Xk00WYwnpo5UVeheKodzfa//psgioLf7s3emUM1N2l2akkUhbT3jeci+muT
+   Y4oWYgoizg==;
+Received: by smtp158.sms.ac id hf1bf41398s0 for <aarngak@tamaani.ca>; Sun, 1 Apr 2012 06:23:38 -0700 (envelope-from <noreply@yourfanbox.com>)
+Content-Transfer-Encoding: binary
+ContentID: 0
+TemplateID: 1943
+MessageLogId: 468719001
+EmailType: 540
+X-JAM: O0540
+CountryID: 807
+List-Unsubscribe: http://profile.fanbox.com/ApplicationManager/CommunityEmailSettings.aspx?em=%2FqTndD1QV0qQkB2ezc0e9avVN8ntvyrs&vet=540&mlid=468719001
+MIME-Version: 1.0
+From: "Natsiq Kango" <noreply@yourfanbox.com>
+To: aarngak@tamaani.ca
+Date: 1 Apr 2012 06:23:38 -0700
+Subject: Did you get my video?
+Content-Type: multipart/alternative;
+ boundary=--boundary_1389690_8e01c5e7-6716-4d14-9451-985f61ed2b7b
+Message-Id: <4F7856DA.0000000F@smtp158.sms.ac>
+
+
+----boundary_1389690_8e01c5e7-6716-4d14-9451-985f61ed2b7b
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+This site is exactly like Facebook except you can sell your time, or your stuff.
+
+Just watch this video
+
+What did you think?
+
+This message was intended for aarngak@tamaani.ca and was sent as a notification, invitation or reminder (digital goods subject to change in reminders) of an event initiated by Natsiq Kango using a third-party or platform application and may contain promotional materials and/or services for sale including digital goods received.
+
+To control messages sent to or from you, your contacts and/or FanBox, click here
+http://profile.fanbox.com/ApplicationManager/CommunityEmailSettings.aspx?em=%2FqTndD1QV0qQkB2ezc0e9avVN8ntvyrs&vet=540&mlid=468719001.
+Our offices are located at: FanBox - 113 West G Street, STE 510, San Diego, CA 92101, USA
+----boundary_1389690_8e01c5e7-6716-4d14-9451-985f61ed2b7b
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<div style="font-size: 12pt; font-family: &quot;Arial&quot;, &quot;Helvetica&quot;, sans-serif;">
+
+<p style="margin-bottom: 1em;">This site is exactly like Facebook except you can sell your time, or your stuff.</p>
+
+<p style="margin-bottom: 1empx; margin-top: 1em;"><a href="http://www.fanbox.com/socnet/emailstat.aspx?src=email&amp;opg=http%3a%2f%2fwww.fanbox.com%2fFanFeed%2fHome.aspx%3frevolutionvideo%3d1&me=xyge5OgT0AlmDX416gpw1ikwkYMEutrQVs0mgFunadi8VvqsiColaA9XkrLYquqNV19oIayysEyzxxpVHCFMwkvpSVk8Clz0qLiQbV0FWNmU9ZtOFnT73Nm9wWgfratQlxMMzYd96mTzworFMypipYgBGyIxVK3gNKDlAOf3A44Hm-Lgd6Irn.oSEUweMGW-&skipSplash=1&mlid=468719001&vet=540&dt=040112&ptid=1943"><strong>Just watch this video</strong></a></p>
+
+<p style="margin-bottom: 300px">What did you think?</p>
+
+
+
+<div style="border-top: 1px solid #000; font-size: 8pt; font-family: Arial, Helvetica, sans-serif; color: #000000;">This message was intended for aarngak@tamaani.ca and was sent as a notification, invitation or reminder (digital goods subject to change in reminders) of an event initiated by Natsiq Kango using a third-party or platform application and may contain promotional materials and/or services for sale including digital goods received.
+<br />
+<br />
+To control messages sent to or from you, your contacts and/or FanBox, click <a href="http://profile.fanbox.com/ApplicationManager/CommunityEmailSettings.aspx?em=%2FqTndD1QV0qQkB2ezc0e9avVN8ntvyrs&vet=540&mlid=468719001">here</a>.
+<div>Our offices are located at: FanBox - 113 West G Street, STE 510, San Diego, CA 92101, USA</div></div>
+----boundary_1389690_8e01c5e7-6716-4d14-9451-985f61ed2b7b--
+
+
+
+

@@ -1,0 +1,459 @@
+Return-Path: <support@tamaani.ca>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from localhost (localhost [127.0.0.1])
+	by ispv2.soleica.ca (Postfix) with ESMTP id 49B2B1370BF;
+	Wed, 23 Jul 2008 16:33:49 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv2.soleica.ca ([127.0.0.1])
+	by localhost (ispv2.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id BpLvx37kBNzC; Wed, 23 Jul 2008 16:33:46 -0400 (EDT)
+Received: from relais.videotron.ca (relais.videotron.ca [24.201.245.36])
+	by ispv2.soleica.ca (Postfix) with ESMTP id B346B137054;
+	Wed, 23 Jul 2008 16:33:46 -0400 (EDT)
+MIME-version: 1.0
+Content-transfer-encoding: 7BIT
+Content-type: text/html; charset=us-ascii
+Received: from [69.70.8.115] by VL-MO-MR002.ip.videotron.ca
+ (Sun Java(tm) System Messaging Server 6.3-4.01 (built Aug  3 2007; 32bit))
+ with ESMTP id <0K4H00EEX7RNMSG0@VL-MO-MR002.ip.videotron.ca>; Wed,
+ 23 Jul 2008 16:33:24 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])	by endian-office.soleica.ca
+ (Postfix) with ESMTP id 8B61C3FF19; Wed, 23 Jul 2008 16:33:21 -0400 (EDT)
+X-Virus-Scanned: by Endian Firewall
+Received: from SOLEICA-ES (unknown [192.168.8.77])	by endian-office.soleica.ca
+ (Postfix) with ESMTP id B17EA3FF09; Wed, 23 Jul 2008 16:32:52 -0400 (EDT)
+Date: Wed, 23 Jul 2008 16:33:59 -0400
+From: Alain Lance <support@tamaani.ca>
+X-Mailer: The Bat! (v3.0.2.10) Professional
+Reply-to: Alain Lance <support@tamaani.ca>
+Organization: Tamaani
+X-Priority: 3 (Normal)
+Message-id: <1982219640.20080723163359@tamaani.ca>
+To: Tamaani Maillist <jdumoulin@tamaani.ca>, aulla@tamaani.ca,
+ support@tamaani.ca, josie_n@tamaani.ca, m.niviaxie@tamaani.ca,
+ lizzie.kulula@tamaani.ca, mosusie@tamaani.ca, habs@tamaani.ca,
+ bourget@tamaani.ca, lpilurtuut@tamaani.ca, kululak@tamaani.ca,
+ noahan@tamaani.ca, phalley@tamaani.ca, seanmcdonald@tamaani.ca,
+ nathalie.boulanger@tamaani.ca, johnny.sequaluk@tamaani.ca,
+ ulayu.sequaluk@tamaani.ca, misty371@tamaani.ca, elisapiokituk@tamaani.ca,
+ kuujjuaqguy@tamaani.ca, h0mefree@tamaani.ca, marykaye@tamaani.ca,
+ markipapigatuk@tamaani.ca, bobby.deer@tamaani.ca, mary_sakiagak@tamaani.ca,
+ carleemae6@tamaani.ca, sputulik@tamaani.ca, anntertiluk@tamaani.ca,
+ sammyputulik@tamaani.ca, jlsdion@tamaani.ca, gpetagumskum@tamaani.ca,
+ yaakaoriginals@tamaani.ca, q_pauyungie@tamaani.ca, karend@tamaani.ca,
+ ciacy@tamaani.ca, dlc@tamaani.ca, ilanouette@tamaani.ca, tpoirier@tamaani.ca,
+ bmj@tamaani.ca, labraham@tamaani.ca, silas.watt@tamaani.ca,
+ boreale@tamaani.ca, abie@tamaani.ca, davidwatt@tamaani.ca,
+ gangnatuk@tamaani.ca, nordsudjpt@tamaani.ca, dmcj@tamaani.ca,
+ carolineoweet@tamaani.ca, atjiliuriji@tamaani.ca, inukjuamiuq@tamaani.ca,
+ barberatukai@tamaani.ca, susiealaku@tamaani.ca, ppuxley@tamaani.ca,
+ skakayuk@tamaani.ca, ham@tamaani.ca, joeannahatak@tamaani.ca,
+ clementrousseau@tamaani.ca, rousseauclement@tamaani.ca, nanuk@tamaani.ca,
+ jrc231@tamaani.ca, vmasty@tamaani.ca, runaluk@tamaani.ca,
+ evakulula@tamaani.ca, brianurquhart@tamaani.ca, sergeveilleux@tamaani.ca,
+ snoopy@tamaani.ca, aqullialuk@tamaani.ca, yaaka@tamaani.ca,
+ marionjames@tamaani.ca, qiallaq@tamaani.ca, sammyduncan@tamaani.ca,
+ tbaron@tamaani.ca, leahmay@tamaani.ca, nuut@tamaani.ca, zoie@tamaani.ca,
+ stagoona@tamaani.ca, sarahruptash@tamaani.ca, johnruptash@tamaani.ca,
+ jls@tamaani.ca, mattmuk@tamaani.ca, gabriel@tamaani.ca, cford@tamaani.ca,
+ others.manager@tasiujaq.coop, doobie@tamaani.ca, nelson.tardif@tamaani.ca,
+ ntardif@tamaani.ca, naos@tamaani.ca, charleskeddy@tamaani.ca,
+ marty@tamaani.ca, golda@tamaani.ca, candersen@tamaani.ca, cairo@tamaani.ca,
+ willie@tamaani.ca, justin@tamaani.ca, robertgrenier@tamaani.ca,
+ aullaluk@tamaani.ca, samanee@tamaani.ca, annahatak_36@tamaani.ca,
+ bo@tamaani.ca, psenay@tamaani.ca, anniel@tamaani.ca, anniepat@tamaani.ca,
+ sarreak@tamaani.ca, stevenroberge@tamaani.ca, isa@tamaani.ca,
+ kpmacrae@tamaani.ca, m.murphy@tamaani.ca, carolineningiuk@tamaani.ca,
+ putulik@tamaani.ca, cchasse@tamaani.ca, tkudluk@tamaani.ca,
+ marcomorin@tamaani.ca, adamie@tamaani.ca, ngrist@tamaani.ca,
+ berthe_8@tamaani.ca, sandrabarbieri@tamaani.ca, axel@tamaani.ca,
+ casasanti@tamaani.ca, nomail@tamaani.ca, a_kelly56@tamaani.ca,
+ seanfrench@tamaani.ca, sf@tamaani.ca, emjohn@tamaani.ca,
+ palezekiel@tamaani.ca, davepike@tamaani.ca, amaruk@tamaani.ca,
+ wchamilton@tamaani.ca, cnayoumealuk@tamaani.ca, rwgallo@tamaani.ca,
+ mgauvin@tamaani.ca, l.haukai@tamaani.ca, jaaji@tamaani.ca, cmunick@tamaani.ca,
+ simeoniemut@tamaani.ca, samjeannie@tamaani.ca, sarahbn@tamaani.ca,
+ tomgwr@tamaani.ca, akeatainak@tamaani.ca, mariannegwr@tamaani.ca,
+ p.b.kiatainaq@tamaani.ca, ohurley@tamaani.ca, mickcormier@tamaani.ca,
+ annick.l@tamaani.ca, bedarmi@tamaani.ca, shaomik@tamaani.ca,
+ a.tayara@tamaani.ca, louisakuad@tamaani.ca, deniskuujjuaq@tamaani.ca,
+ aakava@tamaani.ca, kudlu_lucassie@tamaani.ca, shanelouisa@tamaani.ca,
+ wes@tamaani.ca, itooktoo@tamaani.ca, clunasclan@tamaani.ca,
+ liztukkiapik@tamaani.ca, casper_82@tamaani.ca, alance@tamaani.ca,
+ charlotte.steven@tamaani.ca, cocotte@tamaani.ca, ltukalak@tamaani.ca,
+ familytukalak@tamaani.ca, nathprof@tamaani.ca, nanasiann@tamaani.ca,
+ jaajietua@tamaani.ca, singnorm@tamaani.ca, qelizabeth@tamaani.ca,
+ jatagotaaluk@tamaani.ca, norm@tamaani.ca, sailasie@tamaani.ca,
+ betskelbcdj@tamaani.ca, alapointe@tamaani.ca, pierrephilie@tamaani.ca,
+ gap@tamaani.ca, emma.laina@tamaani.ca, katsuakmark_@tamaani.ca,
+ jannikakayuk@tamaani.ca, lynnlemire@tamaani.ca, k.moorhouse@tamaani.ca,
+ qiallakqumaaluk@tamaani.ca, nappatuk@tamaani.ca, saqumaq@tamaani.ca,
+ cvogel@tamaani.ca, losty@tamaani.ca, patriciak@tamaani.ca, lwatch@tamaani.ca,
+ aqujak@tamaani.ca, labque@tamaani.ca, ruthmasty@tamaani.ca,
+ satchynia@tamaani.ca, sksman@tamaani.ca, qattaaq@tamaani.ca,
+ cpepabano@tamaani.ca, johnny.mickeyook@tamaani.ca, peterose@tamaani.ca,
+ gtaddeo@tamaani.ca, apapigatuk@tamaani.ca, dcameron.nuvumiut@tamaani.ca,
+ entamontpetit@tamaani.ca, spapigatuk@tamaani.ca, gechalook@tamaani.ca,
+ patricia.gordon@tamaani.ca, leahangiyou@tamaani.ca, vbquiblat@tamaani.ca,
+ mala@tamaani.ca, elijahningiuruvik@tamaani.ca, alecoholic@tamaani.ca,
+ darrow79@tamaani.ca, tirq@tamaani.ca, carolstan@tamaani.ca,
+ laturcotte@tamaani.ca, j.duncan@tamaani.ca, ccartlidge@tamaani.ca,
+ atsaniq@tamaani.ca, msakiagak@tamaani.ca, pleinvent@tamaani.ca,
+ lay@tamaani.ca, kuujjuamiut@tamaani.ca, tpalliser@tamaani.ca,
+ kayak@tamaani.ca, elijasi@tamaani.ca, timmiaq.q.p@tamaani.ca,
+ timmiakpauyugnie@tamaani.ca, vince@tamaani.ca, lizziesakiagak@tamaani.ca,
+ aiviq@tamaani.ca, lady@tamaani.ca, sergeauclair@tamaani.ca,
+ satewas@tamaani.ca, xiii@tamaani.ca, cbnpa@tamaani.ca, bryceherron@tamaani.ca,
+ aleck@tamaani.ca, bill@tamaani.ca, bembridge@tamaani.ca,
+ nbembridge@tamaani.ca, ian@tamaani.ca, dave_bouffard@tamaani.ca,
+ vickyr@tamaani.ca, isaac.aupalu@tamaani.ca, owpaluk@tamaani.ca,
+ tirilluliut@tamaani.ca, spcooper@tamaani.ca, sillija@tamaani.ca,
+ juana@tamaani.ca, mpatsauq@tamaani.ca, jjjobin@tamaani.ca,
+ alarcher@tamaani.ca, hatherley@tamaani.ca, vallee@tamaani.ca,
+ sheila_n@tamaani.ca, davegirouard@tamaani.ca, girouarddave@tamaani.ca,
+ wolfden@tamaani.ca, wolfden1@tamaani.ca, wolfden2@tamaani.ca,
+ aaugiak@tamaani.ca, mjones@tamaani.ca, ryan@tamaani.ca, andremorin@tamaani.ca,
+ jj.e@tamaani.ca, masiut@tamaani.ca, terrellkawapit@tamaani.ca,
+ dwdoidge@tamaani.ca, steevecote@tamaani.ca, suuli@tamaani.ca,
+ dmpembroke@tamaani.ca, daveandmary@tamaani.ca, MSmith@tamaani.ca,
+ alaku@tamaani.ca, ley@tamaani.ca, MarcCarrier@tamaani.ca,
+ cparceaud@tamaani.ca, pmay@tamaani.ca, xcd@tamaani.ca, jmbarrett@tamaani.ca,
+ juanasieq@tamaani.ca, umark@tamaani.ca, mafiateam@tamaani.ca,
+ gfrenette2000@tamaani.ca, johnnys@tamaani.ca, harryokpik@tamaani.ca,
+ fonl@tamaani.ca, tuumasi.p@tamaani.ca, liz@tamaani.ca, SGeorge@tamaani.ca,
+ angava@tamaani.ca, geolivingston@tamaani.ca, amagualikdan@tamaani.ca,
+ northernwolf@tamaani.ca, msaviadjuk14@tamaani.ca, arnaapik@tamaani.ca,
+ atai@tamaani.ca, francineboutin@tamaani.ca, carolinecote@tamaani.ca,
+ wattc@tamaani.ca, bberthe@tamaani.ca, mpjararuse@tamaani.ca,
+ sbtasiujaq@tamaani.ca, kiggavik@tamaani.ca, niia@tamaani.ca,
+ louisawtukkiapik@tamaani.ca, richard.gervais@tamaani.ca,
+ sdoranuktie@tamaani.ca, tpkiatainaq@tamaani.ca, silvie.gadbois@tamaani.ca,
+ georgepilurtuut@tamaani.ca, pashaberthe@tamaani.ca, jdelorme@tamaani.ca,
+ amoorhouse@tamaani.ca, jokpik@tamaani.ca, lizzieakulula@tamaani.ca,
+ sairaskakayuk@tamaani.ca, fistot@tamaani.ca, lbeaule@tamaani.ca,
+ mariead@tamaani.ca, laprat@tamaani.ca, arcticowboye@tamaani.ca,
+ lamarualik@tamaani.ca, just_aloupa@tamaani.ca, mbelanger@tamaani.ca,
+ marijo@tamaani.ca, jbrisebois@tamaani.ca, noriko_ncem@tamaani.ca,
+ vicki@tamaani.ca, michel.therien@tamaani.ca, toddsiasi@tamaani.ca,
+ aputiarjuk@tamaani.ca, qasaluaucm@tamaani.ca, amark@tamaani.ca,
+ jmark@tamaani.ca, mariemcpike@tamaani.ca, lcain_93@tamaani.ca,
+ louisa_oovaut@tamaani.ca, emark@tamaani.ca, bob.fournier@tamaani.ca,
+ bbrisson@tamaani.ca, patricelarivee@tamaani.ca, mfilteau@tamaani.ca,
+ aarngak@tamaani.ca, gestionangoinc@tamaani.ca, maryangnatuk@tamaani.ca,
+ Ekauki@tamaani.ca, l.c.ducap@tamaani.ca, marroquin@tamaani.ca,
+ lsimard@tamaani.ca, weedcoasedo@tamaani.ca, pjjsaunders@tamaani.ca,
+ aclunas@tamaani.ca, melyn@tamaani.ca, elisapihenry@tamaani.ca,
+ vicki_g@tamaani.ca, luc296@tamaani.ca, susan@tamaani.ca, eva.deer@tamaani.ca,
+ aisaa@tamaani.ca, econ.dev@tamaani.ca, ejones@tamaani.ca,
+ raymond_m@tamaani.ca, amonnier@tamaani.ca, jkangutinguak@tamaani.ca,
+ david.cathy@tamaani.ca, sylvierdc@tamaani.ca, abdo.shabah@tamaani.ca,
+ moukmouk@tamaani.ca, paulasiej@tamaani.ca, justbea@tamaani.ca,
+ seproainukpuk@tamaani.ca, "masiut@tamaani.ca"@tamaani.ca, theepoos@tamaani.ca,
+ canayuk2@tamaani.ca, elenab@tamaani.ca, epearson@tamaani.ca,
+ alain.kathy@tamaani.ca, wawapito@tamaani.ca, colina@tamaani.ca,
+ jford@tamaani.ca, pduncan@tamaani.ca, dorisandlorne@tamaani.ca,
+ gates@tamaani.ca, denisdeziel@tamaani.ca, jusi@tamaani.ca, tgreene@tamaani.ca,
+ kjonas@tamaani.ca, alacroix@tamaani.ca, jusipi@tamaani.ca, c.sandy@tamaani.ca,
+ elianam@tamaani.ca, n_elhakeem@tamaani.ca, marsenault@tamaani.ca,
+ paniguluk@tamaani.ca, lisacombden@tamaani.ca, qiniqtiq@tamaani.ca,
+ jqarisaq@tamaani.ca, stephane_lacasse@tamaani.ca, syrajoe@tamaani.ca,
+ bcain@tamaani.ca, patmcrorie@tamaani.ca, roxanneperreault@tamaani.ca,
+ anniemamangie@tamaani.ca, stephanrouleau@tamaani.ca, nancy_kalai@tamaani.ca,
+ carroll@tamaani.ca, sylvaindenis@tamaani.ca, catherinewalsh@tamaani.ca,
+ maggieakpahatak@tamaani.ca, dingulig@tamaani.ca, atarkirk@tamaani.ca,
+ stevebrunet@tamaani.ca, northofnunavik@tamaani.ca, lucassie@tamaani.ca,
+ inukgirl@tamaani.ca, jetok@tamaani.ca, aqisiiq@tamaani.ca, qcf@tamaani.ca,
+ anniedow@tamaani.ca, tiqaluk@tamaani.ca, arcticraven@tamaani.ca,
+ dora_n@tamaani.ca, nelliea@tamaani.ca, dbrisson@tamaani.ca, noah@tamaani.ca,
+ m_kwan@tamaani.ca, mmiqaluk@tamaani.ca, rachel_bruno@tamaani.ca,
+ nunavik_sports@tamaani.ca, jackusietulugak@tamaani.ca, jsgordon@tamaani.ca,
+ tipooh@tamaani.ca, clinton@tamaani.ca, amelie@tamaani.ca, acarrier@tamaani.ca,
+ ctulugak_6@tamaani.ca, equmaluk@tamaani.ca, dohamel@tamaani.ca,
+ louisavicky@tamaani.ca, ssakiagak@tamaani.ca, skudluk@tamaani.ca,
+ jakcou@tamaani.ca, louisa_and_josiesam@tamaani.ca, annerougeau@tamaani.ca,
+ mdiciero@tamaani.ca, qipitiaqjs@tamaani.ca, cameron@tamaani.ca,
+ michaelmerritt@tamaani.ca, allooloo@tamaani.ca, tsakiagak@tamaani.ca,
+ ricklanglois@tamaani.ca, richard@tamaani.ca, fabienlavoie@tamaani.ca,
+ cameron819@tamaani.ca, allan_house@tamaani.ca, yaani@tamaani.ca,
+ erniet@tamaani.ca, josee.filion@tamaani.ca, pattasse@tamaani.ca,
+ jusipiamamatuak@tamaani.ca, lcrow@tamaani.ca, alasie_jaaka@tamaani.ca,
+ rseymour@tamaani.ca, isumaki@tamaani.ca, george_munick@tamaani.ca,
+ whap76@tamaani.ca, adamijr@tamaani.ca, jaipiti@tamaani.ca,
+ casey_john@tamaani.ca, dmk@tamaani.ca, jane@tamaani.ca, velesien@tamaani.ca,
+ soibhan24@tamaani.ca, julier@tamaani.ca, chrissternberg@tamaani.ca,
+ mgordon@tamaani.ca, irsutuq@tamaani.ca, p_annahatak@tamaani.ca,
+ initsiaq@tamaani.ca, bherron@tamaani.ca, nellienapartuk@tamaani.ca,
+ jmalaku@tamaani.ca, louiseayotte@tamaani.ca, m.a.cooper@tamaani.ca,
+ jomandy@tamaani.ca, marie_eve@tamaani.ca, ugod666@tamaani.ca,
+ PBentley@tamaani.ca, mikegatti@tamaani.ca, rdem@tamaani.ca,
+ aliaudlaluk@tamaani.ca, levinataqulik@tamaani.ca, leahpilurtuut@tamaani.ca,
+ kinisaasi@tamaani.ca, steviequmaaluk@tamaani.ca, tpilurtuut@tamaani.ca,
+ pbj@tamaani.ca, julievendette@tamaani.ca, m.george@tamaani.ca,
+ c.elijassiapik@tamaani.ca, maryputulik@tamaani.ca, mmajs.08_22@tamaani.ca,
+ vilep@tamaani.ca, vinniekooktook1250@tamaani.ca, jenylou@tamaani.ca,
+ iglooaccomodation@tamaani.ca, crowmary@tamaani.ca, cgtooktoo@tamaani.ca,
+ scdickson@tamaani.ca, charliegordon_72@tamaani.ca, sebastientalbot@tamaani.ca,
+ pierredumont@tamaani.ca, JDWILKINSON@tamaani.ca, adauphin@tamaani.ca,
+ JDWILKINSON@tamaani.ca, gilles@tamaani.ca, annieolive@tamaani.ca,
+ eangiyou@tamaani.ca, rdjones@tamaani.ca, jrgordon@tamaani.ca,
+ magordon@tamaani.ca, jnowrakudluk@tamaani.ca, tracy_tukkiapik@tamaani.ca,
+ guydesmaris@tamaani.ca, Linda_w@tamaani.ca, dlock@tamaani.ca,
+ bendicaire@tamaani.ca, cgadbois@tamaani.ca, m.oleary@tamaani.ca,
+ pyork@tamaani.ca, ppapigatuk@tamaani.ca, ljaaka@tamaani.ca,
+ benarreak@tamaani.ca, kiladeruso@tamaani.ca, makimmaklizzie@tamaani.ca,
+ mariannemorales@tamaani.ca, lydiairniq@tamaani.ca, louisevignola@tamaani.ca,
+ armandmd@tamaani.ca, waynes@tamaani.ca, lydiajakaa@tamaani.ca,
+ swalker@tamaani.ca, inukpuk@tamaani.ca, barry.acorn@tamaani.ca,
+ betsy_kawapit@tamaani.ca, shona@tamaani.ca, angeliquelaberge@tamaani.ca,
+ bwynne@tamaani.ca, lrepp@tamaani.ca, ungavasnowfury@tamaani.ca,
+ bobnellie@tamaani.ca, skphinney@tamaani.ca, gaston@tamaani.ca,
+ natm@tamaani.ca, nancyosb@tamaani.ca, waldron@tamaani.ca, mruston@tamaani.ca,
+ rose@tamaani.ca, michaelcrant@tamaani.ca, kgraveline@tamaani.ca,
+ maeangnatuk@tamaani.ca, dseguin@tamaani.ca, pangnatuk@tamaani.ca,
+ pilipussi@tamaani.ca, pnastapoka@tamaani.ca, denislamothe@tamaani.ca,
+ joanassiepalliserfamily@tamaani.ca, sylvain_serre@tamaani.ca, mtg@tamaani.ca,
+ kimmarion@tamaani.ca, chartel@tamaani.ca, annaniviaxie@tamaani.ca,
+ magagne@tamaani.ca, talyclement@tamaani.ca, marysecourville@tamaani.ca,
+ piyaituk@tamaani.ca, pepirosnavas@tamaani.ca, erikkonopka@tamaani.ca,
+ sarahpirti@tamaani.ca, siasi_kumarluk@tamaani.ca, bril@tamaani.ca,
+ juliemclean@tamaani.ca, qalingo@tamaani.ca, lydiayeates@tamaani.ca,
+ mark@tamaani.ca, louisa@tamaani.ca, aparta@tamaani.ca,
+ misael.morales@tamaani.ca, solomon_a@tamaani.ca, vdion@tamaani.ca,
+ imaapik@tamaani.ca, amberlynn@tamaani.ca, akasudluak@tamaani.ca,
+ stefdorv@tamaani.ca, jberthe@tamaani.ca, ctooktoo@tamaani.ca,
+ spdhiman@tamaani.ca, pathebert14@tamaani.ca, alainaline@tamaani.ca,
+ greg_b@tamaani.ca, kiteguy@tamaani.ca, johnny_sala@tamaani.ca,
+ davidiacnovaling@tamaani.ca, wtumic@tamaani.ca, melnovpuv@tamaani.ca,
+ rkcree_ations@tamaani.ca, angutialuk@tamaani.ca, dan.choppers@tamaani.ca,
+ mkcrow@tamaani.ca, aba@tamaani.ca, youthcenter@tamaani.ca, naliqu@tamaani.ca,
+ jnorthrup@tamaani.ca, loubriere@tamaani.ca, quananack@tamaani.ca,
+ elaku@tamaani.ca, maison@tamaani.ca, jobie_gordon@tamaani.ca,
+ chantal@tamaani.ca, la_grenouille@tamaani.ca, Qimuk@tamaani.ca,
+ nmss@tamaani.ca, qinuajuak@tamaani.ca, sarah_willie@tamaani.ca,
+ blanglois@tamaani.ca, katsuakjoshua@tamaani.ca, bertjl@tamaani.ca,
+ fgckangirsujuaq@tamaani.ca, uvanga@tamaani.ca, catherine.plaziac@tamaani.ca,
+ nikkuk@tamaani.ca, lnappatuk@tamaani.ca, bobby_epoo@tamaani.ca,
+ georges_henri@tamaani.ca, garnaquq@tamaani.ca, k.iseemailee@tamaani.ca,
+ dangutinguak@tamaani.ca, lindyrupert@tamaani.ca, qimukmusic@tamaani.ca,
+ netninja@tamaani.ca, elabranche@tamaani.ca, jnashak@tamaani.ca,
+ jjjams@tamaani.ca, kmpearson@tamaani.ca, edeer@tamaani.ca,
+ inutsuk619@tamaani.ca, mannanack@tamaani.ca, einuk@tamaani.ca,
+ mkalinowski@tamaani.ca, louisa_sakiagak@tamaani.ca,
+ grocery.manager@puvirnituq.coop, tuumasi23@tamaani.ca, m.demers@tamaani.ca,
+ andy.moorhouse@tamaani.ca, tpaquet@tamaani.ca, sailasie_p@tamaani.ca,
+ tnapartuk@tamaani.ca, jimmyegordon@tamaani.ca, klmrwynne@tamaani.ca,
+ jbtest@tamaani.ca, jonnyorr@tamaani.ca, patircialcrow@tamaani.ca,
+ jerome.test@puvirnituq.coop, general.manager@puvirnituq.coop,
+ others.manager@puvirnituq.coop, jadams@tamaani.ca,
+ others.manager@quaqtaq.coop, others.manager@umiujaq.coop, samani@tamaani.ca,
+ others.manager@inukjuaq.coop, others.manager@kuujjuaq.coop,
+ others.manager@kangiqsualujjuaq.coop, others.manager@ivujivik.coop,
+ others.manager@kangirsuk.coop, others.manager@tamaani.ca,
+ others.manager@kangiqsujuaq.coop, others.manager@akulivik.coop,
+ lizzie_pinguatuk@tamaani.ca, taima@tamaani.ca, williekaukai@tamaani.ca,
+ charlotte_puttayuk@tamaani.ca, tputulik@tamaani.ca, luaudet@tamaani.ca,
+ receptionist_qaqqalik@tamaani.ca, charlie_arngak@tamaani.ca,
+ judy.oovout@tamaani.ca, bobby.deer.jr@tamaani.ca, 591@tamaani.ca,
+ lamaruk@tamaani.ca, daisyarnatuk@tamaani.ca, daniel78@tamaani.ca,
+ taqa@tamaani.ca, uqittuk_74@tamaani.ca, nuvvukmiut@tamaani.ca,
+ pashahublou@tamaani.ca, paasahubloo@tamaani.ca, lucycarrier@tamaani.ca,
+ lainaanautak@tamaani.ca, charlieokpik@tamaani.ca, williet@tamaani.ca,
+ itpinuit@tamaani.ca, ltaqulik@tamaani.ca, lali@tamaani.ca, ncain@tamaani.ca,
+ tinai@tamaani.ca, bobby_padlayat@tamaani.ca, jbossert@tamaani.ca,
+ susie@tamaani.ca, mrskaitak@tamaani.ca, tiivi_alaku@tamaani.ca,
+ jangma@tamaani.ca, s_papigatuk@tamaani.ca, elaia98@tamaani.ca,
+ sapinasnowball@tamaani.ca, tonetti@tamaani.ca, qamamatuak@tamaani.ca,
+ mvezina@tamaani.ca, joellemarenger@tamaani.ca, gloria@tamaani.ca,
+ elisapi_page@tamaani.ca, nowya@tamaani.ca, ts@tamaani.ca,
+ maina_iyaituk@tamaani.ca, jaannakenuajuaq@tamaani.ca, zackt37@tamaani.ca,
+ minnie_ittukallak@tamaani.ca, lwatt@tamaani.ca, atupitu@tamaani.ca,
+ lingard@tamaani.ca, plepesant@tamaani.ca, ericnancy@tamaani.ca,
+ salapiatsi@tamaani.ca, pat.t@tamaani.ca, melanieblake@tamaani.ca,
+ bennyboo@tamaani.ca, mmunick@tamaani.ca, akuyouthcentre@tamaani.ca,
+ king_dave@tamaani.ca, sirqumia@tamaani.ca, dave_rhoden@tamaani.ca,
+ nunaturlik@tamaani.ca, ccilrufie@tamaani.ca, sarahbeaulne@tamaani.ca,
+ lalyleclerc@tamaani.ca, rosestgerard@tamaani.ca, ctagoona@tamaani.ca,
+ weedco_edo@tamaani.ca, jsamisack@tamaani.ca, lekasudluak@tamaani.ca,
+ jkeleutak@tamaani.ca, jonasbibeau@tamaani.ca, kudlukarts@tamaani.ca,
+ general.manager@kuujjuarapik.coop, layotte@tamaani.ca,
+ grocery.manager@kuujjuarapik.coop, others.manager@kuujjuarapik.coop,
+ general.manager@ivujivik.coop, general.manager@salluit.coop,
+ general.manager@inukjuaq.coop, general.manager@kuujjuaq.coop,
+ general.manager@kangiqsualujjuaq.coop, general.manager@kangirsuk.coop,
+ general.manager@kangiqsujuaq.coop, general.manager@akulivik.coop,
+ general.manager@quaqtaq.coop, general.manager@umiujaq.coop,
+ general.manager@tasiujaq.coop, grocery.manager@ivujivik.coop,
+ grocery.manager@salluit.coop, grocery.manager@inukjuaq.coop,
+ grocery.manager@kuujjuaq.coop, grocery.manager@kangiqsualujjuaq.coop,
+ others.manager@aupaluk.coop, grocery.manager@aupaluk.coop,
+ grocery.manager@kangiqsujuaq.coop, grocery.manager@akulivik.coop,
+ grocery.manager@quaqtaq.coop, grocery.manager@umiujaq.coop,
+ grocery.manager@tasiujaq.coop, hotel.manager@puvirnituq.coop,
+ hotel.manager@inukjuaq.coop, grocery.manager@kangirsuk.coop,
+ store.manager@puvirnituq.coop, store.manager@kuujjuarapik.coop,
+ store.manager@ivujivik.coop, store.manager@salluit.coop,
+ reservationskuujjuaqinn@tamaani.ca, store.manager@kuujjuaq.coop,
+ store.manager@kangiqsualujjuaq.coop, store.manager@kangirsuk.coop,
+ store.manager@tasiujaq.coop, store.manager@umiujaq.coop,
+ store.manager@akulivik.coop, store.manager@kangiqsujuaq.coop,
+ store.manager@aupaluk.coop, koz@tamaani.ca, aliciaa@tamaani.ca,
+ calaku@tamaani.ca, annie_n@tamaani.ca, qqalaku@tamaani.ca,
+ jbossert01@tamaani.ca, sbeauliere@tamaani.ca, general.manager@inukjuak.coop,
+ store.manager@inukjuak.coop, grocery.manager@inukjuak.coop,
+ others.manager@inukjuak.coop, hotel.manager@inukjuak.coop,
+ others.manager@salluit.coop, parts.manager@inukjuak.coop,
+ parts.manager@puvirnituq.coop, pars@tamaani.ca, sinuupa@tamaani.ca,
+ susan_tuglavina@tamaani.ca, laesperon@tamaani.ca,
+ ednacookie_umiujaq@tamaani.ca, annettek@tamaani.ca,
+ pituvik.registrar@tamaani.ca, christinakalaku@tamaani.ca,
+ rhoda_eetook@tamaani.ca, lboulay@tamaani.ca, pdavidee@tamaani.ca,
+ hqullialuk@tamaani.ca, tinakleist@tamaani.ca, arnaituqmifsud@tamaani.ca,
+ aittukallak@tamaani.ca, jaybird@tamaani.ca, kuujjuaqinn@tamaani.ca,
+ addiealay@tamaani.ca, elisapia@tamaani.ca, madgepomerleau@tamaani.ca,
+ tusaayi@tamaani.ca, isaunders@tamaani.ca, jsaunders@tamaani.ca,
+ susie_p@tamaani.ca, dr_white@tamaani.ca, saputikcorporation@tamaani.ca,
+ joeadamie@tamaani.ca, jdcabana@tamaani.ca, icdredge@tamaani.ca,
+ markusie@tamaani.ca, yvancorriveau@tamaani.ca, kdesylva@tamaani.ca,
+ nadineo@tamaani.ca, dmmacdougall@tamaani.ca, mariosimard@tamaani.ca,
+ marthag@tamaani.ca, bborrel@tamaani.ca, ldredge@tamaani.ca,
+ gidandmel@tamaani.ca, vickyluc@tamaani.ca, johnny@tamaani.ca,
+ johnnyboy@tamaani.ca, pituvik@tamaani.ca, anaraapik@tamaani.ca,
+ gboucher@tamaani.ca, mcnicol@tamaani.ca, amautik@tamaani.ca,
+ saimaviatikyouth@tamaani.ca, ngdp@tamaani.ca, doraaugiak@tamaani.ca,
+ alecannahatak@tamaani.ca, dumontjm@tamaani.ca, j_emataluk@tamaani.ca,
+ snowdrop@tamaani.ca, tcarroll@tamaani.ca, general.manager@aupaluk.coop,
+ store.manager@quaqtaq.coop, jonsimard@tamaani.ca, ccombden@tamaani.ca,
+ aainiavituquarq@tamaani.ca, qupanuak@tamaani.ca, papillonmart@tamaani.ca,
+ jrmay@tamaani.ca, a_papigatuk@tamaani.ca, annaturvik@tamaani.ca,
+ dhickey@tamaani.ca, kane@tamaani.ca, marthakeleutak@tamaani.ca,
+ gpeters@tamaani.ca, bleo@tamaani.ca, minnieadams@tamaani.ca,
+ anniturvik@tamaani.ca, johnnypaulusie@tamaani.ca, jobiesimiunie@tamaani.ca,
+ marc.fourcaudot@tamaani.ca, saunders_hse232@tamaani.ca, airfreak@tamaani.ca,
+ jbrunelle@tamaani.ca, triumph70@tamaani.ca, mlucassie@tamaani.ca,
+ diatsuk@tamaani.ca, iqaluppikhotel@tamaani.ca, diatsouk@tamaani.ca,
+ papac@tamaani.ca, william@tamaani.ca, devilfox@tamaani.ca,
+ eric_legault@tamaani.ca, rjgrey@tamaani.ca, mnowkawalk@tamaani.ca,
+ corinne@tamaani.ca, POkituk@tamaani.ca, Uqittuq59@tamaani.ca,
+ okituk@tamaani.ca, okituk59@tamaani.ca, info@nunavikparks.ca,
+ info@parcsnunavik.ca, p-mo-1@tamaani.ca, sanaaqpapigatuk@tamaani.ca,
+ ohoudart@tamaani.ca, xgaillat@tamaani.ca, Yassie@tamaani.ca,
+ uqauya@tamaani.ca, swhiteley@tamaani.ca, shgordon@tamaani.ca,
+ siasi@tamaani.ca, Whapmagoostuicta@tamaani.ca, bolduc57@tamaani.ca,
+ blachapelle@tamaani.ca, lgodbout@tamaani.ca, aainalik@tamaani.ca,
+ jclarke@tamaani.ca, rekomiak@tamaani.ca, philgoguen@tamaani.ca,
+ skleist@tamaani.ca, calaipad@tamaani.ca, qaqqalik_receptionist@tamaani.ca,
+ maggie@tamaani.ca, langnatuk@tamaani.ca, aahydro@tamaani.ca,
+ louise.cournoyer@tamaani.ca, aattasi@tamaani.ca, lainalik@tamaani.ca,
+ Padlayat@tamaani.ca, stephanie@tamaani.ca, asivuaq@tamaani.ca,
+ aquujaqqisiiq@tamaani.ca, aalimi@tamaani.ca, e.sizov@tamaani.ca,
+ betsy_annanack@tamaani.ca, kkbetsy_n27@tamaani.ca, jeremiebouchard@tamaani.ca,
+ dparsons@tamaani.ca, rao@tamaani.ca, qajaq@tamaani.ca, u_mark@tamaani.ca,
+ uqimark@tamaani.ca, foreman@tamaani.ca, anniesaunders@tamaani.ca,
+ napartuk@tamaani.ca, t_etok@tamaani.ca, barnett@tamaani.ca,
+ dwaldron@tamaani.ca, arcticwoodstock2@tamaani.ca, coord.initsiaq@tamaani.ca,
+ equmak@tamaani.ca, cgill@tamaani.ca, stooma@tamaani.ca, Sylvia@tamaani.ca,
+ doraniviaxe@tamaani.ca, gab@tamaani.ca, aqaivik@tamaani.ca,
+ cnaluiyuk@tamaani.ca, diane.pepin@tamaani.ca, mdcolours@tamaani.ca,
+ jimmymark@tamaani.ca, annetta@tamaani.ca, knaluiyuksr@tamaani.ca,
+ dvonric@tamaani.ca, aigiyuk@tamaani.ca, evakasudluak@tamaani.ca,
+ hquiesak@tamaani.ca, hquitsak@tamaani.ca, bulu@tamaani.ca,
+ arqivik.lhc@tamaani.ca, gobemouche@tamaani.ca, mlynch@tamaani.ca,
+ lugo.resendiz@tamaani.ca, atullaugak@tamaani.ca, Inuitmadearts@tamaani.ca
+Subject: EMAIL FRAUD with TAMAANI's ACCOUNT
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML><HEAD><TITLE></TITLE>
+<STYLE type="text/css"><!--
+BODY {
+  margin: 5px 5px 5px 5px;
+  background-color: #FFFFFF;
+}
+/*----------Text Styles----------*/
+HR { color: #000080}
+BODY, TABLE /* Normal text */
+{
+ font-size: 12pt;
+ font-family: 'Arial';
+ font-style: normal;
+ font-weight: normal;
+ color: #000080;
+ text-decoration: none;
+}
+SPAN.RVTS1 /* Heading */
+{
+ font-size: 10pt;
+ font-weight: bold;
+ color: #0000FF;
+}
+SPAN.RVTS2 /* Subheading */
+{
+ font-size: 10pt;
+ font-weight: bold;
+}
+SPAN.RVTS3 /* Keywords */
+{
+ font-size: 10pt;
+ font-style: italic;
+ color: #800000;
+}
+A.RVTS4, SPAN.RVTS4 /* Jump 1 */
+{
+ font-size: 10pt;
+ color: #008000;
+ text-decoration: underline;
+}
+A.RVTS5, SPAN.RVTS5 /* Jump 2 */
+{
+ font-size: 10pt;
+ color: #008000;
+ text-decoration: underline;
+}
+/*----------Para Styles----------*/
+P,UL,OL /* Paragraph Style */
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.RVPS1 /* Centered */
+{
+ text-align: center;
+ white-space: normal;
+}
+
+--></STYLE>
+</HEAD>
+<BODY>
+
+<P><BR></P>
+<P>Dear clients,</P>
+<P><BR></P>
+<P>On or around July 23 2008, you may have received an e-mail entitled:&nbsp;<SPAN class=RVTS3>&#8220;Dear Tamaani webmail Account User&#8221;</SPAN>, from&nbsp;<SPAN class=RVTS3>&#8220;Tamaani Webmail Support Team [mailto:adminsupport@tamaani.ca]&#8221;</SPAN></P>
+<P>That e-mail WAS NOT SENT by a Tamaani Internet employee or representative. It was a fraudulent attempt at collecting personal information and passwords from our customers.&nbsp;</P>
+<P>At no time should you provide, by e-mail, your personal information such as birth date, and passwords to either Tamaani representatives or anyone else.</P>
+<P>If you have communicated your personal information to anyone, please contact us immediately by&nbsp;<SPAN class=RVTS2>telephone</SPAN>&nbsp;at 1-888-TAMAANI or 819-964-2158 so we can change the password on your email account.</P>
+<P>Should you have any questions regarding security issues on your account, do not hesitate to contact us by telephone.</P>
+<P><BR></P>
+<P><BR></P>
+<P>Thank you kindly,</P>
+<P>The Tamaani Internet Support team</P>
+<P><BR></P>
+<P><BR></P>
+<P><BR></P>
+<P>Chers Clients,</P>
+<P>Le, ou autour du 23 Juillet 2008, vous avez peut-&#234;tre re&#231;u un courriel dont le sujet &#233;tait :&nbsp;<SPAN class=RVTS3>&#8220;Dear Tamaani webmail Account User&#8221;</SPAN>, de&nbsp;<SPAN class=RVTS3>&#8220;Tamaani Webmail Support Team [mailto:adminsupport@tamaani.ca]&#8221;</SPAN></P>
+<P>Ce courriel N&#8217;A PAS &#201;T&#201; ENVOY&#201; par un employ&#233; ou repr&#233;sentant de Tamaani Internet. Il s&#8217;agit d&#8217;une tentative de fraude visant &#224; se procurer de l&#8217;information personnelle et les mots de passe de nos usagers.</P>
+<P>En aucun temps devriez-vous avoir &#224; fournir par courriel, des informations personnelles tels que votre date de naissance et mots de passes, que ce soit &#224; des agents de Tamaani Internet ou toute autre personne.</P>
+<P>Si vous avez communiqu&#233; vos renseignements personnels &#224; qui que ce soit, veuillez communiquer imm&#233;diatement avec nous&nbsp;<SPAN class=RVTS2>par t&#233;l&#233;phone</SPAN>&nbsp;au 1-888-TAMAANI ou 819-964-2158, afin que nous puissions modifier le mot de passe de votre compte.</P>
+<P>Si vous avez des questions concernant la s&#233;curit&#233; de votre compte, n&#8217;h&#233;sitez pas &#224; nous contacter par t&#233;l&#233;phone.</P>
+<P><BR></P>
+<P><BR></P>
+<P>Merci,</P>
+<P>L&#8217;&#201;quipe de support Tamaani.</P>
+
+</BODY></HTML>
+
+
+

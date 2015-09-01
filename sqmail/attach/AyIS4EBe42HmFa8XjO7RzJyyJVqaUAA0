@@ -1,0 +1,258 @@
+Return-Path: <bounce-mc.us2_4682926.1576621-aarngak=tamaani.ca@mail131.wdc02.mcdlv.net>
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on tamaani.ca
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.7 required=7.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,HTML_IMAGE_RATIO_08,HTML_MESSAGE,MIME_QP_LONG_LINE,RP_MATCHES_RCVD
+	autolearn=ham version=3.3.1
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from mail131.wdc02.mcdlv.net (mail131.wdc02.mcdlv.net [205.201.130.131])
+	by tamaani.ca (Postfix) with ESMTP id A3D846926A
+	for <aarngak@tamaani.ca>; Mon, 29 Sep 2014 11:34:19 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail131.wdc02.mcdlv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=info=3Dfirstair.ca@mail131.wdc02.mcdlv.net;
+ bh=a6dAslCoY8vlQ0H4eL3/Bk8WbC0=;
+ b=qmLsAE2JbVFb3Cd8qtsEu8pZQCDbCvCjNDCviK7/NYKXatmNt2pDNCruhrg+13ohuQP2DApjvri7
+   vOpdgj24j/+dY/PzJSp8s5R1SePBNmjUWfALhlXYvMNNXs2jcChnflGCjC5RKiFpM/kFm7hrnR+A
+   B1Pmuh9GxJXD91fbZR0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail131.wdc02.mcdlv.net;
+ b=OeAn+yV5rcmPlYx86JADt/ug51+SamtnAhjb+UKUeWZ9Jhd7/xEvZ2qINqPhJDbkdsEgqUqsgVoV
+   y/pAe+K/h2H+Fh0eR5CubI++RviCIXIgdG+RDutbOMsRW80dG7/itn+mrrswlLzYrFjS0ShpoRbh
+   c+lGSfrBE8eHtDXuGVc=;
+Received: from (127.0.0.1) by mail131.wdc02.mcdlv.net id h55ttk1jvmge for <aarngak@tamaani.ca>; Mon, 29 Sep 2014 15:33:45 +0000 (envelope-from <bounce-mc.us2_4682926.1576621-aarngak=tamaani.ca@mail131.wdc02.mcdlv.net>)
+Subject: =?utf-8?Q?Everyone=20saves=20on=20flex=20fares=20systemwide?=
+From: =?utf-8?Q?First=20Air?= <info@firstair.ca>
+Reply-To: =?utf-8?Q?First=20Air?= <info@firstair.ca>
+To: =?utf-8?Q?Alasie?= <aarngak@tamaani.ca>
+Date: Mon, 29 Sep 2014 15:33:45 +0000
+Message-ID: <32f2c6a0b749f0511b45822cc842df0b0cb.20140929153339@mail131.wdc02.mcdlv.net>
+X-Mailer: MailChimp Mailer - **CID3054a241fa842df0b0cb**
+X-Campaign: mailchimp32f2c6a0b749f0511b45822cc.3054a241fa
+X-campaignid: mailchimp32f2c6a0b749f0511b45822cc.3054a241fa
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=32f2c6a0b749f0511b45822cc&id=3054a241fa&e=842df0b0cb
+X-MC-User: 32f2c6a0b749f0511b45822cc
+X-Feedback-ID: 4682926:4682926.1576621:us2:mc
+X-Accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-32f2c6a0b749f0511b45822cc-3054a241fa-842df0b0cb@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://firstair.us2.list-manage.com/unsubscribe?u=32f2c6a0b749f0511b45822cc&id=2282272235&e=842df0b0cb&c=3054a241fa>
+Sender: "First Air" <info=firstair.ca@mail131.wdc02.mcdlv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1210216667"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1210216667
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+Having trouble reading this email? You can view it online (https://firstai=
+r.ca/emails/2014/092914flex.html) .
+https://firstair.ca http://us2.campaign-archive2.com/?u=3D32f2c6a0b749f051=
+1b45822cc&id=3D3054a241fa&fblike=3Dtrue&e=3D842df0b0cb&socialproxy=3Dhttp%3A=
+%2F%2Fus2.campaign-archive1.com%2Fsocial-proxy%2Ffacebook-like%3Fu%3D32f2c=
+6a0b749f0511b45822cc%26id%3D3054a241fa%26url%3Dhttp%253A%252F%252Fus2.camp=
+aign-archive1.com%252F%253Fu%253D32f2c6a0b749f0511b45822cc%2526id%253D3054=
+a241fa%26title%3DEveryone%2520saves%2520on%2520flex%2520fares%2520systemwi=
+de http://twitter.com/share?url=3Dhttp%3A%2F%2Feepurl.com%2F4rzjf&text=3DE=
+veryone+saves+on+flex+fares+systemwide&count=3Dnone
+https://firstair.ca/?promocode=3DFLX14
+http://www.facebook.com/firstair
+https://firstair.ca/?promocode=3DFLX14
+
+Plan & Book (https://firstair.ca/book)     Flying First Air (https://first=
+air.ca/flying)     Cargo (https://firstair.ca/cargo)     Charter (https://=
+firstair.ca/charter)     Maintenance (https://firstair.ca/maintenance)   =
+  Community First (https://firstair.ca/communityfirst)     About First Air=
+ (https://firstair.ca/about)     Contact Us (https://firstair.ca/contact)
+
+=C2=A9 2014 First Air Incorporated. All Rights Reserved. First Air Reserva=
+tions: 1 800 267 1247
+
+This email was sent to aarngak@tamaani.ca (mailto:aarngak@tamaani.ca)
+why did I get this? (http://firstair.us2.list-manage.com/about?u=3D32f2c6a=
+0b749f0511b45822cc&id=3D2282272235&e=3D842df0b0cb&c=3D3054a241fa)     unsubs=
+cribe from this list (http://firstair.us2.list-manage.com/unsubscribe?u=3D=
+32f2c6a0b749f0511b45822cc&id=3D2282272235&e=3D842df0b0cb&c=3D3054a241fa)   =
+  update subscription preferences (http://firstair.us2.list-manage1.com/pr=
+ofile?u=3D32f2c6a0b749f0511b45822cc&id=3D2282272235&e=3D842df0b0cb)
+First Air =C2=B7 20 Cope Drive =C2=B7 Kanata=2C Ontario K2M 2V8 =C2=B7 Can=
+ada
+--_----------=_MCPart_1210216667
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+<title>First in Line by First Air - firstair.ca</title>
+<base href=3D"https://firstair.ca/emails/2014/092914flex.html"></head>
+
+<body bgcolor=3D"#ededed" text=3D"#333333" link=3D"#005799" vlink=3D"#0057=
+99" alink=3D"#005799" leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"0" m=
+arginheight=3D"0">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+=09<tr>
+=09=09<td bgcolor=3D"#ffffff" style=3D"font-family: 'Lucida Grande'=2C 'Lu=
+cida Sans'=2C Helvetica=2C Arial=2C sans-serif; font-size: 9px; line-heigh=
+t: 13px; padding: 6px; text-align: center;">Having trouble reading this em=
+ail? You can view it <a href=3D"http://firstair.us2.list-manage.com/track/=
+click?u=3D32f2c6a0b749f0511b45822cc&id=3D41b8fd1672&e=3D842df0b0cb">onlin=
+e</a>.</td>
+=09</tr>
+=09<tr>
+=09=09<td bgcolor=3D"#ededed"><table width=3D"700" border=3D"0" align=3D"c=
+enter" cellpadding=3D"0" cellspacing=3D"0">
+=09=09=09<tr>
+=09=09=09=09<td width=3D"545" bgcolor=3D"#f8f8f8"><a href=3D"http://firsta=
+ir.us2.list-manage2.com/track/click?u=3D32f2c6a0b749f0511b45822cc&id=3Df1b=
+480f7d0&e=3D842df0b0cb"><img src=3D"https://firstair.ca/emails/images/fil=
+_logos.png" width=3D"545" height=3D"70" border=3D"0"></a></td>
+=09=09=09=09<td width=3D"145" bgcolor=3D"#f8f8f8" align=3D"right">
+=09=09=09=09=09<font style=3D"font-size: 1px; line-height: 1px; color: #f8=
+f8f8;" color=3D"#f8f8f8">
+=09=09=09=09=09<a href=3D"http://us2.campaign-archive2.com/?u=3D32f2c6a0b7=
+49f0511b45822cc&id=3D3054a241fa&fblike=3Dtrue&e=3D842df0b0cb&socialproxy=3Dh=
+ttp%3A%2F%2Fus2.campaign-archive2.com%2Fsocial-proxy%2Ffacebook-like%3Fu%3=
+D32f2c6a0b749f0511b45822cc%26id%3D3054a241fa%26url%3Dhttp%253A%252F%252Fus=
+2.campaign-archive1.com%252F%253Fu%253D32f2c6a0b749f0511b45822cc%2526id%25=
+3D3054a241fa%26title%3DEveryone%2520saves%2520on%2520flex%2520fares%2520sy=
+stemwide" title=3D"Like Everyone saves on flex fares systemwide on Faceboo=
+k" rel=3D"socialproxy" id=3D"fblike-"><img src=3D"http://cdn-images.mailch=
+imp.com/fb/like.gif" border=3D"0" alt=3D"Like Everyone saves on flex fares=
+ systemwide on Facebook" height=3D"20" width=3D"48" style=3D"display:inlin=
+e;"/></a>
+=09=09=09=09=09<img src=3D"https://firstair.ca/emails/images/shim_blank.gi=
+f" width=3D"6" height=3D"20">
+=09=09=09=09=09<a href=3D"http://twitter.com/share?url=3Dhttp%3A%2F%2Feepu=
+rl.com%2F4rzjf&text=3DEveryone+saves+on+flex+fares+systemwide&count=3Dnone=
+" target=3D"_blank"><img src=3D"http://cdn-images.mailchimp.com/social_con=
+nect_tweet.png" border=3D"0" width=3D"55" height=3D"20" style=3D"display:i=
+nline;" alt=3D"share on Twitter"></a>
+=09=09=09=09=09</font>
+=09=09=09=09</td>
+=09=09=09=09<td width=3D"10" bgcolor=3D"#f8f8f8" align=3D"right"><img src=
+=3D"https://firstair.ca/emails/images/shim_blank.gif" alt=3D"" width=3D"10=
+" height=3D"20"></td>
+=09=09=09</tr>
+=09=09=09<tr>
+=09=09=09=09<td colspan=3D"3"><a href=3D"http://firstair.us2.list-manage.c=
+om/track/click?u=3D32f2c6a0b749f0511b45822cc&id=3D99a3becf0d&e=3D=
+842df0b0cb"><img src=3D"https://firstair.ca/emails/2014/images/092914flex-body.jpg=
+" border=3D"0"></a></td>
+=09=09=09</tr>
+=09=09=09<tr>
+=09=09=09=09<td colspan=3D"3"><img src=3D"https://firstair.ca/emails/image=
+s/fil_benefits.png"></td>
+=09=09=09</tr>
+=09=09=09<tr>
+=09=09=09=09<td colspan=3D"3"><a href=3D"http://firstair.us2.list-manage.c=
+om/track/click?u=3D32f2c6a0b749f0511b45822cc&id=3Deaef3c04a1&e=3D=
+842df0b0cb"><img src=3D"https://firstair.ca/emails/images/fil_likeus.png" border=
+=3D"0"></a></td>
+=09=09=09</tr>
+=09=09=09<tr>
+=09=09=09=09<td colspan=3D"3"><a href=3D"http://firstair.us2.list-manage1.=
+com/track/click?u=3D32f2c6a0b749f0511b45822cc&id=3Dd5d9f98c74&e=3D=
+842df0b0cb"><img src=3D"https://firstair.ca/emails/2014/images/092914flex-footer.=
+png" border=3D"0"></a></td>
+=09=09=09</tr>
+=09=09=09
+=09=09=09<tr>
+=09=09=09=09<td colspan=3D"3" height=3D"80"><p style=3D"font-family: 'Luci=
+da Grande'=2C 'Lucida Sans'=2C Helvetica=2C Arial=2C sans-serif; font-size=
+: 10px; color: #333333; margin-top: 0px; margin-bottom: 10px;"><a href=3D"=
+http://firstair.us2.list-manage.com/track/click?u=3D32f2c6a0b749f0511b4582=
+2cc&id=3D2bcbb2d72c&e=3D842df0b0cb">Plan &amp; Book</a>&nbsp;&nbsp;&nbsp;=
+&nbsp;<a href=3D"http://firstair.us2.list-manage.com/track/click?u=3D32f2c=
+6a0b749f0511b45822cc&id=3D1fff7efd89&e=3D842df0b0cb">Flying First Air</a>=
+&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"http://firstair.us2.list-manage1.com/tr=
+ack/click?u=3D32f2c6a0b749f0511b45822cc&id=3Dbe73b3746e&e=3D842df0b0cb">C=
+argo</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"http://firstair.us2.list-manage=
+=2Ecom/track/click?u=3D32f2c6a0b749f0511b45822cc&id=3D023458923e&e=3D=
+842df0b0cb">Charter</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"http://firstair.us2.li=
+st-manage.com/track/click?u=3D32f2c6a0b749f0511b45822cc&id=3D759f00f38a&e=
+=3D842df0b0cb">Maintenance</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"http://f=
+irstair.us2.list-manage.com/track/click?u=3D32f2c6a0b749f0511b45822cc&id=
+=3Ddfe7a11e6b&e=3D842df0b0cb">Community First</a>&nbsp;&nbsp;&nbsp;&nbsp;=
+<a href=3D"http://firstair.us2.list-manage.com/track/click?u=3D32f2c6a0b74=
+9f0511b45822cc&id=3D6dfd26b683&e=3D842df0b0cb">About First Air</a>&nbsp;&=
+nbsp;&nbsp;&nbsp;<a href=3D"http://firstair.us2.list-manage1.com/track/cli=
+ck?u=3D32f2c6a0b749f0511b45822cc&id=3D28a84def82&e=3D842df0b0cb">Contact=
+ Us</a></p>
+=09=09=09=09=09<p style=3D"font-family: 'Lucida Grande'=2C 'Lucida Sans'=
+=2C Helvetica=2C Arial=2C sans-serif; font-size: 10px; color: #333333; mar=
+gin-top: 0px;">=C2=A9 2014 First Air Incorporated. All Rights Reserved. Fi=
+rst Air Reservations: 1 800 267 1247</p></td>
+=09=09=09</tr>
+=09=09=09<tr>
+=09=09=09=09<td height=3D"20" colspan=3D"3"><img src=3D"https://firstair.c=
+a/emails/images/shim_blank.gif" width=3D"700" height=3D"20"></td>
+=09=09=09</tr>
+=09  </table></td>
+=09</tr>
+</table>
+            <center>
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" id=3D"canspamBarWrapper" style=3D"background-color:#FFFFFF; b=
+order-top:1px solid #E5E5E5;">
+                    <tr>
+                        <td align=3D"center" valign=3D"top" style=3D"paddi=
+ng-top:20px; padding-bottom:20px;">
+                            <table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" id=3D"canspamBar">
+                                <tr>
+                                    <td align=3D"center" valign=3D"top" st=
+yle=3D"color:#606060; font-family:Helvetica=2C Arial=2C sans-serif; font-s=
+ize:11px; line-height:150%; padding-right:20px; padding-bottom:5px; paddin=
+g-left:20px; text-align:center;">
+                                        This email was sent to <a href=3D"=
+mailto:aarngak@tamaani.ca" target=3D"_blank" style=3D"color:#404040 !importa=
+nt;">aarngak@tamaani.ca</a>
+                                        <br />
+                                        <a href=3D"http://firstair.us2.lis=
+t-manage.com/about?u=3D32f2c6a0b749f0511b45822cc&id=3D2282272235&e=3D=
+842df0b0cb&c=3D3054a241fa" target=3D"_blank" style=3D"color:#404040 !important;">=
+<em>why did I get this?</em></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"http://=
+firstair.us2.list-manage.com/unsubscribe?u=3D32f2c6a0b749f0511b45822cc&id=
+=3D2282272235&e=3D842df0b0cb&c=3D3054a241fa" style=3D"color:#404040 !importa=
+nt;">unsubscribe from this list</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"http=
+://firstair.us2.list-manage1.com/profile?u=3D32f2c6a0b749f0511b45822cc&id=
+=3D2282272235&e=3D842df0b0cb" style=3D"color:#404040 !important;">update sub=
+scription preferences</a>
+                                        <br />
+                                        First Air &middot; 20 Cope Drive &=
+middot; Kanata=2C Ontario K2M 2V8 &middot; Canada
+                                        <br />
+                                        <br />
+
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <style type=3D"text/css">
+                    @media only screen and (max-width: 480px){
+                        table[id=3D"canspamBar"] td{font-size:14px !impor=
+tant;}
+                        table[id=3D"canspamBar"] td a{display:block !impo=
+rtant; margin-top:10px !important;}
+                    }
+                </style>
+            </center><img src=3D"http://firstair.us2.list-manage.com/track=
+/open.php?u=3D32f2c6a0b749f0511b45822cc&id=3D3054a241fa&e=3D842df0b0cb" h=
+eight=3D"1" width=3D"1"></body>
+</html>
+--_----------=_MCPart_1210216667--
+
+

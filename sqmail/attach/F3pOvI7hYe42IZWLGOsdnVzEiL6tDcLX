@@ -1,0 +1,496 @@
+Return-Path: <Francine.Munger@msss.gouv.qc.ca>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv3.soleica.ca (localhost [127.0.0.1])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 15AD13DB8E7
+	for <aarngak@tamaani.ca>; Fri, 29 Apr 2011 11:59:42 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv3.soleica.ca ([127.0.0.1])
+	by ispv3.soleica.ca (ispv3.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id GJIyv1Mi2TEQ for <aarngak@tamaani.ca>;
+	Fri, 29 Apr 2011 11:59:40 -0400 (EDT)
+Received: from tcn00qubc00209.isn.rtss.qc.ca (relais4.ssss.gouv.qc.ca [142.83.199.8])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 085A03DB8DF
+	for <aarngak@tamaani.ca>; Fri, 29 Apr 2011 11:59:39 -0400 (EDT)
+Received: from tc00bar200725.ssss.gouv.qc.ca ([10.249.80.24])
+          by tcn00qubc00209.isn.rtss.qc.ca (Lotus Domino Release 8.5.2FP1)
+          with ESMTP id 2011042911593905-6583 ;
+          Fri, 29 Apr 2011 11:59:39 -0400 
+X-ASG-Debug-ID: 1304092773-5a8bac8c0002-FBqy4Z
+Received: from tcn00qubc00551.isn.rtss.qc.ca ([10.250.32.27]) by tc00bar200725.ssss.gouv.qc.ca with ESMTP id nPWlgiF4V07Mvf3C for <aarngak@tamaani.ca>; Fri, 29 Apr 2011 11:59:34 -0400 (EDT)
+X-Barracuda-Envelope-From: Francine.Munger@msss.gouv.qc.ca
+X-Notes-Item: 1;
+ name=$PublicAccess
+X-Notes-Item: CN=Michel Fontaine/OU=MSSS/O=SSSS;
+ name=$AltPrincipal
+X-Notes-Item: ;
+ name=$LangPrincipal
+X-Notes-Item: 1;
+ name=$SMTPKeepNotesItems
+X-Notes-Item: 1;
+ name=WebDateTimeInit
+X-Notes-Item: Send Request by Notes Client on Francine Munger/MSSS/SSSS(Release 6.5.6|March
+ 06,
+	2007) at 2011-04-29 11:59:25,
+	Prepare Request by Notes Client on Francine Munger/MSSS/SSSS(Release 6.5.6|March
+ 06,
+	2007) at 2011-04-29 11:59:25,
+	CS Notice converted to iCalendar format by Router on TCN00QUBC00551/Serveurs/SSSS(Release
+ 6.5.6FP3 HF341|October 05,
+	2010) at 2011-04-29 11:59:33;
+ type=501; name=$CSTrack
+X-Notes-Item: aarngak@tamaani.ca,
+	Claude Ouellet/MSSS/SSSS/Gouv.Qc@SSSS,
+	=?ISO-8859-1?Q?Denis_Lalumi=E8re=2FMSSS=2FSSSS=40SSSS?=,
+	Gilles Boulet/RR/Reg17/SSSS@SSSS,
+	Jeannie May/RR/Reg17/SSSS@SSSS,
+	John Gauvreau/MSSS/SSSS@SSSS,
+	Joseph-Marc Laforest/MSSS/SSSS@SSSS,
+	Pierre Laflamme/MSSS/SSSS@SSSS;
+ type=501; flags=44; name=REQUIREDATTENDEES
+X-Notes-Item: aarngak@tamaani.ca,
+	Claude Ouellet/MSSS/SSSS/Gouv.Qc@SSSS,
+	=?ISO-8859-1?Q?Denis_Lalumi=E8re=2FMSSS=2FSSSS=40SSSS?=,
+	Gilles Boulet/RR/Reg17/SSSS@SSSS,
+	Jeannie May/RR/Reg17/SSSS@SSSS,
+	John Gauvreau/MSSS/SSSS@SSSS,
+	Joseph-Marc Laforest/MSSS/SSSS@SSSS,
+	Pierre Laflamme/MSSS/SSSS@SSSS;
+ type=501; flags=44; name=AltRequiredNames
+X-Notes-Item: alasie.arngak@ssss.gouv.qc.ca,
+	claude.ouellet@msss.gouv.qc.ca,
+	Denis.Lalumiere@msss.gouv.qc.ca,
+	gilles.boulet@ssss.gouv.qc.ca,
+	jeannie.may@ssss.gouv.qc.ca,
+	john.gauvreau@msss.gouv.qc.ca,
+	Joseph-Marc.Laforest@msss.gouv.qc.ca,
+	pierre.laflamme@msss.gouv.qc.ca;
+ type=501; flags=44; name=INetRequiredNames
+X-Notes-Item: 0,
+	1,
+	1,
+	1,
+	0,
+	1,
+	1,
+	1;
+ type=501; flags=44; name=StorageRequiredNames
+X-Notes-Item: Fri, 29 Apr 2011 11:59:25 -0400;
+ type=400; name=OriginalModTime
+X-Notes-Item: 1;
+ name=$HFFlags
+X-Notes-Item: 1;
+ name=tmpRW
+X-Notes-Item: 0;
+ name=tmpOwnerHW
+X-Notes-Item: 1;
+ name=tmpParticipantHW
+X-Notes-Item: 3;
+ name=$ExpandGroups
+X-Notes-Item: StdNotesLtr8;
+ name=Logo
+X-Notes-Item: ;
+ name=MailOptions
+X-Notes-Item: 0;
+ name=Sign
+X-Notes-Item: ;
+ name=tmpDuration
+X-Notes-Item: fr-CA;
+ name=$FromPreferredLanguage
+X-Notes-Item: ;
+ flags=44; name=OnlinePlace
+X-Notes-Item: ;
+ name=$LangChair
+X-Notes-Item: CN=Michel Fontaine/OU=MSSS/O=SSSS;
+ flags=44; name=AltChair
+X-Notes-Item: 1;
+ name=tmpAdditionalInviteeButton
+X-Notes-Item: 1;
+ name=tmpAdditionalRoomsButton
+X-Notes-Item: 1 H  30 Min.;
+ name=dispDuration
+X-Notes-Item: ;
+ name=Alarms
+Subject: =?ISO-8859-1?B?SW52aXRhdGlvbiA6IFZpc2lvY29uZulyZW5jZSAt?=
+ =?ISO-8859-1?B?IFBy6XNlbnRhdGlvbiBkdSBQbGFuIGQnYWN0aW9uIEludWl0cyAyMDEx?=
+ =?ISO-8859-1?B?LTIwMTIgKE1haSAxMSAxMzo0NSBFRFQgZGFucyBRdeliZWMgLSAxMDc1?=
+ =?ISO-8859-1?B?LCBjaGVtaW4gU2FpbnRlLUZveSwgM2Ug6XRhZ2UsIHNhbGxlIDM3OSk=?=
+X-Notes-Item: ;
+ name=OrganizerInclude
+X-ASG-Orig-Subj: =?ISO-8859-1?B?SW52aXRhdGlvbiA6IFZpc2lvY29uZulyZW5jZSAt?=
+ =?ISO-8859-1?B?IFBy6XNlbnRhdGlvbiBkdSBQbGFuIGQnYWN0aW9uIEludWl0cyAyMDEx?=
+ =?ISO-8859-1?B?LTIwMTIgKE1haSAxMSAxMzo0NSBFRFQgZGFucyBRdeliZWMgLSAxMDc1?=
+ =?ISO-8859-1?B?LCBjaGVtaW4gU2FpbnRlLUZveSwgM2Ug6XRhZ2UsIHNhbGxlIDM3OSk=?=
+X-Notes-Item: =?ISO-8859-1?Q?Qu=E9bec_-_1075=2C_chemin_Sainte-Foy=2C_3e_=E9tage=2C_?=
+ =?ISO-8859-1?Q?salle_379_Kuujjuaq_=3A_R=E9gie_r=E9gionale_du_Nunavik=2C_?=
+ =?ISO-8859-1?Q?salle_209C?=;
+ name=Location
+X-Notes-Item: ;
+ name=OnlineMeeting
+X-Notes-Item: 1;
+ name=MeetingType
+X-Notes-Item: ;
+ flags=44; name=Presenters
+X-Notes-Item: ;
+ flags=44; name=OnlinePlaceToReserve
+X-Notes-Item: ;
+ name=AudioVideoFlags
+X-Notes-Item: ;
+ name=SendAttachments
+X-Notes-Item: ;
+ name=Categories
+X-Notes-Item: 2;
+ name=SchedulerSwitcher
+X-Notes-Item: ;
+ name=tmpNoActionBar
+X-Notes-Item: ;
+ name=tmpOEMClient
+X-Notes-Item: D2DCDC;
+ name=$BorderColor
+X-Notes-Item: 1;
+ type=300; name=$AllowEncryptedEdit
+X-Notes-Item: =?ISO-8859-1?Q?R=E9union?=;
+ name=tmpEventLabel
+X-Notes-Item: =?ISO-8859-1?Q?R=E9union?=;
+ name=tmpAppointmentType
+X-Notes-Item: =?ISO-8859-1?Q?R=E9union?=;
+ name=tmpAppointmentType_1
+X-Notes-Item: 1 h 30 min.;
+ name=dispDuration_1
+X-Notes-Item: 0;
+ name=tmpShowTZ
+X-Notes-Item: CN=Michel Fontaine/OU=MSSS/O=SSSS;
+ flags=44; name=tmpChair
+X-Notes-Item: ;
+ flags=44; name=tmpOrganizer
+X-Notes-Item: .,
+	CN=Claude Ouellet/OU=MSSS/OU=SSSS/O=Gouv.Qc@SSSS,
+	=?ISO-8859-1?Q?CN=3DDenis_Lalumi=E8re=2FOU=3DMSSS=2FO=3DSSSS=40SSSS?=,
+	CN=Gilles Boulet/OU=RR/OU=Reg17/O=SSSS@SSSS,
+	CN=Jeannie May/OU=RR/OU=Reg17/O=SSSS@SSSS,
+	CN=John Gauvreau/OU=MSSS/O=SSSS@SSSS,
+	CN=Joseph-Marc Laforest/OU=MSSS/O=SSSS@SSSS,
+	CN=Pierre Laflamme/OU=MSSS/O=SSSS@SSSS;
+ type=501; name=OriginalTo
+X-Notes-Item: en;
+ type=501; name=$NameLanguageTags
+To: aarngak@tamaani.ca,
+	claude.ouellet@msss.gouv.qc.ca,
+	Denis.Lalumiere@msss.gouv.qc.ca,
+	gilles.boulet@ssss.gouv.qc.ca,
+	jeannie.may@ssss.gouv.qc.ca,
+	john.gauvreau@msss.gouv.qc.ca,
+	Joseph-Marc.Laforest@msss.gouv.qc.ca,
+	pierre.laflamme@msss.gouv.qc.ca
+X-Notes-Item: ;
+ flags=45; name=INetCopyTo
+X-Notes-Item: aarngak@tamaani.ca,
+	CN=Claude Ouellet/OU=MSSS/OU=SSSS/O=Gouv.Qc@SSSS,
+	=?ISO-8859-1?Q?CN=3DDenis_Lalumi=E8re=2FOU=3DMSSS=2FO=3DSSSS=40SSSS?=,
+	CN=Gilles Boulet/OU=RR/OU=Reg17/O=SSSS@SSSS,
+	CN=Jeannie May/OU=RR/OU=Reg17/O=SSSS@SSSS,
+	CN=John Gauvreau/OU=MSSS/O=SSSS@SSSS,
+	CN=Joseph-Marc Laforest/OU=MSSS/O=SSSS@SSSS,
+	CN=Pierre Laflamme/OU=MSSS/O=SSSS@SSSS;
+ type=501; flags=45; name=AltSendTo
+X-Notes-Item: ;
+ flags=45; name=AltCopyTo
+X-Notes-Item: 0,
+	.,
+	.,
+	.,
+	.,
+	.,
+	.,
+	.;
+ type=501; name=$StorageTo
+X-Notes-Item: ;
+ name=$StorageCc
+X-Mailer: Lotus Notes Release 6.5.6 March 06, 2007
+Message-ID: <OFD0B09200.78A4B69E-ON85257881.00539A2C-85257881.0057D6B4@isn.rtss.qc.ca>
+Date: Fri, 29 Apr 2011 11:58:33 -0400
+X-Notes-Item: ;
+ name=Encrypt
+X-Notes-Item: ;
+ name=HasSafeStamp
+X-Notes-Item: CN=HEB50COURR00002/OU=Serveurs/O=SSSS,
+	CN=TC00TECPRO00007/OU=Serveurs/O=SSSS;
+ type=501; flags=0; name=RouteServers
+X-Notes-Item: =?UTF-8?B?MjktQXByLTIwMTEgMTE6NTg6MzMgRURULzI5LUFwci0yMDExIDExOjU4OjM0?=
+ =?UTF-8?B?IEVEVCwgMjktQXByLTIwMTEgMTE6NTk6MjggRURULzI5LUFwci0yMDExIDEx?=
+ =?UTF-8?B?OjU5OjMwIEVEVA==?=;
+ type=401; flags=0; name=RouteTimes
+MIME-Version: 1.0
+X-Notes-Item: Memo;
+ name=Form
+Sender: Francine.Munger@msss.gouv.qc.ca
+From: michel.fontaine@msss.gouv.qc.ca
+X-MIMETrack: Serialize by Router on TCN00QUBC00551/Serveurs/SSSS(Release 6.5.6FP3 HF341|October
+ 05, 2010) at 2011-04-29 11:59:33,
+	Serialize complete at 2011-04-29 11:59:33,
+	Itemize by SMTP Server on TCN00QUBC00209/Serveurs/SSSS(Release 8.5.2FP1|November
+ 29, 2010) at 2011-04-29 11:59:39,
+	Serialize by Router on TCN00QUBC00209/Serveurs/SSSS(Release 8.5.2FP1|November
+ 29, 2010) at 2011-04-29 11:59:39,
+	Serialize complete at 2011-04-29 11:59:39
+X-Barracuda-Connect: UNKNOWN[10.250.32.27]
+X-Barracuda-Start-Time: 1304092773
+X-Barracuda-URL: http://10.249.80.42:8000/cgi-mod/mark.cgi
+X-Barracuda-Spam-Score: 0.53
+X-Barracuda-Spam-Status: No, SCORE=0.53 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=7.0 tests=HTML_FONT_SIZE_LARGE, HTML_MESSAGE, MIME_BASE64_BLANKS, MIME_BASE64_TEXT, NO_REAL_NAME
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.62283
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 NO_REAL_NAME           From: does not include a real name
+	0.00 HTML_FONT_SIZE_LARGE   BODY: HTML font size is large
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.00 MIME_BASE64_BLANKS     RAW: Extra blank lines in base64 encoding
+	0.52 MIME_BASE64_TEXT       RAW: Message text disguised using base64 encoding
+X-Notes-Item: 1;
+ name=$NoteContainsIcal
+X-Notes-Item: D0B09200:78A4B69E-85257881:00539A2C;
+ type=4; name=$Orig
+X-Notes-Item: CN=Francine Munger/OU=MSSS/O=SSSS,
+	CN=Francine Munger/OU=MSSS/O=SSSS,
+	CN=HEB50COURR00002/OU=Serveurs/O=SSSS,
+	CN=TC00TECPRO00007/OU=Serveurs/O=SSSS,
+	CN=TCN00QUBC00551/OU=Serveurs/O=SSSS,
+	CN=TCN00QUBC00209/OU=Serveurs/O=SSSS;
+ type=501; flags=44; name=$UpdatedBy
+X-Notes-Item: Fri, 29 Apr 2011 11:59:39 -0400;
+ type=400; name=$Revisions
+X-Notes-Item: SSSS@isn.rtss.qc.ca;
+ name=FromDomain
+X-Notes-Item: 22;
+ type=300; name=$Hops
+X-Notes-Item: 1;
+ name=$NoteHasNativeMIME
+X-Notes-Item: CN=Francine Munger/OU=MSSS/O=SSSS;
+ name=OriginalFrom
+X-Notes-Item: CN=Michel Fontaine/OU=MSSS/O=SSSS;
+ name=OriginalPrincipal
+Content-Type: multipart/mixed; boundary="=_mixed D0B0920078A4B69E8525788100539A2C_="
+
+This is a multipart message in MIME format.
+--=_mixed D0B0920078A4B69E8525788100539A2C_=
+Content-Type: multipart/alternative; boundary="=_alternative D0B0920078A4B69E8525788100539A2C_="
+
+
+--=_alternative D0B0920078A4B69E8525788100539A2C_=
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset=ISO-8859-1
+
+
+DQpWaXNpb2NvbmbpcmVuY2UtICBQculzZW50YXRpb24gUGxhbiBkJ2FjdGlvbiBJbnVpdHMgMjAx
+MS0yMDEyDQoNCiAgICAgICAgICAgUXXpYmVjIC0gMTA3NSwgY2hlbWluIFNhaW50ZS1Gb3ksIDNl
+IOl0YWdlLCBzYWxsZSAzNzkNCiAgICAgICAgICAgICBLdXVqanVhcSA6IFLpZ2llIHLpZ2lvbmFs
+ZSBkdSBOdW5hdmlrLCBzYWxsZSAyMDlDDQoNClBBUlRJQ0lQQU5UUzoNCg0KTVNTUzoNCiAgTWlj
+aGVsIEZvbnRhaW5lDQogIENsYXVkZSBPdWVsbGV0DQogIEpvaG4gR2F1dnJlYXUNCiAgRGVuaXMg
+TGFsdW1p6HJlDQogIFBpZXJyZSBMYWZsYW1tZQ0KICBKb3NlcGgtTWFyYyBMYWZvcmVzdA0KDQpS
+6WdpZSBy6Wdpb25hbGUgZHUgTnVuYXZpazoNCiAgSmVhbm5pZSBNYXkNCiAgQWxhc2llIEFybmdh
+aw0KICBHaWxsZXMgQm91bGV0DQoNCjIwMTEtMDQtMjkgLSBMJ29yZHJlIGR1IGpvdXIgdm91cyBz
+ZXJhIGFjaGVtaW7pIHNvdXMgcGV1LiBNZXJjaSBkZSB2b3RyZQ0KZGlzcG9uaWJpbGl06SBldCBw
+YXNzZXogdW5lIGV4Y2VsbGVudGUgam91cm7pZSEgLUZyYW5jaW5lIE0u
+
+--=_alternative D0B0920078A4B69E8525788100539A2C_=
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset=ISO-8859-1
+Content-Disposition: inline
+
+PGh0bWw+PGJvZHk+PGI+PGZvbnQgc2l6ZT0iMiI+RGVzY3JpcHRpb248L2ZvbnQ+PC9iPjxkaXYg
+YWxpZ249ImNlbnRlciI+PGJyPg0KPGI+PGZvbnQgc2l6ZT0iNiIgY29sb3I9IiNBMTFGMTIiIGZh
+Y2U9IkNhbGlicmkiPlZpc2lvY29uZulyZW5jZTwvZm9udD48L2I+PGI+PGZvbnQgc2l6ZT0iNSIg
+Y29sb3I9IiNBMTFGMTIiIGZhY2U9IkNhbGlicmkiPi0gIDwvZm9udD48L2I+PGI+PGZvbnQgc2l6
+ZT0iNSIgY29sb3I9IiM1RjVGNUYiIGZhY2U9Ikx1Y2lkYSBIYW5kd3JpdGluZyI+UHLpc2VudGF0
+aW9uIFBsYW4gZCdhY3Rpb24gSW51aXRzIDIwMTEtMjAxMjwvZm9udD48L2I+PGJyPg0KPGJyPg0K
+PGI+PGZvbnQgc2l6ZT0iNSIgY29sb3I9IiMwMDYwQTAiIGZhY2U9IkNhbGlicmkiPlF16WJlYyAt
+IDEwNzUsIGNoZW1pbiBTYWludGUtRm95LCAzZSDpdGFnZSwgc2FsbGUgMzc5PC9mb250PjwvYj48
+YnI+DQo8Yj48Zm9udCBzaXplPSI1IiBjb2xvcj0iIzAwNjBBMCIgZmFjZT0iQ2FsaWJyaSI+S3V1
+amp1YXEgOiBS6WdpZSBy6Wdpb25hbGUgZHUgTnVuYXZpaywgc2FsbGUgMjA5QzwvZm9udD48L2I+
+PC9kaXY+PGJyPg0KPHU+PGZvbnQgc2l6ZT0iNCIgZmFjZT0iQ2FsaWJyaSI+UEFSVElDSVBBTlRT
+PC9mb250PjwvdT48Zm9udCBzaXplPSI0IiBmYWNlPSJDYWxpYnJpIj46IDwvZm9udD48YnI+DQo8
+YnI+DQo8dT48Zm9udCBzaXplPSI0IiBmYWNlPSJDYWxpYnJpIj5NU1NTPC9mb250PjwvdT48Zm9u
+dCBzaXplPSI0IiBmYWNlPSJDYWxpYnJpIj46PC9mb250Pg0KPHVsIHR5cGU9ImRpc2MiPg0KPGxp
+Pjxmb250IHNpemU9IjQiIGZhY2U9IkNhbGlicmkiPk1pY2hlbCBGb250YWluZTwvZm9udD4NCjxs
+aT48Zm9udCBzaXplPSI0IiBmYWNlPSJDYWxpYnJpIj5DbGF1ZGUgT3VlbGxldDwvZm9udD4NCjxs
+aT48Zm9udCBzaXplPSI0IiBmYWNlPSJDYWxpYnJpIj5Kb2huIEdhdXZyZWF1PC9mb250Pg0KPGxp
+Pjxmb250IHNpemU9IjQiIGZhY2U9IkNhbGlicmkiPkRlbmlzIExhbHVtaehyZTwvZm9udD4NCjxs
+aT48Zm9udCBzaXplPSI0IiBmYWNlPSJDYWxpYnJpIj5QaWVycmUgTGFmbGFtbWU8L2ZvbnQ+DQo8
+bGk+PGZvbnQgc2l6ZT0iNCIgZmFjZT0iQ2FsaWJyaSI+Sm9zZXBoLU1hcmMgTGFmb3Jlc3Q8L2Zv
+bnQ+PC91bD4NCjxicj4NCjx1Pjxmb250IHNpemU9IjQiIGZhY2U9IkNhbGlicmkiPlLpZ2llIHLp
+Z2lvbmFsZSBkdSBOdW5hdmlrPC9mb250PjwvdT48Zm9udCBzaXplPSI0IiBmYWNlPSJDYWxpYnJp
+Ij46PC9mb250Pg0KPHVsIHR5cGU9ImRpc2MiPg0KPGxpPjxmb250IHNpemU9IjQiIGZhY2U9IkNh
+bGlicmkiPkplYW5uaWUgTWF5PC9mb250Pg0KPGxpPjxmb250IHNpemU9IjQiIGZhY2U9IkNhbGli
+cmkiPkFsYXNpZSBBcm5nYWs8L2ZvbnQ+DQo8bGk+PGZvbnQgc2l6ZT0iNCIgZmFjZT0iQ2FsaWJy
+aSI+R2lsbGVzIEJvdWxldDwvZm9udD48L3VsPg0KDQo8bGkgdHlwZT0iZGlzYyI+DQo8bGkgdHlw
+ZT0iZGlzYyI+PGZvbnQgZmFjZT0iQ2FsaWJyaSI+MjAxMS0wNC0yOSAtIEwnb3JkcmUgZHUgam91
+ciB2b3VzIHNlcmEgYWNoZW1pbukgc291cyBwZXUuIE1lcmNpIGRlIHZvdHJlIGRpc3BvbmliaWxp
+dOkgZXQgcGFzc2V6IHVuZSBleGNlbGxlbnRlIGpvdXJu6WUhIC08L2ZvbnQ+PGk+PGZvbnQgZmFj
+ZT0iQ2FsaWJyaSI+RnJhbmNpbmUgTS4gPC9mb250PjwvaT48YnI+DQo8L2JvZHk+PC9odG1sPg==
+
+--=_alternative D0B0920078A4B69E8525788100539A2C_=
+Content-Type: text/calendar; method="REQUEST"; charset="UTF-8"
+
+BEGIN:VCALENDAR
+X-LOTUS-CHARSET:UTF-8
+VERSION:2.0
+PRODID:-//Lotus Development Corporation//NONSGML Notes 6.0//EN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Eastern
+BEGIN:STANDARD
+DTSTART:19501105T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMINUTE=0;BYHOUR=2;BYDAY=1SU;BYMONTH=11
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19500312T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMINUTE=0;BYHOUR=2;BYDAY=2SU;BYMONTH=3
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID="Eastern":20110511T134500
+DTEND;TZID="Eastern":20110511T151500
+TRANSP:OPAQUE
+DTSTAMP:20110429T155833Z
+SEQUENCE:0
+ATTENDEE;ROLE=CHAIR;PARTSTAT=ACCEPTED;CN="Michel Fontaine/MSSS/SSSS"
+ ;RSVP=FALSE:mailto:michel.fontaine@msss.gouv.qc.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE
+ :mailto:aarngak@tamaani.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;CN="Claude Ouellet/MSSS/SSSS/Gouv.Qc";RSVP=TRUE
+ :mailto:claude.ouellet@msss.gouv.qc.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;CN="Denis Lalumière/MSSS/SSSS";RSVP=TRUE
+ :mailto:Denis.Lalumiere@msss.gouv.qc.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;CN="Gilles Boulet/RR/Reg17/SSSS";RSVP=TRUE
+ :mailto:gilles.boulet@ssss.gouv.qc.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;CN="Jeannie May/RR/Reg17/SSSS";RSVP=TRUE
+ :mailto:jeannie.may@ssss.gouv.qc.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;CN="John Gauvreau/MSSS/SSSS";RSVP=TRUE
+ :mailto:john.gauvreau@msss.gouv.qc.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;CN="Joseph-Marc Laforest/MSSS/SSSS";RSVP=TRUE
+ :mailto:Joseph-Marc.Laforest@msss.gouv.qc.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;CN="Pierre Laflamme/MSSS/SSSS";RSVP=TRUE
+ :mailto:pierre.laflamme@msss.gouv.qc.ca
+CLASS:PUBLIC
+DESCRIPTION:Visioconférence-  Présentation Plan d'action Inuits 2011
+ -2012\n\nQuébec - 1075\, chemin Sainte-Foy\, 3e étage\, salle 379\nK
+ uujjuaq : Régie régionale du Nunavik\, salle 209C\n\nPARTICIPANTS
+ : \n\nMSSS
+ :\nMichel Fontaine\nClaude Ouellet\nJohn Gauvreau\nDenis Lalumière\nP
+ ierre Laflamme\nJoseph-Marc Laforest\n\nRégie régionale du Nunavik
+ :\nJeannie May\nAlasie Arngak\nGilles Boulet\n\n2011-04-29 - L'ordre d
+ u jour vous sera acheminé sous peu. Merci de votre disponibilité et 
+ passez une excellente journée! -Francine M. 
+SUMMARY:Visioconférence - Présentation du Plan d'action Inuits 2011-
+ 2012
+LOCATION:Québec - 1075\, chemin Sainte-Foy\, 3e étage\, salle 379
+ORGANIZER;CN="Michel Fontaine/MSSS/SSSS";SENT-BY="mailto
+ :Francine.Munger@msss.gouv.qc.ca"
+ :mailto:michel.fontaine@msss.gouv.qc.ca
+UID:D0B0920078A4B69E8525788100539A2C-Lotus_Notes_Generated
+X-LOTUS-BROADCAST:FALSE
+X-LOTUS-UPDATE-SEQ:1
+X-LOTUS-UPDATE-WISL:$S:1;$L:1;$B:1;$R:1;$E:1
+X-LOTUS-NOTESVERSION:2
+X-LOTUS-NOTICETYPE:I
+X-LOTUS-CHILD_UID:D0B0920078A4B69E8525788100539A2C
+END:VEVENT
+END:VCALENDAR
+
+--=_alternative D0B0920078A4B69E8525788100539A2C_=--
+--=_mixed D0B0920078A4B69E8525788100539A2C_=
+Content-Type: application/octet-stream; charset="UTF-8"; name="c115933.ics"
+Content-Disposition: attachment; filename="c115933.ics"
+
+BEGIN:VCALENDAR
+X-LOTUS-CHARSET:UTF-8
+VERSION:2.0
+PRODID:-//Lotus Development Corporation//NONSGML Notes 6.0//EN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Eastern
+BEGIN:STANDARD
+DTSTART:19501105T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMINUTE=0;BYHOUR=2;BYDAY=1SU;BYMONTH=11
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19500312T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMINUTE=0;BYHOUR=2;BYDAY=2SU;BYMONTH=3
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID="Eastern":20110511T134500
+DTEND;TZID="Eastern":20110511T151500
+TRANSP:OPAQUE
+DTSTAMP:20110429T155833Z
+SEQUENCE:0
+ATTENDEE;ROLE=CHAIR;PARTSTAT=ACCEPTED;CN="Michel Fontaine/MSSS/SSSS"
+ ;RSVP=FALSE:mailto:michel.fontaine@msss.gouv.qc.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE
+ :mailto:aarngak@tamaani.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;CN="Claude Ouellet/MSSS/SSSS/Gouv.Qc";RSVP=TRUE
+ :mailto:claude.ouellet@msss.gouv.qc.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;CN="Denis Lalumière/MSSS/SSSS";RSVP=TRUE
+ :mailto:Denis.Lalumiere@msss.gouv.qc.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;CN="Gilles Boulet/RR/Reg17/SSSS";RSVP=TRUE
+ :mailto:gilles.boulet@ssss.gouv.qc.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;CN="Jeannie May/RR/Reg17/SSSS";RSVP=TRUE
+ :mailto:jeannie.may@ssss.gouv.qc.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;CN="John Gauvreau/MSSS/SSSS";RSVP=TRUE
+ :mailto:john.gauvreau@msss.gouv.qc.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;CN="Joseph-Marc Laforest/MSSS/SSSS";RSVP=TRUE
+ :mailto:Joseph-Marc.Laforest@msss.gouv.qc.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION
+ ;CN="Pierre Laflamme/MSSS/SSSS";RSVP=TRUE
+ :mailto:pierre.laflamme@msss.gouv.qc.ca
+CLASS:PUBLIC
+DESCRIPTION:Visioconférence-  Présentation Plan d'action Inuits 2011
+ -2012\n\nQuébec - 1075\, chemin Sainte-Foy\, 3e étage\, salle 379\nK
+ uujjuaq : Régie régionale du Nunavik\, salle 209C\n\nPARTICIPANTS
+ : \n\nMSSS
+ :\nMichel Fontaine\nClaude Ouellet\nJohn Gauvreau\nDenis Lalumière\nP
+ ierre Laflamme\nJoseph-Marc Laforest\n\nRégie régionale du Nunavik
+ :\nJeannie May\nAlasie Arngak\nGilles Boulet\n\n2011-04-29 - L'ordre d
+ u jour vous sera acheminé sous peu. Merci de votre disponibilité et 
+ passez une excellente journée! -Francine M. 
+SUMMARY:Visioconférence - Présentation du Plan d'action Inuits 2011-
+ 2012
+LOCATION:Québec - 1075\, chemin Sainte-Foy\, 3e étage\, salle 379
+ORGANIZER;CN="Michel Fontaine/MSSS/SSSS";SENT-BY="mailto
+ :Francine.Munger@msss.gouv.qc.ca"
+ :mailto:michel.fontaine@msss.gouv.qc.ca
+UID:D0B0920078A4B69E8525788100539A2C-Lotus_Notes_Generated
+X-LOTUS-BROADCAST:FALSE
+X-LOTUS-UPDATE-SEQ:1
+X-LOTUS-UPDATE-WISL:$S:1;$L:1;$B:1;$R:1;$E:1
+X-LOTUS-NOTESVERSION:2
+X-LOTUS-NOTICETYPE:I
+X-LOTUS-CHILD_UID:D0B0920078A4B69E8525788100539A2C
+END:VEVENT
+END:VCALENDAR
+
+--=_mixed D0B0920078A4B69E8525788100539A2C_=--
+
+

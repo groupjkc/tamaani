@@ -1,0 +1,235 @@
+Return-Path: <s-uAFDSNqR3Jpd9A2FZvqD53wlZW79WnGDwUvs7PHcRypr9TtszHpWIP@bounce.linkedin.com>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv4.soleica.ca (localhost [127.0.0.1])
+	by ispv4.soleica.ca (Postfix) with ESMTP id 4448473EC5
+	for <aarngak@tamaani.ca>; Tue, 19 Mar 2013 03:04:42 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Authentication-Results: ispv4.soleica.ca (amavisd-new);
+	domainkeys=pass (768-bit key) header.from=invitations@linkedin.com
+	header.d=linkedin.com; dkim=pass (1024-bit key) header.d=linkedin.com
+Received: from ispv4.soleica.ca ([127.0.0.1])
+	by ispv4.soleica.ca (ispv4.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id FecCzrV3XznB for <aarngak@tamaani.ca>;
+	Tue, 19 Mar 2013 03:04:40 -0400 (EDT)
+Received: from maile-ff.linkedin.com (maile-ff.linkedin.com [199.101.162.94])
+	by ispv4.soleica.ca (Postfix) with ESMTP id 56E2D73E08
+	for <aarngak@tamaani.ca>; Tue, 19 Mar 2013 03:04:39 -0400 (EDT)
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=prod; d=linkedin.com;
+	h=DKIM-Signature:Sender:Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=kQqiDpvf9QyTQNZni2XK2zm8jv2wrk0w3FPTq/Irc5n29kE3S6ZSSeRopML3uYul
+	G3R7dlVwNVsRQKlGo9uXqLKORJXG8kxcfjfoKKikT+8zbs9ukKqJi1OieeWafQy4
+DKIM-Signature: v=1; a=rsa-sha1; d=linkedin.com; s=proddkim1024; c=relaxed/relaxed;
+	q=dns/txt; i=@linkedin.com; t=1363676678;
+	h=From:Subject:Date:To:MIME-Version:Content-Type:X-LinkedIn-fbl:X-LinkedIn-Template;
+	bh=1vplQubRQI4ykNbPlokJ421H9Mg=;
+	b=fonkVWt00t9swG0Sx6DQ7OclawoENAIkEkFhIneW+E6wil0oM8xonweqhIBGuQug
+	H3GHeoEceiyuCGoNZbBeV3Bky77P+iEiN7jVSz+yJUlGTYMPXaKTN1uxEeTa17tB
+	40s/ih+LKU4+DeoVW6h+KUeL518Tcgf3PyzDqctqpkI=;
+Sender: messages-noreply@bounce.linkedin.com
+Date: Tue, 19 Mar 2013 07:04:38 +0000 (UTC)
+From: "Jeannie May (LinkedIn Invitations)" <invitations@linkedin.com>
+To: Alasie Arngak <aarngak@tamaani.ca>
+Message-ID: <1088808884.681830.1363676678847.JavaMail.app@ela4-app1312.prod>
+Subject: Jeannie May's invitation is awaiting your response
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_681828_1064921286.1363676678844"
+X-LinkedIn-Template: inv_exp_snackified_01
+X-LinkedIn-fbl: s-uAFDSNqR3Jpd9A2FZvqD53wlZW79WnGDwUvs7PHcRypr9TtszHpWIP
+
+------=_Part_681828_1064921286.1363676678844
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Jeannie May would like to connect on LinkedIn. How would you like to respond?
+
+Jeannie May
+Management Consulting Professional
+Quebec, Canada
+
+This is a reminder that on 3/13/13 4:48 PM, Jeannie May sent you an invitation to become part of their professional network at LinkedIn. Reminder emails for pending invitations.
+
+&copy; 2012 LinkedIn Corporation. 2029 Stierlin Ct, Mountain View, CA 94043, USA.
+
+
+  
+
+------=_Part_681828_1064921286.1363676678844
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+      <html>
+        <head>
+          <style type="text/css">
+            html {-webkit-text-size-adjust:none;}
+            body {background-color: #F4F4F4; padding:0; margin:0; width:100%; margin:0 auto;}
+            *[class].tdwrap{display: inline-block !important;}
+            *[class].vspacer{ margin-left: 50px; }
+            *[class].responsive-50per{ width: 50% !important; }
+            *[class].responsive-75per{ width: 75% !important; }
+            @media all and (max-width: 590px){
+              *[class].responsive{width:320px !important;}
+              *[class].responsive-spacer table{width: 20px !important; }
+              *[class].vspacer{ margin-top: 10px !important; margin-bottom: 15px !important; margin-left: 0 !important; }
+              *[class].res-font16{font-size:16px !important;}
+              *[class].res-font12{font-size:12px !important;}
+              *[class].res-font18{font-size:18px !important;}
+              *[class].res-font18 span{font-size: 18px !important;}
+              *[class].responsive-50per{ width: 100% !important;}
+              *[class].responsive-spacer70{ width: 70px !important; }
+              *[class].hideIMG{ height: 0px !important; width: 0px !important; }
+              *[class].res-height20{ height: 20px !important; }
+              *[class].res-height20 div{ height: 20px !important; }
+              *[class].res-height10{ height: 10px !important; }
+              *[class].res-height10 div{ height: 10px !important; }
+              *[class].res-height0 { height: 0px !important; }
+              *[class].res-height0 div{ height: 0px !important; }
+              *[class].res-width280{ width: 280px !important; }
+              *[class].res-width25{ width: 25px !important; }
+              *[class].res-width10{ width: 10px !important; }
+              *[class].res-width10 table{ width: 10px !important; }
+              *[class].res-width60{width: 60px !important;}
+              *[class].res-padding{ width: 0 !important; }
+              *[class].res-padding table{ width: 0 !important; }
+              *[class].cellpadding-none{ width: 0px !important; }
+              *[class].cellpadding-none table{ border: collapse !important; }
+              *[class].cellpadding-none table td{ padding: 0 !important; }
+              *[class].display-none{ display: none !important; }
+              *[class].remove-margin{ margin: 0 !important; }
+              *[class].remove-border{ border: none !important; }
+              *[class].res-img60{width: 60px !important; height: 60px !important;}
+              *[class].res-img100{ width: 100px !important; height: 100px !important; }
+              *[class].res-img320{width: 320px !important; height: auto !important; position: relative;}
+              *[class].res-border{border-top: 1px solid #E1E1E1 !important;}
+              *[class].mobile-hidden{ display: none !important; height: 0px !important; width:0px !important; }
+              *[class].full-width{ width:100% !important; }
+              *[class].mobile-capitalize{ text-transform: capitalize !important; }
+            }
+            @media only screen and (max-device-width: 480px) {
+              p[class=anet-digest-activity],
+              span[class=anet-digest-count],
+              td[class=anet-digest-right-rail] {
+                display:none;
+              }
+            }
+            
+          </style>
+        </head>
+        <body >
+  
+
+
+
+  
+  
+  
+    <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%" bgcolor="#F4F4F4"><tr><td align="center">
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;border:solid 1px #DFDFDF;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;" bgcolor="#DFDFDF" width="100%" class=""><tr><td width="98%" valign="top" align="center"><table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;border:solid 1px none;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;border:none" bgcolor="#DFDFDF" width="545" class="responsive"><tr><td width="98%" valign="top" align="left">
+  <!--Logo-->
+  <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%">
+    <tr>
+      <td>
+        <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <img src="http://www.linkedin.com/scds/common/u/img/logos/logo_emails_trans_98x24.png" alt="" border="0" height="24" width="98">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+      </td>
+    </tr>
+  </table>
+  <!-- Gray Bar -->
+  <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;border:solid 1px #FFFFFF;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;border:none;background:#333" bgcolor="#333333" width="100%" class=""><tr><td width="98%" valign="top" align="left">
+    <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%">
+      <tr>
+        <td>
+          <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:10px;font-size:10px;line-height:10px;">&nbsp;</div></td></tr></table>
+        </td>
+      </tr>
+    </table>
+  </td></tr></table>
+  <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;border:solid 1px #FFFFFF;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;" bgcolor="#FFFFFF" width="100%" class=""><tr><td width="98%" valign="top" align="">
+    <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%">
+      <tr>
+        <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+        <td width="100%">
+          <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%">
+            <tr><td height="20"><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:20px;font-size:20px;line-height:20px;">&nbsp;</div></td></tr></table></td></tr>
+            <tr>
+              <td style="font-family: Helvetica, Arial, sans-serif; font-size: 16px;">
+                    <strong>Jeannie May</strong> would like to connect on LinkedIn. How would you like to respond?
+              </td>
+            </tr>
+            <tr><td height="15"><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:15px;font-size:15px;line-height:15px;">&nbsp;</div></td></tr></table></td></tr>
+            <tr><td width="100%"><div style="height:1px;font-size:1px;line-height:1px;border-top:1px solid #DDDDDD;">&nbsp;</div></td></tr>
+            <tr><td height="20"><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:20px;font-size:20px;line-height:20px;">&nbsp;</div></td></tr></table></td></tr>
+            <tr>
+              <td width="100%">
+                <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%">
+                  <tr>
+                    <td style="vertical-align: top;">
+                      <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;" width="100%" valign="top">
+                        <tr>
+                          <td><a href="https://www.linkedin.com/e/-ro697o-hegpvvle-3n/doi/11649388252/soBwBxaK/gir_3426229055_0/eml-comm_invg-b-accept-reminder/?hs=false&amp;tok=3_S6tiPRo8PlE1" style="text-decoration: none;"><span style="font-weight: bold; color: #333; font-size:18px;">Jeannie May</span></a></td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <span style="font-family: Helvetica, Arial, sans-serif; color: #333;">Management Consulting Professional</span>
+                          </td>
+                        </tr>
+                        <tr><td height="15"><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:15px;font-size:15px;line-height:15px;">&nbsp;</div></td></tr></table></td></tr>
+                        <tr>
+                          <td>
+                            <table border="0" cellpadding="0" cellspacing="0" align=""><tr><td align="center" height="30" valign="middle" bgcolor="#287BBC" background="http://www.linkedin.com/scds/common/u/img/email/bg_btn_katy_blue_medium.png" style="background:url(http://www.linkedin.com/scds/common/u/img/email/bg_btn_katy_blue_medium.png) repeat-x scroll 100% 0 #287BBC;background-color:#287BBC;border:1px solid #1B5480;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;"><div style="padding-right:13px;padding-left:13px;"><a href="https://www.linkedin.com/e/-ro697o-hegpvvle-3n/doi/11649388252/soBwBxaK/gir_3426229055_0/eml-comm_invg-b-accept-reminder/?hs=false&amp;tok=3_S6tiPRo8PlE1" style="text-decoration:none;"><span style="font-size:13px;font-family:Arial;font-weight:bold;color:#ffffff;white-space:nowrap;display:block;">
+                                  Confirm you know Jeannie
+                            </span></a></div></td></tr></table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr><td height="30"><table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:30px;font-size:30px;line-height:30px;">&nbsp;</div></td></tr></table></td></tr>
+          </table>
+        </td>
+        <td width="20"><table width="20" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:0px;font-size:0px;line-height:0px;">&nbsp;</div></td></tr></table></td>
+      </tr>
+    </table>
+  </td></tr></table>
+ <table border="0" cellspacing="0" cellpadding="0" style="font-family:Arial;width:550px" class="responsive">
+  <tr>
+    <td style="color:#999;font-family:Arial,sans-serif;font-size:11px;line-height:15px">
+      <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:15px;font-size:15px;line-height:15px;">&nbsp;</div></td></tr></table>
+      <div> You are receiving <b style="color:#666">Reminder emails for pending invitations</b>.
+        <a href="http://www.linkedin.com/e/-ro697o-hegpvvle-3n/vaMiG3xysPnT_Wszja11GDBhg_uOF_/goo/aarngak%40tamaani%2Eca/20060/I3855498974_1/?hs=false&amp;tok=1uisViOeI8PlE1">Unsubscribe.</a>
+      </div>
+      <div>&copy; 2013 LinkedIn Corporation. 2029 Stierlin Ct, Mountain View, CA 94043, USA.<table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:1px;font-size:1px;line-height:1px;">&nbsp;</div></td></tr></table></div>
+      <table width="1" border="0" cellspacing="0" cellpadding="0" class=""><tr><td><div style="height:15px;font-size:15px;line-height:15px;">&nbsp;</div></td></tr></table>
+    </td>
+  </tr>
+</table>
+</td></tr></table></td></tr></table>
+    </td></tr></table>
+
+
+
+
+  
+</body>
+      </html>
+------=_Part_681828_1064921286.1363676678844--
+
+

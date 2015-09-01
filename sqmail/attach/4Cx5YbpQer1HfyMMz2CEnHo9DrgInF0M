@@ -1,0 +1,11 @@
+Reporting-MTA: dns; micro.org
+X-Postfix-Queue-ID: E25FE1011D5
+X-Postfix-Sender: rfc822; arqivik.lhc@tamaani.ca
+Arrival-Date: Fri, 25 Apr 2014 17:40:22 -0400 (EDT)
+
+Final-Recipient: rfc822; finances@motorsportdelatapipale.com
+Original-Recipient: rfc822;finances@motorsportdelatapipale.com
+Action: failed
+Status: 5.4.4
+Diagnostic-Code: X-Postfix; Host or domain name not found. Name service error
+    for name=motorsportdelatapipale.com type=AAAA: Host not found

@@ -1,0 +1,23 @@
+<?php
+	include('languages/en.php'); // Grab the associated languages file which contains all strings
+	$_SESSION['lang']='en';
+	switch ($_SESSION['lang']){
+		case 'en':
+			$other_lang = 'fr';
+			$active_fr = '';
+			$active_en = 'active';
+			break;
+			
+		case 'fr':
+			$other_lang = 'en';
+			$active_fr  = 'active';
+			$active_en  = '';			
+			break;				
+	}	
+	foreach($_GET as $k => $v) 
+		$qa[$k] = urldecode($v);
+	    $qa['lang'] = $other_lang;	
+?>
+
+ 
+

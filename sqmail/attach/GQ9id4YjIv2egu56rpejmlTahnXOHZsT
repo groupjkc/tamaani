@@ -1,0 +1,204 @@
+Return-Path: <MEmudluk@krg.ca>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv3.soleica.ca (localhost [127.0.0.1])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 3D9523D7A04
+	for <aarngak@tamaani.ca>; Mon, 17 Oct 2011 10:56:53 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv3.soleica.ca ([127.0.0.1])
+	by ispv3.soleica.ca (ispv3.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id duse0nLJgBv7 for <aarngak@tamaani.ca>;
+	Mon, 17 Oct 2011 10:56:51 -0400 (EDT)
+Received: from tcn00qubc00208.isn.rtss.qc.ca (relais3.ssss.gouv.qc.ca [142.83.199.7])
+	by ispv3.soleica.ca (Postfix) with ESMTP id D3C4E3D78EB
+	for <aarngak@tamaani.ca>; Mon, 17 Oct 2011 10:56:51 -0400 (EDT)
+Received: from tcn00bar67848.ssss.gouv.qc.ca ([10.249.80.30])
+          by tcn00qubc00208.isn.rtss.qc.ca (Lotus Domino Release 8.5.2FP3)
+          with ESMTP id 2011101710565028-780724 ;
+          Mon, 17 Oct 2011 10:56:50 -0400 
+X-ASG-Debug-ID: 1318863365-5169006f0002-FBqy4Z
+Received: from tcn00qubc00551.isn.rtss.qc.ca ([10.250.32.27]) by tcn00bar67848.ssss.gouv.qc.ca with ESMTP id N9Y2hkfVhiznUtkj for <aarngak@tamaani.ca>; Mon, 17 Oct 2011 10:56:10 -0400 (EDT)
+X-Barracuda-Envelope-From: MEmudluk@krg.ca
+Received: from tcn00barin00049.ssss.gouv.qc.ca ([10.120.138.26])
+          by TCN00QUBC00117.isqc.reg00.rtss.qc.ca (Lotus Domino Release 6.5.6FP3 HF341)
+          with ESMTP id 2011101710560493-42224 ;
+          Mon, 17 Oct 2011 10:56:04 -0400 
+X-Barracuda-BBL-IP: 10.120.138.26
+X-Barracuda-RBL-IP: 10.120.138.26
+Received: from mail197.messagelabs.com (mail197.messagelabs.com [216.82.254.83]) by tcn00barin00049.ssss.gouv.qc.ca with ESMTP id AaMFkNfIHrZBAJzu (version=TLSv1 cipher=AES256-SHA bits=256 verify=NO) for <Alasie.arngak@ssss.gouv.qc.ca>; Mon, 17 Oct 2011 1
+X-Barracuda-Apparent-Source-IP: 216.82.254.83
+X-Env-Sender: MEmudluk@krg.ca
+X-Msg-Ref: server-8.tower-197.messagelabs.com!1318863296!76318332!16
+X-Originating-IP: [66.165.215.33]
+X-StarScan-Version: 6.3.6; banners=-,-,-
+X-VirusChecked: Checked
+Received: (qmail 24524 invoked from network); 17 Oct 2011 14:55:50 -0000
+Received: from 33-215-165-66.rev.knet.ca (HELO outlook.krg.ca) (66.165.215.33)
+  by server-8.tower-197.messagelabs.com with AES128-SHA encrypted SMTP; 17 Oct 2011 14:55:50 -0000
+Received: from Allataarvik.krg.ca ([fe80::e091:22ff:b081:94dc]) by
+ Allataarvik.krg.ca ([fe80::e091:22ff:b081:94dc%10]) with mapi; Mon, 17 Oct
+ 2011 10:53:32 -0400
+From: Maggie Emudluk <MEmudluk@krg.ca>
+To: "aarngak@tamaani.ca" <aarngak@tamaani.ca>, "Alasie.arngak@ssss.gouv.qc.ca"
+	<Alasie.arngak@ssss.gouv.qc.ca>
+CC: "jeannie.may@ssss.gouv.qc.ca" <jeannie.may@ssss.gouv.qc.ca>, Pita Aatami
+	<p_aatami@makivik.org>
+Date: Mon, 17 Oct 2011 10:53:30 -0400
+Subject: FW: Table-Quebec-Nunavik
+Thread-Topic: Table-Quebec-Nunavik
+X-ASG-Orig-Subj: FW: Table-Quebec-Nunavik
+Thread-Index: AcyMB3Zylzlho3irQdmMehL1iBVL6gA1HTuA
+Message-ID: <E7E166F08A4F1A43825017D21D3E44C89B644016DA@Allataarvik.krg.ca>
+Accept-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+acceptlanguage: en-US
+MIME-Version: 1.0
+X-Virus-Scanned: by bsmtpd at ssss.gouv.qc.ca
+X-MIMETrack: Itemize by SMTP Server on TCN00QUBC00117/Serveurs/SSSS(Release 6.5.6FP3
+ HF341|October 05, 2010) at 2011-10-17 10:56:04,
+	Serialize by Router on TCN00QUBC00551/Serveurs/SSSS(Release 6.5.6FP3 HF341|October
+ 05, 2010) at 2011-10-17 10:56:11,
+	Serialize complete at 2011-10-17 10:56:11,
+	Itemize by SMTP Server on TCN00QUBC00208/Serveurs/SSSS(Release 8.5.2FP3|July
+ 10, 2011) at 2011-10-17 10:56:50,
+	Serialize by Router on TCN00QUBC00208/Serveurs/SSSS(Release 8.5.2FP3|July
+ 10, 2011) at 2011-10-17 10:56:51,
+	Serialize complete at 2011-10-17 10:56:51
+X-TNEFEvaluated: 1
+X-Barracuda-Connect: UNKNOWN[10.250.32.27]
+X-Barracuda-Start-Time: 1318863366
+X-Barracuda-URL: http://10.249.80.34:8000/cgi-mod/mark.cgi
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=7.0 tests=HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.77604
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+Content-Type: multipart/alternative;
+	boundary="_000_E7E166F08A4F1A43825017D21D3E44C89B644016DAAllataarvikkr_"
+Content-Language: en-US
+
+--_000_E7E166F08A4F1A43825017D21D3E44C89B644016DAAllataarvikkr_
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="us-ascii"
+
+Alasieai,
+
+Hope you had a good weekend.
+
+I'm forwarding you the email I received from Alicie Nalukturuk this weekend=
+ regarding the Nunavik-Quebec Table.  Please send your response as soon as =
+you get a chance.
+
+Thank you,
+
+Maggie E.
+
+From: Alicie Nalukturuk [mailto:silarqi@msn.com]
+Sent: Sunday, October 16, 2011 9:29 AM
+To: Maggie Emudluk
+Cc: annie.popert@kativik.qc.ca
+Subject: Table-Quebec-Nunavik
+
+Hi Maggie;
+
+This is to inform you that the Council of Commissioners gave me the mandate=
+ to sit at the Table Quebec-Nunavik.
+
+Alicie
+
+--_000_E7E166F08A4F1A43825017D21D3E44C89B644016DAAllataarvikkr_
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 12 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span style=3D'f=
+ont-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Alasieai,=
+<o:p></o:p></span></p><p class=3DMsoNormal><span style=3D'font-size:11.0pt;=
+font-family:"Calibri","sans-serif";color:#1F497D'><o:p>&nbsp;</o:p></span><=
+/p><p class=3DMsoNormal><span style=3D'font-size:11.0pt;font-family:"Calibr=
+i","sans-serif";color:#1F497D'>Hope you had a good weekend.&nbsp; <o:p></o:=
+p></span></p><p class=3DMsoNormal><span style=3D'font-size:11.0pt;font-fami=
+ly:"Calibri","sans-serif";color:#1F497D'><o:p>&nbsp;</o:p></span></p><p cla=
+ss=3DMsoNormal><span style=3D'font-size:11.0pt;font-family:"Calibri","sans-=
+serif";color:#1F497D'>I&#8217;m forwarding you the email I received from Al=
+icie Nalukturuk this weekend regarding the Nunavik-Quebec Table.&nbsp; Plea=
+se send your response as soon as you get a chance.<o:p></o:p></span></p><p =
+class=3DMsoNormal><span style=3D'font-size:11.0pt;font-family:"Calibri","sa=
+ns-serif";color:#1F497D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><=
+span style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F=
+497D'>Thank you,<o:p></o:p></span></p><p class=3DMsoNormal><span style=3D'f=
+ont-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'><o:p>&nbs=
+p;</o:p></span></p><p class=3DMsoNormal><span style=3D'font-size:11.0pt;fon=
+t-family:"Calibri","sans-serif";color:#1F497D'>Maggie E.<o:p></o:p></span><=
+/p><p class=3DMsoNormal><span style=3D'font-size:11.0pt;font-family:"Calibr=
+i","sans-serif";color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><div style=
+=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in 0in 0in'><=
+p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Tahoma"=
+,"sans-serif"'>From:</span></b><span style=3D'font-size:10.0pt;font-family:=
+"Tahoma","sans-serif"'> Alicie Nalukturuk [mailto:silarqi@msn.com] <br><b>S=
+ent:</b> Sunday, October 16, 2011 9:29 AM<br><b>To:</b> Maggie Emudluk<br><=
+b>Cc:</b> annie.popert@kativik.qc.ca<br><b>Subject:</b> Table-Quebec-Nunavi=
+k<o:p></o:p></span></p></div></div><p class=3DMsoNormal><o:p>&nbsp;</o:p></=
+p><div><p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Ta=
+homa","sans-serif"'>Hi Maggie;<br>&nbsp;<br>This is to inform you that the =
+Council of Commissioners gave me the mandate to sit at the Table Quebec-Nun=
+avik.<br>&nbsp;<br>Alicie<o:p></o:p></span></p></div></div></body></html>=
+
+--_000_E7E166F08A4F1A43825017D21D3E44C89B644016DAAllataarvikkr_--
+
+

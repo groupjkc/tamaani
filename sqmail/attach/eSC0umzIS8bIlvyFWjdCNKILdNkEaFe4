@@ -1,0 +1,1373 @@
+Return-Path: <avisreservations@avis.com>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv3.soleica.ca (localhost [127.0.0.1])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 9BBE83D8BC3
+	for <aarngak@tamaani.ca>; Fri, 27 Jul 2012 14:09:17 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv3.soleica.ca ([127.0.0.1])
+	by ispv3.soleica.ca (ispv3.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id zjEYvZuz9JbR for <aarngak@tamaani.ca>;
+	Fri, 27 Jul 2012 14:09:11 -0400 (EDT)
+Received: from mail210.messagelabs.com (mail210.messagelabs.com [216.82.250.179])
+	by ispv3.soleica.ca (Postfix) with SMTP id A3FEF3D8BC4
+	for <aarngak@tamaani.ca>; Fri, 27 Jul 2012 14:08:22 -0400 (EDT)
+X-Env-Sender: avisreservations@avis.com
+X-Msg-Ref: server-15.tower-210.messagelabs.com!1343412501!8193179!1
+X-Originating-IP: [170.225.1.214]
+X-StarScan-Received:
+X-StarScan-Version: 6.6.1.2; banners=avis.com,-,-
+X-VirusChecked: Checked
+Received: (qmail 16184 invoked from network); 27 Jul 2012 18:08:21 -0000
+Received: from unknown (HELO babcrws003.boulder.mebs.ihost.com) (170.225.1.214)
+  by server-15.tower-210.messagelabs.com with SMTP; 27 Jul 2012 18:08:21 -0000
+Received: from babcrap005.boulder.mebs.ihost.com (unknown [10.15.113.17])
+	by babcrws003.boulder.mebs.ihost.com (Postfix) with SMTP id 6479E4B77
+	for <aarngak@tamaani.ca>; Fri, 27 Jul 2012 12:08:21 -0600 (MDT)
+Received: from babcrap005 (localhost [127.0.0.1])
+	by babcrap005.boulder.mebs.ihost.com (Postfix) with ESMTP id 5C69548E0
+	for <aarngak@tamaani.ca>; Fri, 27 Jul 2012 12:08:25 -0600 (MDT)
+Message-ID: <32444518.1343412505365.JavaMail.wlsavis@babcrap005>
+From: Avis Rent A Car <avisreservations@avis.com>
+To: aarngak@tamaani.ca
+Subject: Avis Rent A Car:  Reservation Confirmation |argnak |Pick-up
+ date:08/06/2012
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_3365_8922331.1343412505085"
+Date: Fri, 27 Jul 2012 12:08:25 -0600 (MDT)
+
+------=_Part_3365_8922331.1343412505085
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" lang=3D"en" xml:lang=3D"en">
+=09<head>
+=09=09<title>Avis Rent A Car:  Reservation Confirmation</title>
+=09=09<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dut=
+f-8"/>
+=09=09<!-- SEO : Start -->
+=09=09<meta name=3D"keyword" content=3D"Avis, rental, car rental" />
+=09=09<meta name=3D"description" content=3D"" />
+=09=09<!-- SEO : End -->
+=09=09<style>
+=09=09=09.bodystyle
+=09=09=09{
+=09=09=09=09margin: 0;
+=09=09=09=09padding: 0 0 0 5px;
+=09=09=09=09width: 925px;
+=09=09=09=09height: 100%;
+=09=09=09=09font: normal 12px Arial;
+=09=09=09=09color: #666666;
+=09=09=09=09background-color: #666666;
+=09=09=09=09font-family: Arial, Helvetica, sans-serif;
+=09=09=09=09font-size: 11px;
+=09=09=09=09color: #666666;
+=09=09=09}
+=09=09=09a:link, a:active, a:visited, a:hover
+=09=09=09{
+=09=09=09=09color:#3366FF;
+=09=09=09=09text-decoration: underline;
+=09=09=09}
+=09=09=09h2
+=09=09=09{
+=09=09=09=09font-size: 14px;
+=09=09=09=09font-weight: bold;
+=09=09=09=09display: inline;
+=09=09=09=09margin: 0;
+=09=09=09=09padding: 0;
+=09=09=09}
+=09=09=09h4
+=09=09=09{
+=09=09=09=09font-size: 11px;
+=09=09=09=09font-weight: bold;
+=09=09=09=09display: inline;
+=09=09=09=09margin: 0;
+=09=09=09=09padding: 0;
+=09=09=09}
+=09=09=09img
+=09=09=09{
+=09=09=09=09border: 0;
+=09=09=09}
+=09=09=09div
+=09=09=09{
+=09=09=09=09padding: 0px;
+=09=09=09=09margin: 0px;
+=09=09=09=09border: 0px;
+=09=09=09=09font-family: Arial, Helvetica, sans-serif;
+=09=09=09=09font-size: 11px;
+=09=09=09=09color: #666666;
+=09=09=09=09font: normal 11px Arial;
+=09=09=09}
+=09=09=09
+=09=09=09td
+=09=09=09{
+=09=09=09=09font-family: Arial, Helvetica, sans-serif;
+=09=09=09=09font-size: 11px;
+=09=09=09=09color: #666666;
+=09=09=09=09font: normal 11px Arial;
+=09=09=09}
+=09=09=09.contentBg
+=09=09=09{
+=09=09=09=09padding: 10px 10px 0px 10px;=20
+=09=09=09=09background-color: #d7d7d7;
+=09=09=09=09_height: 629px;
+=09=09=09=09min-height: 629px;
+=09=09=09}
+=09=09=09.coolcar
+=09=09=09{
+=09=09=09=09color: #ff0000;
+=09=09=09}
+=09=09</style>
+=09</head>
+=09<body>
+=09=09<a name=3D"top"></a>
+=09=09<table width=3D"100%">
+=09=09
+=09=09<tr><td width=3D"100%">
+=09=09 =09If you are unable to view this reservation confirmation e-mail, =
+please <a href=3D"http://www.avis.com/car-rental/reservation/modify-from-m=
+ail.ac?resForm.confirmationNumber=3D05878415FR4&resForm.lastName.value=3Da=
+rgnak&modifyFromMail=3DVIEW_FROM_MAIL&COUNTRY=3DUS&LANGUAGE=3Den">Click he=
+re.</a>
+=09=09</td></tr>
+=09=09
+=09=09<tr>
+=09=09<td width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+class=3D"bodystyle" background=3D"http://www.avis.com/car-rental/images/gl=
+obal/en/common/bg_body.gif">
+=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"910=
+">=09=09=09
+=09=09=09<tr>
+            =09=09=09=09=09=09=09=09<td><img src=3D"http://www.avis.com/ca=
+r-rental/images/global/en/common/headerNoNav.jpg" width=3D"910" height=3D"=
+82" /></td>
+=09=09=09=09=09=09=09</tr>=09=09
+=09=09=09<tr>
+=09=09=09=09<td background=3D"http://www.avis.com/car-rental/images/global=
+/en/common/bg_mainbody.jpg" class=3D"contentBg" valign=3D"top" style=3D"pa=
+dding:10px 10px 0px 10px;background-color:#d7d7d7;_height:629px;min-height=
+:629px;">
+=09=09=09=09=09<div class=3D"pageTitle">
+=09=09=09=09=09=09<h1 style=3D"font-size:16px;color:#505050;font-weight:bo=
+ld;text-indent:5px;padding-bottom:6px;padding:0px;margin:0px;">
+=09=09=09=09=09=09=09Thank you alasie, for renting with us! Your car is re=
+served.
+=09=09=09=09=09=09</h1>
+=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09<!-- Start Rental Agreement -->
+=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td width=3D"530" valign=3D"top">
+=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td height=3D"30" background=3D"http://www.a=
+vis.com/car-rental/images/global/en/common/resConfirmHeader.gif">
+<div id=3D"secHeadTxt"><h2 style=3D"color:#FFFFFF;font-size:13px;padding-t=
+op:5px;font-weight:bold;padding:0px;margin:0px;padding-right:8px;padding-l=
+eft:8px;">Your Confirmation Number: <span style=3D"font-size:18px;vertical=
+-align:middle;">05878415FR4</span></h2></div>
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09<tr><td><img src=3D"http://www.avis.com/car-ren=
+tal/images/global/en/common/resConfirmTopBg.gif" width=3D"530" height=3D"5=
+" /></td></tr>
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td background=3D"http://www.avis.com/car-re=
+ntal/images/global/en/common/resConfirmBg.gif" style=3D"padding-left:6px;p=
+adding-right:6px;">
+=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" style=3D"font-si=
+ze:11px;">
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+    <tr>
+=09<td width=3D"11">&nbsp;</td>
+=09<td>
+=09    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%">
+=09    =09=09
+=09=09=20
+=09=09
+=09=09<tr height=3D"20">
+=09=09    <td style=3D"font-size:11px;">
+=09=09=09<strong>Base Rate:</strong>=20
+=09=09=0911 day(s)=20
+=09=09=09=09=09    </td>
+=09=09    <td align=3D"right" style=3D"font-size:11px;">
+=09=09=09<strong>971.27 EUR</strong>
+=09=09    </td>
+=09=09</tr>
+
+<!-- Mandatory total -->
+
+=09=09<tr>
+=09=09    <td colspan=3D"2">
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09
+=09=09<!-- For ALI -->
+=09=09
+=09=09<!-- For PEP -->
+=09=09
+=09=09<!-- For PAI -->
+=09=09=09=09=09=09=09
+=09=09<!-- For ALI -->
+=09=09
+=09=09<!-- For PEP -->
+=09=09
+=09=09<!-- For PAI -->
+=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09<!-- For ALI -->
+=09=09
+=09=09<!-- For PEP -->
+=09=09=09=09=09=09=09
+=09=09<!-- For PAI -->
+=09=09=09=09=09=09=09
+=09=09<!-- For ALI -->
+=09=09=09=09=09=09=09
+=09=09<!-- For PEP -->
+=09=09
+=09=09<!-- For PAI -->
+=09=09=09=09=09=09=09
+=09=09<!-- For ALI -->
+=09=09
+=09=09<!-- For PEP -->
+=09=09
+=09=09<!-- For PAI -->
+=09=09=09</table>
+
+=09=09    </td>
+=09=09</tr>
+=09=09<tr><td colspan=3D"2"><img alt=3D"" src=3D"http://www.avis.com/car-r=
+ental/images/global/en/common/resConfirmDots.gif" width=3D"319" /></td></t=
+r>
+
+<!-- End Of Mandatory total -->
+
+<!-- Start Tax and surcharge -->
+
+<tr height=3D"20">
+    <td style=3D"font-size:11px;"><strong>Taxes & Surcharges:</strong></td=
+>
+        =09<td align=3D"right" style=3D"font-size:11px;"><strong>37.83 EUR=
+ </strong></td>
+    </tr>
+
+<!-- End Tax and surcharge -->
+
+<!-- Start Surcharge -->
+
+=09=09<tr height=3D"20">
+=09=09    <td colspan=3D"2">
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%">
+=09=09=09=09<tr>
+=09=09=09=09=09<td width=3D"11">&nbsp;</td>
+=09=09=09=09=09<td width=3D"190" valign=3D"top" style=3D"font-size:11px;">=
+
+=09=09=09=09=09=09Surcharge
+=09=09=09=09=09</td>
+=09=09=09=09=09<td style=3D"font-size:11px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=0937.83
+=09=09=09=09=09=09=09=09=09EUR<br/>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</table>
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%">
+=09=09=09=09<tr>
+=09=09=09=09=09<td width=3D"11">&nbsp;</td>
+=09=09=09=09=09<td colspan=3D"2">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</table>
+=09=09    </td>
+=09=09</tr>
+
+<!-- End Surcharge -->
+
+<!-- Start Tax -->
+=09<tr height=3D"20">
+=09    <td colspan=3D"2">
+=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%">
+=09=09=09<tr>
+=09=09=09=09<td width=3D"11">&nbsp;</td>
+=09=09=09=09<td width=3D"190" style=3D"font-size:11px;">
+=09=09=09=09=09Tax
+=09=09=09=09=09=09=09=09=09=09(9.500 %)
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09<td style=3D"font-size:11px;">
+=09=09=09=09=09=09=09=09=09=09=09=09INCLUDED <br/>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09</tr>
+=09=09</table>
+=09    </td>
+=09</tr>
+<!-- End Tax -->
+
+
+<!-- Start onw way rental -->
+
+<!--  -->
+<!-- End onw way rental -->
+
+<!-- Start Mileage -->
+
+=09=09<tr><td colspan=3D"2"><img alt=3D"" src=3D"http://www.avis.com/car-r=
+ental/images/global/en/common/resConfirmDots.gif" width=3D"319" /></td></t=
+r>
+=09=09<!--<tr height=3D"20">
+=09=09    <td style=3D"font-size:11px;">
+=09=09=09=09=09=09=09<strong>Kilometers:</strong><br/>
+=09=09=09=09=09    </td>
+=09=09    <td align=3D"right" style=3D"font-size:11px;">
+=09=09=09<strong>
+=09=09=09=09=09=09=09=09=09Unlimited
+=09=09=09=09=09=09</strong>
+=09=09    </td>
+=09=09</tr>-->
+=09=09<!--Dispaly period free miles--->
+=09=09=09<tr height=3D"20">
+=09=09=09=09<td style=3D"font-size:11px;">
+=09=09=09=09=09<strong>Kilometers:</strong>
+=09=09=09=09</td>
+=09=09=09    <td align=3D"right" style=3D"font-size:11px;">=09=09=09
+=09=09=09=09=09<strong>Unlimited</strong>
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09=09=09=09<!-- End Mileage -->=20
+=09=09=09
+=09=09=09<tr><td colspan=3D"2"><img alt=3D"" src=3D"http://www.avis.com/ca=
+r-rental/images/global/en/common/resConfirmDots.gif" width=3D"319" /></td>=
+</tr>
+=09=09=09
+=09=09=09<!-- Government AWD extra charge -->
+=09=09=09
+=09=09=09=09=09=09
+=09=09=09<!-- End Government AWD extra charge -->
+=09     </table>
+=09</td>
+=09<td width=3D"11">&nbsp;</td>
+    </tr>
+</table>
+
+
+<!-- Start Approximate Total -->
+<div style=3D"padding-left:3px;padding-right:3px;"><img alt=3D"" src=3D"ht=
+tp://www.avis.com/car-rental/images/global/en/common/resConfirmDots.gif" w=
+idth=3D"335" /></div>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+    <tr>
+=09<td width=3D"3">&nbsp;</td>
+=09<td>
+=09    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%">
+=09=09<tr height=3D"20">
+=09=09    <td class=3D"estiTotal" style=3D"background:#DDDDDD;font-size:16=
+px;font-weight:bold;line-height:25px;color:#000000;">
+=09=09=09&nbsp;Base Rate and Charges
+=09=09    </td>
+=09=09    <td class=3D"estiTotal" style=3D"background:#DDDDDD;font-size:16=
+px;font-weight:bold;line-height:25px;color:#000000;" align=3D"right">
+=09=09=091,009.10&nbsp;EUR &nbsp;
+=09=09    </td>
+=09=09</tr>
+=09     </table>
+=09</td>
+=09<td width=3D"3">&nbsp;</td>
+    </tr>
+</table>
+<div style=3D"padding-left:3px;padding-right:3px;"><img alt=3D"" src=3D"ht=
+tp://www.avis.com/car-rental/images/global/en/common/resConfirmDots.gif" w=
+idth=3D"335" /></div>
+<!-- End Approximate Total -->
+
+<!-- Start Rental Options -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+    <tr>
+=09<td width=3D"11">&nbsp;</td>
+=09<td>
+=09    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%">
+=09    =20
+<!-- End Rental Options -->
+
+<!-- Start Protection -->
+
+
+<!-- End Protection -->
+
+=09=09
+=09=09=09     </table>
+=09</td>
+=09<td width=3D"11">&nbsp;</td>
+    </tr>
+</table>
+
+<!-- Start Estimated Total -->
+<div style=3D"padding-left:3px;padding-right:3px;"><img alt=3D"" src=3D"ht=
+tp://www.avis.com/car-rental/images/global/en/common/resConfirmDots.gif" w=
+idth=3D"335" /></div>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+    <tr>
+=09<td width=3D"3">&nbsp;</td>
+=09<td>
+=09    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%">
+=09=09<tr height=3D"20">
+=09=09    <td class=3D"estiTotal" style=3D"background:#DDDDDD;font-size:16=
+px;font-weight:bold;line-height:25px;color:#000000;">
+=09=09=09&nbsp;Estimated Total
+=09=09    </td>
+=09=09    <td class=3D"estiTotal" style=3D"background:#DDDDDD;font-size:16=
+px;font-weight:bold;line-height:25px;color:#000000;" align=3D"right">
+=09=09=091,009.10 EUR &nbsp;
+=09=09    </td>
+=09=09</tr>
+=09     </table>
+=09</td>
+=09<td width=3D"3">&nbsp;</td>
+    </tr>
+</table>
+<div style=3D"padding-left:3px;padding-right:3px;"><img alt=3D"" src=3D"ht=
+tp://www.avis.com/car-rental/images/global/en/common/resConfirmDots.gif" w=
+idth=3D"335" /></div>
+<!-- End Estimated Total -->
+
+<!-- Amount Prepaid at reservation starts here -->
+<!-- Amount Prepaid at reservation Ends here -->
+
+
+
+
+
+
+<!-- Start Div added to display cash due at counter -->
+=09=09=09=09<!-- End Div added to display cash due at counter -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+    <tr>
+=09<td width=3D"11">&nbsp;</td>
+=09<td>
+=09    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%">
+=09=09<tr><td colspan=3D"2"><img alt=3D"" width=3D"1" height=3D"5" src=3D"=
+http://www.avis.com/car-rental/images/global/en/common/spacer.gif" /></td>=
+</tr>
+=09=09<tr>
+=09=09=09<td colspan=3D"2" style=3D"font-size:11px;">
+<div class=3D"left_bg_padding rt_bg_padding_only">
+=09<div class=3D"blk_font"><strong>Notes: </strong></div>
+=09<ul style=3D"padding:0px; margin:0px 0px 0px 20px;font-size:11px;">
+=09=09=09<li>Child Safety Seat charges and/or taxes are NOT included in th=
+e estimated total, but will be calculated and applied at the time of renta=
+l.</li>
+=09=09=09<li>Your rate was calculated based on the information provided. S=
+ome modifications may change this rate.</li>
+=09=09
+=09=09<!--=09=09=09
+=09=09=09=09<li id=3D"noteDiv" class=3D"imgDisplay">
+=09=09=09=09=09=09=09Child Safety Seat charges and/or taxes are NOT includ=
+ed in the estimated total, but will be calculated and applied at the time =
+of rental.
+=09=09=09=09=09</li>
+=09=09=09=09
+=09=09=09
+
+
+=09=09<li>Your rate was calculated based on the information provided. Some=
+ modifications may change this rate. </li>
+=09
+=09=09
+=09
+=09
+=09 -->
+
+=09</ul>
+</div>
+=09=09=09</td>
+=09=09</tr>
+=09=09=09=09<tr><td colspan=3D"2"><img alt=3D"" width=3D"1" height=3D"5" s=
+rc=3D"http://www.avis.com/car-rental/images/global/en/common/spacer.gif" /=
+></td></tr>
+=09    </table>
+=09</td>
+=09<td width=3D"11">&nbsp;</td>
+    </tr>
+</table>
+</td>
+<td width=3D"172" valign=3D"top" style=3D"padding-left:5px;">
+<!-- Add to Email Button -->=09=09=09=09=09=09=09=09=09=09
+<div>
+<A title=3DAdd to Email Calendar=20
+href=3D"http://www.avis.com/car-rental/reservation/add-to-email-calendar-f=
+rom-mail.ac?confirmationNo=3D05878415FR4&lastName=3Dargnak&locale1=3Den_US=
+">
+<IMG title=3DAdd to Email Calendar alt=3DAdd to Email Calendar=20
+src=3D"http://www.avis.com/car-rental/images/global/en/buttons/add_whtemai=
+l.gif" border=3D0>
+</A>
+</div>
+
+<div><img src=3D"http://www.avis.com/car-rental/images/global/en/common/sp=
+acer.gif" height=3D"5"/></div>
+<div><A title=3DModify=20
+href=3D"https://www.avis.com/car-rental/reservation/modify-from-mail.ac?re=
+sForm.confirmationNumber=3D05878415FR4&resForm.lastName.value=3Dargnak&mod=
+ifyFromMail=3DMODIFY_FROM_MAIL&COUNTRY=3DUS&LANGUAGE=3Den"><IMG
+title=3DModify alt=3DModify src=3D"http://www.avis.com/car-rental/images/g=
+lobal/en/buttons/modify_reservation.gif" border=3D"0"/></A></div>
+
+<!-- cancel Prepay Reservation Button -->
+
+<!-- Cancel link for pay later reservation -->
+<div><img alt=3D"" src=3D"http://www.avis.com/car-rental/images/global/en/=
+common/spacer.gif" height=3D"5" border=3D"0"/></div>
+<div><A title=3D$reservationEmailVO.cancelledRezMsg
+href=3D"https://www.avis.com/car-rental/reservation/display-reservation-su=
+bmit.ac?input=3Dconfirm&resForm.confirmationNumber=3D05878415FR4&resForm.l=
+astName.value=3Dargnak&COUNTRY=3DUS&LANGUAGE=3Den">
+<img alt=3D'$reservationEmailVO.cancelledRezMsg' border=3D"0" onclick=3D"j=
+avascript:onClickCancelButton();"
+src=3D"http://www.avis.com/car-rental/images/global/en/buttons/cancel_whtr=
+es.gif" class=3D"domroll http://www.avis.com/car-rental/images/global/en/b=
+uttons/cancel_reservation.gif" />
+</A>
+</div>=09
+
+<!-- Refund Reservation Button -->
+<div><img src=3D"http://www.avis.com/car-rental/images/global/en/common/sp=
+acer.gif" height=3D"5"/></div>
+<div><A title=3DMake a New Reservation href=3D"http://www.avis.com/car-ren=
+tal/reservation/time-place.ac?COUNTRY=3DUS&LANGUAGE=3Den"><IMG =20
+title=3DMake a New Reservation alt=3DMake a New Reservation src=3D"http://=
+www.avis.com/car-rental/images/global/en/buttons/make_whtnew.gif"=20
+border=3D0></A></div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09<tr><td><img src=3D"http://www.avis.com/car-ren=
+tal/images/global/en/common/resConfirmBotBg.gif" width=3D"530" height=3D"5=
+" /></td></tr>
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td height=3D"9" background=3D"http://www.av=
+is.com/car-rental/images/global/en/common/resConfirmfooter.gif"></td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09<div><img alt=3D"" width=3D"1" height=3D"10" src=3D=
+"http://www.avis.com/car-rental/images/global/en/common/spacer.gif" /></di=
+v>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td background=3D"http://www.avis.com/car-re=
+ntal/images/global/en/common/sectionHeader_530.gif" height=3D"25"><div cla=
+ss=3D"secHeading530"><h2 style=3D"color:#FFFFFF;font-size:13px;padding-top=
+:5px;font-weight:bold;padding:0px;padding-left:9px;margin:0px;">YOUR TIME =
+& PLACE</h2></div></td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td background=3D"http://www.avis.com/car-re=
+ntal/images/global/en/common/bg_main.gif">
+<!-- Start Time & Place -->
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09<tr>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td style=3D"font-size:11px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"lineHeight">
+=09=09=09=09=09=09Modifying time or place will require reselection of car =
+class and options.
+=09=09=09=09=09=09=09=09=09</td>
+=09=09<td width=3D"11">&nbsp;</td>
+=09</tr>
+=09<tr>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td><img alt=3D"" src=3D"http://www.avis.com/car-rental/images/globa=
+l/en/common/spacer.gif" height=3D"10" width=3D"1"/></td>
+=09=09<td width=3D"11">&nbsp;</td>
+=09</tr>
+=09
+=09<tr>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td>
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%">
+=09=09=09=09<tr height=3D"100%">
+=09=09=09=09=09<td valign=3D"top" style=3D"font-size:11px;">
+<span class=3D"lineHeight">
+=09<span class=3D"blk_font"><strong>Pick-up Information</strong></span><br=
+/>
+=09    =09Monday, August 06, 2012 @ 08:30 AM<br/>
+    =09Pierre Elliot Trudeau Intl Airport, Montreal, YUL<br/>
+=09=09975, Boulevard Romeo Vachon, Montreal, YUL PQ CA<br/>
+=09=09=09(H4Y 1H1  )
+=09=09&nbsp;(1) 514-636-1902              <br/>
+=09Sun 7:00 AM - 1:00 AM<BR>Mon - Fri 6:00 AM - 1:00 AM<BR>Sat 7:00 AM - 1=
+:00 AM<BR><br/>
+=09=09=09<span class=3D"coolcar">Preferred Service Available</span> &ndash=
+;=20
+=09=09<a title=3D"sign up for preferred" href=3D"http://www.avis.com/car-r=
+ental/profile/register.ac?APPLICATION_TYPE=3DPREFERRED&profileForm.country=
+OfResidenceCode=3DFR">Sign up for Preferred today!</a>
+=09</span>
+=09=09=09=09=09</td>
+=09=09=09=09=09<td align=3D"right" valign=3D"top" style=3D"font-size:11px;=
+">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<span>
+=09=09=09=09=09=09=09=09<img alt=3D"" src=3D"http://www.avis.com/car-renta=
+l/images/global/en/locations/YUL1.gif" width=3D"165" height=3D"180" style=3D=
+"border:1px solid #000000;"/>
+=09=09=09=09=09=09=09</span>
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09=09<tr>
+=09=09=09=09=09<td colspan=3D"2">
+<div><img alt=3D"" src=3D"http://www.avis.com/car-rental/images/global/en/=
+common/spacer.gif" height=3D"10" /></div>
+<div><img alt=3D"" src=3D"http://www.avis.com/car-rental/images/global/en/=
+common/divider_graydots.gif" width=3D"508" /></div>
+<div><img alt=3D"" src=3D"http://www.avis.com/car-rental/images/global/en/=
+common/spacer.gif" height=3D"10" /></div>=09=09=09=09=09
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09=09<tr height=3D"100%">
+=09=09=09=09=09<td valign=3D"top" style=3D"font-size:11px;">
+<span class=3D"lineHeight">
+=09<span class=3D"blk_font"><strong>Return Information</strong></span><br/=
+>
+=09    =09Friday, August 17, 2012 @ 08:30 AM<br/>
+    =09Pierre Elliot Trudeau Intl Airport, Montreal, YUL <br/>
+=09=09975, Boulevard Romeo Vachon, Montreal, YUL PQ CA<br/>
+=09=09=09(H4Y 1H1  )
+=09=09&nbsp;(1) 514-636-1902              <br/>
+=09Sun 7:00 AM - 1:00 AM<BR>Mon - Fri 6:00 AM - 1:00 AM<BR>Sat 7:00 AM - 1=
+:00 AM<BR><br/>
+=09=09=09<span class=3D"coolcar">Preferred Service Available</span> &ndash=
+;=20
+=09=09<a title=3D"sign up for preferred" href=3D"http://www.avis.com/car-r=
+ental/profile/register.ac?APPLICATION_TYPE=3DPREFERRED&profileForm.country=
+OfResidenceCode=3DFR">Sign up for Preferred today!</a>
+=09</span>
+=09=09=09=09=09</td>
+=09=09=09=09=09<td align=3D"right" valign=3D"top" style=3D"font-size:11px;=
+">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<span>
+=09=09=09=09=09=09=09=09<img alt=3D"" src=3D"http://www.avis.com/car-renta=
+l/images/global/en/locations/YUL1.gif" width=3D"165" height=3D"180" style=3D=
+"border:1px solid #000000;"/>
+=09=09=09=09=09=09=09</span>
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</table>
+=09=09</td>
+=09=09<td width=3D"11">&nbsp;</td>
+=09</tr>
+=09<tr><td colspan=3D"3" height=3D"11">&nbsp;</td></tr>
+</table>
+<!-- End Time & Place -->
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td><img src=3D"http://www.avis.com/car-rent=
+al/images/global/en/common/bg_mainfooter.gif" width=3D"530" height=3D"6"/>=
+</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09<div><img alt=3D"" src=3D"http://www.avis.com/car-=
+rental/images/global/en/common/spacer.gif" height=3D"10" width=3D"1"/></di=
+v>
+=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td background=3D"http://www.avis.com/car-re=
+ntal/images/global/en/common/sectionHeader_530.gif" height=3D"25"><div cla=
+ss=3D"secHeading530"><h2 style=3D"color:#FFFFFF;font-size:13px;padding-top=
+:5px;font-weight:bold;padding:0px;padding-left:9px;margin:0px;">RATE & BEN=
+EFIT INFORMATION</h2></div></td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td background=3D"http://www.avis.com/car-re=
+ntal/images/global/en/common/bg_main.gif">
+<!-- Start Rate & Benefit Information -->
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09<tr>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td style=3D"font-size:11px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"lineHeight"><strong>Note=
+s: </strong>
+=09=09=09=09=09Modifying your rate will require reselection of car class &=
+amp; options.=20
+=09=09=09=09=09=09=09=09=09</td>
+=09=09<td width=3D"11">&nbsp;</td>
+=09</tr>
+=09<tr>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td><img alt=3D"" src=3D"http://www.avis.com/car-rental/images/globa=
+l/en/common/spacer.gif" height=3D"10" width=3D"1"/></td>
+=09=09<td width=3D"11">&nbsp;</td>
+=09</tr>
+=09
+=09<tr>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td>
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%">
+=09=09=09=09<tr>
+=09=09=09=09=09<td width=3D"190" style=3D"font-size:11px;"><strong>AWD Num=
+ber:</strong></td>
+=09=09=09=09=09<td style=3D"font-size:11px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<strong>N/A</strong>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</td>
+=09=09=09=09</tr>
+=09=09=09=09<tr>
+=09=09=09=09=09<td width=3D"190" style=3D"font-size:11px;"><strong>Rate Co=
+de:</strong></td>
+=09=09=09=09=09<td style=3D"font-size:11px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=099F
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09=09<tr>
+=09=09=09=09=09<td width=3D"190" style=3D"font-size:11px;"><strong>Coupon =
+Number:</strong></td>
+=09=09=09=09=09<td style=3D"font-size:11px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<strong>N/A</strong>
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</table>
+=09=09</td>
+=09=09<td width=3D"11">&nbsp;</td>
+=09</tr>
+=09<tr><td colspan=3D"3" height=3D"11">&nbsp;</td></tr>
+</table>
+<!-- End Rate & Benefit Information -->=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td><img src=3D"http://www.avis.com/car-rent=
+al/images/global/en/common/bg_mainfooter.gif" width=3D"530" height=3D"6"/>=
+</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09<div><img alt=3D"" src=3D"http://www.avis.com/car-=
+rental/images/global/en/common/spacer.gif" height=3D"10" width=3D"1"/></di=
+v>
+=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td background=3D"http://www.avis.com/car-re=
+ntal/images/global/en/common/sectionHeader_530.gif" height=3D"25"><div cla=
+ss=3D"secHeading530"><h2 style=3D"color:#FFFFFF;font-size:13px;padding-top=
+:5px;font-weight:bold;padding:0px;padding-left:9px;margin:0px;">YOUR CAR</=
+h2></div></td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td background=3D"http://www.avis.com/car-re=
+ntal/images/global/en/common/bg_main.gif">
+<!-- Start Car & Rate -->
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09<tr>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td style=3D"font-size:11px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<div class=3D"lineHeight"><strong>Note=
+s: </strong>
+=09=09=09=09=09Modifying Car &amp; Rate will require reselection of option=
+s.    =20
+=09=09=09=09=09=09=09=09=09</td>
+=09=09<td width=3D"11">&nbsp;</td>
+=09</tr>
+=09<tr>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td><img alt=3D"" src=3D"http://www.avis.com/car-rental/images/globa=
+l/en/common/spacer.gif" height=3D"10" width=3D"1"/></td>
+=09=09<td width=3D"11">&nbsp;</td>
+=09</tr>
+=09<tr>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td style=3D"font-size:11px;"><strong>Group V - Dodge Grand Caravan =
+or similar</strong></td>
+=09=09<td width=3D"11">&nbsp;</td>
+=09</tr>
+=09<tr>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+=09<tr>
+=09=09<td valign=3D"top"><img alt=3D"" src=3D"http://www.avis.com/car-rent=
+al/images/global/en/rentersguide/vehicle_guide/dodgegrandcaravan-ca-08.gif=
+" border=3D"0" /></td>
+=09=09<td width=3D"10">&nbsp;</td>
+=09<td>
+<table border=3D"1" cellpadding=3D"5" cellspacing=3D"0" bordercolor=3D"#cc=
+cccc" style=3D"border:1px solid #cccccc;">
+=09<tr>
+=09=09<td>
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+=09=09=09=09<tr>
+=09=09=09=09=09<td style=3D"font-size:11px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<img alt=3D=
+"" src=3D"http://www.avis.com/car-rental/images/global/en/common/noSmoking=
+Icon.gif" border=3D"0" />&nbsp;
+=09=09=09=09=09=09=09=09<span class=3D"carClass_fontSize" style=3D"font-si=
+ze:11px;"><strong></strong></span><br/>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<img alt=3D"" src=3D"http://w=
+ww.avis.com/car-rental/images/global/en/common/keyIndicator.gif" border=3D=
+"0" />&nbsp;
+=09=09=09=09=09=09=09=09<span class=3D"carClass_fontSize"=20style=3D"font-=
+size:11px;"><strong>7</strong></span><br/>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09<td width=3D"10">&nbsp;</td>
+=09=09=09=09=09<td width=3D"10" style=3D"border-left: 1px dotted #333333;"=
+>&nbsp;</td>
+=09=09=09=09=09<td style=3D"font-size:11px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<ul class=3D"paddingMargin" style=3D=
+"padding:0px;margin:0px;list-style:inside;">
+=09=09=09=09=09=09=09=09<li>4 Door</li>
+=09=09=09=09=09=09=09</ul>
+=09=09=09=09=09=09=09=09=09=09=09=09=09<ul class=3D"paddingMargin" style=3D=
+"padding:0px;margin:0px;list-style:inside;">
+=09=09=09=09=09=09=09=09<li>AM/FM Radio</li>
+=09=09=09=09=09=09=09</ul>
+=09=09=09=09=09=09=09=09=09=09=09=09=09<ul class=3D"paddingMargin" style=3D=
+"padding:0px;margin:0px;list-style:inside;">
+=09=09=09=09=09=09=09=09<li>CD Player</li>
+=09=09=09=09=09=09=09</ul>
+=09=09=09=09=09=09=09=09=09=09=09=09=09<ul class=3D"paddingMargin" style=3D=
+"padding:0px;margin:0px;list-style:inside;">
+=09=09=09=09=09=09=09=09<li>Air Conditioning</li>
+=09=09=09=09=09=09=09</ul>
+=09=09=09=09=09=09=09=09=09=09=09=09=09<ul class=3D"paddingMargin" style=3D=
+"padding:0px;margin:0px;list-style:inside;">
+=09=09=09=09=09=09=09=09<li>Automatic</li>
+=09=09=09=09=09=09=09</ul>
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</table>
+=09=09</td>
+=09</tr>
+</table>
+=09</td>
+=09</tr>
+</table>
+=09=09</td>
+=09=09<td width=3D"11">&nbsp;</td>
+=09</tr>
+=09<tr><td colspan=3D"3" height=3D"11">&nbsp;</td></tr>
+</table>
+<!-- End Car & Rate -->
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td><img src=3D"http://www.avis.com/car-rent=
+al/images/global/en/common/bg_mainfooter.gif" width=3D"530" height=3D"6"/>=
+</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09<div><img alt=3D"" src=3D"http://www.avis.com/car-=
+rental/images/global/en/common/spacer.gif" height=3D"10" width=3D"1"/></di=
+v>
+=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td background=3D"http://www.avis.com/car-re=
+ntal/images/global/en/common/sectionHeader_530.gif" height=3D"25"><div cla=
+ss=3D"secHeading530"><h2 style=3D"color:#FFFFFF;font-size:13px;padding-top=
+:5px;font-weight:bold;padding:0px;padding-left:9px;margin:0px;">YOUR OPTIO=
+NS</h2></div></td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td background=3D"http://www.avis.com/car-re=
+ntal/images/global/en/common/bg_main.gif">
+<!-- Start Options -->
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09<tr><td colspan=3D"3" height=3D"11">&nbsp;</td></tr>
+=09<tr>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09
+=09=09<td>
+=09=09=09<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+=09=09=09=09<tr>
+=09=09=09=09=09<td valign=3D"top" width=3D"190" style=3D"font-size:11px;">=
+
+=09=09=09=09=09=09<strong>Rental Options:</strong>
+=09=09=09=09=09</td>
+=09=09=09=09=09
+=09=09=09=09=09<td style=3D"font-size:11px;">
+=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09   =20
+=09=09=09=09=09    =09=09=09=09=09=09    =09=09=09=09=09    =09=09=09=09  =
+ =20
+=09=09=09=09=09    =09=09=09=09=09    =09=09=09=09       =20
+=09=09=09=09=09    =09=09=09=09=09    =09=09=09=09 =20
+=09=09=09=09 =20
+=09=09=09=09=20
+=09=09=09=09 =20
+=09=09=09=09 =20
+=09=09=09=09  =09=09=09=09   =20
+=09=09=09=09=09    =09=09=09=09   =20
+=09=09=09=09=09    =09=09=09=09=09=09    =09=09=09=09=09    =09=09=09=09=09=
+    =09=09=09=09       =20
+=09=09=09=09=09    =09=09=09=09=09    =09=09=09=09 =20
+=09=09=09=09 =20
+=09=09=09=09=20
+=09=09=09=09 =20
+=09=09=09=09 =20
+=09=09=09=09  =09=09=09=09   =20
+=09=09=09=09=09    =09=09=09=09   =20
+=09=09=09=09=09    =09=09=09=09=09    =09=09=09=09=09=09    =09=09=09=09  =
+     =09=09=09=09       =20
+=09=09=09=09=09    =09=09=09=09=09    =09=09=09=09 =20
+=09=09=09=09 =20
+=09=09=09=09=20
+=09=09=09=09 =20
+=09=09=09=09 =20
+=09=09=09=09  =09=09=09=09   =20
+=09=09=09=09=09    =09=09=09=09   =20
+=09=09=09=09=09    =09=09=09=09=09    =09=09=09=09       =20
+=09=09=09=09=09    =09=09=09=09=09=09    =09=09=09=09=09    =09=09=09=09=09=
+    =09=09=09=09 =20
+=09=09=09=09 =20
+=09=09=09=09=20
+=09=09=09=09 =20
+=09=09=09=09 =20
+=09=09=09=09  =09=09=09=09   =20
+=09=09=09=09=09    =09=09=09=09   =20
+=09=09=09=09=09    =09=09=09=09=09    =09=09=09=09       =20
+=09=09=09=09=09    =09=09=09=09=09    =09=09=09=09=09=09    =09=09=09=09=09=
+=09=09    =09=09=09=09=09=09=09         <div>1 Infant Seats</div>
+=09=09=09=09=09=09=09  =20
+=09=09=09=09=09=09=09    =09=09=09=09=09=09    =09=09=09=09=09    =09=09=09=
+=09=09    =09=09=09=09=09=09    =09=09=09=09=09=09         <div>1 Booster =
+Seats</div>
+=09=09=09=09=09=09  =20
+=09=09=09=09=09=09    =09=09=09=09=09=09    =09=09=09=09=09    =09=09=09=09=
+ =20
+=09=09=09=09 =20
+=09=09=09=09=20
+=09=09=09=09 =20
+=09=09=09=09 =20
+=09=09=09=09  =09=09=09=09 =20
+=09=09=09=09   =09=09=09=09 =20
+=09=09=09=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09=20
+=09=09=09
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</table>
+=09=09=09<div><img alt=3D"" src=3D"http://www.avis.com/car-rental/images/g=
+lobal/en/common/spacer.gif" height=3D"5" width=3D"1"/></div>
+=09=09=09<div><img alt=3D"" src=3D"http://www.avis.com/car-rental/images/g=
+lobal/en/common/divider_graydots.gif" width=3D"508" /></div>
+=09=09=09<div><img alt=3D"" src=3D"http://www.avis.com/car-rental/images/g=
+lobal/en/common/spacer.gif" height=3D"5" width=3D"1"/></div>
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%">
+=09=09=09=09<tr>
+=09=09=09=09=09<td valign=3D"top" width=3D"190" style=3D"font-size:11px;">=
+
+=09=09=09=09=09=09<strong>Protections & Coverages:</strong>
+=09=09=09=09=09</td>
+=09=09=09=09=09<td style=3D"font-size:11px;">
+=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div><div class=3D"login_txt" st=
+yle=3D"float:left;width:165px;">Loss Damage Waiver (LDW)</div>Accepted</di=
+v>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09<!-- For PAI -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09<!-- For PEP -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09<!-- For ALI -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09<!-- For PAI -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div><div class=3D"login_txt" st=
+yle=3D"float:left;width:165px;">Personal Accident Insurance (PAI)</div>Dec=
+lined</div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09<!-- For PEP -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09<!-- For ALI -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09<!-- For PAI -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09<!-- For PEP -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div><div class=3D"login_txt" st=
+yle=3D"float:left;width:165px;">Personal Effect Protection (PEP)</div>Decl=
+ined</div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09<!-- For ALI -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09<!-- For PAI -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09<!-- For PEP -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09<!-- For ALI -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div><div class=3D"login_txt" st=
+yle=3D"float:left;width:165px;">Additional Liability Insurance (ALI)</div>=
+Accepted</div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09<!-- For PAI -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09<!-- For PEP -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09<!-- For ALI -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</table>
+=09=09</td>
+=09=09<td width=3D"11">&nbsp;</td>
+=09</tr>
+=09<tr><td colspan=3D"3" height=3D"11">&nbsp;</td></tr>
+</table>
+<!-- End Options -->=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td><img src=3D"http://www.avis.com/car-rent=
+al/images/global/en/common/bg_mainfooter.gif" width=3D"530" height=3D"6"/>=
+</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09<div><img alt=3D"" src=3D"http://www.avis.com/car-=
+rental/images/global/en/common/spacer.gif" height=3D"10" width=3D"1"/></di=
+v>
+=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td background=3D"http://www.avis.com/car-re=
+ntal/images/global/en/common/sectionHeader_530.gif" height=3D"25"><div cla=
+ss=3D"secHeading530"><h2 style=3D"color:#FFFFFF;font-size:13px;padding-top=
+:5px;font-weight:bold;padding:0px;padding-left:9px;margin:0px;">YOUR INFOR=
+MATION</h2></div></td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td background=3D"http://www.avis.com/car-re=
+ntal/images/global/en/common/bg_main.gif">
+<!-- Start Your Information -->
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09<tr><td colspan=3D"3" height=3D"11">&nbsp;</td></tr>
+=09<tr>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td>
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%">
+=09=09=09=09<tr>
+=09=09=09=09=09<td width=3D"190" style=3D"font-size:11px;"><strong>Name:</=
+strong></td>
+=09=09=09=09=09<td style=3D"font-size:11px;">
+=09=09=09=09=09=09alasie=20
+=09=09=09=09=09=09=09=09=09=09=09=09=09argnak
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09=09<tr>
+=09=09=09=09=09<td width=3D"190" style=3D"font-size:11px;"><strong>Email A=
+ddress:</strong></td>
+=09=09=09=09=09<td style=3D"font-size:11px;">AARNGAK@TAMAANI.CA</td>
+=09=09=09=09</tr>
+=09=09=09=09<tr><td colspan=3D"2"><img alt=3D"" src=3D"http://www.avis.com=
+/car-rental/images/global/en/common/spacer.gif" height=3D"10" /></td></tr>=
+
+=09=09=09=09<tr>
+=09=09=09=09=09<td width=3D"190" style=3D"font-size:11px;"><strong>Phone:<=
+/strong></td>
+=09=09=09=09=09<td style=3D"font-size:11px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09N/A
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09=09
+=09=09=09=09=09=09=09=09<!--Prepay credit card section -->
+=09=09=09=09=09=09=09=09<!--End of prepay creditcard section -->
+=09=09=09=09=09=09=09=09<tr><td colspan=3D"2"><img alt=3D"" src=3D"http://=
+www.avis.com/car-rental/images/global/en/common/spacer.gif" height=3D"10" =
+/></td></tr>
+=09=09=09=09<tr>
+=09=09=09=09=09<td width=3D"190" style=3D"font-size:11px;"><strong>Miles /=
+ Points:</strong></td>
+=09=09=09=09=09<td style=3D"font-size:11px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09N/A
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09=09<tr>
+=09=09=09=09=09<td width=3D"190" style=3D"font-size:11px;"><strong>Flight =
+Information:</strong></td>
+=09=09=09=09=09<td style=3D"font-size:11px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09N/A
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09<tr>
+=09=09=09=09=09<td width=3D"190" style=3D"font-size:11px;"><strong>Wizard =
+Number:</strong></td>
+=09=09=09=09=09<td style=3D"font-size:11px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09N/A=09
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09</tr>
+
+=09=09=09=09=09=09=09
+=09=09=09=09
+=09=09=09</table>
+=09=09</td>
+=09=09<td width=3D"11">&nbsp;</td>
+=09</tr>
+=09<tr><td colspan=3D"3" height=3D"11">&nbsp;</td></tr>
+</table>
+<!-- End Your Information -->=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td><img src=3D"http://www.avis.com/car-rent=
+al/images/global/en/common/bg_mainfooter.gif" width=3D"530" height=3D"6"/>=
+</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09<div><img alt=3D"" src=3D"http://www.avis.com/car-=
+rental/images/global/en/common/spacer.gif" height=3D"10" width=3D"1"/></di=
+v>
+=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09<!-- Start Terms and Conditions -->
+=09=09=09=09=09=09=09=09<h2 style=3D"font-size:14px;font-weight:bold;displ=
+ay:inline;margin:0;padding:0;">Reservation Terms &amp; Conditions:</h2>
+=09=09=09=09=09=09=09=09       =09  =09 <p>=09     =09         <a href=3D'=
+#Credit Card Policies'> Credit Card Policies </a>=09=09 <br/>             =
+=09         <a href=3D'#Debit Card Policies'> Debit Card Policies </a>=09=09=
+ <br/>             =09         <a href=3D'#Additional Fees'> Additional Fe=
+es </a>=09=09 <br/>             =09         <a href=3D'#Age Requirements'>=
+ Age Requirements </a>=09=09 <br/>             =09         <a href=3D'#Est=
+imated Totals'> Estimated Totals </a>=09=09 <br/>             =09         =
+<a href=3D'#Rental Options'> Rental Options </a>=09=09 <br/>            =09=
+      </p>           <div class=3D"helpCMS">      <a name=3D"Credit Card P=
+olicies" id=3D"Credit Card Policies"></a><b>Credit Card Policies</b><br/> =
+       <p align=3D"left"><font size=3D"2">Avis=A0accepts most major credit=
+ cards as credit identification at the time of rental.</font></p>
+<p><font size=3D"2">Accepted credit card list: Avis Charge Card, American =
+Express, AT&T Capital, Diner's Club, Diner's Club Int'l, Discover, GE Capi=
+tal, JCB, MasterCard, Peterson, Howell and Heather (PHH), Sears and Visa.<=
+/font></p>
+<p><font size=3D"2">Some locations may not accept each of the referenced c=
+ards.</font></p>  </div><div align=3D"right"><a href=3D"#top"><img src=3D"=
+/car-rental/images/global/en/common/backto_top.gif" width=3D"16" height=3D=
+"10" border=3D"0"></a><b>Top</b></div><br/><div class=3D"helpCMS">     <a =
+name=3D"Debit Card Policies" id=3D"Debit Card Policies"></a><b>Debit Card =
+Policies</b><br/>       <p>Debit cards are not accepted at time of rental =
+at this location.=A0 A debit card can be used to pay for the rental at the=
+ time of car return.</p> </div><div align=3D"right"><a href=3D"#top"><img =
+src=3D"/car-rental/images/global/en/common/backto_top.gif" width=3D"16" he=
+ight=3D"10" border=3D"0"></a><b>Top</b></div><br/><div class=3D"helpCMS"> =
+    <a name=3D"Additional Fees" id=3D"Additional Fees"></a><b>Additional F=
+ees</b><br/>          <p class=3D"MsoNormal" style=3D"margin-left: 0.25in;=
+ text-indent: -0.25in; mso-margin-top-alt: auto; mso-margin-bottom-alt: au=
+to; mso-list: l0 level1 lfo1"><font face=3D"Arial"><span class=3D"widgette=
+xtsmall1"><span style=3D"font-size: 10pt">Optional services, special equip=
+ment and one way fees are subject to tax in certain locations. This tax is=
+ not reflected in the Estimated Total.</span></span></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.25in; text-indent: -0.25in;=
+ mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level=
+1 lfo1"><font face=3D"Arial"><font size=3D"2"><span style=3D"font-family: =
+Symbol"><span style=3D"mso-list: Ignore"><span style=3D"font: 7pt 'Times N=
+ew Roman'">=A0</span></span></span><span style=3D"font-size: 10pt; font-fa=
+mily: 'Arial','sans-serif'">Frequent Flyer surcharges may be applied at ti=
+me of rental.</span><o:p></o:p></font></font></p>
+<p class=3D"MsoNormal" style=3D"margin-left: 0.25in; text-indent: -0.25in;=
+ mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level=
+1 lfo1"><font face=3D"Arial"><font=20size=3D"2"><span style=3D"font-size: =
+10pt; font-family: 'Arial','sans-serif'">Extensions or late returns result=
+ in additional charges.</span><span class=3D"widgettextsmall"><o:p></o:p><=
+/span></font></font></p> </div><div align=3D"right"><a href=3D"#top"><img =
+src=3D"/car-rental/images/global/en/common/backto_top.gif" width=3D"16" he=
+ight=3D"10" border=3D"0"></a><b>Top</b></div><br/><div class=3D"helpCMS"> =
+    <a name=3D"Age Requirements" id=3D"Age Requirements"></a><b>Age Requir=
+ements</b><br/>          <p><font size=3D"2">Rather than requiring custome=
+rs to be 25 to rent, Avis at this location now rents to customers between =
+the ages of 21-24.=A0 At time of rental, we will automatically apply an ad=
+ditional $20 CAD-per-day underage fee for these drivers.</font></p>
+<p><font size=3D"2">Additionally, the following restrictions also will app=
+ly for renters between the ages of 21-24: Rentals of luxury cars, mini-van=
+s, 12-passenger vans, specialty cars, and SUVs will not be permitted.</fon=
+t></p> </div><div align=3D"right"><a href=3D"#top"><img src=3D"/car-rental=
+/images/global/en/common/backto_top.gif" width=3D"16" height=3D"10" border=
+=3D"0"></a><b>Top</b></div><br/><div class=3D"helpCMS">     <a name=3D"Est=
+imated Totals" id=3D"Estimated Totals"></a><b>Estimated Totals</b><br/>   =
+       <p><font size=3D"2"></font></p>
+<p><font size=3D"2">Snow Tires are mandatory for rentals within the Provin=
+ce of Quebec, CA, during the Winter Season.=A0 There will be a daily charg=
+e up to a maximum $3.99 CAD per day, applied to the rental.=A0 Snow Tires =
+may also be available within other locations in Canada, with a fee of $10.=
+00 CAD per day charge.</font></p>
+<p><font size=3D"2">Approximate total includes base rate, taxes, and surch=
+arges. Items such as coupon discounts, child safety seats and gas are NOT =
+included in the estimated total. Optional coverages and one-way fees are s=
+ubject to tax in certain locations. This tax is not reflected in the Estim=
+ated Total.</font></p>
+<p><font size=3D"2">Estimated total is subject to change based upon exchan=
+ge rates at the time of rental.</font></p> </div><div align=3D"right"><a h=
+ref=3D"#top"><img src=3D"/car-rental/images/global/en/common/backto_top.gi=
+f" width=3D"16" height=3D"10" border=3D"0"></a><b>Top</b></div><br/><div c=
+lass=3D"helpCMS">     <a name=3D"Rental Options" id=3D"Rental Options"></a=
+><b>Rental Options</b><br/>          <p><font size=3D"2"></font></p>
+<p><strong>Roadside SafetyNet</strong></p>
+<ul>
+    <li>Taxes not included in the Estimated Total and will be applied at t=
+he time of rental</li>
+    <li>Roadside SafetyNet (RSN) service is available at all participating=
+=A0Avis locations in the U.S., Canada, Puerto Rico & U.S. Virgin Islands a=
+nd New Zealand.</li>
+    <li>The daily/weekly fee for the Avis Roadside SafetyNet Option is sub=
+ject to change.</li>
+    <li>RSN covers the cost for assistance with key replacement, lockouts,=
+ tire change service fee, jump starts and emergency fuel delivery (up to 3=
+ gallons).</li>
+    <li>Prohibited use of the vehicle will void this option.</li>
+</ul>
+<p>=A0</p>
+<p><strong>Other Options</strong></p>
+<ul>
+    <li>Rental options not selected/offered on the avis.com=A0website can =
+not be modified online=A0but have been calculated in the Estimated Total.<=
+/li>
+    <li>Taxes not included in the Estimated Total=A0and will be applied at=
+ the time of rental.</li>
+    <li>Modifications to these rental options must be made by contacting c=
+ustomer service or can be made at the rental counter.=A0</li>
+</ul>
+<p>=A0</p> </div><div align=3D"right"><a href=3D"#top"><img src=3D"/car-re=
+ntal/images/global/en/common/backto_top.gif" width=3D"16" height=3D"10" bo=
+rder=3D"0"></a><b>Top</b></div><br/>
+=09=09=09=09=09=09=09=09<!-- End Terms and Conditions -->
+
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09<td width=3D"10">&nbsp;</td>
+=09=09=09=09=09=09=09<td width=3D"170" valign=3D"top">
+=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"350">
+=09=09=09=09=09=09=09=09=09<tr><td class=3D"mapGrnPostion" background=3D"h=
+ttp://www.avis.com/car-rental/images/global/en/common/golden_bar_small.gif=
+" height=3D"25" style=3D"line-height:25px;width:350px;text-indent:10px;">
+=09=09=09=09=09=09=09=09=09=09<h2 style=3D"font-size:14px;font-weight:bold=
+;display:inline;margin:0;padding:0;color:#FFFFFF;">Contact Us </h2></td></=
+tr>
+=09=09=09=09=09=09=09=09=09<tr>
+                                    =09=09=09=09=09=09<td background=3D"ht=
+tp://www.avis.com/car-rental/images/global/en/common/bg_main350.gif">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09<tr><td colspan=3D"3" height=3D"11">&nbsp;</td></tr>
+=09=09<tr>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td style=3D"font-size:11px;" width=3D"240px">
+=09=09Reservations & Avis.com Assistance
+=09=09</td>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td>1-800-230-4898</td>
+=09</tr>
+=09<tr>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td style=3D"font-size:11px;" width=3D"240px"></td>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td></td>
+=09</tr>
+=09
+=09<tr>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td style=3D"font-size:11px;" width=3D"240px">
+=09=09Wizard Number / Preferred Profile Updates
+=09=09</td>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td>1-866-842-5552</td>
+=09</tr>
+=09<tr>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td style=3D"font-size:10px;" colspan=3D"3">
+=09=09Monday - Friday 8am-5pm EST
+=09=09</td>
+=09</tr>
+=09        <tr>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td style=3D"font-size:11px;" width=3D"240px"></td>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td></td>
+=09</tr>
+=09<tr>
+=09=09<td width=3D"11">&nbsp;</td>
+=09=09<td style=3D"font-size:11px;" colspan=3D"3">
+=09=09 Worldwide Telephone Numbers -  <a href=3D"http://www.avis.com/car-r=
+ental/content/display.ac?navId=3DT5M13S00">click here</a>
+=09=09</td>
+=09</tr>
+=09<tr width=3D"150px"><td colspan=3D"3" height=3D"11">&nbsp;</td></tr>
+</table>
+
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td><img src=3D"http://www.avis.com/car-rent=
+al/images/global/en/common/bg_mainfooter350.gif" width=3D"350" height=3D"6=
+"/></td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09</table>
+=09=09=09=09=09=09<div><img alt=3D"" width=3D"1" height=3D"10" src=3D"http=
+://www.avis.com/car-rental/images/global/en/common/spacer.gif" /></div>
+=09=09=09=09=09=09 =09=09
+=09=09=09=09=09=09=09=09<div><img alt=3D"" width=3D"1" height=3D"10" src=3D=
+"http://www.avis.com/car-rental/images/global/en/common/spacer.gif" /></di=
+v>
+=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09<div><img alt=3D"" width=3D"1" height=3D"10" src=3D=
+"http://www.avis.com/car-rental/images/global/en/common/spacer.gif" /></di=
+v>
+=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09<div><img alt=3D"" width=3D"1" height=3D"10" src=3D=
+"http://www.avis.com/car-rental/images/global/en/common/spacer.gif" /></di=
+v>
+=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09</table>
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09<tr>
+=09=09=09=09<td><img src=3D"http://www.avis.com/car-rental/images/global/e=
+n/common/pageBottom.gif" width=3D"910" height=3D"10" alt=3D"" /></td>
+=09=09=09</tr>
+=09=09</table>
+=09</td>
+=09</tr>
+=09</table>
+=09<br clear=3D"both">
+ ---<BR>
+</body>
+</html>
+<br/>
+
+------=_Part_3365_8922331.1343412505085--
+
+
+

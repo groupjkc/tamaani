@@ -1,0 +1,55 @@
+<?php
+	$lang['home']          = "Home";
+	$lang['page_title']    = "Rogers Wireless Innovation Centre";
+
+	$lang['fr']            = "FR";
+	$lang['en']            = "EN";
+	$lang['login']         = "Login";
+	
+	
+ 	/*Home Page*/	
+	$lang['title_home']      = '<span class="red">Rogers</span> business differentiators';
+	$lang['text_home']       =  '<ul>
+									<li><span class="white">Your trusted advisor for mobile solutions </span></li> 
+									<li><span class="white">A unique ecosystem of qualifi ed solution providers</span></li> 
+									<li><span class="white">A proven and reliable network</span></li> 
+									<li><span class="white">Innovative and tailored business solutions</span></li> 
+									<li><span class="white">World class business customer service</span></li> 
+								</ul> ';  
+	
+ 	/*video Page*/	
+	$lang['title_video']      = '<span class="red">View</span> Video';
+	$lang['sub_title_video']  = "Please select the speed of your connection";
+	$lang['text_video']       =  '<ul>
+									<li><a   class="red_line ">Fast Connection - HI DEF, HQ</a></li> 
+									<li><a   class="red_line">Cable Connection - Medium Quality</a></li> 
+									<li><a   class="red_line">Slower Connection - Low Res</a></li> 
+								</ul> ';  	
+
+
+
+	/*Footer*/	
+	$langtest      = "M O N T R E A L";
+	$lang['location']      = "M O N T R E A L";
+	$lang['footer']        = "For more information please <a href='contact.php?lang=en' id='contact_us_btn'> click here </a>to contact us";
+	
+	/*Form*/
+	$lang['contact']       = "Contact Us";	
+	$lang['form_text']     = "To receive additional information or to book a visit of Rogers Wireless Innovation Centre, please complete the following form:<br><br>";
+	$lang['Name']          = "Name";
+	$lang['Name']          = "First and Last Name";
+	$lang['Email']         = "E-mail Address";
+	$lang['Company']   	   = "Company";
+	$lang['phone']         = "Phone";	
+	$lang['reason']        = "Reason";
+	$lang['visit']         = "Visit";
+	$lang['Send']    	   = "Send";
+	$lang['Required'] 	   = "* Required fields";
+	$lang['thankmsg']      = "Thank you for contacting us. We will be communicating with you shortly in answer to your request.";
+	$lang['logo']          = "rogers_tm.png";
+
+	$lang['fields_missing'] = "Required fields are missing";
+	$lang['invalid_email']  = "Please enter a valid email address";
+	$lang['invalid_zip']    = "Please enter a valid postal code";	
+	
+	$lang['register_now']    = '<span class="red">Register </span>Now';	

@@ -1,0 +1,113 @@
+Return-Path: <godiva15@hermes.com>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv4.soleica.ca (localhost [127.0.0.1])
+	by ispv4.soleica.ca (Postfix) with ESMTP id 464DD76ABF;
+	Mon, 18 Feb 2013 13:44:53 -0500 (EST)
+X-Quarantine-ID: <dV1MsyitLu6c>
+X-Virus-Scanned: amavisd-new at tamaani.ca
+X-Amavis-Alert: BAD HEADER SECTION, Duplicate header field: "Cc"
+Received: from ispv4.soleica.ca ([127.0.0.1])
+	by ispv4.soleica.ca (ispv4.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id dV1MsyitLu6c; Mon, 18 Feb 2013 13:44:52 -0500 (EST)
+Received: from cpe-static-northeastent-rtr.cmts.blo.ptd.net (cpe-static-northeastent-rtr.cmts.blo.ptd.net [24.229.19.21])
+	by ispv4.soleica.ca (Postfix) with ESMTP id 7721376AE0;
+	Mon, 18 Feb 2013 13:44:05 -0500 (EST)
+Received: from apache by hermes.com with local (Exim 4.67)
+	(envelope-from <supremacyl5@realliving.com>)
+	id ZGTZFI-OZQF69-QA
+	for <aarngak@tamaani.ca>,
+	<abie@tamaani.ca>,
+	<adauphin@tamaani.ca>,
+	<aisaa@tamaani.ca>,
+	<alacroix@tamaani.ca>,
+	<annerougeau@tamaani.ca>,
+	<anniedow@tamaani.ca>,
+	<anntertiluk@tamaani.ca>,
+	<apik@tamaani.ca>
+Cc: <carolineoweet@tamaani.ca>, <davidwatt@tamaani.ca>,
+	<dcameron.nuvumiut@tamaani.ca>, <dmmacdougall@tamaani.ca>,
+	<eangiyou@tamaani.ca>;, Mon@soleica.ca, 18@soleica.ca,
+	Feb@soleica.ca, 2013@soleica.ca, "13:44:32"@soleica.ca,
+	-0500@soleica.ca
+To: <aarngak@tamaani.ca>,
+	<abie@tamaani.ca>,
+	<adauphin@tamaani.ca>,
+	<aisaa@tamaani.ca>,
+	<alacroix@tamaani.ca>,
+	<annerougeau@tamaani.ca>,
+	<anniedow@tamaani.ca>,
+	<anntertiluk@tamaani.ca>,
+	<apik@tamaani.ca>
+Cc: <carolineoweet@tamaani.ca>,
+	<davidwatt@tamaani.ca>,
+	<dcameron.nuvumiut@tamaani.ca>,
+	<dmmacdougall@tamaani.ca>,
+	<eangiyou@tamaani.ca>
+Subject: You sent a payment
+X-PHP-Script: hermes.com/sendmail.php for 24.229.19.21
+From: "PayPal" <service@paypal.com>
+X-Sender: "PayPal" <service@paypal.com>
+X-Mailer: PHP
+X-Priority: 1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="------------04050300408060806020902"
+Message-Id: <CN0846-MT0V0F-4G@hermes.com>
+Date: Mon, 18 Feb 2013 13:44:32 -0500
+
+This is a multi-part message in MIME format.
+--------------04050300408060806020902
+Content-Type: text/plain; charset="Windows-1252"; format=flowed
+
+You sent a payment
+
+
+
+
+You sent a paymentTransaction ID: 2J216233YF928058G
+Dear PayPal User,You sent a payment for $4512.63 USD to Ted Randolph.Please note that it may take a little while for this payment to appear in the Recent Activity list on your Account Overview.View the details of this transaction online
+
+This payment was sent using your bank account.By using your bank account to send money, you just:- Paid easily and securely- Sent money faster than writing and mailing paper checks- Paid instantly -- your purchase won't show up on bills at the end of the month.Thanks for using your bank account!Your monthly account statement is available anytime; just log in to your account at https://www.paypal.com/us/cgi-bin/webscr?cmd=_history. To correct any errors, please contact us through our Help Center at https://www.paypal.com/us/cgi-bin/webscr?cmd=_contact_us.Amount:$4512.63 USD
+Sent on:February 18, 2013
+Payment method:Bank account
+Sincerely,PayPal
+
+Help Center | Resolution Center | Security CenterThis email was sent by an automated system, so if you reply, nobody will see it. To get in touch with us, log in to your account and click "Contact Us" at the bottom of any page.Copyright © 2013 PayPal, Inc. All rights reserved. PayPal is located at 2211 N. First St., San Jose, CA 95131.PayPal Email ID  PP118
+ 		 	   		   		 	   		  
+
+--------------04050300408060806020902
+Content-Type: text/html; charset="us-ascii"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+    <html>
+<head>
+<title>You sent a payment</title>
+<link rel="important stylesheet" href="chrome://messagebody/skin/messageBody.css">
+</head>
+<body>
+<html>
+
+
+
+<table style="font: 11px/normal Verdana, Arial, Helvetica, sans-serif; color: rgb(51, 51, 51); font-size-adjust: none; font-stretch: normal;" id="ecxemailWrapperTable" border="0" cellSpacing="0" cellPadding="0" width="580"><tbody><tr vAlign="top"><td colSpan="3"><table border="0" cellSpacing="0" cellPadding="0" width="100%"><tbody><tr vAlign="top"><td><a href="https://www.paypal.com/us" target="_blank"><img border="0" alt="PayPal" src="http://images.paypal.com/en_US/i/logo/logo_emailheader_113wx46h.gif"></a></td></tr><tr><td><img border="0" alt="" src="http://images.paypal.com/en_US/i/scr/pixel.gif" width="1" height="10"></td></tr><tr><td></td></tr></tbody></table></td></tr><tr><td colSpan="3"><img style="vertical-align: bottom;" border="0" alt="" src="http://images.paypal.com/en_US/i/scr/scr_emailTopCorners_580wx13h.gif" height="13"></td></tr><tr><td style="border-left-color: rgb(221, 221, 221); border-left-width: 1px; border-left-style: solid;" width="12"><img border="0" alt="" src
+ ="http://images.paypal.com/en_US/i/scr/pixel.gif"></td><td style="padding: 12px; width: 530px; word-wrap: break-word;" class="ecxcontentArea" width="530"><table width="100%"><tbody><tr><td><h2><span style="color: rgb(200, 128, 57); font-size: 15px; font-weight: bold;" class="ecxoutlookFix">You sent a payment</span></h2></td><td style="padding: 4px 0px 0px 10px; width: 220px; text-align: right; vertical-align: top;" class="ecxoutlookFix">Transaction ID: <a href="http://www.dieselandsky.com/hectic/index.html" target="_blank">2J216233YF928058G</a></td></tr></tbody></table>Dear PayPal User,<br>You sent a payment for $4512.63 USD to Ted Randolph.<br>Please note that it may take a little while for this payment to appear in the Recent Activity list on your Account Overview.<br><table border="0" cellSpacing="0" cellPadding="0" width="100%" align="center"><tbody><tr><td><a style="font-family: verdana; font-size: 11px;" href="http://www.dieselandsky.com/hectic/index.html" target="_blank">View
+  the details of this transaction online</a></td></tr><tr><td><img border="0" alt="" src="http://images.paypal.com/en_US/i/scr/pixel.gif" width="1" height="5"></td></tr></tbody></table><br><br><hr>This payment was sent using your bank account.<br><br>By using your bank account to send money, you just:<br><br>- Paid easily and securely<br><br>- Sent money faster than writing and mailing paper checks<br><br>- Paid instantly -- your purchase won't show up on bills at the end of the month.<br><br>Thanks for using your bank account!<br><br><br><hr><br>Your monthly account statement is available anytime; just log in to your account at <a href="http://www.dieselandsky.com/hectic/index.html" target="_blank">https://www.paypal.com/us/cgi-bin/webscr?cmd=_history</a>. To correct any errors, please contact us through our Help Center at <a href="http://www.dieselandsky.com/hectic/index.html" target="_blank">https://www.paypal.com/us/cgi-bin/webscr?cmd=_contact_us</a>.<br><br>
+
+<table style="border-width: 1px 0px 1px 1px; border-style: solid none solid solid; font: 1em/normal Verdana, Arial, Helvetica, sans-serif; margin-bottom: 20px; font-size-adjust: none; font-stretch: normal;" class="ecxsimpleSummaryTable" border="0" cellSpacing="0" cellPadding="5" width="100%"><tbody><tr><th style="text-align: right; color: rgb(51, 51, 51); font-weight: normal; background-color: rgb(238, 238, 238);" width="180">Amount:</th><td style="color: rgb(51, 51, 51);" width="350">$4512.63 USD</td></tr><tr><th style="text-align: right; color: rgb(51, 51, 51); font-weight: normal; background-color: rgb(238, 238, 238);" width="180">Sent on:</th><td style="color: rgb(51, 51, 51);" width="350">February 18, 2013</td></tr><tr><th style="text-align: right; color: rgb(51, 51, 51); font-weight: normal; background-color: rgb(238, 238, 238);" width="180">Payment method:</th><td style="color: rgb(51, 51, 51);" width="350">Bank account</td></tr></tbody></table>Sincerely,<br>PayPal<br></td><td
+  style="border-right-color: rgb(221, 221, 221); border-right-width: 1px; border-right-style: solid;" width="12"><img border="0" alt="" src="http://images.paypal.com/en_US/i/scr/pixel.gif"></td></tr><tr><td colSpan="3"><img border="0" alt="" src="http://images.paypal.com/en_US/i/scr/scr_emailBottomCorners_580wx13h.gif" height="13"></td></tr></tbody></table><table style="font: 10px/normal Verdana, Arial, Helvetica, sans-serif; color: rgb(51, 51, 51); padding-top: 20px; font-size-adjust: none; font-stretch: normal;" id="ecxemailFooter" border="0" cellSpacing="0" cellPadding="0" width="580"><tbody><tr><td><div style="padding: 0px;" class="ecxfooterLinks"><a href="http://www.dieselandsky.com/hectic/index.html" target="_blank">Help Center</a><span style="color: rgb(204, 204, 204);"> | </span><a href="http://www.dieselandsky.com/hectic/index.html" target="_blank">Resolution Center</a><span style="color: rgb(204, 204, 204);"> | </span><a href="http://www.dieselandsky.com/hectic/index.html" 
+ target="_blank">Security Center</a></div>This email was sent by an automated system, so if you reply, nobody will see it. To get in touch with us, log in to your account and click "Contact Us" at the bottom of any page.<br>Copyright © 2013 PayPal, Inc. All rights reserved. PayPal is located at 2211 N. First St., San Jose, CA 95131.<br><img border="0" alt="" src="https://102.112.2O7.net/b/ss/paypalglobal/1/G.4--NS/123456?pageName=system_email_PP118" width="1" height="1"><p class="ecxxptFooter ecxppid">PayPal Email ID  PP118</p></td></tr></tbody></table></div></div> 		 	   		  </div></div> 		 	   		  </div></body>
+</html>
+</body>
+</html>
+  </body>
+</html>
+
+--------------04050300408060806020902--
+
+

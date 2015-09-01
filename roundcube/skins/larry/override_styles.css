@@ -1,0 +1,173 @@
+#topnav {
+	height: 60px;
+	background: -moz-linear-gradient(top, #0a89c0 0%, #0a88c2 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#0a89c0), color-stop(100%,#0a88c2));
+	background: -o-linear-gradient(top, #0a89c0 0%, #0a88c2 100%);
+	background: -ms-linear-gradient(top, #0a89c0 0%, #0a88c2 100%);
+	background: linear-gradient(top, #0a89c0 0%, #0a88c2 100%);
+}
+#toplogo {
+padding-top: 7px;
+}
+#taskbar a
+{
+	padding: 17px 10px 9px 6px;
+}
+#taskbar .minmodetoggle
+{
+	top:6px;
+}
+#mainscreen
+{
+	top:102px;
+}
+#taskbar a.button-selected
+{
+	background-color: inherit;
+}
+#topline
+{
+	background-image: none;
+	line-height: 15px;
+	height: 20px;
+	background-color: #000;
+	border-bottom:none;
+}
+.minimal #topnav
+{
+	height: 60px;
+}
+.minimal #mainscreen
+{
+	top: 76px;
+}
+.minimal #taskbar a {
+	padding: 17px 10px 9px 6px;
+}
+
+.listbox .boxfooter, .uibox .boxtitle, .uibox .listing thead td {
+	background: -moz-linear-gradient(center top , #0a89c0 0%, #0a88c2 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+	border-color: #0a89c0;
+	text-shadow: none;
+	color: #000000;
+}
+
+#mailboxcontainer, #mailboxlist li.mailbox, .listbox .scroller.withfooter, .listbox, .listing td.section, #contacts-table .contact td  {
+	background-color: #99d7f6;
+	color: #000000;
+	text-shadow: none;
+}
+
+#mailboxlist li.mailbox a, .boxfooter .countdisplay, #quotadisplay, .listbox .listitem a, ul.listing li a, ul.listing li.contactgroup a, ul.listing li.addressbook.selected li.contactgroup a, 
+#subscription-table td.name, #identities-table tbody td {
+	text-shadow: none;
+	color: #000000;
+}
+
+.boxfooter .listbutton {
+	background: none;
+}
+
+#mailboxlist li.mailbox.inbox.selected > a,  #mailboxlist li.mailbox.drafts.selected > a,  #mailboxlist li.mailbox.sent.selected > a,  #mailboxlist li.mailbox.trash.empty.selected > a, #mailboxlist li.mailbox.junk.selected > a, ul.listing li.addressbook.selected a,  ul.listing li.contactgroup.selected a, .listbox .listitem.selected a,  .listing tr.selected td.section, #contacts-table .contact.selected.focused td, #subscription-table tr.selected td.name, #identities-table tbody tr.selected td {
+	text-shadow: none;
+	color: #ffffff;
+}
+
+.boxfooter .listbutton.disabled .inner {
+    opacity: 1;
+}
+
+
+#mailboxlist li.mailbox.inbox > a, #mailboxlist li.mailbox.inbox.selected > a {
+    background-position: 6px -213px;
+}
+
+#mailboxlist li.mailbox.drafts> a, #mailboxlist li.mailbox.drafts.selected > a {
+    background-position: 6px -262px;
+}
+
+#mailboxlist li.mailbox.sent> a, #mailboxlist li.mailbox.sent.selected > a {
+    background-position: 6px -310px;
+}
+
+#mailboxlist li.mailbox.trash.empty> a, #mailboxlist li.mailbox.trash.empty.selected > a {
+    background-position: 6px -358px;
+}
+
+#mailboxlist li.mailbox.junk> a, #mailboxlist li.mailbox.junk.selected > a {
+    background-position: 6px -1948px;
+}
+
+#compose-contacts li.addressbook a, #compose-contacts li.addressbook.selected a, #directorylist li.addressbook a {
+    background-position: 6px -791px;
+}
+
+
+#directorylist li.contactgroup a, #directorylist li.contactgroup.selected a {
+    background-position: 32px -1579px;
+}
+
+ul.treelist li div.treetoggle.expanded {
+    background-position: -23px -168px;
+}
+
+
+#contacts-table .contact td.name {
+    background-position: 6px -1627px;
+}
+
+#directorylist li, #contacts-table, .listbox table.listing {
+    background: none;
+}
+
+
+#settings-sections span.preferences a {
+    background-position: 6px -455px;
+}
+
+#settings-sections span.folders a, #sections-table #rcmrowfolders td.section {
+    background-position: 6px -22px;
+}
+
+
+#settings-sections span.identities a {
+    background-position: 6px -502px;
+}
+
+
+#settings-sections span.responses a {
+    background-position: 6px -1996px;
+}
+
+
+#settings-sections span.password a {
+    background-position: 6px -1819px;
+}
+
+#sections-table #rcmrowgeneral td.section {
+    background-position: 6px -598px;
+}
+
+#sections-table #rcmrowmailbox td.section {
+    background-position: 6px -646px;
+}
+
+
+#sections-table #rcmrowmailview td.section {
+    background-position: 6px -742px;
+}
+
+
+#sections-table #rcmrowcompose td.section {
+    background-position: 6px -695px;
+}
+
+
+#sections-table #rcmrowaddressbook td.section {
+    background-position: 6px -791px;
+}
+
+
+#sections-table #rcmrowserver td.section {
+    background-position: 6px -838px;
+}

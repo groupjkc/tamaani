@@ -1,0 +1,97 @@
+Return-Path: <Jean-Guy_Letourneau@ssss.gouv.qc.ca>
+X-Original-To: aarngak@tamaani.ca
+Delivered-To: aarngak@tamaani.ca
+Received: from ispv3.soleica.ca (localhost [127.0.0.1])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 98B8F3D7509
+	for <aarngak@tamaani.ca>; Fri, 26 Aug 2011 07:23:33 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at tamaani.ca
+Received: from ispv3.soleica.ca ([127.0.0.1])
+	by ispv3.soleica.ca (ispv3.soleica.ca [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id hfbdNrtxvYKs for <aarngak@tamaani.ca>;
+	Fri, 26 Aug 2011 07:23:33 -0400 (EDT)
+Received: from tcn00qubc00208.isn.rtss.qc.ca (relais3.ssss.gouv.qc.ca [142.83.199.7])
+	by ispv3.soleica.ca (Postfix) with ESMTP id 6D6133D74D1
+	for <aarngak@tamaani.ca>; Fri, 26 Aug 2011 07:23:33 -0400 (EDT)
+Received: from tc00bar200725.ssss.gouv.qc.ca ([10.249.80.30])
+          by tcn00qubc00208.isn.rtss.qc.ca (Lotus Domino Release 8.5.2FP3)
+          with ESMTP id 2011082607233186-1302502 ;
+          Fri, 26 Aug 2011 07:23:31 -0400 
+X-ASG-Debug-ID: 1314357806-3bc7718d0001-FBqy4Z
+Received: from tcn00qubc00551.isn.rtss.qc.ca ([10.250.32.27]) by tc00bar200725.ssss.gouv.qc.ca with ESMTP id MRL1EkPUuiOa4emn; Fri, 26 Aug 2011 07:23:26 -0400 (EDT)
+X-Barracuda-Envelope-From: Jean-Guy_Letourneau@ssss.gouv.qc.ca
+Subject: Hi
+To: jeannie.may@ssss.gouv.qc.ca,
+	alasie.arngak@ssss.gouv.qc.ca,
+	aarngak@tamaani.ca,
+	silas.watt@ssss.gouv.qc.ca,
+	larry.watt@ssss.gouv.qc.ca,
+	celine.laforest.mnq@ssss.gouv.qc.ca,
+	lisa.mesher.mnq@ssss.gouv.qc.ca,
+	jean.fratelli.reg17@ssss.gouv.qc.ca,
+	robert.carroll@ssss.gouv.qc.ca,
+	michele.boutet@cbre.com,
+	Eva.Gunn@ssss.gouv.qc.ca,
+	jlatterbeaudoin@hotmail.com,
+	madge.pomerleau@ssss.gouv.qc.ca,
+	mgrey@makivik.org
+X-ASG-Orig-Subj: Hi
+Cc: michele_forgues@hotmail.com
+X-Mailer: Lotus Notes Release 5.0.8  June 18, 2001
+Message-ID: <OF452D1FF6.64AFDB45-ON852578F8.003D9C2F@isn.rtss.qc.ca>
+From: Jean-Guy_Letourneau@ssss.gouv.qc.ca
+Date: Fri, 26 Aug 2011 07:23:14 -0400
+Disposition-Notification-To: Jean-Guy_Letourneau@ssss.gouv.qc.ca
+MIME-Version: 1.0
+X-Barracuda-Connect: UNKNOWN[10.250.32.27]
+X-Barracuda-Start-Time: 1314357806
+X-Barracuda-URL: http://10.249.80.42:8000/cgi-mod/mark.cgi
+X-Barracuda-Spam-Score: 0.53
+X-Barracuda-Spam-Status: No, SCORE=0.53 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=7.0 tests=HTML_MESSAGE, MIME_BASE64_BLANKS, MIME_BASE64_TEXT, NO_REAL_NAME
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.72878
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 NO_REAL_NAME           From: does not include a real name
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.00 MIME_BASE64_BLANKS     RAW: Extra blank lines in base64 encoding
+	0.52 MIME_BASE64_TEXT       RAW: Message text disguised using base64 encoding
+X-MIMETrack: Serialize by Router on TCN00QUBC00551/Serveurs/SSSS(Release 6.5.6FP3 HF341|October
+ 05, 2010) at 2011-08-26 07:23:26,
+	Itemize by SMTP Server on TCN00QUBC00208/Serveurs/SSSS(Release 8.5.2FP3|July
+ 10, 2011) at 2011-08-26 07:23:31,
+	Serialize by Router on TCN00QUBC00208/Serveurs/SSSS(Release 8.5.2FP3|July
+ 10, 2011) at 2011-08-26 07:23:33,
+	Serialize complete at 2011-08-26 07:23:33
+Content-type: multipart/alternative; 
+	Boundary="0__=0ABBF26BDFAE1ABF8f9e8a93df938690918c0ABBF26BDFAE1ABF"
+Content-Disposition: inline
+
+--0__=0ABBF26BDFAE1ABF8f9e8a93df938690918c0ABBF26BDFAE1ABF
+Content-transfer-encoding: base64
+Content-type: text/plain; charset=ISO-8859-1
+
+
+DQpHb29kIG1vcm5pbmcgZXZlcnlvbmUsDQoNCk15IE1pY2jobGUgYWZ0ZXIgYmVpbmcgOSBkYXlz
+IGF0IHRoZSBDaGFybGVzIExlTW95bmUgSG9zcGl0YWwgaW4gTG9uZ3VldWlsDQppcyBiYWNrIGhv
+bWUgeWVzdGVyZGF5IGV2ZW5pbmcuDQoNCldlIGFyZSBoYXBweSB0byBiZSBiYWNrIGhvbWUuIE1p
+Y2jobGUgaGFzIHJlY2VpdmVkIGdvb2QgY2FyZSBhbmQgaXMgbm93IGluDQptdWNoIGJldHRlciBz
+aGFwZS4gU2hlIGlzIHJlY292ZXJpbmcgd2VsbC4NCg0KDQpIYXZlIGEgbmljZSBkYXksDQoNCkpl
+YW4tR3V5IEzpdG91cm5lYXUNCjQ1MC04ODYtMDkxOQ==
+
+--0__=0ABBF26BDFAE1ABF8f9e8a93df938690918c0ABBF26BDFAE1ABF
+Content-transfer-encoding: base64
+Content-type: text/html; charset=ISO-8859-1
+Content-Disposition: inline
+
+PGh0bWw+PGJvZHk+DQo8cD5Hb29kIG1vcm5pbmcgZXZlcnlvbmUsPGJyPg0KPGJyPg0KTXkgTWlj
+aOhsZSBhZnRlciBiZWluZyA5IGRheXMgYXQgdGhlIENoYXJsZXMgTGVNb3luZSBIb3NwaXRhbCBp
+biBMb25ndWV1aWwgaXMgYmFjayBob21lIHllc3RlcmRheSBldmVuaW5nLjxicj4NCjxicj4NCldl
+IGFyZSBoYXBweSB0byBiZSBiYWNrIGhvbWUuIE1pY2jobGUgaGFzIHJlY2VpdmVkIGdvb2QgY2Fy
+ZSBhbmQgaXMgbm93IGluIG11Y2ggYmV0dGVyIHNoYXBlLiBTaGUgaXMgcmVjb3ZlcmluZyB3ZWxs
+Ljxicj4NCjxicj4NCjxicj4NCkhhdmUgYSBuaWNlIGRheSw8YnI+DQo8YnI+DQpKZWFuLUd1eSBM
+6XRvdXJuZWF1PGJyPg0KNDUwLTg4Ni0wOTE5PC9ib2R5PjwvaHRtbD4=
+
+--0__=0ABBF26BDFAE1ABF8f9e8a93df938690918c0ABBF26BDFAE1ABF--
+
+
+
